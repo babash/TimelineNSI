@@ -24,6 +24,7 @@ Le script principal, écrit en Node.js, lit des fichiers de données au format C
 
 Le projet est structuré de manière à séparer clairement les données, la logique et les fichiers générés.
 
+```
 fresque-informatique/
 │
 ├── data/ // Vos fichiers de données
@@ -52,7 +53,7 @@ fresque-informatique/
 ├── generate-cards.js // Script principal à exécuter
 ├── README.md // Ce fichier
 └── package.json
-
+```
 
 ## Installation
 

@@ -1,0 +1,42 @@
+/* styles/_card.css */
+.card {
+    width: 148mm; height: 210mm; background-color: var(--color-bg-card);
+    box-sizing: border-box; padding: 0; margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+    display: flex;
+    page-break-after: always;
+}
+/* MODIFIÉ : Styles ajustés pour les noms complets */
+.category-sidebar {
+    flex: 0 0 12mm;
+    writing-mode: vertical-rl; text-orientation: mixed;
+    display: flex; align-items: center; justify-content: center;
+    color: white; 
+    letter-spacing: 1px; /* Espacement réduit pour les noms longs */
+    font-size: 9pt; /* Taille de police légèrement réduite */
+    font-weight: 700;
+    text-align: center; /* Important pour les textes sur plusieurs lignes */
+    word-break: break-word; /* Permet de couper les mots si nécessaire (sécurité) */
+}
+.category-sidebar-content {
+    transform: rotate(180deg);
+    display: flex; align-items: center; gap: 10px;
+}
+.main-column {
+    flex-grow: 1; display: flex; flex-direction: column;
+    border-left: 1px solid var(--color-border);
+}
+
+.category-sidebar[data-category="Algorithmique"] { background-color: var(--color-algorithmique); }
+.category-sidebar[data-category="Hardware"] { background-color: var(--color-hardware); }
+.category-sidebar[data-category="Cryptographie"] { background-color: var(--color-cryptographie); }
+.category-sidebar[data-category="Théorie-de-l’information"] { background-color: var(--color-theorie-de-linformation); }
+.category-sidebar[data-category="Réseau"] { background-color: var(--color-reseau); }
+.category-sidebar[data-category="Logiciel-libre"] { background-color: var(--color-logiciel-libre); }
+.category-sidebar[data-category="Internet"] { background-color: var(--color-internet); }
+.category-sidebar[data-category="Intelligence-Artificielle"] { background-color: var(--color-intelligence-artificielle); }
+.category-sidebar[data-category="Cybersécurité"] { background-color: var(--color-cybersecurite); }
+.category-sidebar[data-category="Langage-de-programmation"] { background-color: var(--color-langage-de-programmation); }
+
+.card-header { padding: 8mm 10mm; flex-shrink: 0; text-align: center; }
+.title { font-size: 24pt; font-weight: 900; margin: 0; }
+.date { font-weight: 400; font-size: 16pt; color: var(--color-text-light); margin: 3mm 0 0 0; }

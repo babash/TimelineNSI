@@ -1,0 +1,25 @@
+# Fichier .gitignore pour le projet TimelineNSI
+
+# Dépendances Node.js
+# Ce dossier est lourd et peut être regénéré avec "npm install"
+node_modules/
+
+# Fichiers générés par le script
+# Il ne faut jamais versionner les fichiers de sortie, seulement le code source
+output/
+
+# Fichiers de log et de cache de npm
+npm-debug.log*
+yarn-error.log
+package-lock.json
+
+# Fichiers système d'exploitation
+.DS_Store
+Thumbs.db
+
+# Fichiers d'environnement (si vous en ajoutez un jour)
+.env
+
+# Fichiers de configuration d'éditeurs de code
+.vscode/
+.idea/

@@ -1,0 +1,68 @@
+/* styles/_timeline.css */
+.proportional-timeline-wrapper {
+    height: 28mm;
+    margin-top: 6mm;
+    display: flex; flex-direction: column;
+}
+.main-period-layer {
+    display: flex; justify-content: space-between; align-items: center;
+    width: 100%; padding-bottom: 4px;
+}
+.main-period-title { font-size: 9pt; font-weight: 700; color: var(--color-text); }
+.adjacent-period { font-size: 7pt; font-weight: 700; color: var(--color-text-light); flex: 1; }
+.adjacent-period.prev { text-align: left; }
+.adjacent-period.next { text-align: right; }
+
+.timeline-track { flex-grow: 1; width: 100%; position: relative; }
+.sub-periods-layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 1; display: flex; }
+.sub-period-block {
+    position: absolute; top: 0; height: 100%;
+    box-sizing: border-box; background-color: #f8f9fa;
+    border-right: 1px dashed #ced4da;
+    display: flex; align-items: center; justify-content: center;
+    overflow: hidden; padding: 2px;
+}
+.sub-period-block.active { background-color: #e9ecef; }
+.sub-period-label {
+    white-space: normal; word-break: break-word;
+    text-align: center; line-height: 1.1;
+    font-size: 7pt; font-weight: 700;
+    color: var(--color-text-light);
+}
+.sub-period-block.active .sub-period-label { color: var(--color-text); }
+
+.events-layer { position: absolute; top: 0; left: 0; width: 100%; height: 100%; z-index: 2; border-bottom: 2px solid #adb5bd; }
+.event-point {
+    position: absolute; bottom: -4px;
+    transform: translateX(-50%); width: 8px; height: 8px; border-radius: 50%;
+}
+.event-point.current {
+    width: 14px; height: 14px; bottom: -7px;
+    border: 2px solid var(--color-text); background-clip: padding-box; z-index: 5;
+}
+.event-point[data-category="Algorithmique"] { background-color: var(--color-algorithmique); }
+.event-point[data-category="Hardware"] { background-color: var(--color-hardware); }
+.event-point[data-category="Cryptographie"] { background-color: var(--color-cryptographie); }
+.event-point[data-category="Théorie-de-l’information"] { background-color: var(--color-theorie-de-linformation); }
+.event-point[data-category="Réseau"] { background-color: var(--color-reseau); }
+.event-point[data-category="Logiciel-libre"] { background-color: var(--color-logiciel-libre); }
+.event-point[data-category="Internet"] { background-color: var(--color-internet); }
+.event-point[data-category="Intelligence-Artificielle"] { background-color: var(--color-intelligence-artificielle); }
+.event-point[data-category="Cybersécurité"] { background-color: var(--color-cybersecurite); }
+.event-point[data-category="Langage-de-programmation"] { background-color: var(--color-langage-de-programmation); }
+
+.current-event-marker { position: absolute; bottom: -18px; height: 15px; z-index: 3; }
+.current-event-marker::before {
+    content: ''; position: absolute; bottom: 100%; left: 50%;
+    height: 15px; width: 1px;
+    background-color: var(--color-text);
+}
+.marker-date {
+    position: absolute; bottom: 0; left: 50%;
+    transform: translateX(-50%);
+    background-color: var(--color-text); color: white;
+    padding: 2px 5px; border-radius: 4px;
+    font-size: 8pt; font-weight: 700; white-space: nowrap;
+}
+.timeline-axis-labels { display: flex; justify-content: space-between; padding-top: 18px; }
+.axis-label { font-size: 8pt; font-weight: 700; color: var(--color-text-light); }

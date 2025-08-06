@@ -1,0 +1,55 @@
+/* styles/_content.css */
+.card-content { flex-grow: 1; display: flex; flex-direction: column; overflow: hidden; padding-bottom: 8mm; }
+.card-image-container {
+    width: 100%; height: 42%;
+    text-align: center; flex-shrink: 0; position: relative;
+    display: flex; align-items: center; justify-content: center;
+}
+.banner-bg { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; opacity: 0.15; z-index: 1; }
+.main-image { position: absolute; z-index: 2; max-width: 90%; max-height: 90%; object-fit: contain; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)); }
+
+.description-and-note {
+    flex-grow: 1; display: flex; flex-direction: column;
+    padding: 6mm 10mm 0 10mm;
+}
+.description-text {
+    font-size: 11pt; line-height: 1.6;
+    text-align: justify; margin: 0;
+    color: #495057;
+}
+.description-text span { display: inline; margin: 0; padding: 0; }
+.short-description { font-weight: 700; }
+.long-description::before { content: " "; }
+
+.note-box {
+    margin-top: auto; padding: 8px 12px;
+    border-radius: 6px; flex-shrink: 0;
+}
+.note-header {
+    display: flex; align-items: center; gap: 8px;
+    font-size: 8pt; font-weight: 700; text-transform: uppercase;
+    margin-bottom: 4px;
+}
+.note-content { margin: 0; font-size: 10pt; line-height: 1.4; }
+
+.note-box[data-note-type="Le-saviez-vous"] { background-color: var(--color-note-le-saviez-vous); }
+.note-box[data-note-type="La-stat"] { background-color: var(--color-note-la-stat); }
+.note-box[data-note-type="Fun-fact"] { background-color: var(--color-note-fun-fact); }
+.note-box[data-note-type="La-star"] { background-color: var(--color-note-la-star); }
+.note-box[data-note-type="Concept-clé"] { background-color: var(--color-note-concept-cle); }
+
+.keyword { font-weight: 900; }
+.card[data-category="Algorithmique"] .keyword { color: var(--color-algorithmique); }
+.card[data-category="Hardware"] .keyword { color: var(--color-hardware); }
+.card[data-category="Cryptographie"] .keyword { color: var(--color-cryptographie); }
+.card[data-category="Théorie-de-l’information"] .keyword { color: var(--color-theorie-de-linformation); }
+.card[data-category="Réseau"] .keyword { color: var(--color-reseau); }
+.card[data-category="Logiciel-libre"] .keyword { color: var(--color-logiciel-libre); }
+.card[data-category="Internet"] .keyword { color: var(--color-internet); }
+.card[data-category="Intelligence-Artificielle"] .keyword { color: var(--color-intelligence-artificielle); }
+.card[data-category="Cybersécurité"] .keyword { color: var(--color-cybersecurite); }
+.card[data-category="Langage-de-programmation"] .keyword { color: var(--color-langage-de-programmation); }
+
+.card-footer { padding: 4mm 10mm; border-top: 1px solid var(--color-border); flex-shrink: 0; display: flex; justify-content: space-between; align-items: center; }
+.cc-icon { font-size: 12pt; color: var(--color-text-light); }
+.source { font-size: 7pt; color: var(--color-text-light); font-style: italic; }

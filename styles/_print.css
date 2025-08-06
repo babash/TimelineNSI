@@ -1,0 +1,6 @@
+/* styles/_print.css */
+@media print {
+    body { background-color: transparent; }
+    .card { page-break-after: always; box-shadow: none; }
+    * { -webkit-print-color-adjust: exact !important; print-color-adjust: exact !important; }
+}

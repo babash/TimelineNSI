@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Générateur de cartes pédagogiques pour fresque temporelle sur l'histoire de l'informatique",
   "main": "generate-cards.js",
-  "homepage": "https://votre-username.github.io/fresque-informatique",
+  "homepage": "https://babash.github.io/TimelineNSI",
   "scripts": {
     "generate": "node generate-cards.js",
     "build": "npm run generate",
@@ -23,6 +23,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/votre-username/fresque-informatique.git"
+    "url": "https://github.com/babash/TimelineNSI.git"
   }
 }

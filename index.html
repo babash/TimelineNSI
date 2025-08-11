@@ -1,0 +1,1205 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Timeline - Histoire de l'Informatique</title>
+    <meta name="description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges. Timeline interactive avec 68 événements majeurs, de l'Antiquité à nos jours.">
+    <meta name="keywords" content="histoire informatique, timeline, cartes pédagogiques, algorithmique, cryptographie, intelligence artificielle">
+    <meta name="author" content="TimelineNSI">
+    <meta property="og:title" content="Timeline - Histoire de l'Informatique">
+    <meta property="og:description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://babash.github.io/TimelineNSI">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#306998">
+    <link rel="canonical" href="https://babash.github.io/TimelineNSI">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Lato:wght@400;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
+    
+    <style>
+        /* Reset et base */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --python-blue: #306998;
+            --python-yellow: #FFD43B;
+            --bg-light: #ffffff;
+            --accent-bg: rgba(48, 105, 152, 0.05);
+            --code-bg: #f0f0f0;
+            --yellow-bg: rgba(255, 212, 59, 0.15);
+            --text-primary: #333;
+            --text-secondary: #666;
+            --border-color: #ddd;
+            --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
+            --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+            --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            --radius-sm: 0.375rem;
+            --radius-md: 0.5rem;
+            --radius-lg: 0.75rem;
+        }
+
+        html {
+            background-color: #f4f7f6;
+        }
+
+        body {
+            font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background-color: transparent;
+            min-height: 100vh;
+            color: var(--text-primary);
+            line-height: 1.6;
+            font-weight: 400;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding: 2rem 1rem;
+        }
+
+        /* Container principal */
+        .index-container {
+            max-width: 1200px;
+            width: 100%;
+            margin: 0;
+            padding: 2rem;
+            background-color: var(--bg-light);
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            display: block;
+        }
+
+        /* Header */
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 2.5rem;
+            color: var(--python-blue);
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .subtitle {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 1.125rem;
+            margin-bottom: 0.5rem;
+        }
+
+        .last-update {
+            text-align: center;
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            font-style: italic;
+            margin-bottom: 2rem;
+        }
+
+        /* Section de filtres avancés */
+        .filters-section {
+            background: var(--accent-bg);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--border-color);
+        }
+
+        .filters-header {
+            display: flex;
+            align-items: center;
+            gap: 0.75rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .filters-header h2 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            color: var(--python-blue);
+            margin: 0;
+        }
+
+        .filters-icon {
+            width: 24px;
+            height: 24px;
+            color: var(--python-blue);
+        }
+
+        .filters-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 1.5rem;
+        }
+
+        .filter-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .filter-label {
+            font-size: 0.875rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            margin-bottom: 0.25rem;
+        }
+
+        .filter-input {
+            padding: 0.75rem 1rem;
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-md);
+            font-size: 0.875rem;
+            transition: all 0.2s ease;
+            background: var(--bg-light);
+            color: var(--text-primary);
+        }
+
+        .filter-input:focus {
+            outline: none;
+            border-color: var(--python-blue);
+            box-shadow: 0 0 0 3px rgba(48, 105, 152, 0.1);
+        }
+
+        .filter-select {
+            padding: 0.75rem 1rem;
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-md);
+            font-size: 0.875rem;
+            background: var(--bg-light);
+            color: var(--text-primary);
+            cursor: pointer;
+            transition: all 0.2s ease;
+        }
+
+        .filter-select:focus {
+            outline: none;
+            border-color: var(--python-blue);
+            box-shadow: 0 0 0 3px rgba(48, 105, 152, 0.1);
+        }
+
+        /* Slider pour les années */
+        .date-slider-container {
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+
+        .slider-group {
+            display: flex;
+            flex-direction: column;
+            gap: 0.5rem;
+        }
+
+        .slider-labels {
+            display: flex;
+            justify-content: space-between;
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+        }
+
+        .slider-input {
+            width: 100%;
+            height: 6px;
+            border-radius: 3px;
+            background: var(--border-color);
+            outline: none;
+            -webkit-appearance: none;
+            appearance: none;
+        }
+
+        .slider-input::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--python-blue);
+            cursor: pointer;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .slider-input::-moz-range-thumb {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            background: var(--python-blue);
+            cursor: pointer;
+            border: none;
+            box-shadow: var(--shadow-sm);
+        }
+
+        /* Sélection multiple de catégories */
+        .category-multiselect {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+            padding: 0.75rem;
+            border: 2px solid var(--border-color);
+            border-radius: var(--radius-md);
+            background: var(--bg-light);
+            min-height: 60px;
+        }
+
+        .category-checkbox {
+            display: none;
+        }
+
+        .category-label {
+            display: inline-block;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-lg);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: 2px solid var(--border-color);
+            background: var(--bg-light);
+            color: var(--text-primary);
+        }
+
+        .category-checkbox:checked + .category-label {
+            background: var(--python-blue);
+            color: white;
+            border-color: var(--python-blue);
+        }
+
+        .category-label:hover {
+            border-color: var(--python-blue);
+            transform: translateY(-1px);
+        }
+
+        .filter-actions {
+            display: flex;
+            gap: 1rem;
+            justify-content: flex-end;
+            align-items: center;
+        }
+
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: var(--radius-md);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .btn-primary {
+            background: var(--python-blue);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            background: #285a87;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .btn-secondary {
+            background: var(--accent-bg);
+            color: var(--text-primary);
+            border: 1px solid var(--border-color);
+        }
+
+        .btn-secondary:hover {
+            background: var(--yellow-bg);
+        }
+
+        /* Section de téléchargement */
+        .download-section {
+            background: var(--yellow-bg);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            margin-bottom: 2rem;
+            text-align: center;
+            border: 1px solid var(--python-yellow);
+        }
+
+        .download-section h3 {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            color: var(--python-blue);
+            margin-bottom: 0.5rem;
+        }
+
+        .download-section p {
+            color: var(--text-secondary);
+            margin-bottom: 1.5rem;
+        }
+
+        .download-btn {
+            background: var(--python-blue);
+            color: white;
+            border: none;
+            padding: 1rem 2rem;
+            border-radius: var(--radius-lg);
+            font-weight: 600;
+            font-size: 1.125rem;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .download-btn:hover {
+            background: #285a87;
+            transform: translateY(-2px);
+            box-shadow: var(--shadow-lg);
+        }
+
+        /* Timeline */
+        .timeline-container {
+            background: var(--bg-light);
+            border-radius: var(--radius-lg);
+            padding: 2rem;
+            box-shadow: var(--shadow-sm);
+            border: 1px solid var(--border-color);
+        }
+
+        .timeline {
+            position: relative;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, var(--python-blue), var(--python-yellow));
+            transform: translateX(-50%);
+            border-radius: 2px;
+        }
+
+        .period {
+            position: relative;
+            margin: 3rem 0;
+        }
+
+        .period-header {
+            background: var(--yellow-bg);
+            color: var(--text-primary);
+            padding: 2rem;
+            border-radius: var(--radius-lg);
+            margin-bottom: 1.5rem;
+            position: relative;
+            z-index: 2;
+            box-shadow: var(--shadow-sm);
+            border-left: 0.5rem solid var(--python-yellow);
+        }
+
+        .period-title {
+            font-family: 'Orbitron', sans-serif;
+            font-size: 1.5rem;
+            color: var(--python-blue);
+            margin-bottom: 0.5rem;
+        }
+
+        .period-dates {
+            font-size: 1rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        .period-description {
+            font-size: 0.875rem;
+            color: var(--text-secondary);
+            margin-top: 0.75rem;
+            line-height: 1.5;
+        }
+
+        .events-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            gap: 1.5rem;
+            margin-top: 1.5rem;
+        }
+
+        .event {
+            background: var(--accent-bg);
+            border-radius: var(--radius-lg);
+            padding: 1.5rem;
+            border-left: 4px solid var(--python-blue);
+            transition: all 0.3s ease;
+            position: relative;
+            box-shadow: var(--shadow-sm);
+        }
+
+        .event:hover {
+            transform: translateY(-4px);
+            box-shadow: var(--shadow-lg);
+            border-left-color: var(--python-yellow);
+        }
+
+        .event-date {
+            position: absolute;
+            top: -12px;
+            left: 20px;
+            background: var(--python-blue);
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-lg);
+            font-size: 0.75rem;
+            font-weight: 600;
+            font-family: 'Fira Code', monospace;
+        }
+
+        .event-title {
+            font-size: 1.125rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            margin: 1rem 0 0.75rem 0;
+            line-height: 1.4;
+        }
+
+        .event-description {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            margin-bottom: 1rem;
+            line-height: 1.6;
+        }
+
+        .event-category {
+            display: inline-block;
+            padding: 0.375rem 0.75rem;
+            border-radius: var(--radius-lg);
+            font-size: 0.75rem;
+            font-weight: 500;
+            margin-bottom: 1rem;
+            text-transform: uppercase;
+            letter-spacing: 0.05em;
+        }
+
+        .event-actions {
+            display: flex;
+            gap: 0.75rem;
+            align-items: center;
+        }
+
+        .event-download-btn {
+            background: var(--python-blue);
+            color: white;
+            border: none;
+            padding: 0.5rem 1rem;
+            border-radius: var(--radius-md);
+            font-size: 0.875rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            text-decoration: none;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .event-download-btn:hover {
+            background: #285a87;
+            transform: translateY(-1px);
+            box-shadow: var(--shadow-md);
+        }
+
+        .no-results {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+            font-style: italic;
+            background: var(--accent-bg);
+            border-radius: var(--radius-lg);
+            border: 2px dashed var(--border-color);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 3rem;
+            color: var(--text-secondary);
+        }
+
+        .spinner {
+            display: inline-block;
+            width: 40px;
+            height: 40px;
+            border: 4px solid var(--border-color);
+            border-top: 4px solid var(--python-blue);
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin-bottom: 1rem;
+        }
+
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+
+        /* Footer */
+        .index-footer {
+            margin-top: 3rem;
+            padding-top: 2rem;
+            border-top: 1px solid var(--border-color);
+            color: var(--text-secondary);
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.875rem;
+        }
+
+        .footer-license {
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        .footer-license a,
+        .footer-project a {
+            color: var(--python-blue);
+            font-weight: 500;
+            text-decoration: none;
+        }
+
+        .footer-license a:hover,
+        .footer-project a:hover {
+            text-decoration: underline;
+        }
+
+        .license-icon {
+            max-width: 1em;
+            max-height: 1em;
+            margin-left: .2em;
+            vertical-align: text-bottom;
+        }
+
+        .footer-project {
+            margin-top: 0.75rem;
+        }
+
+        .footer-link-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5em;
+            color: var(--text-secondary);
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .footer-link-item:hover {
+            color: var(--python-blue);
+        }
+
+        .footer-link-item .icon {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 2rem;
+            }
+
+            .index-container {
+                padding: 1rem;
+            }
+
+            .filters-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .filter-actions {
+                flex-direction: column;
+                align-items: stretch;
+            }
+
+            .timeline::before {
+                left: 20px;
+            }
+
+            .period-header {
+                margin-left: 40px;
+            }
+
+            .events-grid {
+                grid-template-columns: 1fr;
+                margin-left: 40px;
+            }
+
+            .event {
+                margin-bottom: 1rem;
+            }
+        }
+
+        /* Animations */
+        .fade-in {
+            animation: fadeIn 0.5s ease-in;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .slide-in {
+            animation: slideIn 0.3s ease-out;
+        }
+
+        @keyframes slideIn {
+            from { transform: translateX(-20px); opacity: 0; }
+            to { transform: translateX(0); opacity: 1; }
+        }
+    </style>
+</head>
+<body>
+    <div class="index-container">
+        <h1>🕰️ Timeline - Histoire de l'Informatique</h1>
+        <p class="subtitle">Découvrez l'histoire fascinante de l'informatique à travers les âges</p>
+        <p class="last-update">Dernière mise à jour : <span id="last-update-date">11 août 2025</span></p>
+
+        <!-- Section de filtres avancés -->
+        <div class="filters-section">
+            <div class="filters-header">
+                <svg class="filters-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
+                </svg>
+                <h2>Filtres avancés</h2>
+            </div>
+            
+            <div class="filters-grid">
+                <div class="filter-group">
+                    <label class="filter-label">Recherche textuelle</label>
+                    <input type="text" id="search-bar" class="filter-input" placeholder="Rechercher un événement...">
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-label">Catégories (sélection multiple)</label>
+                    <div class="category-multiselect" id="category-multiselect">
+                        <!-- Les catégories seront générées dynamiquement -->
+                    </div>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-label">Période</label>
+                    <select id="period-filter" class="filter-select">
+                        <option value="all">Toutes les périodes</option>
+                    </select>
+                </div>
+                
+                <div class="filter-group">
+                    <label class="filter-label">Sous-période</label>
+                    <select id="subperiod-filter" class="filter-select">
+                        <option value="all">Toutes les sous-périodes</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div class="filter-group">
+                <label class="filter-label">Plage de dates</label>
+                <div class="date-slider-container">
+                    <div class="slider-group">
+                        <div class="slider-labels">
+                            <span>Année de début</span>
+                            <span id="date-start-value">-3000</span>
+                        </div>
+                        <input type="range" id="date-start" class="slider-input" min="-3000" max="2025" value="-3000">
+                    </div>
+                    <div class="slider-group">
+                        <div class="slider-labels">
+                            <span>Année de fin</span>
+                            <span id="date-end-value">2025</span>
+                        </div>
+                        <input type="range" id="date-end" class="slider-input" min="-3000" max="2025" value="2025">
+                    </div>
+                </div>
+            </div>
+            
+            <div class="filter-actions">
+                <button id="clear-filters" class="btn btn-secondary">
+                    <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                    Effacer les filtres
+                </button>
+                <span id="results-count" style="color: var(--text-secondary); font-size: 0.875rem;"></span>
+            </div>
+        </div>
+
+        <!-- Section de téléchargement -->
+        <div class="download-section">
+            <h3>📥 Télécharger toutes les cartes</h3>
+            <p>Obtenez le PDF complet avec tous les événements de l'histoire de l'informatique</p>
+            <a href="output/fresque_temporelle.pdf" download class="btn download-btn">
+                <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                </svg>
+                Télécharger le PDF complet
+            </a>
+        </div>
+
+        <!-- Timeline -->
+        <div class="timeline-container">
+            <div class="loading" id="loading">
+                <div class="spinner"></div>
+                <p>Chargement de la timeline...</p>
+            </div>
+            
+            <div class="timeline" id="timeline">
+                <!-- La timeline sera générée dynamiquement -->
+            </div>
+        </div>
+
+        <footer class="index-footer">
+            <div class="footer-license">
+                <span>« Timeline - Histoire de l'Informatique » par <a href="https://github.com/babash" target="_blank" rel="noopener noreferrer">babash</a> est placé sous la licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank" rel="license">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="license-icon" alt="Creative Commons"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" class="license-icon" alt="Zero"></span>
+            </div>
+            <div class="footer-project">
+                <a href="https://github.com/babash/TimelineNSI" target="_blank" rel="noopener noreferrer" class="footer-link-item" title="Voir le projet sur GitHub">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icon" fill="currentColor">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                    </svg>
+                    <span>Projet sur GitHub</span>
+                </a>
+            </div>
+        </footer>
+    </div>
+
+    <script>
+        // Données des événements et périodes
+        let events = [];
+        let periods = [];
+        let categories = [];
+        let filteredEvents = [];
+        let currentFilters = {
+            search: '',
+            categories: [],
+            period: 'all',
+            subperiod: 'all',
+            dateStart: -3000,
+            dateEnd: 2025
+        };
+
+        // Couleurs par catégorie
+        const categoryColors = {
+            'Algorithmique': '#e74c3c',
+            'Cryptographie': '#3498db',
+            'Hardware': '#2ecc71',
+            'Théorie de l\'information': '#f39c12',
+            'Réseau': '#9b59b6',
+            'Logiciel libre': '#1abc9c',
+            'Internet': '#34495e',
+            'Intelligence Artificielle': '#e67e22',
+            'Cybersécurité': '#8e44ad',
+            'Langage de programmation': '#27ae60'
+        };
+
+        // Charger les données
+        async function loadData() {
+            try {
+                console.log('🔄 Chargement des données...');
+                
+                // Charger les périodes
+                const periodsResponse = await fetch('data/periodes.csv');
+                if (!periodsResponse.ok) {
+                    throw new Error(`Erreur HTTP ${periodsResponse.status} pour periodes.csv`);
+                }
+                const periodsText = await periodsResponse.text();
+                periods = parseCSV(periodsText);
+                console.log(`✅ ${periods.length} périodes chargées`);
+                
+                // Charger les catégories
+                const categoriesResponse = await fetch('data/categories.csv');
+                if (!categoriesResponse.ok) {
+                    throw new Error(`Erreur HTTP ${categoriesResponse.status} pour categories.csv`);
+                }
+                const categoriesText = await categoriesResponse.text();
+                categories = parseCSV(categoriesText);
+                console.log(`✅ ${categories.length} catégories chargées`);
+                
+                // Charger les événements
+                const eventsResponse = await fetch('data/histoire_informatique_evenements.csv');
+                if (!eventsResponse.ok) {
+                    throw new Error(`Erreur HTTP ${eventsResponse.status} pour histoire_informatique_evenements.csv`);
+                }
+                const eventsText = await eventsResponse.text();
+                events = parseCSV(eventsText);
+                console.log(`✅ ${events.length} événements chargés`);
+                
+                // Trier les événements par date
+                events.sort((a, b) => parseInt(a.Date) - parseInt(b.Date));
+                filteredEvents = [...events];
+                
+                setupFilters();
+                renderTimeline();
+                
+                document.getElementById('loading').style.display = 'none';
+                console.log('🎉 Données chargées avec succès !');
+            } catch (error) {
+                console.error('❌ Erreur lors du chargement des données:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #e74c3c; padding: 1rem;">
+                        <h3>Erreur lors du chargement des données</h3>
+                        <p>${error.message}</p>
+                        <button onclick="loadData()" class="btn btn-primary" style="margin-top: 1rem;">
+                            Réessayer
+                        </button>
+                    </div>
+                `;
+            }
+        }
+
+        // Parser CSV amélioré
+        function parseCSV(csvText) {
+            const lines = csvText.split('\n');
+            if (lines.length < 2) return [];
+            
+            const headers = parseCSVLine(lines[0]);
+            const data = [];
+            
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim()) {
+                    const values = parseCSVLine(lines[i]);
+                    const obj = {};
+                    headers.forEach((header, index) => {
+                        obj[header] = values[index] || '';
+                    });
+                    data.push(obj);
+                }
+            }
+            
+            return data;
+        }
+
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    result.push(current.trim());
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            
+            result.push(current.trim());
+            return result.map(item => item.replace(/^"|"$/g, ''));
+        }
+
+        // Configuration des filtres
+        function setupFilters() {
+            // Remplir les filtres de catégorie (sélection multiple)
+            const uniqueCategories = [...new Set(events.map(e => e.Catégorie))];
+            const categoryContainer = document.getElementById('category-multiselect');
+            
+            uniqueCategories.forEach(category => {
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                checkbox.id = `category-${category.replace(/\s+/g, '-')}`;
+                checkbox.className = 'category-checkbox';
+                checkbox.value = category;
+                
+                const label = document.createElement('label');
+                label.htmlFor = checkbox.id;
+                label.className = 'category-label';
+                label.textContent = category;
+                
+                categoryContainer.appendChild(checkbox);
+                categoryContainer.appendChild(label);
+                
+                // Événement de changement
+                checkbox.addEventListener('change', () => {
+                    updateSelectedCategories();
+                });
+            });
+
+            // Remplir les filtres de période
+            const uniquePeriods = [...new Set(periods.map(p => p.Période))];
+            const periodSelect = document.getElementById('period-filter');
+            uniquePeriods.forEach(period => {
+                const option = document.createElement('option');
+                option.value = period;
+                option.textContent = period;
+                periodSelect.appendChild(option);
+            });
+
+            // Remplir les filtres de sous-période
+            const uniqueSubperiods = [...new Set(periods.map(p => p['Sous-période']))];
+            const subperiodSelect = document.getElementById('subperiod-filter');
+            uniqueSubperiods.forEach(subperiod => {
+                if (subperiod) {
+                    const option = document.createElement('option');
+                    option.value = subperiod;
+                    option.textContent = subperiod;
+                    subperiodSelect.appendChild(option);
+                }
+            });
+
+            // Événements des filtres
+            document.getElementById('search-bar').addEventListener('input', (e) => {
+                currentFilters.search = e.target.value;
+                applyFilters();
+            });
+
+            document.getElementById('period-filter').addEventListener('change', (e) => {
+                currentFilters.period = e.target.value;
+                applyFilters();
+            });
+
+            document.getElementById('subperiod-filter').addEventListener('change', (e) => {
+                currentFilters.subperiod = e.target.value;
+                applyFilters();
+            });
+
+            // Sliders pour les dates
+            const dateStartSlider = document.getElementById('date-start');
+            const dateEndSlider = document.getElementById('date-end');
+            const dateStartValue = document.getElementById('date-start-value');
+            const dateEndValue = document.getElementById('date-end-value');
+
+            dateStartSlider.addEventListener('input', (e) => {
+                currentFilters.dateStart = parseInt(e.target.value);
+                dateStartValue.textContent = e.target.value;
+                applyFilters();
+            });
+
+            dateEndSlider.addEventListener('input', (e) => {
+                currentFilters.dateEnd = parseInt(e.target.value);
+                dateEndValue.textContent = e.target.value;
+                applyFilters();
+            });
+
+            document.getElementById('clear-filters').addEventListener('click', clearFilters);
+        }
+
+        // Mettre à jour les catégories sélectionnées
+        function updateSelectedCategories() {
+            const checkboxes = document.querySelectorAll('.category-checkbox:checked');
+            currentFilters.categories = Array.from(checkboxes).map(cb => cb.value);
+            applyFilters();
+        }
+
+        // Appliquer les filtres
+        function applyFilters() {
+            filteredEvents = events.filter(event => {
+                // Filtre de recherche
+                if (currentFilters.search) {
+                    const searchTerm = currentFilters.search.toLowerCase();
+                    const matchesSearch = 
+                        event.Titre.toLowerCase().includes(searchTerm) ||
+                        event['Description courte'].toLowerCase().includes(searchTerm) ||
+                        (event.Description && event.Description.toLowerCase().includes(searchTerm));
+                    if (!matchesSearch) return false;
+                }
+
+                // Filtre de catégories (conjonction)
+                if (currentFilters.categories.length > 0) {
+                    if (!currentFilters.categories.includes(event.Catégorie)) {
+                        return false;
+                    }
+                }
+
+                // Filtre de période
+                if (currentFilters.period !== 'all') {
+                    const eventYear = parseInt(event.Date);
+                    const period = periods.find(p => p.Période === currentFilters.period);
+                    if (period) {
+                        const startYear = parseInt(period.Début);
+                        const endYear = parseInt(period.Fin);
+                        if (eventYear < startYear || eventYear > endYear) {
+                            return false;
+                        }
+                    }
+                }
+
+                // Filtre de sous-période
+                if (currentFilters.subperiod !== 'all') {
+                    const eventYear = parseInt(event.Date);
+                    const subperiod = periods.find(p => p['Sous-période'] === currentFilters.subperiod);
+                    if (subperiod) {
+                        const startYear = parseInt(subperiod['Début SP']);
+                        const endYear = parseInt(subperiod['Fin SP']);
+                        if (eventYear < startYear || eventYear > endYear) {
+                            return false;
+                        }
+                    }
+                }
+
+                // Filtre de dates
+                const eventYear = parseInt(event.Date);
+                if (eventYear < currentFilters.dateStart || eventYear > currentFilters.dateEnd) {
+                    return false;
+                }
+
+                return true;
+            });
+
+            updateResultsCount();
+            renderTimeline();
+        }
+
+        // Effacer tous les filtres
+        function clearFilters() {
+            currentFilters = {
+                search: '',
+                categories: [],
+                period: 'all',
+                subperiod: 'all',
+                dateStart: -3000,
+                dateEnd: 2025
+            };
+
+            document.getElementById('search-bar').value = '';
+            document.getElementById('period-filter').value = 'all';
+            document.getElementById('subperiod-filter').value = 'all';
+            document.getElementById('date-start').value = -3000;
+            document.getElementById('date-end').value = 2025;
+            document.getElementById('date-start-value').textContent = '-3000';
+            document.getElementById('date-end-value').textContent = '2025';
+
+            // Décocher toutes les catégories
+            document.querySelectorAll('.category-checkbox').forEach(cb => {
+                cb.checked = false;
+            });
+
+            filteredEvents = [...events];
+            updateResultsCount();
+            renderTimeline();
+        }
+
+        // Mettre à jour le compteur de résultats
+        function updateResultsCount() {
+            const countElement = document.getElementById('results-count');
+            countElement.textContent = `${filteredEvents.length} événement${filteredEvents.length > 1 ? 's' : ''} trouvé${filteredEvents.length > 1 ? 's' : ''}`;
+        }
+
+        // Rendre la timeline
+        function renderTimeline() {
+            const timelineContainer = document.getElementById('timeline');
+            timelineContainer.innerHTML = '';
+            
+            if (filteredEvents.length === 0) {
+                timelineContainer.innerHTML = `
+                    <div class="no-results">
+                        <h3>Aucun événement trouvé</h3>
+                        <p>Aucun événement ne correspond aux critères de recherche sélectionnés.</p>
+                        <button onclick="clearFilters()" class="btn btn-primary" style="margin-top: 1rem;">
+                            Effacer les filtres
+                        </button>
+                    </div>
+                `;
+                return;
+            }
+
+            // Grouper les événements par période
+            const eventsByPeriod = groupEventsByPeriod(filteredEvents);
+            
+            // Rendre chaque période
+            Object.keys(eventsByPeriod).forEach(periodName => {
+                const periodEvents = eventsByPeriod[periodName];
+                const period = periods.find(p => p.Période === periodName);
+                
+                if (period && periodEvents.length > 0) {
+                    const periodElement = createPeriodElement(period, periodEvents);
+                    timelineContainer.appendChild(periodElement);
+                }
+            });
+        }
+
+        // Grouper les événements par période
+        function groupEventsByPeriod(events) {
+            const grouped = {};
+            
+            events.forEach(event => {
+                const eventYear = parseInt(event.Date);
+                let periodName = 'Période inconnue';
+                
+                // Trouver la période correspondante
+                for (const period of periods) {
+                    const startYear = parseInt(period.Début);
+                    const endYear = parseInt(period.Fin);
+                    
+                    if (eventYear >= startYear && eventYear <= endYear) {
+                        periodName = period.Période;
+                        break;
+                    }
+                }
+                
+                if (!grouped[periodName]) {
+                    grouped[periodName] = [];
+                }
+                grouped[periodName].push(event);
+            });
+            
+            return grouped;
+        }
+
+        // Créer un élément de période
+        function createPeriodElement(period, periodEvents) {
+            const periodDiv = document.createElement('div');
+            periodDiv.className = 'period fade-in';
+            
+            const periodHeader = document.createElement('div');
+            periodHeader.className = 'period-header';
+            periodHeader.innerHTML = `
+                <div class="period-title">${period.Période}</div>
+                <div class="period-dates">${period.Début} - ${period.Fin}</div>
+                ${period.Description ? `<div class="period-description">${period.Description}</div>` : ''}
+            `;
+            
+            const eventsGrid = document.createElement('div');
+            eventsGrid.className = 'events-grid';
+            
+            periodEvents.forEach((event, index) => {
+                const eventElement = createEventElement(event, index);
+                eventsGrid.appendChild(eventElement);
+            });
+            
+            periodDiv.appendChild(periodHeader);
+            periodDiv.appendChild(eventsGrid);
+            
+            return periodDiv;
+        }
+
+        // Créer un élément d'événement
+        function createEventElement(event, index) {
+            const eventDiv = document.createElement('div');
+            eventDiv.className = 'event slide-in';
+            
+            const categoryColor = categoryColors[event.Catégorie] || '#95a5a6';
+            
+            eventDiv.innerHTML = `
+                <div class="event-date">${event.Date}</div>
+                <div class="event-title">${event.Titre}</div>
+                <div class="event-description">${event['Description courte']}</div>
+                <div class="event-category" style="background-color: ${categoryColor}20; color: ${categoryColor};">
+                    ${event.Catégorie}
+                </div>
+                <div class="event-actions">
+                    <a href="output/cards/${index + 1}.pdf" class="event-download-btn" download>
+                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                        </svg>
+                        Télécharger
+                    </a>
+                </div>
+            `;
+            
+            return eventDiv;
+        }
+
+        // Initialiser la page
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>

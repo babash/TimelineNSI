@@ -294,15 +294,25 @@
         // Charger les données
         async function loadData() {
             try {
+                console.log('🔄 Chargement des données...');
+                
                 // Charger les catégories
                 const categoriesResponse = await fetch('data/categories.csv');
+                if (!categoriesResponse.ok) {
+                    throw new Error(`Erreur HTTP ${categoriesResponse.status} pour categories.csv`);
+                }
                 const categoriesText = await categoriesResponse.text();
                 categories = parseCSV(categoriesText);
+                console.log(`✅ ${categories.length} catégories chargées`);
                 
                 // Charger les événements
                 const eventsResponse = await fetch('data/histoire_informatique_evenements.csv');
+                if (!eventsResponse.ok) {
+                    throw new Error(`Erreur HTTP ${eventsResponse.status} pour histoire_informatique_evenements.csv`);
+                }
                 const eventsText = await eventsResponse.text();
                 events = parseCSV(eventsText);
+                console.log(`✅ ${events.length} événements chargés`);
                 
                 // Trier les événements par date
                 events.sort((a, b) => parseInt(a.Date) - parseInt(b.Date));
@@ -311,21 +321,33 @@
                 renderTimeline();
                 
                 document.getElementById('loading').style.display = 'none';
+                console.log('🎉 Données chargées avec succès !');
             } catch (error) {
-                console.error('Erreur lors du chargement des données:', error);
-                document.getElementById('loading').innerHTML = 'Erreur lors du chargement des données';
+                console.error('❌ Erreur lors du chargement des données:', error);
+                document.getElementById('loading').innerHTML = `
+                    <div style="color: #e74c3c; padding: 1rem;">
+                        <h3>Erreur lors du chargement des données</h3>
+                        <p>${error.message}</p>
+                        <button onclick="loadData()" style="background: #667eea; color: white; border: none; padding: 0.5rem 1rem; border-radius: 5px; cursor: pointer;">
+                            Réessayer
+                        </button>
+                    </div>
+                `;
             }
         }
 
-        // Parser CSV simple
+        // Parser CSV amélioré
         function parseCSV(csvText) {
             const lines = csvText.split('\n');
-            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            if (lines.length < 2) return [];
+            
+            // Parser les en-têtes
+            const headers = parseCSVLine(lines[0]);
             const data = [];
             
             for (let i = 1; i < lines.length; i++) {
                 if (lines[i].trim()) {
-                    const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                    const values = parseCSVLine(lines[i]);
                     const obj = {};
                     headers.forEach((header, index) => {
                         obj[header] = values[index] || '';
@@ -335,6 +357,29 @@
             }
             
             return data;
+        }
+        
+        // Parser une ligne CSV en gérant les guillemets
+        function parseCSVLine(line) {
+            const result = [];
+            let current = '';
+            let inQuotes = false;
+            
+            for (let i = 0; i < line.length; i++) {
+                const char = line[i];
+                
+                if (char === '"') {
+                    inQuotes = !inQuotes;
+                } else if (char === ',' && !inQuotes) {
+                    result.push(current.trim());
+                    current = '';
+                } else {
+                    current += char;
+                }
+            }
+            
+            result.push(current.trim());
+            return result.map(item => item.replace(/^"|"$/g, ''));
         }
 
         // Rendre les filtres

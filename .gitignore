@@ -6,7 +6,8 @@ node_modules/
 
 # Fichiers générés par le script
 # Il ne faut jamais versionner les fichiers de sortie, seulement le code source
-output/
+# Temporairement commenté pour le déploiement GitHub Pages
+# output/
 
 # Fichiers de log et de cache de npm
 npm-debug.log*

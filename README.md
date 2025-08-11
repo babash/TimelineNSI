@@ -7,6 +7,34 @@ Le script principal, écrit en Node.js, lit des fichiers de données au format C
 ![Exemple de carte générée](exemple-carte.png)
 *(Remplacez cette image par une capture d'écran d'une de vos cartes)*
 
+## 🌐 Site Web
+
+Le site web est disponible sur GitHub Pages : [https://votre-username.github.io/fresque-informatique](https://votre-username.github.io/fresque-informatique)
+
+### Fonctionnalités du Site Web
+
+La page d'accueil offre une expérience interactive complète :
+
+- **📅 Timeline Chronologique** : Visualisation complète de l'histoire de l'informatique avec 68 événements majeurs
+- **🔍 Filtrage par Catégorie** : Filtrez les événements par thématique (Algorithmique, Cryptographie, Hardware, etc.)
+- **📥 Téléchargement Individuel** : Téléchargez chaque carte au format PDF individuellement
+- **📱 Design Responsive** : Interface optimisée pour mobile, tablette et desktop
+- **🎨 Interface Moderne** : Design épuré avec animations fluides et couleurs thématiques
+- **🔗 Liens Sociaux** : Intégration GitHub et licence CC BY-SA 4.0
+
+### Catégories Disponibles
+
+- **Algorithmique** : Algorithmes historiques et fondamentaux
+- **Cryptographie** : Méthodes de chiffrement et sécurité
+- **Hardware** : Évolution du matériel informatique
+- **Théorie de l'information** : Concepts théoriques fondamentaux
+- **Réseau** : Développement des réseaux et communications
+- **Logiciel libre** : Mouvement open source et logiciels libres
+- **Internet** : Histoire et évolution d'Internet
+- **Intelligence Artificielle** : Développement de l'IA
+- **Cybersécurité** : Sécurité informatique et protection
+- **Langage de programmation** : Évolution des langages
+
 ## Fonctionnalités
 
 *   **Génération Automatisée** : Crée des dizaines de cartes en une seule commande.
@@ -19,6 +47,8 @@ Le script principal, écrit en Node.js, lit des fichiers de données au format C
     *   Mise en exergue des mots-clés avec la couleur de la catégorie.
     *   Encadrés anecdotiques ("Le saviez-vous", "Fun fact", etc.) avec icônes et couleurs dédiées.
 *   **Code Modulaire et Personnalisable** : L'architecture est découpée en modules logiques (configuration, chargement des données, génération HTML/PDF) et en fichiers CSS spécialisés, rendant la personnalisation très accessible.
+*   **Site Web Interactif** : Page d'accueil moderne avec timeline interactive et téléchargement individuel des cartes.
+*   **Déploiement Automatique** : Configuration GitHub Actions pour un déploiement automatique sur GitHub Pages.
 
 ## Architecture du Projet
 
@@ -67,95 +97,3 @@ Pour utiliser ce projet, vous devez avoir Node.js installé sur votre machine.
     ```bash
     npm install
     ```
-
-## Structure des Fichiers de Données
-
-Pour que le script fonctionne, vos fichiers de données dans le dossier `data/` doivent respecter une structure précise.
-
-### `histoire_informatique_evenements.csv`
-
-C'est le fichier principal. Chaque ligne représente une carte.
-
-| En-tête                    | Description                                                                                                    |
-| ---------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| `Titre`                      | Le titre principal de la carte.                                                                                |
-| `Description courte`         | L'accroche affichée en premier. Peut contenir des mots-clés entourés de `**` pour les mettre en exergue.        |
-| `Description`                | Le reste de la description, qui suivra la description courte. Peut aussi contenir des mots-clés.               |
-| `Note`                       | Le texte de l'anecdote (ex: "Il a inventé le terme 'bug'...").                                                   |
-| `Note Type`                  | Le type de note (ex: "Fun fact"). Doit correspondre à une entrée dans `Note Type.csv`.                          |
-| `Date`                       | L'année de l'événement (ex: `1957` ou `-300`).                                                                  |
-| `Période`                    | Le nom de la période principale. Doit correspondre à une `Période` de `periodes.csv`.                            |
-| `Sous-période`               | Le nom de la sous-période. Doit correspondre à une `Sous-période` de `periodes.csv`.                             |
-| `Catégorie`                  | La thématique de l'événement. Doit correspondre à un `Nom` dans `categories.csv`.                                |
-| `Lien image libre de droit`  | L'URL complète de l'image principale de la carte.                                                              |
-| `Source`                     | L'URL de la source. Le script extraira automatiquement le nom de domaine.                                      |
-
-### `periodes.csv`
-
-Ce fichier définit la structure de la timeline. Chaque ligne représente une sous-période.
-
-| En-tête                     | Description                                            |
-| --------------------------- | ------------------------------------------------------ |
-| `Période`                   | Nom complet de la période principale (ex: "Révolution mécanique"). |
-| `Abréviation Période`       | Nom court pour les flèches de la timeline (ex: "Mécanique"). |
-| `Début`                     | Année de début de la période principale.                 |
-| `Fin`                       | Année de fin de la période principale.                   |
-| `Sous-période`              | Nom complet de la sous-période (ex: "Inventions mécaniques"). |
-| `Abréviation Sous-période`  | Nom court utilisé si le nom complet est trop long.     |
-| `Début SP`                  | Année de début de la sous-période.                       |
-| `Fin SP`                    | Année de fin de la sous-période.                         |
-
-### `categories.csv`
-
-Définit les thématiques et leurs abréviations.
-
-| En-tête        | Description                                                       |
-| -------------- | ----------------------------------------------------------------- |
-| `Nom`          | Nom complet de la catégorie (ex: "Intelligence Artificielle").    |
-| `Abbreviation` | Version courte affichée dans la barre latérale (ex: "IA").        |
-
-## Utilisation
-
-1.  Assurez-vous que vos fichiers de données sont correctement remplis et placés dans le dossier `data/`.
-2.  Ouvrez un terminal à la racine du projet.
-3.  Lancez la commande suivante :
-    ```bash
-    node generate-cards.js
-    ```
-4.  Le script va traiter les données, générer le HTML, puis le PDF. Le fichier final se trouvera dans `output/fresque_temporelle.pdf`.
-
-## Personnalisation
-
-Ce projet est conçu pour être facilement adaptable.
-
-*   **Changer les couleurs et les polices** : Le fichier `styles/_variables.css` centralise toutes les variables de design. Modifiez une couleur ici, et elle sera mise à jour sur toutes les cartes.
-
-*   **Changer les icônes et les bandeaux** : Le fichier `src/config.js` contient les mappings entre les noms de catégories (ou de notes) et leurs icônes/bandeaux respectifs. Vous pouvez facilement modifier une URL ou ajouter une nouvelle entrée.
-
-*   **Modifier la mise en page** : Les fichiers CSS dans le dossier `styles` sont découpés par responsabilité (`_card.css` pour la structure, `_timeline.css` pour la timeline, etc.), ce qui facilite les modifications de style ciblées.
-
-## Licence
-
-Ce projet est distribué sous la licence MIT. Cela signifie que vous êtes libre de l'utiliser, de le modifier et de le distribuer pour n'importe quel usage, y compris commercial, à condition de conserver la notice de copyright.
-
-MIT License
-
-Copyright (c) 2024 TimelineNSI
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.

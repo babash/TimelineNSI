@@ -1,0 +1,428 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fresque Temporelle - Histoire de l'Informatique</title>
+    <meta name="description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges. Timeline interactive avec 68 événements majeurs, de l'Antiquité à nos jours.">
+    <meta name="keywords" content="histoire informatique, timeline, cartes pédagogiques, algorithmique, cryptographie, intelligence artificielle">
+    <meta name="author" content="TimelineNSI">
+    <meta property="og:title" content="Fresque Temporelle - Histoire de l'Informatique">
+    <meta property="og:description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://votre-username.github.io/fresque-informatique">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#764ba2">
+    <link rel="canonical" href="https://votre-username.github.io/fresque-informatique">
+    <link rel="stylesheet" href="styles/main.css">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+        }
+
+        .header {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 2rem 0;
+            text-align: center;
+            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
+        }
+
+        .header h1 {
+            margin: 0;
+            color: #2c3e50;
+            font-size: 2.5rem;
+            font-weight: 700;
+        }
+
+        .header p {
+            margin: 1rem 0 0 0;
+            color: #7f8c8d;
+            font-size: 1.1rem;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 2rem;
+        }
+
+        .timeline-container {
+            background: white;
+            border-radius: 15px;
+            padding: 2rem;
+            margin: 2rem 0;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+        }
+
+        .timeline {
+            position: relative;
+            margin: 2rem 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            left: 50%;
+            top: 0;
+            bottom: 0;
+            width: 4px;
+            background: linear-gradient(to bottom, #667eea, #764ba2);
+            transform: translateX(-50%);
+        }
+
+        .event {
+            position: relative;
+            margin: 2rem 0;
+            display: flex;
+            align-items: center;
+        }
+
+        .event:nth-child(odd) {
+            flex-direction: row;
+        }
+
+        .event:nth-child(even) {
+            flex-direction: row-reverse;
+        }
+
+        .event-content {
+            background: white;
+            border-radius: 10px;
+            padding: 1.5rem;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+            width: 45%;
+            position: relative;
+            transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+
+        .event-content:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+
+        .event-date {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: #667eea;
+            color: white;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9rem;
+            z-index: 2;
+        }
+
+        .event-title {
+            font-size: 1.2rem;
+            font-weight: 600;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+
+        .event-description {
+            color: #7f8c8d;
+            margin-bottom: 1rem;
+            line-height: 1.5;
+        }
+
+        .event-category {
+            display: inline-block;
+            padding: 0.3rem 0.8rem;
+            border-radius: 15px;
+            font-size: 0.8rem;
+            font-weight: 500;
+            margin-bottom: 1rem;
+        }
+
+        .download-btn {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: white;
+            border: none;
+            padding: 0.8rem 1.5rem;
+            border-radius: 25px;
+            cursor: pointer;
+            font-weight: 500;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            display: inline-block;
+        }
+
+        .download-btn:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .filters {
+            background: white;
+            border-radius: 15px;
+            padding: 1.5rem;
+            margin-bottom: 2rem;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+
+        .filter-group {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .filter-btn {
+            background: #ecf0f1;
+            border: 2px solid transparent;
+            padding: 0.5rem 1rem;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 0.9rem;
+        }
+
+        .filter-btn.active {
+            background: #667eea;
+            color: white;
+            border-color: #667eea;
+        }
+
+        .filter-btn:hover {
+            background: #667eea;
+            color: white;
+        }
+
+        .footer {
+            background: rgba(255, 255, 255, 0.95);
+            backdrop-filter: blur(10px);
+            padding: 2rem 0;
+            text-align: center;
+            margin-top: 3rem;
+        }
+
+        .social-links {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 1rem;
+        }
+
+        .social-link {
+            color: #667eea;
+            text-decoration: none;
+            font-weight: 500;
+            transition: color 0.3s ease;
+        }
+
+        .social-link:hover {
+            color: #764ba2;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #7f8c8d;
+        }
+
+        @media (max-width: 768px) {
+            .event {
+                flex-direction: column !important;
+            }
+            
+            .event-content {
+                width: 100%;
+                margin: 1rem 0;
+            }
+            
+            .timeline::before {
+                left: 20px;
+            }
+            
+            .event-date {
+                left: 20px;
+                transform: translateX(-50%);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🕰️ Fresque Temporelle</h1>
+        <p>Découvrez l'histoire fascinante de l'informatique à travers les âges</p>
+    </div>
+
+    <div class="container">
+        <div class="filters">
+            <h3>Filtrer par catégorie :</h3>
+            <div class="filter-group" id="categoryFilters">
+                <button class="filter-btn active" data-category="all">Toutes</button>
+                <!-- Les filtres seront générés dynamiquement -->
+            </div>
+        </div>
+
+        <div class="timeline-container">
+            <h2>📅 Timeline Chronologique</h2>
+            <div class="loading" id="loading">
+                Chargement des événements...
+            </div>
+            <div class="timeline" id="timeline">
+                <!-- Les événements seront générés dynamiquement -->
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>© 2024 Fresque Temporelle - Histoire de l'Informatique</p>
+        <div class="social-links">
+            <a href="https://github.com/votre-username/fresque-informatique" class="social-link" target="_blank">
+                <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
+            </a>
+            <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="social-link" target="_blank">
+                <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-green?style=for-the-badge" alt="CC BY-SA 4.0 License">
+            </a>
+        </div>
+    </div>
+
+    <script>
+        // Données des événements (seront chargées depuis le CSV)
+        let events = [];
+        let categories = [];
+
+        // Charger les données
+        async function loadData() {
+            try {
+                // Charger les catégories
+                const categoriesResponse = await fetch('data/categories.csv');
+                const categoriesText = await categoriesResponse.text();
+                categories = parseCSV(categoriesText);
+                
+                // Charger les événements
+                const eventsResponse = await fetch('data/histoire_informatique_evenements.csv');
+                const eventsText = await eventsResponse.text();
+                events = parseCSV(eventsText);
+                
+                // Trier les événements par date
+                events.sort((a, b) => parseInt(a.Date) - parseInt(b.Date));
+                
+                renderFilters();
+                renderTimeline();
+                
+                document.getElementById('loading').style.display = 'none';
+            } catch (error) {
+                console.error('Erreur lors du chargement des données:', error);
+                document.getElementById('loading').innerHTML = 'Erreur lors du chargement des données';
+            }
+        }
+
+        // Parser CSV simple
+        function parseCSV(csvText) {
+            const lines = csvText.split('\n');
+            const headers = lines[0].split(',').map(h => h.trim().replace(/"/g, ''));
+            const data = [];
+            
+            for (let i = 1; i < lines.length; i++) {
+                if (lines[i].trim()) {
+                    const values = lines[i].split(',').map(v => v.trim().replace(/"/g, ''));
+                    const obj = {};
+                    headers.forEach((header, index) => {
+                        obj[header] = values[index] || '';
+                    });
+                    data.push(obj);
+                }
+            }
+            
+            return data;
+        }
+
+        // Rendre les filtres
+        function renderFilters() {
+            const filterContainer = document.getElementById('categoryFilters');
+            const uniqueCategories = [...new Set(events.map(e => e.Catégorie))];
+            
+            uniqueCategories.forEach(category => {
+                const btn = document.createElement('button');
+                btn.className = 'filter-btn';
+                btn.textContent = category;
+                btn.dataset.category = category;
+                btn.onclick = () => filterEvents(category);
+                filterContainer.appendChild(btn);
+            });
+        }
+
+        // Rendre la timeline
+        function renderTimeline(filteredEvents = events) {
+            const timelineContainer = document.getElementById('timeline');
+            timelineContainer.innerHTML = '';
+            
+            filteredEvents.forEach((event, index) => {
+                const eventElement = createEventElement(event, index);
+                timelineContainer.appendChild(eventElement);
+            });
+        }
+
+        // Créer un élément d'événement
+        function createEventElement(event, index) {
+            const eventDiv = document.createElement('div');
+            eventDiv.className = 'event';
+            
+            const category = categories.find(c => c.Nom === event.Catégorie);
+            const categoryColor = getCategoryColor(event.Catégorie);
+            
+            eventDiv.innerHTML = `
+                <div class="event-content">
+                    <div class="event-date">${event.Date}</div>
+                    <div class="event-title">${event.Titre}</div>
+                    <div class="event-description">${event['Description courte']}</div>
+                    <div class="event-category" style="background-color: ${categoryColor}20; color: ${categoryColor};">
+                        ${event.Catégorie}
+                    </div>
+                    <a href="output/cards/${index + 1}.pdf" class="download-btn" download>
+                        📥 Télécharger la carte
+                    </a>
+                </div>
+            `;
+            
+            return eventDiv;
+        }
+
+        // Filtrer les événements
+        function filterEvents(category) {
+            // Mettre à jour les boutons de filtre
+            document.querySelectorAll('.filter-btn').forEach(btn => {
+                btn.classList.remove('active');
+            });
+            event.target.classList.add('active');
+            
+            // Filtrer les événements
+            const filteredEvents = category === 'all' 
+                ? events 
+                : events.filter(e => e.Catégorie === category);
+            
+            renderTimeline(filteredEvents);
+        }
+
+        // Couleurs par catégorie
+        function getCategoryColor(category) {
+            const colors = {
+                'Algorithmique': '#e74c3c',
+                'Cryptographie': '#3498db',
+                'Hardware': '#2ecc71',
+                'Théorie de l\'information': '#f39c12',
+                'Réseau': '#9b59b6',
+                'Logiciel libre': '#1abc9c',
+                'Internet': '#34495e',
+                'Intelligence Artificielle': '#e67e22',
+                'Cybersécurité': '#8e44ad',
+                'Langage de programmation': '#27ae60'
+            };
+            return colors[category] || '#95a5a6';
+        }
+
+        // Initialiser la page
+        document.addEventListener('DOMContentLoaded', loadData);
+    </script>
+</body>
+</html>

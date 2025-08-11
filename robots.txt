@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://votre-username.github.io/fresque-informatique/sitemap.xml

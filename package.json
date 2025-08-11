@@ -1,16 +1,28 @@
 {
   "name": "fresque-informatique",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Générateur de cartes pédagogiques pour fresque temporelle sur l'histoire de l'informatique",
+  "main": "generate-cards.js",
+  "homepage": "https://votre-username.github.io/fresque-informatique",
   "scripts": {
+    "generate": "node generate-cards.js",
+    "build": "npm run generate",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["histoire", "informatique", "cartes", "pédagogie", "timeline", "fresque"],
+  "author": "TimelineNSI",
+  "license": "MIT",
   "dependencies": {
     "papaparse": "^5.5.3",
     "puppeteer": "^24.16.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/votre-username/fresque-informatique.git"
   }
 }

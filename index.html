@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fresque Temporelle - Histoire de l'Informatique</title>
+    <title>Accueil - Fresque Temporelle Histoire de l'Informatique</title>
     <meta name="description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges. Timeline interactive avec 68 événements majeurs, de l'Antiquité à nos jours.">
     <meta name="keywords" content="histoire informatique, timeline, cartes pédagogiques, algorithmique, cryptographie, intelligence artificielle">
     <meta name="author" content="TimelineNSI">
@@ -14,282 +14,357 @@
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#764ba2">
     <link rel="canonical" href="https://babash.github.io/TimelineNSI">
-    <link rel="stylesheet" href="styles/main.css">
+    
     <style>
+        /* Styles inspirés des fiches NSI */
+        html {
+            background-color: #f4f7f6;
+        }
+
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            display: flex;
+            justify-content: center;
+            align-items: center;
             min-height: 100vh;
-        }
-
-        .header {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            padding: 2rem 0;
-            text-align: center;
-            box-shadow: 0 2px 20px rgba(0, 0, 0, 0.1);
-        }
-
-        .header h1 {
             margin: 0;
-            color: #2c3e50;
-            font-size: 2.5rem;
-            font-weight: 700;
+            padding: 2rem 1rem;
+            box-sizing: border-box;
+            background-color: transparent;
+            color: #333;
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
         }
 
-        .header p {
-            margin: 1rem 0 0 0;
-            color: #7f8c8d;
-            font-size: 1.1rem;
-        }
-
-        .container {
-            max-width: 1200px;
-            margin: 0 auto;
+        .index-container {
+            max-width: 900px;
+            width: 100%;
+            margin: 0;
             padding: 2rem;
+            background-color: #ffffff;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+            display: block;
         }
 
-        .timeline-container {
-            background: white;
-            border-radius: 15px;
-            padding: 2rem;
-            margin: 2rem 0;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
-        }
-
-        .timeline {
+        h1 {
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
+            font-size: 2rem;
+            color: #007bff;
+            text-align: center;
+            margin-bottom: 1rem;
             position: relative;
-            margin: 2rem 0;
+            padding: 0.5rem 0.75rem 0.5rem 2rem;
+            background: #fff3cd;
+            border-left: 0.5rem solid #ffc107;
+            border-radius: 6px;
+            box-shadow: inset 0 0 0.15em rgba(255, 212, 59, 0.8);
         }
 
-        .timeline::before {
-            content: '';
+        .search-container {
+            margin-bottom: 1.5rem;
+        }
+
+        #search-bar {
+            width: 100%;
+            padding: 10px 15px;
+            font-size: 1rem;
+            border-radius: 6px;
+            border: 1px solid #ddd;
+            box-sizing: border-box;
+        }
+
+        .list-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 1em;
+            padding: 8px 12px;
+            border-bottom: 2px solid #eee;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: background-color 0.2s ease;
+            user-select: none;
+        }
+
+        .list-header:hover {
+            background-color: #f0f2f5;
+        }
+
+        .list-header h2 {
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
+            font-size: 1.2rem;
+            color: #007bff;
+            position: relative;
+            padding: 0.5rem 0.75rem 0.5rem 2rem;
+            margin: 0;
+            background: #fff3cd;
+            border-left: 0.5rem solid #ffc107;
+            border-radius: 6px;
+            box-shadow: inset 0 0 0.15em rgba(255, 212, 59, 0.8);
+        }
+
+        .list-header h2::before {
+            content: '▼';
             position: absolute;
-            left: 50%;
-            top: 0;
-            bottom: 0;
-            width: 4px;
-            background: linear-gradient(to bottom, #667eea, #764ba2);
-            transform: translateX(-50%);
+            left: 0.6rem;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1rem;
+            color: #007bff;
+            transition: transform 0.3s ease-in-out;
         }
 
-        .event {
-            position: relative;
-            margin: 2rem 0;
+        .list-header.collapsed h2::before {
+            transform: translateY(-50%) rotate(-90deg);
+        }
+
+        .download-all-link {
             display: flex;
             align-items: center;
+            gap: 8px;
+            color: #007bff;
+            text-decoration: none;
+            font-weight: 500;
+            padding: 6px 10px;
+            border-radius: 5px;
+            transition: background-color 0.2s ease;
         }
 
-        .event:nth-child(odd) {
-            flex-direction: row;
+        .download-all-link:hover {
+            background-color: #e9ecef;
+            color: #0056b3;
         }
 
-        .event:nth-child(even) {
-            flex-direction: row-reverse;
+        .download-all-link .icon {
+            width: 18px;
+            height: 18px;
         }
 
-        .event-content {
+        .fiche-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            overflow: hidden;
+            transition: max-height 0.4s ease-in-out;
+        }
+
+        .fiche-list.collapsed {
+            max-height: 0;
+        }
+
+        .fiche-list li {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 12px;
+            border-bottom: 1px solid #f0f0f0;
+        }
+
+        .fiche-list li:last-child {
+            border-bottom: none;
+        }
+
+        .fiche-list .fiche-name {
+            text-decoration: none;
+            color: #333;
+            font-weight: 500;
+            transition: color 0.2s ease;
+            flex: 1;
+        }
+
+        .fiche-list .fiche-name:hover {
+            color: #007bff;
+        }
+
+        .fiche-list .download-link {
+            color: #6c757d;
+            padding: 4px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            text-decoration: none;
+        }
+
+        .fiche-list .download-link:hover {
+            background-color: #e9ecef;
+            color: #343a40;
+        }
+
+        .fiche-list .download-link .icon {
+            width: 20px;
+            height: 20px;
+        }
+
+        .index-footer {
+            margin-top: 2.5rem;
+            padding-top: 1.5rem;
+            border-top: 1px solid #e9ecef;
+            color: #6c757d;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 1rem;
+            font-size: 0.9rem;
+        }
+
+        .footer-license {
+            text-align: center;
+            line-height: 1.5;
+        }
+
+        .footer-license a,
+        .footer-project a {
+            color: #007bff;
+            font-weight: 500;
+            text-decoration: none;
+        }
+
+        .footer-license a:hover,
+        .footer-project a:hover {
+            text-decoration: underline;
+        }
+
+        .license-icon {
+            max-width: 1em;
+            max-height: 1em;
+            margin-left: .2em;
+            vertical-align: text-bottom;
+        }
+
+        .footer-project {
+            margin-top: 0.75rem;
+        }
+
+        .footer-link-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 0.5em;
+            color: #6c757d;
+            text-decoration: none;
+            transition: color 0.2s ease;
+        }
+
+        .footer-link-item:hover {
+            color: #007bff;
+        }
+
+        .footer-link-item .icon {
+            width: 18px;
+            height: 18px;
+            fill: currentColor;
+        }
+
+        .category-filter {
+            margin-bottom: 1rem;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.5rem;
+        }
+
+        .category-btn {
+            padding: 0.5rem 1rem;
+            border: 1px solid #ddd;
             background: white;
-            border-radius: 10px;
-            padding: 1.5rem;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-            width: 45%;
-            position: relative;
-            transition: transform 0.3s ease, box-shadow 0.3s ease;
+            border-radius: 20px;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            font-size: 0.9rem;
         }
 
-        .event-content:hover {
-            transform: translateY(-5px);
-            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        .category-btn.active {
+            background: #007bff;
+            color: white;
+            border-color: #007bff;
+        }
+
+        .category-btn:hover {
+            background: #e9ecef;
+        }
+
+        .category-btn.active:hover {
+            background: #0056b3;
         }
 
         .event-date {
-            position: absolute;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
-            background: #667eea;
-            color: white;
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            font-weight: bold;
+            color: #6c757d;
             font-size: 0.9rem;
-            z-index: 2;
-        }
-
-        .event-title {
-            font-size: 1.2rem;
-            font-weight: 600;
-            color: #2c3e50;
-            margin-bottom: 0.5rem;
-        }
-
-        .event-description {
-            color: #7f8c8d;
-            margin-bottom: 1rem;
-            line-height: 1.5;
+            margin-right: 1rem;
         }
 
         .event-category {
             display: inline-block;
-            padding: 0.3rem 0.8rem;
-            border-radius: 15px;
+            padding: 0.2rem 0.5rem;
+            border-radius: 12px;
             font-size: 0.8rem;
             font-weight: 500;
-            margin-bottom: 1rem;
-        }
-
-        .download-btn {
-            background: linear-gradient(135deg, #667eea, #764ba2);
-            color: white;
-            border: none;
-            padding: 0.8rem 1.5rem;
-            border-radius: 25px;
-            cursor: pointer;
-            font-weight: 500;
-            transition: all 0.3s ease;
-            text-decoration: none;
-            display: inline-block;
-        }
-
-        .download-btn:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
-        }
-
-        .filters {
-            background: white;
-            border-radius: 15px;
-            padding: 1.5rem;
-            margin-bottom: 2rem;
-            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
-        }
-
-        .filter-group {
-            display: flex;
-            gap: 1rem;
-            flex-wrap: wrap;
-            align-items: center;
-        }
-
-        .filter-btn {
-            background: #ecf0f1;
-            border: 2px solid transparent;
-            padding: 0.5rem 1rem;
-            border-radius: 20px;
-            cursor: pointer;
-            transition: all 0.3s ease;
-            font-size: 0.9rem;
-        }
-
-        .filter-btn.active {
-            background: #667eea;
-            color: white;
-            border-color: #667eea;
-        }
-
-        .filter-btn:hover {
-            background: #667eea;
-            color: white;
-        }
-
-        .footer {
-            background: rgba(255, 255, 255, 0.95);
-            backdrop-filter: blur(10px);
-            padding: 2rem 0;
-            text-align: center;
-            margin-top: 3rem;
-        }
-
-        .social-links {
-            display: flex;
-            justify-content: center;
-            gap: 2rem;
-            margin-top: 1rem;
-        }
-
-        .social-link {
-            color: #667eea;
-            text-decoration: none;
-            font-weight: 500;
-            transition: color 0.3s ease;
-        }
-
-        .social-link:hover {
-            color: #764ba2;
-        }
-
-        .loading {
-            text-align: center;
-            padding: 2rem;
-            color: #7f8c8d;
-        }
-
-        @media (max-width: 768px) {
-            .event {
-                flex-direction: column !important;
-            }
-            
-            .event-content {
-                width: 100%;
-                margin: 1rem 0;
-            }
-            
-            .timeline::before {
-                left: 20px;
-            }
-            
-            .event-date {
-                left: 20px;
-                transform: translateX(-50%);
-            }
+            margin-left: 0.5rem;
         }
     </style>
 </head>
 <body>
-    <div class="header">
-        <h1>🕰️ Fresque Temporelle</h1>
-        <p>Découvrez l'histoire fascinante de l'informatique à travers les âges</p>
-    </div>
+    <div class="index-container">
+        <h1>Fresque Temporelle - Histoire de l'Informatique</h1>
 
-    <div class="container">
-        <div class="filters">
-            <h3>Filtrer par catégorie :</h3>
-            <div class="filter-group" id="categoryFilters">
-                <button class="filter-btn active" data-category="all">Toutes</button>
-                <!-- Les filtres seront générés dynamiquement -->
-            </div>
+        <div class="search-container">
+            <input type="text" id="search-bar" placeholder="Rechercher un événement par titre...">
         </div>
 
-        <div class="timeline-container">
-            <h2>📅 Timeline Chronologique</h2>
-            <div class="loading" id="loading">
-                Chargement des événements...
-            </div>
-            <div class="timeline" id="timeline">
-                <!-- Les événements seront générés dynamiquement -->
-            </div>
+        <div class="category-filter" id="categoryFilters">
+            <button class="category-btn active" data-category="all">Toutes les catégories</button>
         </div>
-    </div>
 
-    <div class="footer">
-        <p>© 2024 Fresque Temporelle - Histoire de l'Informatique</p>
-        <div class="social-links">
-            <a href="https://github.com/babash/TimelineNSI" class="social-link" target="_blank">
-                <img src="https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github" alt="GitHub Repository">
-            </a>
-            <a href="https://creativecommons.org/licenses/by-sa/4.0/" class="social-link" target="_blank">
-                <img src="https://img.shields.io/badge/License-CC%20BY--SA%204.0-green?style=for-the-badge" alt="CC BY-SA 4.0 License">
+        <div class="list-header" id="toggle-fiches" title="Cliquer pour afficher/masquer la liste">
+            <h2>Liste des événements disponibles</h2>
+            <a href="output/fresque_temporelle.pdf" download class="download-all-link">
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                    <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                    <polyline points="7 10 12 15 17 10"></polyline>
+                    <line x1="12" y1="15" x2="12" y2="3"></line>
+                </svg>
+                <span>Tout télécharger</span>
             </a>
         </div>
+
+        <ul class="fiche-list" id="fiches-list">
+            <!-- Les événements seront générés dynamiquement -->
+        </ul>
+
+        <footer class="index-footer">
+            <div class="footer-license">
+                <span>« Fresque Temporelle - Histoire de l'Informatique » par <a href="https://github.com/babash" target="_blank" rel="noopener noreferrer">babash</a> est placé sous la licence <a href="https://creativecommons.org/licenses/by-sa/4.0/" target="_blank" rel="license">CC BY-SA 4.0</a></span>
+            </div>
+            <div class="footer-project">
+                <a href="https://github.com/babash/TimelineNSI" target="_blank" rel="noopener noreferrer" class="footer-link-item" title="Voir le projet sur GitHub">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icon" fill="currentColor">
+                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                    </svg>
+                    <span>Voir sur GitHub</span>
+                </a>
+            </div>
+        </footer>
     </div>
 
     <script>
-        // Données des événements (seront chargées depuis le CSV)
+        // Données des événements
         let events = [];
         let categories = [];
+        let filteredEvents = [];
+
+        // Couleurs par catégorie
+        const categoryColors = {
+            'Algorithmique': '#e74c3c',
+            'Cryptographie': '#3498db',
+            'Hardware': '#2ecc71',
+            'Théorie de l\'information': '#f39c12',
+            'Réseau': '#9b59b6',
+            'Logiciel libre': '#1abc9c',
+            'Internet': '#34495e',
+            'Intelligence Artificielle': '#e67e22',
+            'Cybersécurité': '#8e44ad',
+            'Langage de programmation': '#27ae60'
+        };
 
         // Charger les données
         async function loadData() {
@@ -316,22 +391,22 @@
                 
                 // Trier les événements par date
                 events.sort((a, b) => parseInt(a.Date) - parseInt(b.Date));
+                filteredEvents = [...events];
                 
                 renderFilters();
-                renderTimeline();
+                renderEvents();
                 
-                document.getElementById('loading').style.display = 'none';
                 console.log('🎉 Données chargées avec succès !');
             } catch (error) {
                 console.error('❌ Erreur lors du chargement des données:', error);
-                document.getElementById('loading').innerHTML = `
-                    <div style="color: #e74c3c; padding: 1rem;">
+                document.getElementById('fiches-list').innerHTML = `
+                    <li style="color: #e74c3c; padding: 1rem;">
                         <h3>Erreur lors du chargement des données</h3>
                         <p>${error.message}</p>
-                        <button onclick="loadData()" style="background: #667eea; color: white; border: none; padding: 0.5rem 1rem; border-radius: 5px; cursor: pointer;">
+                        <button onclick="loadData()" style="background: #007bff; color: white; border: none; padding: 0.5rem 1rem; border-radius: 5px; cursor: pointer;">
                             Réessayer
                         </button>
-                    </div>
+                    </li>
                 `;
             }
         }
@@ -341,7 +416,6 @@
             const lines = csvText.split('\n');
             if (lines.length < 2) return [];
             
-            // Parser les en-têtes
             const headers = parseCSVLine(lines[0]);
             const data = [];
             
@@ -358,8 +432,7 @@
             
             return data;
         }
-        
-        // Parser une ligne CSV en gérant les guillemets
+
         function parseCSVLine(line) {
             const result = [];
             let current = '';
@@ -389,7 +462,7 @@
             
             uniqueCategories.forEach(category => {
                 const btn = document.createElement('button');
-                btn.className = 'filter-btn';
+                btn.className = 'category-btn';
                 btn.textContent = category;
                 btn.dataset.category = category;
                 btn.onclick = () => filterEvents(category);
@@ -397,73 +470,88 @@
             });
         }
 
-        // Rendre la timeline
-        function renderTimeline(filteredEvents = events) {
-            const timelineContainer = document.getElementById('timeline');
-            timelineContainer.innerHTML = '';
+        // Rendre les événements
+        function renderEvents() {
+            const listContainer = document.getElementById('fiches-list');
+            listContainer.innerHTML = '';
             
             filteredEvents.forEach((event, index) => {
-                const eventElement = createEventElement(event, index);
-                timelineContainer.appendChild(eventElement);
-            });
-        }
-
-        // Créer un élément d'événement
-        function createEventElement(event, index) {
-            const eventDiv = document.createElement('div');
-            eventDiv.className = 'event';
-            
-            const category = categories.find(c => c.Nom === event.Catégorie);
-            const categoryColor = getCategoryColor(event.Catégorie);
-            
-            eventDiv.innerHTML = `
-                <div class="event-content">
-                    <div class="event-date">${event.Date}</div>
-                    <div class="event-title">${event.Titre}</div>
-                    <div class="event-description">${event['Description courte']}</div>
-                    <div class="event-category" style="background-color: ${categoryColor}20; color: ${categoryColor};">
-                        ${event.Catégorie}
-                    </div>
-                    <a href="output/cards/${index + 1}.pdf" class="download-btn" download>
-                        📥 Télécharger la carte
+                const li = document.createElement('li');
+                const categoryColor = categoryColors[event.Catégorie] || '#95a5a6';
+                
+                li.innerHTML = `
+                    <a href="#" class="fiche-name" onclick="showEventDetails(${index})">
+                        <span class="event-date">${event.Date}</span>
+                        ${event.Titre}
+                        <span class="event-category" style="background-color: ${categoryColor}20; color: ${categoryColor};">
+                            ${event.Catégorie}
+                        </span>
                     </a>
-                </div>
-            `;
-            
-            return eventDiv;
+                    <a href="output/cards/${index + 1}.pdf" download class="download-link" title="Télécharger en PDF">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="icon">
+                            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path>
+                            <polyline points="7 10 12 15 17 10"></polyline>
+                            <line x1="12" y1="15" x2="12" y2="3"></line>
+                        </svg>
+                    </a>
+                `;
+                
+                listContainer.appendChild(li);
+            });
         }
 
         // Filtrer les événements
         function filterEvents(category) {
-            // Mettre à jour les boutons de filtre
-            document.querySelectorAll('.filter-btn').forEach(btn => {
+            // Mettre à jour les boutons
+            document.querySelectorAll('.category-btn').forEach(btn => {
                 btn.classList.remove('active');
             });
             event.target.classList.add('active');
             
             // Filtrer les événements
-            const filteredEvents = category === 'all' 
-                ? events 
-                : events.filter(e => e.Catégorie === category);
+            if (category === 'all') {
+                filteredEvents = [...events];
+            } else {
+                filteredEvents = events.filter(e => e.Catégorie === category);
+            }
             
-            renderTimeline(filteredEvents);
+            renderEvents();
         }
 
-        // Couleurs par catégorie
-        function getCategoryColor(category) {
-            const colors = {
-                'Algorithmique': '#e74c3c',
-                'Cryptographie': '#3498db',
-                'Hardware': '#2ecc71',
-                'Théorie de l\'information': '#f39c12',
-                'Réseau': '#9b59b6',
-                'Logiciel libre': '#1abc9c',
-                'Internet': '#34495e',
-                'Intelligence Artificielle': '#e67e22',
-                'Cybersécurité': '#8e44ad',
-                'Langage de programmation': '#27ae60'
-            };
-            return colors[category] || '#95a5a6';
+        // Recherche
+        document.getElementById('search-bar').addEventListener('input', function(e) {
+            const searchTerm = e.target.value.toLowerCase();
+            
+            if (searchTerm === '') {
+                filteredEvents = [...events];
+            } else {
+                filteredEvents = events.filter(event => 
+                    event.Titre.toLowerCase().includes(searchTerm) ||
+                    event['Description courte'].toLowerCase().includes(searchTerm)
+                );
+            }
+            
+            renderEvents();
+        });
+
+        // Toggle de la liste
+        document.getElementById('toggle-fiches').addEventListener('click', function() {
+            const list = document.getElementById('fiches-list');
+            const header = document.getElementById('toggle-fiches');
+            
+            if (list.classList.contains('collapsed')) {
+                list.classList.remove('collapsed');
+                header.classList.remove('collapsed');
+            } else {
+                list.classList.add('collapsed');
+                header.classList.add('collapsed');
+            }
+        });
+
+        // Afficher les détails d'un événement
+        function showEventDetails(index) {
+            const event = filteredEvents[index];
+            alert(`${event.Titre}\n\nDate: ${event.Date}\nCatégorie: ${event.Catégorie}\n\n${event['Description courte']}\n\n${event.Description || ''}`);
         }
 
         // Initialiser la page

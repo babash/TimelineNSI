@@ -439,6 +439,10 @@
             position: relative;
         }
 
+        .timeline:not(:empty)::before {
+            display: block; /* Afficher la barre seulement quand il y a du contenu */
+        }
+
         .timeline::before {
             content: '';
             position: absolute;
@@ -449,6 +453,7 @@
             background: linear-gradient(to bottom, var(--python-blue), var(--python-yellow));
             transform: translateX(-50%);
             border-radius: 2px;
+            display: none; /* Masquer la barre par défaut */
         }
 
         .period {

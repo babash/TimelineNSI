@@ -12,10 +12,10 @@
   "sha1": "3b61bea63a7631f86abeda5d4bbecdcfcb1a3b4e"
  },
  "11": {
-  "fichier": "Euclid flowchart.svg",
-  "format": "png",
+  "fichier": "P. Oxy. I 29.jpg",
+  "format": "jpg",
   "recadrage": "",
-  "sha1": "568fa1924ac9e1272aa76ea464ac7f6818906d65"
+  "sha1": "d320b53361e79d071fefda59e6864f8bf7b3af96"
  },
  "12": {
   "fichier": "Boole Laws of Thought 1854.png",
@@ -78,16 +78,22 @@
   "sha1": "cc849c1cf8a810a47f31d0c3978f299321f6cd76"
  },
  "21": {
-  "fichier": "Java-jvm.png",
+  "fichier": "Java-program-execution.png",
   "format": "png",
   "recadrage": "",
-  "sha1": "7f8961dc27854ba8f008e5d9097b75d643329ca4"
+  "sha1": "201293271b3bbce487dfa1743ccdd74a3eb78422"
  },
  "22": {
   "fichier": "Python-logo-notext.svg",
   "format": "png",
   "recadrage": "",
   "sha1": "632893ce081473c66de7649073fd5f3e91469953"
+ },
+ "23": {
+  "fichier": "Public key encryption.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "d0cd8f30b7c95bbc4c9420a51f977a9127839457"
  },
  "24": {
   "fichier": "Bitcoin Block Data.svg",
@@ -229,7 +235,7 @@
  },
  "45": {
   "fichier": "A sketch of the ARPANET in December 1969.png",
-  "format": "png",
+  "format": "jpg",
   "recadrage": "",
   "sha1": "50737539c7b4fcf9b03337ec12dc4c0679ecc153"
  },
@@ -294,10 +300,10 @@
   "sha1": "f8d90562421e4d6c6f17bdd35a5b2f5acb3dac15"
  },
  "56": {
-  "fichier": "Windows logo and wordmark - (1985-1989).svg",
+  "fichier": "Microsoft Windows 1.0 screenshot.png",
   "format": "png",
   "recadrage": "",
-  "sha1": "7188a1c8922b75742697dc73ca1cd0b688794ccf"
+  "sha1": "ba873e4f85979b8ea994386759acda2d1aaa969e"
  },
  "57": {
   "fichier": "Firefox 1.0.png",
@@ -311,6 +317,12 @@
   "recadrage": "",
   "sha1": "3edd11aa6fb32e0d3552869f7a1822ecb559dc21"
  },
+ "59": {
+  "fichier": "Lee Sedol (B) vs AlphaGo (W) - Game 1.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "7fc7e04ab473cc03b1ea0a232a0245435e650016"
+ },
  "6": {
   "fichier": "Bodleian MS. Huntington 214 roll332 frame36.jpg",
   "format": "jpg",
@@ -322,6 +334,12 @@
   "format": "jpg",
   "recadrage": "",
   "sha1": "c9e088e1b69d38ffd3a4dd3319f91c486d6e98b6"
+ },
+ "62": {
+  "fichier": "Countries initially affected in WannaCry ransomware attack.png",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "f9d0d924e43dd110d1258e9f3b76a896b3db29b3"
  },
  "63": {
   "fichier": "GDPR p1.svg",
@@ -348,10 +366,10 @@
   "sha1": "2fb868077bf86d52506e447b37b0260b7ac382c5"
  },
  "67": {
-  "fichier": "Logo of YouTube (2013-2015).svg",
+  "fichier": "Logo YouTube (2005-2017).svg",
   "format": "png",
   "recadrage": "",
-  "sha1": "0c97a6ed8f4634b46d224a855fe0a3574d3518f6"
+  "sha1": "644f99ed62a023433977c1d5d735222f92c0992a"
  },
  "68": {
   "fichier": "Lamarr patent.png",

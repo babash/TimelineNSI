@@ -98,22 +98,22 @@
     description API : Austrian hand-driven Jacquard loom, end of 19th century, now in the National Museum of the Textile Industry, Sliven, Bulgaria
     catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
 
-[11] Euclid flowchart.svg
-    original 330x742 image/svg+xml ; sortie 534x1200 107 ko
-    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
-    Artist : Somepics
-    Credit : Travail personnel
-    auteur retenu : Somepics
-    Restrictions :  ; AttributionRequired : true
-    description API : Euclid's algorithm. Computing the greatest common divisor of two numbers, drawn as an SVG file
-    catégories licence : CC-BY-SA-4.0; Self-published work
+[11] P. Oxy. I 29.jpg
+    original 1694x1032 image/jpeg ; sortie 1200x731 272 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Euclid
+    Credit : https://openn.library.upenn.edu/Data/0016/html/e2748.html
+    auteur retenu : Euclid
+    Restrictions :  ; AttributionRequired : false
+    description API : Oxyrhynchus papyrus (P.Oxy. I 29) showing fragment of Euclid's Elements
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
 
 [12] Boole Laws of Thought 1854.png
     original 539x895 image/png ; sortie 539x895 20 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : George Boole (1815-1864)
     Credit : Google books: https://www.google.cat/books?id=SWgLVT0otY8C
-    auteur retenu : George Boole (1815-1864)
+    auteur retenu : George Boole
     Restrictions :  ; AttributionRequired : false
     description API : Front cover of the first edition of Laws of Thought by Georege Boole (1854)
     catégories licence : Author died more than 100 years ago public domain images; Author died more than 70 years ago public domain images; CC-PD-Mark; PD-old missing SDC copyright status
@@ -183,7 +183,7 @@
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988.
     Credit : U.S. Naval Historical Center Online Library Photograph NH 96566-KN The above link is no longer valid on 13.04.2017, the image available here.
-    auteur retenu : Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988
+    auteur retenu : Naval Surface Warfare Center, Dahlgren
     Restrictions :  ; AttributionRequired : false
     description API : The First "Computer Bug" Moth found trapped between points at Relay # 70, Panel F, of the Mark II Aiken Relay Calculator while it was being tested at Harvard University, 9 September 1947. The operators affixed the moth to the computer log, with the entry: "First actual case of bug being found". (The
     catégories licence : CC-PD-Mark; PD US Navy
@@ -198,15 +198,15 @@
     description API : Hello world source code example form 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version of hello world
     catégories licence : CC-Zero; PD text; Self-published work
 
-[21] Java-jvm.png
-    original 502x362 image/png ; sortie 502x362 13 ko
-    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
-    Artist : Baptiste MATHUS
+[21] Java-program-execution.png
+    original 549x507 image/png ; sortie 549x507 18 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Loboh
     Credit : Travail personnel
-    auteur retenu : Baptiste MATHUS
+    auteur retenu : Loboh
     Restrictions :  ; AttributionRequired : true
-    description API : Schema of the general architecture of a program running in a Java Virtual Machine
-    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    description API : Ejemplo de una máquina virtual de proceso. La JVM ejecutable en una plataforma específica, es capaz de interpretar y ejecutar instrucciones expresadas en un código binario especial (el bytecode Java), el cual es generado por el compilador del lenguaje Java.
+    catégories licence : CC-BY-SA-3.0; Self-published work
 
 [22] Python-logo-notext.svg
     original 110x110 image/svg+xml ; sortie 1200x1200 88 ko
@@ -217,6 +217,16 @@
     Restrictions : trademarked ; AttributionRequired : false
     description API : Python Logo
     catégories licence : PD shape
+
+[23] Public key encryption.svg
+    original 525x513 image/svg+xml ; sortie 1200x1172 146 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Davidgothberg
+    Credit : Travail personnel
+    auteur retenu : Davidgothberg
+    Restrictions :  ; AttributionRequired : false
+    description API : Public-key cryptography / asymmetric cryptography, encryption. Anyone can encrypt using the public key, but only the holder of the private key can decrypt. Security depends on the secrecy of the private key. Original illustration by David Göthberg, Sweden. Released by David as public domain.
+    catégories licence : PD-self; Self-published work
 
 [24] Bitcoin Block Data.svg
     original 906x386 image/svg+xml ; sortie 1200x512 99 ko
@@ -263,7 +273,7 @@
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : U.S. Army Photo
     Credit : http://ftp.arl.mil/ftp/historic-computers/
-    auteur retenu : U.S. Army Photo
+    auteur retenu : U.S. Army
     Restrictions :  ; AttributionRequired : false
     description API : "U.S. Army Photo" of the EDVAC, from K. Kempf, "Historical Monograph: Electronic Computers Within the Ordnance Corps"
     catégories licence : PD US Army
@@ -373,7 +383,7 @@
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : Original téléversé par QcRef87 sur Wikipédia français.
     Credit : Transféré de fr.wikipedia à Commons par Bloody-libu utilisant CommonsHelper.
-    auteur retenu : Original téléversé par QcRef87 sur Wikipédia français
+    auteur retenu : QcRef87
     Restrictions :  ; AttributionRequired : true
     description API : Graphique (en ordonnées logarithmiques) illustrant la loi de Moore par rapport à l'évolution réelle du nombre de transistors dans les microprocesseurs Intel; en pointillés verts au-dessus, représentation de l'hypothèse selon laquelle ce nombre doublerait tous les 18 mois. Catégorie:Schémas
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
@@ -393,7 +403,7 @@
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : User Black and White on en.wikipedia
     Credit : The first image, en:Image:CD autolev crop.jpg, was made by en:User:Ubern00band edited by en:User:Black and White. Both images are licensed under en:GFDL.
-    auteur retenu : User Black and White on en.wikipedia
+    auteur retenu : Black and White
     Restrictions :  ; AttributionRequired : true
     description API : This image depicts a flat view of a CD-R with interference colours. It was scanned with an HP ScanJet 4400c, and ran through ACDSee's auto-level filter. One fallback of the image are the dust fibres. It was initially saved as .JPG with IrfanView at 90% quality, and then converted to .PNG to add tran
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
@@ -423,13 +433,13 @@
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : en:User:Wanderingstan, User:Stannered
     Credit : File:Shannon_communication_system.svg
-    auteur retenu : en:User:Wanderingstan, User:Stannered
+    auteur retenu : Wanderingstan, Stannered
     Restrictions :  ; AttributionRequired : false
     description API : Chaîne de transmission de Shannon.
     catégories licence : PD-user
 
 [45] A sketch of the ARPANET in December 1969.png
-    original 2057x3003 image/png ; sortie 822x1200 671 ko
+    original 2057x3003 image/png ; sortie 822x1200 112 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : DARPA
     Credit : https://www.darpa.mil/attachments/(2O15)%20Global%20Nav%20-%20About%20Us%20-%20History%20-%20Resources%20-%2050th%20-%20Internet%20(Approved).pdf
@@ -503,7 +513,7 @@
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : User:Gortu
     Credit : apple2history.org
-    auteur retenu : User:Gortu
+    auteur retenu : Gortu
     Restrictions :  ; AttributionRequired : false
     description API : Screenshot of VisiCalc running on an Apple II computer
     catégories licence : PD-text missing SDC copyright status; PD text
@@ -528,22 +538,22 @@
     description API : A giant and soft Tux mascotte, to thank the kernel Linux and Free software, at the conference Linux Day 2022 in Milano.
     catégories licence : CC-Zero
 
-[56] Windows logo and wordmark - (1985-1989).svg
-    original 733x117 image/svg+xml ; sortie 1200x192 84 ko
+[56] Microsoft Windows 1.0 screenshot.png
+    original 2384x1644 image/png ; sortie 1200x828 284 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
-    Artist : Original work: Microsoft
-    Credit : Original work: Moreau, Sam (17 February 2012). Redesigning the Windows Logo. Blogging Windows. Microsoft. Retrieved on 15 February 2013. This work: http://www.brandsoftheworld.com/
-    auteur retenu : Original work: Microsoft
-    Restrictions : trademarked ; AttributionRequired : false
-    description API : Logo of Microsoft Windows 1.x, 2.x and 3.0
-    catégories licence : PD textlogo
+    Artist : Rezonansowy, Microsoft
+    Credit : Ce fichier est dérivé de : Microsoft Windows 1.0 page2.jpg Microsoft Windows 1.0 page3.jpg Cette image matricielle PNG a été créée avec GIMP.
+    auteur retenu : Rezonansowy, Microsoft
+    Restrictions :  ; AttributionRequired : false
+    description API : Microsoft Windows 1.0 screenshot
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
 
 [57] Firefox 1.0.png
     original 622x539 image/png ; sortie 622x539 45 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : Original téléversé par Kaszeba sur Wikipédia kachoube.
     Credit : Transféré de csb.wikipedia à Commons.
-    auteur retenu : Original téléversé par Kaszeba sur Wikipédia kachoube
+    auteur retenu : Kaszeba
     Restrictions :  ; AttributionRequired : true
     description API : Mozilla Firefox 1.0 Zdrzëcënk ekranë Aùtora: Kaszeba
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
@@ -553,20 +563,40 @@
     licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
     Artist : Anton Chiang from Cupertino, CA, USA
     Credit : Computer History Museum
-    auteur retenu : Anton Chiang from Cupertino, CA, USA
+    auteur retenu : Anton Chiang
     Restrictions :  ; AttributionRequired : true
     description API : Computer History Museum
     catégories licence : CC-BY-2.0
+
+[59] Lee Sedol (B) vs AlphaGo (W) - Game 1.svg
+    original 341x357 image/svg+xml ; sortie 1145x1200 309 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Wesalius
+    Credit : Travail personnel
+    auteur retenu : Wesalius
+    Restrictions :  ; AttributionRequired : true
+    description API : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
 
 [61] CreeperWorm.jpg
     original 400x300 image/jpeg ; sortie 400x300 5 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Screenshot von User Worm&Virus
     Credit : Screenshot von einer Simulation des Wurms
-    auteur retenu : Screenshot von User Worm&Virus
+    auteur retenu : Worm&Virus
     Restrictions :  ; AttributionRequired : false
     description API : Bildschirmtext, der vom Netzwerkwurm Creeper angezeigt wird
     catégories licence : CC-Zero
+
+[62] Countries initially affected in WannaCry ransomware attack.png
+    original 1425x625 image/png ; sortie 1200x526 173 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : User:Roke
+    Credit : BlankMap-World-v2.png
+    auteur retenu : Roke
+    Restrictions :  ; AttributionRequired : true
+    description API : Countries initially affected in WannaCry ransomware attack. The source says: "...countries affected in the first few hours of the cyber-attack..."
+    catégories licence : CC-BY-SA-3.0
 
 [63] GDPR p1.svg
     original 677x958 image/svg+xml ; sortie 848x1200 388 ko
@@ -608,14 +638,14 @@
     description API : I offered Facebook $101B, but they turned me down...
     catégories licence : CC-BY-2.0
 
-[67] Logo of YouTube (2013-2015).svg
-    original 668x279 image/svg+xml ; sortie 1200x502 53 ko
+[67] Logo YouTube (2005-2017).svg
+    original 546x277 image/svg+xml ; sortie 1200x611 84 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
-    Artist : YouTube
-    Credit : http://logos.wikia.com/wiki/YouTube
-    auteur retenu : YouTube
+    Artist : HernandoJoseAJ
+    Credit : Travail personnel
+    auteur retenu : HernandoJoseAJ
     Restrictions : trademarked ; AttributionRequired : false
-    description API : The YouTube logo introduced on December 19, 2013
+    description API : YouTube logo from 2005–2011.
     catégories licence : PD textlogo
 
 [68] Lamarr patent.png
@@ -668,4 +698,4 @@
     description API : Spanning tree protocol at work. Figure 6.
     catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
 
-TOTAL : 67 images, 10711 ko
+TOTAL : 70 images, 11183 ko

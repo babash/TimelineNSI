@@ -1,0 +1,29 @@
+# carte w60 requêtes aa30f58cd11a
+{"tuile": 400, "colonnes": 2, "titres": ["File:Exemple de conversation ChatGPT.png", "File:ChatGPT-Logo.svg", "File:ChatGPT essay draft.png"]}
+
+[1] File:Exemple de conversation ChatGPT.png
+    taille 814x1254 image/png 78 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mattoutankamon
+    crédit : Travail personnel
+    description : Illustration des capacités de synthèse, de mise en contexte et de génération. Réalisé avec la version de GPT-3.5 du 24 mai 2023.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Screenshots of ChatGPT
+
+[2] File:ChatGPT-Logo.svg
+    taille 512x512 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI
+    crédit : Travail personnel basé sur : ChatGPT-Logo.png
+    description : This image represents the official branding for ChatGPT.
+    catégories licence : PD shape
+    catégories : Black logos with transparent background; ChatGPT logos; Valid SVG created with Other tools; With trademark
+
+[3] File:ChatGPT essay draft.png
+    taille 1167x811 image/png 126 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ChatGPT
+    crédit : Travail personnel
+    description : Example of asking ChatGPT to generate an essay draft.
+    catégories licence : CC-Zero; PD-algorithm; Self-published work
+    catégories : Screenshots of ChatGPT

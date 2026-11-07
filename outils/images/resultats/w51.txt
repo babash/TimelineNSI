@@ -1,0 +1,38 @@
+# carte w51 requêtes 498ee91334b7
+{"tuile": 400, "colonnes": 2, "titres": ["File:Version 7 Unix SIMH PDP11 Emulation DMR.png", "File:Version 7 UNIX SIMH PDP11 Kernels Shell.png", "File:Actual DEC UNIX License Plate DSC 0317.jpg", "File:Pdp-7-oslo-2004.jpeg"]}
+
+[1] File:Version 7 Unix SIMH PDP11 Emulation DMR.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The user ("dmr") and home directory ("/usr/dmr") for Dennis Ritchie are still present. Version 7 is considered an "Ancient Unix" and is no longer proprietary.
+    catégories licence : CC-Zero; PDP-11; Self-published work
+    catégories : Research Unix
+
+[2] File:Version 7 UNIX SIMH PDP11 Kernels Shell.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. Listing the files for Unix kernel variants, and the Bourne shell. Note the tiny sizes (50k kernels, 17k shell).
+    catégories licence : CC-Zero; Self-published work
+    catégories : Command-line interface; Ls; Research Unix
+
+[3] File:Actual DEC UNIX License Plate DSC 0317.jpg
+    taille 4239x2157 image/jpeg 1377 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Armandops
+    crédit : Travail personnel
+    description : Original UNIX license plate in the NH style. aps
+    catégories licence : CC-BY-SA-3.0; Self-published work; Unix promotional license plates
+    catégories : Bell Labs; Digital Equipment Corporation; Live Free or Die (text); Taken with Nikon D600
+
+[4] File:Pdp-7-oslo-2004.jpeg
+    taille 2272x1704 image/jpeg 346 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Matiashf (étant donné la revendication de droit d’auteur).
+    crédit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
+    description : A modified PDP-7 under restoration in Oslo, Norway Photo taken by me, Matias Fjeld (matiashf), on 2004-12-09.
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration redundant; PDP-7; Self-published work
+    catégories : Assumed own work; DECtape; Files with no machine-readable source; Old oscilloscopes with round CRT screens; Oscilloscopes built into computers; Punched tapes

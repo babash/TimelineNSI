@@ -1,0 +1,20 @@
+# carte w54 requêtes f18492570a77
+{"tuile": 400, "colonnes": 2, "titres": ["File:Free Software Foundation office (2346065159).jpg", "File:GNU.png"]}
+
+[1] File:Free Software Foundation office (2346065159).jpg
+    taille 2816x2112 image/jpeg 2420 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Mike Linksvayer from Oakland, California
+    crédit : dsc03106.jpg
+    description : dsc03106.jpg
+    catégories licence : CC-Zero
+    catégories : FSF letter combinations; Flickr images reviewed by FlickreviewR 2; Free Software Foundation office, Boston
+
+[2] File:GNU.png
+    taille 276x256 image/png 5 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Richard Stallman
+    crédit : http://www.gnu.org/gnu/manifesto.it.html
+    description : Gnu is not unix
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : GNU head; With trademark

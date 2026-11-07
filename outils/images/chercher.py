@@ -5,6 +5,7 @@ Pour chaque carte, écrit dans resultats/ :
   <n>.txt  le résumé des candidates (taille, licence, auteur, description) ;
   <n>.jpg  une planche d'aperçus numérotés (moins de 50 ko).
 Une carte déjà traitée avec les mêmes requêtes n'est pas refaite.
+Mettre "_actif": true dans requetes.json pour relancer des recherches.
 """
 import hashlib
 import io
@@ -98,6 +99,9 @@ def planche(liste, chemin, tuile=TUILE, cols=COLS):
 
 def main():
     reqs = json.loads((ICI / "requetes.json").read_text(encoding="utf-8"))
+    if not reqs.get("_actif", True):
+        print("Recherche désactivée (_actif = false dans requetes.json)")
+        return
     RES.mkdir(exist_ok=True)
     for carte, req in reqs.items():
         if carte.startswith("_"):

@@ -1,0 +1,73 @@
+carte,fichier,format,recadrage,auteur,description
+1,Word Aamu in two Egyptian scripts circa 1900 BCE.jpg,jpg,,,"Hiéroglyphes peints de la tombe de Khnoumhotep II à Beni Hassan, vers 1900 av. J.-C."
+2,Skytale auf Rundholz 3.jpg,jpg,,,"Deux scytales : des bandes portant des lettres, enroulées autour de bâtons de bois"
+3,Antikythera Fragment A (Front).webp,jpg,,,Fragment principal du mécanisme d'Anticythère : des roues dentées en bronze corrodé
+4,Caesar3.svg,png,,,Chiffre de César avec un décalage de 3 : chaque lettre est remplacée par celle située trois rangs plus loin
+5,"0121521 Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh 37 (where is zero in this Hindu inscription).jpg",jpg,,,"Inscription du temple Chaturbhuj de Gwalior (876) : le nombre 270 écrit avec un zéro, agrandi dans l'encadré"
+6,Bodleian MS. Huntington 214 roll332 frame36.jpg,jpg,,,"Deux pages d'un manuscrit du traité d'algèbre d'al-Khwarizmi, avec des figures géométriques"
+7,Al-kindi cryptographic 1.jpg,jpg,,,Page du manuscrit d'al-Kindi sur le déchiffrement des messages secrets
+8,Pascaline-CnAM 823-2-IMG 1510-white.jpg,jpg,,,Pascaline du musée des Arts et Métiers : boîte en laiton avec roues de saisie et lucarnes d'affichage
+9,Leibniz-Rechenmaschine TSD (06).JPG,jpg,,,"Reconstitution de la machine à calculer de Leibniz, avec sa manivelle et ses cadrans"
+10,Hand-driven-jacquard-loom.jpg,jpg,,,"Métier à tisser Jacquard du XIXe siècle, avec sa chaîne de cartes perforées en haut"
+11,P. Oxy. I 29.jpg,jpg,,,"Fragment de papyrus des Éléments d'Euclide (vers l'an 100), l'un des plus anciens textes conservés de l'ouvrage, avec une figure"
+12,Boole Laws of Thought 1854.png,png,,George Boole,Page de titre du livre de George Boole « An Investigation of the Laws of Thought » (1854)
+13,Diagram for the computation of Bernoulli numbers.jpg,jpg,,,Tableau de la note G : programme de calcul des nombres de Bernoulli pour la machine analytique (1843)
+14,Turing Machine Model Davey 2012.jpg,jpg,,,Modèle physique d'une machine de Turing : un ruban et une tête qui lit et écrit des symboles
+15,Apollo DSKY CHM.agr.jpg,jpg,,,"DSKY, le clavier et l'afficheur de l'ordinateur de guidage d'Apollo, pour dialoguer avec le logiciel"
+16,Relational key SVG.svg,png,,,Deux tables reliées par une clé : la valeur « mark » de la première table renvoie à une ligne de la seconde
+17,Fortran punch card ESA.jpg,jpg,,,Carte perforée portant une ligne de programme FORTRAN
+18,COBOL Report Apr60.djvu,jpg,,,Couverture du premier rapport décrivant le langage COBOL (avril 1960)
+19,"First Computer Bug, 1947.jpg",jpg,,"Naval Surface Warfare Center, Dahlgren",Page du journal de bord du Harvard Mark II (1947) avec un papillon de nuit collé : « premier cas réel de bug »
+20,Hello world c.svg,png,,,"Programme « hello, world » écrit en langage C"
+21,Java-program-execution.png,png,,,"Un programme Java est compilé en bytecode, puis exécuté par une machine virtuelle Java sous Windows, Linux ou Mac"
+22,Python-logo-notext.svg,png,,,Logo du langage Python : deux serpents stylisés bleu et jaune
+23,Public key encryption.svg,png,,,Chiffrement à clé publique : « Hello Alice! » est chiffré avec la clé publique d'Alice et seule sa clé privée permet de le déchiffrer
+24,Bitcoin Block Data.svg,png,,,Schéma d'une chaîne de blocs : chaque bloc contient l'empreinte du bloc précédent
+25,AES-SubBytes.svg,png,,,Étape SubBytes de l'AES : chaque octet de la grille 4 × 4 est remplacé à l'aide d'une table de substitution
+26,"Analytical engine trial model, Charles Babbage, 1834-1871 - Science Museum, London - DSC05565.jpg",jpg,,,Modèle d'essai d'une partie de la machine analytique de Babbage (Science Museum de Londres)
+27,Manchester baby head on.JPG,jpg,,,"Réplique de la « Baby » de Manchester (1948), prototype du Manchester Mark 1 : armoires d'électronique et écran"
+28,ARL EDVAC 01.png,jpg,,U.S. Army,Armoires de l'EDVAC installé au laboratoire de recherche balistique de l'armée américaine
+29,"UNIVAC I console, 1951, Computer History Museum.jpg",jpg,,,"Pupitre de commande de l'UNIVAC I (1951), au Computer History Museum"
+30,Intel C4004.jpg,jpg,,,"Puce Intel 4004 dans son boîtier blanc et or, avec ses 16 broches"
+31,Altair 8800 computer in Intel Museum.jpg,jpg,,,Micro-ordinateur Altair 8800 : façade bleue avec interrupteurs et voyants
+32,Ibm pc 5150.jpg,jpg,,,"IBM PC 5150 avec son écran, son unité centrale à deux lecteurs de disquettes et son clavier"
+33,"Computer macintosh 128k, 1984 (all about Apple onlus).jpg",jpg,,,Apple Macintosh 128K de 1984 avec son clavier et sa souris
+34,"Zuse Z1 Nachbau, Deutsches Technikmuseum Berlin, 1.jpg",jpg,,,"Reconstruction de la machine Z1 de Konrad Zuse sous vitrine, au Deutsches Technikmuseum de Berlin"
+35,"Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg",jpg,,,Reconstruction de Colossus à Bletchley Park : baies de lampes et lecteur de ruban perforé
+36,A replica of the first working transistor 02.jpg,jpg,,,Réplique du premier transistor (1947) : un bloc de germanium touché par deux contacts en or
+37,Replica IC.png,jpg,,,Réplique du premier circuit intégré de Jack Kilby (1958)
+38,Computer mouse prototype top.jpg,jpg,,Science Museum Group,Réplique du prototype de souris de Douglas Engelbart : un boîtier en bois avec un bouton rouge
+39,Loi de Moore.png,png,,QcRef87,"Graphique de la loi de Moore : nombre de transistors des processeurs selon l'année, sur une échelle logarithmique"
+40,Atari-2600-Wood-4Sw-Set.jpg,jpg,,,"Console Atari 2600 en façade bois, avec sa manette"
+41,CD-ROM.png,jpg,,Black and White,Disque CD-ROM aux reflets irisés
+42,"Intuix USB flash drive, 256 MB.jpg",jpg,,,Clé USB de 256 Mo au boîtier transparent rouge
+43,Original iPhone docked.jpg,jpg,,,Premier iPhone (2007) posé sur son socle
+44,Shannon communication system fr.svg,png,,"Wanderingstan, Stannered","Schéma de Shannon : source d'information, transmetteur, signal perturbé par une source de bruit, récepteur, destination"
+45,A sketch of the ARPANET in December 1969.png,jpg,,,"Croquis de l'ARPANET en décembre 1969 : quatre nœuds reliés (UCLA, SRI, UCSB, Utah)"
+46,"Timesharing and Development KA-10s at BBN, circa 1970.jpg",jpg,,,Les deux ordinateurs PDP-10 de BBN entre lesquels le premier e-mail a été envoyé (vers 1970)
+47,Ethernet RJ45 connector p1160054.jpg,jpg,,David Monniaux,Prise RJ45 au bout d'un câble Ethernet
+48,First Web Server.jpg,jpg,,Coolcaesar,Ordinateur NeXT qui a servi de premier serveur web au CERN
+49,NCSA Mosaic Browser Screenshot.png,png,,,Capture d'écran du navigateur NCSA Mosaic affichant une page web
+50,Internet of things signed by the author.jpg,jpg,,Wilgengebroed,Dessin de l'Internet des objets : une Terre entourée d'objets connectés
+51,Version 7 Unix SIMH PDP11 Emulation DMR.png,png,,,Terminal d'UNIX Version 7 (1979) : la commande ls -l affiche les fichiers et les dossiers du système
+52,Visicalc.png,png,,Gortu,"Écran du tableur VisiCalc : lignes, colonnes et calcul d'un total"
+53,MS-DOS 6.22.jpg,jpg,,,Écran de démarrage de MS-DOS avec l'invite de commande C:\>
+54,Free Software Foundation office (2346065159).jpg,jpg,,Mike Linksvayer,"Bureaux de la Free Software Foundation à Boston, avec le nom de la fondation au mur"
+55,"Tux, the Linux penguin I.jpg",jpg,,,"Figurine de Tux, le manchot mascotte de Linux"
+56,Microsoft Windows 1.0 screenshot.png,png,,,"Écran de Windows 1.0 : plusieurs fenêtres côte à côte (horloge, gestionnaire de fichiers, tableur et graphique)"
+57,Firefox 1.0.png,png,,Kaszeba,Capture d'écran du navigateur Firefox 1.0 et de sa page de démarrage
+58,IBM Deep Blue at Computer History Museum (9361685537).jpg,jpg,,Anton Chiang,"Armoire de l'ordinateur Deep Blue d'IBM, au Computer History Museum"
+59,Lee Sedol (B) vs AlphaGo (W) - Game 1.svg,png,,,"Relevé de la première partie entre Lee Sedol (noirs) et AlphaGo (blancs), mars 2016 : chaque pierre porte son numéro de coup"
+60,ChatGPT-Logo.svg,png,,,Logo de ChatGPT : un entrelacs noir en forme de fleur
+61,CreeperWorm.jpg,jpg,,Worm&Virus,"Message affiché par Creeper : « I'M THE CREEPER, CATCH ME IF YOU CAN »"
+62,Countries initially affected in WannaCry ransomware attack.png,png,,Roke,"Carte des pays touchés dès le début de l'attaque WannaCry, en mai 2017 (en rouge)"
+63,OJ L 119 of 2016 - FR French.pdf,png,"0,0,1,0.67",,"Journal officiel de l'Union européenne du 4 mai 2016, qui publie en premier le règlement (UE) 2016/679, le RGPD"
+64,Google’s First Production Server.jpg,jpg,,Steve Jurvetson,Premier serveur de production de Google (1999) : des cartes mères empilées dans une baie
+65,Wikipedia Screenshot 2001-12-17.png,png,,,Page d'accueil de Wikipédia en anglais en décembre 2001
+66,Facebook Like sign.jpg,jpg,,Kevin Krejci,Panneau à l'entrée du siège de Facebook : le pouce levé du bouton « J'aime »
+67,Logo YouTube (2005-2017).svg,png,,,"Logo de YouTube utilisé de 2005 à 2017, avec la devise « Broadcast Yourself »"
+68,Lamarr patent.png,png,,,Première page du brevet américain 2 292 387 « Secret Communication System » (1942)
+69,Bletchley Park Naval Enigma IMG 3604.JPG,jpg,,Magnus Manske,Machine Enigma de la marine allemande exposée à Bletchley Park
+70,ENIAC Penn1.jpg,jpg,,"Paul W. Shaffer, University of Pennsylvania",Panneaux de l'ENIAC : on programmait la machine en branchant des câbles et en réglant des commutateurs
+71,"Capsule, Mercury, MA-6.jpg",jpg,,,"Capsule Mercury « Friendship 7 » de John Glenn, au musée de l'Air et de l'Espace de Washington"
+74,Spanning tree protocol at work 6.svg,png,,,Réseau de ponts après le protocole Spanning Tree : un lien est bloqué pour supprimer la boucle

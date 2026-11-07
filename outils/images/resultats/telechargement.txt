@@ -1,0 +1,721 @@
+[1] Word Aamu in two Egyptian scripts circa 1900 BCE.jpg
+    original 824x701 image/jpeg ; sortie 824x701 110 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Macquarie University
+    Credit : Cette image a été extraite d'un autre fichier
+    auteur retenu : Macquarie University
+    Restrictions :  ; AttributionRequired : false
+    description API : Word Aamu in two Egyptian scripts circa 1900 BCE
+    catégories licence : CC-PD-Mark; PD-Art (PD-old-100-expired); PD-Art missing SDC copyright status; PD-old-100-expired; PD-old missing SDC copyright status
+
+[2] Skytale auf Rundholz 3.jpg
+    original 3825x5100 image/jpeg ; sortie 900x1200 259 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Burkhard Mücke
+    Credit : Travail personnel
+    auteur retenu : Burkhard Mücke
+    Restrictions :  ; AttributionRequired : true
+    description API : Schrifttypen und Schriftquellen im Deutschen Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[3] Antikythera Fragment A (Front).webp
+    original 3648x3648 image/webp ; sortie 1200x1200 326 ko
+    licence API : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK ; retenue : CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+    Artist : Logg Tandy
+    Credit : Travail personnel
+    auteur retenu : Logg Tandy
+    Restrictions :  ; AttributionRequired : true
+    description API : Fragment principal de la machine d'Anticythère. Le mécanisme consiste en un système complexe de 32 roues et plaques portant des inscriptions relatives aux signes du zodiaque et aux mois. L'étude des fragments suggère qu'il s'agissait d'une sorte d'astrolabe utilisée pour la navigation maritime. L'in
+    catégories licence : CC-BY-4.0; Self-published work
+
+[4] Caesar3.svg
+    original 856x361 image/svg+xml ; sortie 1200x505 108 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Cepheus
+    Credit : Travail personnel
+    auteur retenu : Cepheus
+    Restrictions :  ; AttributionRequired : false
+    description API : Chiffre de César avec une clé de 3.
+    catégories licence : PD-self; Self-published work
+
+[5] 0121521 Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh 37 (where is zero in this Hindu inscription).jpg
+    original 5016x3000 image/jpeg ; sortie 1200x718 277 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Ms Sarah Welch
+    Credit : Travail personnel
+    auteur retenu : Ms Sarah Welch
+    Restrictions :  ; AttributionRequired : false
+    description API : The Chaturbhuj Temple of Gwalior is a Hindu temple dedicated to Vishnu excavated in a rock face in the Gwalior Fort, Madhya Pradesh, India. The temple is famous for the earliest known inscription in the world that uses the symbol "0" to mean zero (see, Georges Ifrah, The Universal History of Numbers
+    catégories licence : CC-Zero; Self-published work
+
+[6] Bodleian MS. Huntington 214 roll332 frame36.jpg
+    original 1000x722 image/jpeg ; sortie 1000x722 255 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Al-Khawarizmi
+    Credit : Bodleian Libraries
+    auteur retenu : Al-Khawarizmi
+    Restrictions :  ; AttributionRequired : false
+    description API : Text pages from Algebra manuscript with geometrical solutions to two quadratic equations.
+    catégories licence : CC-PD-Mark; PD-Art (PD-old-auto-expired); PD-old-100-expired
+
+[7] Al-kindi cryptographic 1.jpg
+    original 938x1390 image/jpeg ; sortie 810x1200 248 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Auteur inconnuUnknown author
+    Credit : Travail personnel
+    auteur retenu : domaine public
+    Restrictions :  ; AttributionRequired : false
+    description API : صفحة من مخطوطة الكندي (رسالة في المُعَمَّى) محفوظة في المكتبة السليمانية في إسطنبول تحت رقم 4832.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+
+[8] Pascaline-CnAM 823-2-IMG 1510-white.jpg
+    original 4500x3000 image/jpeg ; sortie 1200x800 91 ko
+    licence API : CC BY-SA 3.0 fr | cc-by-sa-3.0-fr | https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en -> OK ; retenue : CC BY-SA 3.0 FR https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
+    Artist : Rama
+    Credit : Travail personnel
+    auteur retenu : Rama
+    Restrictions :  ; AttributionRequired : true
+    description API : 
+    catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-FR; Self-published work
+
+[9] Leibniz-Rechenmaschine TSD (06).JPG
+    original 4000x2248 image/jpeg ; sortie 1200x674 139 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Dr. Bernd Gross
+    Credit : Travail personnel
+    auteur retenu : Dr. Bernd Gross
+    Restrictions :  ; AttributionRequired : true
+    description API : Leibniz-Rechenmaschine, Mainz, um 1670; (Nachbau von N. Lehmann an der TU Dresden), Exponat in den Technischen Sammlungen Dresden
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[10] Hand-driven-jacquard-loom.jpg
+    original 1500x2000 image/jpeg ; sortie 900x1200 285 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Edal Anton Lefterov
+    Credit : Travail personnel
+    auteur retenu : Edal Anton Lefterov
+    Restrictions :  ; AttributionRequired : true
+    description API : Austrian hand-driven Jacquard loom, end of 19th century, now in the National Museum of the Textile Industry, Sliven, Bulgaria
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+
+[11] P. Oxy. I 29.jpg
+    original 1694x1032 image/jpeg ; sortie 1200x731 272 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Euclid
+    Credit : https://openn.library.upenn.edu/Data/0016/html/e2748.html
+    auteur retenu : Euclid
+    Restrictions :  ; AttributionRequired : false
+    description API : Oxyrhynchus papyrus (P.Oxy. I 29) showing fragment of Euclid's Elements
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
+
+[12] Boole Laws of Thought 1854.png
+    original 539x895 image/png ; sortie 539x895 20 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : George Boole (1815-1864)
+    Credit : Google books: https://www.google.cat/books?id=SWgLVT0otY8C
+    auteur retenu : George Boole
+    Restrictions :  ; AttributionRequired : false
+    description API : Front cover of the first edition of Laws of Thought by Georege Boole (1854)
+    catégories licence : Author died more than 100 years ago public domain images; Author died more than 70 years ago public domain images; CC-PD-Mark; PD-old missing SDC copyright status
+
+[13] Diagram for the computation of Bernoulli numbers.jpg
+    original 2000x1400 image/jpeg ; sortie 1200x840 255 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Ada Lovelace
+    Credit : http://www.sophiararebooks.com/pictures/3544a.jpg
+    auteur retenu : Ada Lovelace
+    Restrictions :  ; AttributionRequired : false
+    description API : Diagram of an algorithm for the Analytical Engine for the computation of Bernoulli numbers, from Sketch of The Analytical Engine Invented by Charles Babbage by Luigi Menabrea with notes by Ada Lovelace
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
+
+[14] Turing Machine Model Davey 2012.jpg
+    original 5066x3377 image/jpeg ; sortie 1200x800 124 ko
+    licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+    Artist : Rocky Acosta
+    Credit : Travail personnel
+    auteur retenu : Rocky Acosta
+    Restrictions :  ; AttributionRequired : true
+    description API : Turing Machine, reconstructed by Mike Davey as seen at Go Ask ALICE at Harvard University
+    catégories licence : CC-BY-3.0; Self-published work
+
+[15] Apollo DSKY CHM.agr.jpg
+    original 2458x2733 image/jpeg ; sortie 1079x1200 190 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : ArnoldReinhold
+    Credit : Travail personnel
+    auteur retenu : ArnoldReinhold
+    Restrictions :  ; AttributionRequired : true
+    description API : Apollo Display and Keyboard (DSKY) at the Computer History Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[16] Relational key SVG.svg
+    original 300x258 image/svg+xml ; sortie 1200x1032 178 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : IkamusumeFan
+    Credit : Travail personnel
+    auteur retenu : IkamusumeFan
+    Restrictions :  ; AttributionRequired : true
+    description API : Vector image of Relational key.png.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+
+[17] Fortran punch card ESA.jpg
+    original 4421x1956 image/jpeg ; sortie 1200x531 174 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Till Niermann
+    Credit : Travail personnel
+    auteur retenu : Till Niermann
+    Restrictions :  ; AttributionRequired : true
+    description API : Fortran punch card of European Space Agency (ESA)
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+
+[18] COBOL Report Apr60.djvu
+    original 2368x3108 image/vnd.djvu ; sortie 914x1200 109 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : CODASYL
+    Credit : https://ia801604.us.archive.org/3/items/bitsavers_codasylCOB_6843924/COBOL_Report_Apr60.djvu
+    auteur retenu : CODASYL
+    Restrictions :  ; AttributionRequired : false
+    description API : The government report which introduced COBOL, one of the world's most-used programming languages.
+    catégories licence : PD-scan (PD-US-no notice); PD US no notice
+
+[19] First Computer Bug, 1947.jpg
+    original 2889x2285 image/jpeg ; sortie 1200x949 181 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988.
+    Credit : U.S. Naval Historical Center Online Library Photograph NH 96566-KN The above link is no longer valid on 13.04.2017, the image available here.
+    auteur retenu : Naval Surface Warfare Center, Dahlgren
+    Restrictions :  ; AttributionRequired : false
+    description API : The First "Computer Bug" Moth found trapped between points at Relay # 70, Panel F, of the Mark II Aiken Relay Calculator while it was being tested at Harvard University, 9 September 1947. The operators affixed the moth to the computer log, with the entry: "First actual case of bug being found". (The
+    catégories licence : CC-PD-Mark; PD US Navy
+
+[20] Hello world c.svg
+    original 805x201 image/svg+xml ; sortie 1200x300 35 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Shaddim
+    Credit : Travail personnel
+    auteur retenu : Shaddim
+    Restrictions :  ; AttributionRequired : false
+    description API : Hello world source code example form 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version of hello world
+    catégories licence : CC-Zero; PD text; Self-published work
+
+[21] Java-program-execution.png
+    original 549x507 image/png ; sortie 549x507 18 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Loboh
+    Credit : Travail personnel
+    auteur retenu : Loboh
+    Restrictions :  ; AttributionRequired : true
+    description API : Ejemplo de una máquina virtual de proceso. La JVM ejecutable en una plataforma específica, es capaz de interpretar y ejecutar instrucciones expresadas en un código binario especial (el bytecode Java), el cual es generado por el compilador del lenguaje Java.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+
+[22] Python-logo-notext.svg
+    original 110x110 image/svg+xml ; sortie 1200x1200 88 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : www.python.org
+    Credit : www.python.org
+    auteur retenu : www.python.org
+    Restrictions : trademarked ; AttributionRequired : false
+    description API : Python Logo
+    catégories licence : PD shape
+
+[23] Public key encryption.svg
+    original 525x513 image/svg+xml ; sortie 1200x1172 146 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Davidgothberg
+    Credit : Travail personnel
+    auteur retenu : Davidgothberg
+    Restrictions :  ; AttributionRequired : false
+    description API : Public-key cryptography / asymmetric cryptography, encryption. Anyone can encrypt using the public key, but only the holder of the private key can decrypt. Security depends on the secrecy of the private key. Original illustration by David Göthberg, Sweden. Released by David as public domain.
+    catégories licence : PD-self; Self-published work
+
+[24] Bitcoin Block Data.svg
+    original 906x386 image/svg+xml ; sortie 1200x512 99 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Matthäus Wander
+    Credit : Travail personnel
+    auteur retenu : Matthäus Wander
+    Restrictions :  ; AttributionRequired : true
+    description API : Graphic of data fields in Bitcoin block chain. Simplified depiction: some fields are missing. Prev_Hash: hash value of previous block. The purpose is to chain all blocks together. Tx_root: root hash value of a hash tree (w:merkle tree) over all transactions. Timestamp: creation time of block, as see
+    catégories licence : CC-BY-SA-3.0; Self-published work
+
+[25] AES-SubBytes.svg
+    original 810x420 image/svg+xml ; sortie 1200x623 151 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Matt Crypto
+    Credit : Travail personnel
+    auteur retenu : Matt Crypto
+    Restrictions :  ; AttributionRequired : false
+    description API : SubBytes operation for AES
+    catégories licence : PD-self; Self-published work
+
+[26] Analytical engine trial model, Charles Babbage, 1834-1871 - Science Museum, London - DSC05565.jpg
+    original 5472x3648 image/jpeg ; sortie 1200x800 203 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Daderot
+    Credit : Travail personnel
+    auteur retenu : Daderot
+    Restrictions :  ; AttributionRequired : false
+    description API : Exhibit in the Science Museum, London, UK.
+    catégories licence : CC-Zero; Self-published work
+
+[27] Manchester baby head on.JPG
+    original 5376x2904 image/jpeg ; sortie 1200x648 203 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Geni
+    Credit : Photo by user:geni
+    auteur retenu : Geni
+    Restrictions :  ; AttributionRequired : true
+    description API : Photo of the recreation of the Manchester Small-Scale Experimental Machine (AKA the manchester baby) in the museum of science and industry
+    catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+
+[28] ARL EDVAC 01.png
+    original 1093x1024 image/png ; sortie 1093x1024 190 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : U.S. Army Photo
+    Credit : http://ftp.arl.mil/ftp/historic-computers/
+    auteur retenu : U.S. Army
+    Restrictions :  ; AttributionRequired : false
+    description API : "U.S. Army Photo" of the EDVAC, from K. Kempf, "Historical Monograph: Electronic Computers Within the Ordnance Corps"
+    catégories licence : PD US Army
+
+[29] UNIVAC I console, 1951, Computer History Museum.jpg
+    original 4566x3044 image/jpeg ; sortie 1200x800 207 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : The wub
+    Credit : Travail personnel
+    auteur retenu : The wub
+    Restrictions :  ; AttributionRequired : true
+    description API : UNIVAC I console, 1951, Computer History Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[30] Intel C4004.jpg
+    original 6000x4000 image/jpeg ; sortie 1200x800 101 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Thomas Nguyen
+    Credit : Travail personnel
+    auteur retenu : Thomas Nguyen
+    Restrictions :  ; AttributionRequired : true
+    description API : Un processeur Intel C4004 avec traces grises (version sans traces grises).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[31] Altair 8800 computer in Intel Museum.jpg
+    original 4032x3024 image/jpeg ; sortie 1200x900 174 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : David290
+    Credit : Travail personnel
+    auteur retenu : David290
+    Restrictions :  ; AttributionRequired : true
+    description API : Altair 8800 computer in Intel Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[32] Ibm pc 5150.jpg
+    original 1920x1784 image/jpeg ; sortie 1200x1115 147 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Ruben de Rijcke
+    Credit : Travail personnel
+    auteur retenu : Ruben de Rijcke
+    Restrictions :  ; AttributionRequired : true
+    description API : IBM Personal Computer model 5150 with monochrome phosphor monitor (model number 5151) and IBM PC keyboard.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+
+[33] Computer macintosh 128k, 1984 (all about Apple onlus).jpg
+    original 2312x2132 image/jpeg ; sortie 1200x1106 223 ko
+    licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+    Artist : Sailko
+    Credit : Travail personnel
+    auteur retenu : Sailko
+    Restrictions :  ; AttributionRequired : true
+    description API : Neo Preistoria exhibition (Milan 2016)
+    catégories licence : CC-BY-3.0; Self-published work
+
+[34] Zuse Z1 Nachbau, Deutsches Technikmuseum Berlin, 1.jpg
+    original 4608x3456 image/jpeg ; sortie 1200x900 219 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Morn
+    Credit : Travail personnel
+    auteur retenu : Morn
+    Restrictions :  ; AttributionRequired : true
+    description API : 1989 reconstruction of the Zuse Z1 at the German Museum of Technology
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+
+[35] Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg
+    original 640x480 image/jpeg ; sortie 640x480 89 ko
+    licence API : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK ; retenue : CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+    Artist : Ian Petticrew
+    Credit : From geograph.org.uk
+    auteur retenu : Ian Petticrew
+    Restrictions :  ; AttributionRequired : true
+    description API : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station a
+    catégories licence : CC-BY-SA-2.0
+
+[36] A replica of the first working transistor 02.jpg
+    original 1600x1850 image/jpeg ; sortie 1038x1200 192 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Mister rf
+    Credit : Travail personnel
+    auteur retenu : Mister rf
+    Restrictions :  ; AttributionRequired : true
+    description API : A replica of the first working transistor compared to a 2N43 transistor
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[37] Replica IC.png
+    original 5425x3713 image/png ; sortie 1200x821 154 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Florian Schäffer
+    Credit : Travail personnel
+    auteur retenu : Florian Schäffer
+    Restrictions :  ; AttributionRequired : true
+    description API : Replica of first integrated circuit by Jack Kilby. Nixdorf-Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[38] Computer mouse prototype top.jpg
+    original 958x1046 image/jpeg ; sortie 958x1046 102 ko
+    licence API : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK ; retenue : CC BY 4.0 https://creativecommons.org/licenses/by/4.0
+    Artist : This file comes from Science Museum Collections, a website operated by Science Museum Group, a non-departmental public body in the UK. Ce bandeau n’indique rien sur le statut de l’œuvre au regard du droit d'auteur. Un bandeau de droit d’auteur est requis. Voir Commons:À propos des licences pour plus d’informations.
+    Credit : [1]
+    auteur retenu : Science Museum Group
+    Restrictions :  ; AttributionRequired : true
+    description API : Replica of original computer mouse prototype designed by Douglas Englebert in 1963 and patented in 1970, made by the Stanford Research Institute, California, United States, 2011.
+    catégories licence : CC-BY-4.0
+
+[39] Loi de Moore.png
+    original 900x625 image/png ; sortie 900x625 11 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : Original téléversé par QcRef87 sur Wikipédia français.
+    Credit : Transféré de fr.wikipedia à Commons par Bloody-libu utilisant CommonsHelper.
+    auteur retenu : QcRef87
+    Restrictions :  ; AttributionRequired : true
+    description API : Graphique (en ordonnées logarithmiques) illustrant la loi de Moore par rapport à l'évolution réelle du nombre de transistors dans les microprocesseurs Intel; en pointillés verts au-dessus, représentation de l'hypothèse selon laquelle ce nombre doublerait tous les 18 mois. Catégorie:Schémas
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+
+[40] Atari-2600-Wood-4Sw-Set.jpg
+    original 3940x2300 image/jpeg ; sortie 1200x700 107 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Evan-Amos
+    Credit : Travail personnel
+    auteur retenu : Evan-Amos
+    Restrictions :  ; AttributionRequired : false
+    description API : An Atari 2600 four-switch "wood veneer" version, dating from 1980-1982. Shown with standard joystick.
+    catégories licence : PD-self; Self-published work
+
+[41] CD-ROM.png
+    original 730x730 image/png ; sortie 730x730 74 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : User Black and White on en.wikipedia
+    Credit : The first image, en:Image:CD autolev crop.jpg, was made by en:User:Ubern00band edited by en:User:Black and White. Both images are licensed under en:GFDL.
+    auteur retenu : Black and White
+    Restrictions :  ; AttributionRequired : true
+    description API : This image depicts a flat view of a CD-R with interference colours. It was scanned with an HP ScanJet 4400c, and ran through ACDSee's auto-level filter. One fallback of the image are the dust fibres. It was initially saved as .JPG with IrfanView at 90% quality, and then converted to .PNG to add tran
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+
+[42] Intuix USB flash drive, 256 MB.jpg
+    original 4520x1600 image/jpeg ; sortie 1200x425 74 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Cjp24
+    Credit : Travail personnel
+    auteur retenu : Cjp24
+    Restrictions :  ; AttributionRequired : true
+    description API : Clé (face inférieure) USB 2.0 Intuix de capacité 256 Mo, puce de mémoire flash Samsung 401 visible (à droite) ; avec DEL (témoin d'activité), capuchon rouge retiré. Vitesse de lecture: 9 Mo/s, écriture: 7 Mo/s (d'après Intuix).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[43] Original iPhone docked.jpg
+    original 1496x2256 image/jpeg ; sortie 796x1200 71 ko
+    licence API : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK ; retenue : CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
+    Artist : Andrew from London, UK
+    Credit : 16GB iPhone
+    auteur retenu : Andrew from London, UK
+    Restrictions :  ; AttributionRequired : true
+    description API : Original iPhone in dock, restarting.
+    catégories licence : CC-BY-SA-2.0
+
+[44] Shannon communication system fr.svg
+    original 457x215 image/svg+xml ; sortie 1200x565 62 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : en:User:Wanderingstan, User:Stannered
+    Credit : File:Shannon_communication_system.svg
+    auteur retenu : Wanderingstan, Stannered
+    Restrictions :  ; AttributionRequired : false
+    description API : Chaîne de transmission de Shannon.
+    catégories licence : PD-user
+
+[45] A sketch of the ARPANET in December 1969.png
+    original 2057x3003 image/png ; sortie 822x1200 112 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : DARPA
+    Credit : https://www.darpa.mil/attachments/(2O15)%20Global%20Nav%20-%20About%20Us%20-%20History%20-%20Resources%20-%2050th%20-%20Internet%20(Approved).pdf
+    auteur retenu : DARPA
+    Restrictions :  ; AttributionRequired : false
+    description API : A sketch of the ARPANET in December 1969. The nodes at UCLA and the Stanford Research Institute (SRI) are among those depicted.
+    catégories licence : CC-PD-Mark; PD US Government
+
+[46] Timesharing and Development KA-10s at BBN, circa 1970.jpg
+    original 625x478 image/jpeg ; sortie 625x478 59 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Photographe inconnu
+    Credit : Dan Murphy's TECO, TENEX, and TOPS-20 Papers (http://tenex.opost.com)
+    auteur retenu : domaine public
+    Restrictions :  ; AttributionRequired : false
+    description API : Timesharing and Development KA-10s at BBN, circa 1970. According to Ray Tomlinson: "The first email was sent between the two machines shown in this photograph. They were (obviously) side-by-side, but the only connection between them was through the ARPANET. In the foreground is BBN-TENEXA (BBNA for 
+    catégories licence : PD-US missing SDC copyright status; PDP-10; PD US no notice
+
+[47] Ethernet RJ45 connector p1160054.jpg
+    original 1540x1193 image/jpeg ; sortie 1200x930 129 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : David.Monniaux (étant donné la revendication de droit d’auteur).
+    Credit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
+    auteur retenu : David Monniaux
+    Restrictions :  ; AttributionRequired : true
+    description API : 'RJ45' 8P8C connector and category-5 wire Copyright © 2007 David Monniaux
+    catégories licence : CC-BY-SA-2.0-FR; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+
+[48] First Web Server.jpg
+    original 2048x1536 image/jpeg ; sortie 1200x900 178 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : User:Coolcaesar at en.wikipedia
+    Credit : Travail personnel
+    auteur retenu : Coolcaesar
+    Restrictions :  ; AttributionRequired : true
+    description API : * This NeXT workstation (a NeXTcube, monitor Cern 57503) was used by Tim Berners-Lee as the first Web server on the World Wide Web. It is shown here as displayed in 2005 at Microcosm, the public science museum at CERN where Berners-Lee was working in 1991 when he invented the Web. The document resti
+    catégories licence : CC-BY-SA-3.0-migrated-with-disclaimers; GFDL-en; License migration completed; Self-published work
+
+[49] NCSA Mosaic Browser Screenshot.png
+    original 772x668 image/png ; sortie 772x668 197 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Charles Severance
+    Credit : Screenshot
+    auteur retenu : Charles Severance
+    Restrictions :  ; AttributionRequired : false
+    description API : NCSA Mosaic for X Screenshot
+    catégories licence : CC-Zero
+
+[50] Internet of things signed by the author.jpg
+    original 2048x1536 image/jpeg ; sortie 1200x900 96 ko
+    licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+    Artist : Wilgengebroed on Flickr
+    Credit : https://www.flickr.com/photos/wilgengebroed/8249565455/
+    auteur retenu : Wilgengebroed
+    Restrictions :  ; AttributionRequired : true
+    description API : Draw that represents the Internet of Things, signed by the author
+    catégories licence : CC-BY-2.0
+
+[51] Version 7 Unix SIMH PDP11 Emulation DMR.png
+    original 652x416 image/png ; sortie 652x416 9 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Huihermit
+    Credit : Travail personnel
+    auteur retenu : Huihermit
+    Restrictions :  ; AttributionRequired : false
+    description API : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The user ("dmr") and home directory ("/usr/dmr") for Dennis Ritchie are still present. Version 7 is considered an "Ancient Unix" and is no longer proprietary.
+    catégories licence : CC-Zero; PDP-11; Self-published work
+
+[52] Visicalc.png
+    original 560x384 image/png ; sortie 560x384 3 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : User:Gortu
+    Credit : apple2history.org
+    auteur retenu : Gortu
+    Restrictions :  ; AttributionRequired : false
+    description API : Screenshot of VisiCalc running on an Apple II computer
+    catégories licence : PD-text missing SDC copyright status; PD text
+
+[53] MS-DOS 6.22.jpg
+    original 1441x797 image/jpeg ; sortie 1200x664 46 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Gvtyhbiju
+    Credit : Travail personnel
+    auteur retenu : Gvtyhbiju
+    Restrictions :  ; AttributionRequired : false
+    description API : Screenshot of MS-DOS 6.22
+    catégories licence : CC-Zero; Self-published work
+
+[54] Free Software Foundation office (2346065159).jpg
+    original 2816x2112 image/jpeg ; sortie 1200x900 144 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Mike Linksvayer from Oakland, California
+    Credit : dsc03106.jpg
+    auteur retenu : Mike Linksvayer
+    Restrictions :  ; AttributionRequired : false
+    description API : dsc03106.jpg
+    catégories licence : CC-Zero
+
+[55] Tux, the Linux penguin I.jpg
+    original 1920x1277 image/jpeg ; sortie 1200x798 105 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Renato.pierri
+    Credit : Travail personnel
+    auteur retenu : Renato.pierri
+    Restrictions :  ; AttributionRequired : true
+    description API : Tux, the Linux penguin I. It is a gift that was given to IBMers from Brazil. There is a video about its refurbishing process. Search by "Reformando o Tux da IBM"
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[56] Microsoft Windows 1.0 screenshot.png
+    original 2384x1644 image/png ; sortie 1200x828 284 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Rezonansowy, Microsoft
+    Credit : Ce fichier est dérivé de : Microsoft Windows 1.0 page2.jpg Microsoft Windows 1.0 page3.jpg Cette image matricielle PNG a été créée avec GIMP.
+    auteur retenu : Rezonansowy, Microsoft
+    Restrictions :  ; AttributionRequired : false
+    description API : Microsoft Windows 1.0 screenshot
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+
+[57] Firefox 1.0.png
+    original 622x539 image/png ; sortie 622x539 45 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : Original téléversé par Kaszeba sur Wikipédia kachoube.
+    Credit : Transféré de csb.wikipedia à Commons.
+    auteur retenu : Kaszeba
+    Restrictions :  ; AttributionRequired : true
+    description API : Mozilla Firefox 1.0 Zdrzëcënk ekranë Aùtora: Kaszeba
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+
+[58] IBM Deep Blue at Computer History Museum (9361685537).jpg
+    original 1067x1600 image/jpeg ; sortie 800x1200 122 ko
+    licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+    Artist : Anton Chiang from Cupertino, CA, USA
+    Credit : Computer History Museum
+    auteur retenu : Anton Chiang
+    Restrictions :  ; AttributionRequired : true
+    description API : Computer History Museum
+    catégories licence : CC-BY-2.0
+
+[59] Lee Sedol (B) vs AlphaGo (W) - Game 1.svg
+    original 341x357 image/svg+xml ; sortie 1145x1200 309 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Wesalius
+    Credit : Travail personnel
+    auteur retenu : Wesalius
+    Restrictions :  ; AttributionRequired : true
+    description API : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+
+[60] ChatGPT-Logo.svg
+    original 512x512 image/svg+xml ; sortie 1200x1200 137 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : OpenAI
+    Credit : Travail personnel basé sur : ChatGPT-Logo.png
+    auteur retenu : OpenAI
+    Restrictions : trademarked ; AttributionRequired : false
+    description API : This image represents the official branding for ChatGPT.
+    catégories licence : PD shape
+
+[61] CreeperWorm.jpg
+    original 400x300 image/jpeg ; sortie 400x300 5 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Screenshot von User Worm&Virus
+    Credit : Screenshot von einer Simulation des Wurms
+    auteur retenu : Worm&Virus
+    Restrictions :  ; AttributionRequired : false
+    description API : Bildschirmtext, der vom Netzwerkwurm Creeper angezeigt wird
+    catégories licence : CC-Zero
+
+[62] Countries initially affected in WannaCry ransomware attack.png
+    original 1425x625 image/png ; sortie 1200x526 173 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : User:Roke
+    Credit : BlankMap-World-v2.png
+    auteur retenu : Roke
+    Restrictions :  ; AttributionRequired : true
+    description API : Countries initially affected in WannaCry ransomware attack. The source says: "...countries affected in the first few hours of the cyber-attack..."
+    catégories licence : CC-BY-SA-3.0
+
+[63] OJ L 119 of 2016 - FR French.pdf
+    original 1239x1752 application/pdf ; sortie 960x910 344 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Office des publications de l'Union européenne
+    Credit : EUR-Lex ([1], [2])
+    auteur retenu : Office des publications de l'Union européenne
+    Restrictions :  ; AttributionRequired : false
+    description API : Official Journal of the European Union - L 119 of 4 May 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+
+[64] Google’s First Production Server.jpg
+    original 2543x4209 image/jpeg ; sortie 725x1200 267 ko
+    licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+    Artist : Steve Jurvetson
+    Credit : https://www.flickr.com/photos/jurvetson/157722937/
+    auteur retenu : Steve Jurvetson
+    Restrictions :  ; AttributionRequired : true
+    description API : Google’s First Production Server ...with the hair pulled back, revealing a rack of cheap networked PCs, circa 1999. Each level has a couple of PC boards slammed in there, partially overlapping. This approach reflects a presumption of rapid obsolescence of cheap hardware, which would not need to be r
+    catégories licence : CC-BY-2.0
+
+[65] Wikipedia Screenshot 2001-12-17.png
+    original 1115x1207 image/png ; sortie 1109x1200 225 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : Agon S. Buchholz (asb)
+    Credit : Screenshot angefertigt von Agon S. Buchholz (asb)
+    auteur retenu : Agon S. Buchholz (asb)
+    Restrictions :  ; AttributionRequired : true
+    description API : Screenshot der englischen Wikipedia Hauptseite über archive.org
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+
+[66] Facebook Like sign.jpg
+    original 612x612 image/jpeg ; sortie 612x612 70 ko
+    licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
+    Artist : Kevin Krejci from Near the Pacific Ocean, DSA
+    Credit : Like Facebook Headquarters Thumb
+    auteur retenu : Kevin Krejci
+    Restrictions :  ; AttributionRequired : true
+    description API : I offered Facebook $101B, but they turned me down...
+    catégories licence : CC-BY-2.0
+
+[67] Logo YouTube (2005-2017).svg
+    original 546x277 image/svg+xml ; sortie 1200x611 84 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : HernandoJoseAJ
+    Credit : Travail personnel
+    auteur retenu : HernandoJoseAJ
+    Restrictions : trademarked ; AttributionRequired : false
+    description API : YouTube logo from 2005–2011.
+    catégories licence : PD textlogo
+
+[68] Lamarr patent.png
+    original 560x587 image/png ; sortie 560x587 297 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : U.S. Patent Office
+    Credit : The Register
+    auteur retenu : U.S. Patent Office
+    Restrictions :  ; AttributionRequired : false
+    description API : Patent for Secret Communication System
+    catégories licence : CC-PD-Mark; PD US Government
+
+[69] Bletchley Park Naval Enigma IMG 3604.JPG
+    original 1704x2272 image/jpeg ; sortie 900x1200 226 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : Magnus Manske
+    Credit : Created by Magnus Manske.
+    auteur retenu : Magnus Manske
+    Restrictions :  ; AttributionRequired : true
+    description API : Four rotor German naval Enigma on display at Bletchley Park.
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+
+[70] ENIAC Penn1.jpg
+    original 2592x1952 image/jpeg ; sortie 1200x904 297 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
+    Artist : Original téléversé par TexasDex sur Wikipédia anglais.
+    Credit : Transféré de en.wikipedia à Commons par Andrei Stroe utilisant CommonsHelper.
+    auteur retenu : Paul W. Shaffer, University of Pennsylvania
+    Restrictions :  ; AttributionRequired : true
+    description API : Two pieces of ENIAC currently on display in the Moore School of Engineering and Applied Science, in room 100 of the Moore building. Photo courtesy of the curator, released under GNU license along with 3 other images in an email to me. Copyright 2005 Paul W Shaffer, University of Pennsylvania. On the
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+
+[71] Capsule, Mercury, MA-6.jpg
+    original 5784x7543 image/jpeg ; sortie 920x1200 212 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Smithsonian Institution
+    Credit : This file is part of the Smithsonian Institution's Open Access collection. Their website states: "We have released these images and data into the Public Domain as Creative Commons Zero (CC0), meaning you can use, transform, and share our open access assets without asking permission from the Smithsonian."
+    auteur retenu : Smithsonian Institution
+    Restrictions :  ; AttributionRequired : false
+    description API : Mercury Capsule, MA-6, Friendship 7 (A19670176000) on exhibit in Milestones of Flight Hall (Gallery 100), Smithsonian National Air and Space Museum, Washington, DC. June 17, 2016. Photo by Eric Long. [3T8A3715][NASM2016-02692]
+    catégories licence : CC-Zero; Images from the Smithsonian Institution
+
+[74] Spanning tree protocol at work 6.svg
+    original 591x591 image/svg+xml ; sortie 1200x1200 168 ko
+    licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
+    Artist : GhosT
+    Credit : self-made, based on en:User:Ngriffeth's en:Image:STP5.jpg
+    auteur retenu : GhosT
+    Restrictions :  ; AttributionRequired : true
+    description API : Spanning tree protocol at work. Figure 6.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+
+TOTAL : 72 images, 11120 ko

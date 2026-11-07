@@ -44,6 +44,7 @@ Règles à respecter :
 - **Le numéro d’une carte est le rang de sa ligne** dans `histoire_informatique_evenements.csv` (la première ligne après l’en-tête est la carte 1). L’ordre des lignes ne compte pas pour la frise, qui trie par date. Pour ne pas changer l’adresse des cartes déjà distribuées (`output/cards/<n>.pdf`), **ajoutez les nouveaux événements à la fin** et ne déplacez pas les lignes.
 - La période, la sous-période et la catégorie doivent exister dans `periodes.csv` et `categories.csv`, écrites à l’identique.
 - Une seule forme d’apostrophe : l’apostrophe typographique (’).
+- Une espace insécable (U+00A0) avant les signes : ; ? ! % et le guillemet fermant », après le guillemet ouvrant «, et dans les nombres (2 300) : un signe ne se retrouve jamais seul en début ou en fin de ligne.
 - Des textes courts : la carte doit tenir sur une page A5. Le générateur s’arrête si un texte déborde.
 - Le type de note correspond à son contenu : « La stat » contient un chiffre vérifié, « Fun fact » une anecdote.
 - La colonne « Source » donne l’adresse de l’article (Wikipédia en français si possible).

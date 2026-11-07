@@ -1,6 +1,6 @@
 # Les données de la frise
 
-Fichiers CSV en UTF-8, séparés par des virgules. Un champ qui contient une virgule est entre guillemets droits (`"…"`). Dans les textes, on utilise l’apostrophe typographique (’) et les guillemets français (« … »).
+Fichiers CSV en UTF-8, séparés par des virgules. Un champ qui contient une virgule est entre guillemets droits (`"…"`). Dans les textes, on utilise l’apostrophe typographique (’) et les guillemets français (« … »), avec une espace insécable (U+00A0) après le guillemet ouvrant et avant le guillemet fermant, avant les signes : ; ? ! %, et dans les nombres (2 300).
 
 ## `histoire_informatique_evenements.csv`
 

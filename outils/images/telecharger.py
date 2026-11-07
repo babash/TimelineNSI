@@ -205,8 +205,9 @@ def main():
     for p in IMAGES.glob("*"):
         if re.match(r"^\d+\.(jpg|png)$", p.name) and p.name not in gardes:
             p.unlink()
+    # Le manifeste ne décrit que les images de Commons (pas les schémas originaux).
     for k in list(manifeste):
-        if not any(nm.split(".")[0] == k for nm in gardes):
+        if k not in cartes_choix:
             del manifeste[k]
     MANIFESTE.write_text(json.dumps(manifeste, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
     sortie.sort(key=lambda r: int(r["carte"]))

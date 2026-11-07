@@ -517,13 +517,6 @@
   "recadrage": "",
   "sha1": "9ed6426937a09b64a217b2bb43b5b11bf90464ef"
  },
- "81": {
-  "cadre": "1000x750",
-  "fichier": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf",
-  "format": "png",
-  "recadrage": "0.27,0.075,0.74,0.16",
-  "sha1": "5bce9c3d602fea82d7913a98c3bec8a26104ec84"
- },
  "83": {
   "cadre": "1000x750",
   "fichier": "CPT-internet-packetswitching-reroute.svg",

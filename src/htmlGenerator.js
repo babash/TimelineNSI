@@ -5,6 +5,11 @@ const { escapeHtml, formatYear, sourceLabel, unifyApostrophes } = require('./for
 const parseDate = (dateStr) => parseInt(dateStr, 10);
 const safeName = (text) => String(text || '').replace(/\s+/g, '-');
 
+// Flèches de la mini-frise (périodes voisines) : un petit SVG, car les polices hébergées
+// (Lato, jeu de caractères « latin ») ne contiennent pas les caractères ← et →.
+const fleche = (sens) => `<svg class="fleche fleche-${sens}" viewBox="0 0 12 10" aria-hidden="true" focusable="false"><path d="${
+    sens === 'gauche' ? 'M11 5H1.5M5 1.5L1.5 5L5 8.5' : 'M1 5H10.5M7 1.5L10.5 5L7 8.5'}"/></svg>`;
+
 /** Mots entre **…** : mots-clés colorés (après échappement du texte). */
 function convertKeywords(text) {
     if (!text) return '';
@@ -147,9 +152,9 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
             <header class="card-header">
                 <div class="proportional-timeline-wrapper">
                     <div class="main-period-layer">
-                        <span class="adjacent-period prev">${prevPeriodText ? `&larr; ${escapeHtml(prevPeriodText)}` : ''}</span>
+                        <span class="adjacent-period prev">${prevPeriodText ? `${fleche('gauche')}${escapeHtml(prevPeriodText)}` : ''}</span>
                         <span class="main-period-title">${escapeHtml(periodInfo?.name || '')}</span>
-                        <span class="adjacent-period next">${nextPeriodText ? `${escapeHtml(nextPeriodText)} &rarr;` : ''}</span>
+                        <span class="adjacent-period next">${nextPeriodText ? `${escapeHtml(nextPeriodText)}${fleche('droite')}` : ''}</span>
                     </div>
                     <div class="timeline-track">
                         <div class="sub-periods-layer">${subPeriodsHtml}</div>

@@ -3,19 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Timeline - Histoire de l'Informatique</title>
-    <meta name="description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges. Timeline interactive avec 68 événements majeurs, de l'Antiquité à nos jours.">
-    <meta name="keywords" content="histoire informatique, timeline, cartes pédagogiques, algorithmique, cryptographie, intelligence artificielle">
-    <meta name="author" content="TimelineNSI">
-    <meta property="og:title" content="Timeline - Histoire de l'Informatique">
-    <meta property="og:description" content="Découvrez l'histoire fascinante de l'informatique à travers les âges">
+    <title>Timeline – Histoire de l’informatique</title>
+    <meta name="description" content="Frise interactive de l’histoire de l’informatique, de l’Antiquité à nos jours, avec une carte A5 à imprimer pour chaque événement.">
+    <meta name="keywords" content="histoire de l’informatique, frise chronologique, cartes pédagogiques, NSI, SNT, algorithmique, cryptographie, intelligence artificielle">
+    <meta name="author" content="Babash - NSI Tani Malandi">
+    <meta property="og:title" content="Timeline – Histoire de l’informatique">
+    <meta property="og:description" content="Frise interactive de l’histoire de l’informatique, avec une carte A5 à imprimer pour chaque événement.">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://babash.github.io/TimelineNSI">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:url" content="https://babash.github.io/TimelineNSI/">
+    <link rel="canonical" href="https://babash.github.io/TimelineNSI/">
     <link rel="manifest" href="manifest.json">
     <meta name="theme-color" content="#306998">
-    <link rel="canonical" href="https://babash.github.io/TimelineNSI">
-    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@600&family=Lato:wght@400;700&family=Fira+Code:wght@400;500&display=swap" rel="stylesheet">
-    
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+    <link rel="stylesheet" href="assets/fonts/polices.css">
+
     <style>
         /* Reset et base */
         * {
@@ -26,14 +30,15 @@
 
         :root {
             --python-blue: #306998;
+            --python-blue-dark: #1f4e75;
             --python-yellow: #FFD43B;
             --bg-light: #ffffff;
             --accent-bg: rgba(48, 105, 152, 0.05);
-            --code-bg: #f0f0f0;
             --yellow-bg: rgba(255, 212, 59, 0.15);
             --text-primary: #333;
-            --text-secondary: #666;
+            --text-secondary: #595959;
             --border-color: #ddd;
+            --focus: #1a1a1a;
             --shadow-sm: 0 1px 3px 0 rgba(0, 0, 0, 0.1);
             --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
             --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -55,8 +60,31 @@
             font-weight: 400;
             display: flex;
             justify-content: center;
-            align-items: center;
             padding: 2rem 1rem;
+            overflow-wrap: break-word;
+        }
+
+        a {
+            color: var(--python-blue);
+        }
+
+        :focus-visible {
+            outline: 3px solid var(--focus);
+            outline-offset: 2px;
+        }
+
+        /* Texte lu par les lecteurs d’écran, mais invisible */
+        .visually-hidden {
+            position: absolute !important;
+            width: 1px;
+            height: 1px;
+            padding: 0;
+            margin: -1px;
+            overflow: hidden;
+            clip: rect(0 0 0 0);
+            clip-path: inset(50%);
+            white-space: nowrap;
+            border: 0;
         }
 
         /* Container principal */
@@ -74,7 +102,9 @@
         /* Header */
         h1 {
             font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
             font-size: 2.5rem;
+            line-height: 1.25;
             color: var(--python-blue);
             text-align: center;
             margin-bottom: 1rem;
@@ -95,7 +125,7 @@
             margin-bottom: 2rem;
         }
 
-        /* Section de filtres avancés */
+        /* Section de filtres */
         .filters-section {
             background: var(--accent-bg);
             border-radius: var(--radius-lg);
@@ -114,6 +144,7 @@
 
         .filters-header h2 {
             font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
             font-size: 1.5rem;
             color: var(--python-blue);
             margin: 0;
@@ -122,12 +153,13 @@
         .filters-icon {
             width: 24px;
             height: 24px;
+            flex-shrink: 0;
             color: var(--python-blue);
         }
 
         .filters-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(min(250px, 100%), 1fr));
             gap: 1.5rem;
             margin-bottom: 1.5rem;
         }
@@ -136,6 +168,8 @@
             display: flex;
             flex-direction: column;
             gap: 0.5rem;
+            min-width: 0;
+            border: 0;
         }
 
         .filter-label {
@@ -143,42 +177,26 @@
             font-weight: 700;
             color: var(--text-primary);
             margin-bottom: 0.25rem;
+            padding: 0;
         }
 
         .filter-input {
             padding: 0.75rem 1rem;
-            border: 2px solid var(--border-color);
+            border: 2px solid #8a8a8a;
             border-radius: var(--radius-md);
+            font: inherit;
             font-size: 0.875rem;
-            transition: all 0.2s ease;
+            transition: border-color 0.2s ease;
             background: var(--bg-light);
             color: var(--text-primary);
+            width: 100%;
         }
 
-        .filter-input:focus {
-            outline: none;
+        .filter-input:focus-visible {
             border-color: var(--python-blue);
-            box-shadow: 0 0 0 3px rgba(48, 105, 152, 0.1);
         }
 
-        .filter-select {
-            padding: 0.75rem 1rem;
-            border: 2px solid var(--border-color);
-            border-radius: var(--radius-md);
-            font-size: 0.875rem;
-            background: var(--bg-light);
-            color: var(--text-primary);
-            cursor: pointer;
-            transition: all 0.2s ease;
-        }
-
-        .filter-select:focus {
-            outline: none;
-            border-color: var(--python-blue);
-            box-shadow: 0 0 0 3px rgba(48, 105, 152, 0.1);
-        }
-
-        /* Slider pour les années */
+        /* Curseurs pour les années */
         .date-slider-container {
             display: flex;
             flex-direction: column;
@@ -194,25 +212,31 @@
         .slider-labels {
             display: flex;
             justify-content: space-between;
-            font-size: 0.75rem;
+            gap: 1rem;
+            font-size: 0.875rem;
             color: var(--text-secondary);
+        }
+
+        .slider-labels output {
+            font-weight: 700;
+            color: var(--text-primary);
         }
 
         .slider-input {
             width: 100%;
             height: 6px;
             border-radius: 3px;
-            background: var(--border-color);
-            outline: none;
+            background: #c4c4c4;
             -webkit-appearance: none;
             appearance: none;
+            margin: 0.5rem 0;
         }
 
         .slider-input::-webkit-slider-thumb {
             -webkit-appearance: none;
             appearance: none;
-            width: 20px;
-            height: 20px;
+            width: 22px;
+            height: 22px;
             border-radius: 50%;
             background: var(--python-blue);
             cursor: pointer;
@@ -220,8 +244,8 @@
         }
 
         .slider-input::-moz-range-thumb {
-            width: 20px;
-            height: 20px;
+            width: 22px;
+            height: 22px;
             border-radius: 50%;
             background: var(--python-blue);
             cursor: pointer;
@@ -229,8 +253,14 @@
             box-shadow: var(--shadow-sm);
         }
 
-        /* Sélection multiple de catégories - Design amélioré */
-        .category-multiselect {
+        .slider-input:focus-visible {
+            outline: 3px solid var(--focus);
+            outline-offset: 6px;
+        }
+
+        /* Cases à cocher (catégories, périodes, sous-périodes) */
+        .chip-list {
+            position: relative;
             display: flex;
             flex-wrap: wrap;
             gap: 0.5rem;
@@ -239,126 +269,80 @@
             border-radius: var(--radius-md);
             background: var(--bg-light);
             min-height: 60px;
-            max-height: 120px;
+            max-height: 10rem;
             overflow-y: auto;
         }
 
-        .category-checkbox {
-            display: none;
+        /* La case reste atteignable au clavier : elle est seulement rendue invisible. */
+        .chip-input {
+            position: absolute;
+            opacity: 0;
+            width: 1px;
+            height: 1px;
+            margin: 0;
+            pointer-events: none;
         }
 
-        .category-label {
+        .chip {
             display: inline-flex;
             align-items: center;
-            gap: 0.5rem;
+            gap: 0.4rem;
             padding: 0.5rem 0.75rem;
             border-radius: var(--radius-md);
-            font-size: 0.75rem;
-            font-weight: 500;
+            font-size: 0.8125rem;
+            font-weight: 400;
+            line-height: 1.3;
             cursor: pointer;
-            transition: all 0.2s ease;
-            border: 1px solid var(--border-color);
+            transition: background-color 0.2s ease, border-color 0.2s ease;
+            border: 1px solid #8a8a8a;
             background: var(--bg-light);
             color: var(--text-primary);
-            white-space: nowrap;
-            position: relative;
+            max-width: 100%;
         }
 
-        .category-checkbox:checked + .category-label {
+        .chip-input:checked + .chip {
             background: var(--python-blue);
             color: white;
             border-color: var(--python-blue);
             box-shadow: 0 2px 4px rgba(48, 105, 152, 0.2);
         }
 
-        .category-checkbox:checked + .category-label::before {
+        .chip-input:checked + .chip::before {
             content: '✓';
             font-weight: bold;
         }
 
-        .category-label:hover {
+        .chip:hover {
             border-color: var(--python-blue);
-            transform: translateY(-1px);
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
 
-        /* Sélection multiple de périodes et sous-périodes */
-        .period-multiselect,
-        .subperiod-multiselect {
-            display: flex;
-            flex-wrap: wrap;
-            gap: 0.5rem;
-            padding: 0.75rem;
-            border: 2px solid var(--border-color);
-            border-radius: var(--radius-md);
-            background: var(--bg-light);
-            min-height: 60px;
-            max-height: 120px;
-            overflow-y: auto;
-        }
-
-        .period-checkbox,
-        .subperiod-checkbox {
-            display: none;
-        }
-
-        .period-label,
-        .subperiod-label {
-            display: inline-flex;
-            align-items: center;
-            gap: 0.5rem;
-            padding: 0.5rem 0.75rem;
-            border-radius: var(--radius-md);
-            font-size: 0.75rem;
-            font-weight: 500;
-            cursor: pointer;
-            transition: all 0.2s ease;
-            border: 1px solid var(--border-color);
-            background: var(--bg-light);
-            color: var(--text-primary);
-            white-space: nowrap;
-            position: relative;
-        }
-
-        .period-checkbox:checked + .period-label,
-        .subperiod-checkbox:checked + .subperiod-label {
-            background: var(--python-blue);
-            color: white;
-            border-color: var(--python-blue);
-            box-shadow: 0 2px 4px rgba(48, 105, 152, 0.2);
-        }
-
-        .period-checkbox:checked + .period-label::before,
-        .subperiod-checkbox:checked + .subperiod-label::before {
-            content: '✓';
-            font-weight: bold;
-        }
-
-        .period-label:hover,
-        .subperiod-label:hover {
-            border-color: var(--python-blue);
-            transform: translateY(-1px);
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        .chip-input:focus-visible + .chip {
+            outline: 3px solid var(--focus);
+            outline-offset: 2px;
         }
 
         .filter-actions {
             display: flex;
+            flex-wrap: wrap;
             gap: 1rem;
             justify-content: flex-end;
             align-items: center;
+            margin-top: 1.5rem;
         }
 
         .btn {
             padding: 0.75rem 1.5rem;
             border: none;
             border-radius: var(--radius-md);
+            font: inherit;
             font-size: 0.875rem;
-            font-weight: 500;
+            font-weight: 700;
             cursor: pointer;
-            transition: all 0.2s ease;
+            transition: background-color 0.2s ease, box-shadow 0.2s ease;
             text-decoration: none;
             display: inline-flex;
             align-items: center;
+            justify-content: center;
             gap: 0.5rem;
         }
 
@@ -368,19 +352,24 @@
         }
 
         .btn-primary:hover {
-            background: #285a87;
-            transform: translateY(-1px);
+            background: var(--python-blue-dark);
             box-shadow: var(--shadow-md);
         }
 
         .btn-secondary {
-            background: var(--accent-bg);
+            background: var(--bg-light);
             color: var(--text-primary);
-            border: 1px solid var(--border-color);
+            border: 1px solid #8a8a8a;
         }
 
         .btn-secondary:hover {
             background: var(--yellow-bg);
+        }
+
+        .results-count {
+            color: var(--text-secondary);
+            font-size: 0.875rem;
+            font-weight: 700;
         }
 
         /* Section de téléchargement */
@@ -393,8 +382,9 @@
             border: 1px solid var(--python-yellow);
         }
 
-        .download-section h3 {
+        .download-section h2 {
             font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
             font-size: 1.5rem;
             color: var(--python-blue);
             margin-bottom: 0.5rem;
@@ -411,9 +401,9 @@
             border: none;
             padding: 1rem 2rem;
             border-radius: var(--radius-lg);
-            font-weight: 600;
+            font-weight: 700;
             font-size: 1.125rem;
-            transition: all 0.3s ease;
+            transition: background-color 0.3s ease, box-shadow 0.3s ease;
             text-decoration: none;
             display: inline-flex;
             align-items: center;
@@ -421,12 +411,11 @@
         }
 
         .download-btn:hover {
-            background: #285a87;
-            transform: translateY(-2px);
+            background: var(--python-blue-dark);
             box-shadow: var(--shadow-lg);
         }
 
-        /* Timeline */
+        /* Frise */
         .timeline-container {
             background: var(--bg-light);
             border-radius: var(--radius-lg);
@@ -439,7 +428,8 @@
             position: relative;
         }
 
-        .timeline::before {
+        /* La barre verticale n’apparaît que lorsqu’au moins un événement est affiché. */
+        .timeline.has-events::before {
             content: '';
             position: absolute;
             left: 50%;
@@ -456,8 +446,12 @@
             margin: 3rem 0;
         }
 
+        .period:first-child {
+            margin-top: 0;
+        }
+
         .period-header {
-            background: var(--yellow-bg);
+            background: #fffaea;
             color: var(--text-primary);
             padding: 2rem;
             border-radius: var(--radius-lg);
@@ -470,7 +464,9 @@
 
         .period-title {
             font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
             font-size: 1.5rem;
+            line-height: 1.3;
             color: var(--python-blue);
             margin-bottom: 0.5rem;
         }
@@ -478,7 +474,7 @@
         .period-dates {
             font-size: 1rem;
             color: var(--text-secondary);
-            font-weight: 500;
+            font-weight: 700;
         }
 
         .period-description {
@@ -488,11 +484,35 @@
             line-height: 1.5;
         }
 
+        .subperiod {
+            position: relative;
+            z-index: 2;
+            margin-top: 2rem;
+        }
+
+        .subperiod-title {
+            display: inline-block;
+            background: var(--bg-light);
+            border: 1px solid var(--border-color);
+            border-radius: var(--radius-md);
+            padding: 0.4rem 0.9rem;
+            font-size: 1rem;
+            font-weight: 700;
+            color: var(--text-primary);
+        }
+
+        .subperiod-title .subperiod-dates {
+            font-weight: 400;
+            color: var(--text-secondary);
+        }
+
         .events-grid {
             display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+            grid-template-columns: repeat(auto-fit, minmax(min(350px, 100%), 1fr));
             gap: 1.5rem;
             margin-top: 1.5rem;
+            position: relative;
+            z-index: 2;
         }
 
         .event {
@@ -500,13 +520,15 @@
             border-radius: var(--radius-lg);
             padding: 1.5rem;
             border: 1px solid var(--border-color);
-            transition: all 0.3s ease;
+            transition: box-shadow 0.3s ease, border-color 0.3s ease;
             position: relative;
             box-shadow: var(--shadow-sm);
+            min-width: 0;
+            display: flex;
+            flex-direction: column;
         }
 
         .event:hover {
-            transform: translateY(-2px);
             box-shadow: var(--shadow-md);
             border-color: var(--python-blue);
         }
@@ -517,37 +539,57 @@
             left: 20px;
             background: var(--python-blue);
             color: white;
-            padding: 0.5rem 0.75rem;
+            padding: 0.35rem 0.75rem;
             border-radius: var(--radius-md);
             font-size: 0.75rem;
-            font-weight: 600;
+            font-weight: 500;
             font-family: 'Fira Code', monospace;
             box-shadow: 0 2px 4px rgba(48, 105, 152, 0.2);
         }
 
         .event-title {
             font-size: 1.125rem;
-            font-weight: 600;
+            font-weight: 700;
             color: var(--text-primary);
             margin: 1rem 0 0.75rem 0;
             line-height: 1.4;
         }
 
+        .event-image {
+            margin: 0 0 1rem 0;
+        }
+
+        .event-image img {
+            display: block;
+            width: 100%;
+            max-height: 180px;
+            object-fit: contain;
+            background: #f6f6f6;
+            border-radius: var(--radius-md);
+        }
+
+        .event-image figcaption {
+            font-size: 0.75rem;
+            color: var(--text-secondary);
+            margin-top: 0.25rem;
+        }
+
         .event-description {
             color: var(--text-secondary);
-            font-size: 0.875rem;
+            font-size: 0.9375rem;
             margin-bottom: 1rem;
             line-height: 1.6;
         }
 
         .event-category {
+            align-self: flex-start;
             display: inline-flex;
             align-items: center;
             gap: 0.5rem;
             padding: 0.375rem 0.75rem;
             border-radius: var(--radius-md);
             font-size: 0.75rem;
-            font-weight: 500;
+            font-weight: 700;
             margin-bottom: 1rem;
             text-transform: uppercase;
             letter-spacing: 0.05em;
@@ -558,6 +600,7 @@
             display: flex;
             gap: 0.75rem;
             align-items: center;
+            margin-top: auto;
         }
 
         .event-download-btn {
@@ -567,9 +610,9 @@
             padding: 0.5rem 1rem;
             border-radius: var(--radius-md);
             font-size: 0.875rem;
-            font-weight: 500;
+            font-weight: 700;
             cursor: pointer;
-            transition: all 0.2s ease;
+            transition: background-color 0.2s ease, box-shadow 0.2s ease;
             text-decoration: none;
             display: inline-flex;
             align-items: center;
@@ -577,19 +620,23 @@
         }
 
         .event-download-btn:hover {
-            background: #285a87;
-            transform: translateY(-1px);
+            background: var(--python-blue-dark);
             box-shadow: var(--shadow-md);
         }
 
         .no-results {
             text-align: center;
-            padding: 3rem;
+            padding: 3rem 1rem;
             color: var(--text-secondary);
-            font-style: italic;
             background: var(--accent-bg);
             border-radius: var(--radius-lg);
             border: 2px dashed var(--border-color);
+        }
+
+        .no-results h2 {
+            font-size: 1.25rem;
+            color: var(--text-primary);
+            margin-bottom: 0.5rem;
         }
 
         .loading {
@@ -614,7 +661,7 @@
             100% { transform: rotate(360deg); }
         }
 
-        /* Footer */
+        /* Pied de page */
         .index-footer {
             margin-top: 3rem;
             padding-top: 2rem;
@@ -625,56 +672,43 @@
             align-items: center;
             gap: 1rem;
             font-size: 0.875rem;
-        }
-
-        .footer-license {
             text-align: center;
             line-height: 1.5;
         }
 
-        .footer-license a,
-        .footer-project a {
+        .index-footer a {
             color: var(--python-blue);
-            font-weight: 500;
-            text-decoration: none;
-        }
-
-        .footer-license a:hover,
-        .footer-project a:hover {
-            text-decoration: underline;
+            font-weight: 700;
         }
 
         .license-icon {
-            max-width: 1em;
-            max-height: 1em;
-            margin-left: .2em;
+            width: 1.1em;
+            height: 1.1em;
+            margin-left: 0.15em;
             vertical-align: text-bottom;
         }
 
-        .footer-project {
-            margin-top: 0.75rem;
+        .footer-links {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 0.5rem 1.5rem;
+            list-style: none;
         }
 
-        .footer-link-item {
+        .footer-links a {
             display: inline-flex;
             align-items: center;
-            gap: 0.5em;
-            color: var(--text-secondary);
-            text-decoration: none;
-            transition: color 0.2s ease;
+            gap: 0.4em;
         }
 
-        .footer-link-item:hover {
-            color: var(--python-blue);
-        }
-
-        .footer-link-item .icon {
+        .footer-links .icon {
             width: 18px;
             height: 18px;
             fill: currentColor;
         }
 
-        /* Responsive */
+        /* Écrans moyens */
         @media (max-width: 768px) {
             h1 {
                 font-size: 2rem;
@@ -693,21 +727,61 @@
                 align-items: stretch;
             }
 
-            .timeline::before {
-                left: 20px;
+            .timeline.has-events::before {
+                left: 14px;
             }
 
-            .period-header {
-                margin-left: 40px;
+            .period-header,
+            .subperiod,
+            .events-grid {
+                margin-left: 32px;
             }
 
             .events-grid {
                 grid-template-columns: 1fr;
-                margin-left: 40px;
+            }
+        }
+
+        /* Petits écrans (jusqu’à 320 px) */
+        @media (max-width: 480px) {
+            body {
+                padding: 0.5rem;
+            }
+
+            h1 {
+                font-size: 1.5rem;
+            }
+
+            .index-container,
+            .filters-section,
+            .download-section,
+            .timeline-container,
+            .period-header {
+                padding: 1rem;
             }
 
             .event {
-                margin-bottom: 1rem;
+                padding: 1.25rem 1rem 1rem;
+            }
+
+            .timeline.has-events::before {
+                left: 6px;
+                width: 3px;
+            }
+
+            .period-header,
+            .subperiod,
+            .events-grid {
+                margin-left: 18px;
+            }
+
+            .period-title {
+                font-size: 1.2rem;
+            }
+
+            .download-btn {
+                padding: 0.875rem 1.25rem;
+                font-size: 1rem;
             }
         }
 
@@ -721,611 +795,549 @@
             to { opacity: 1; transform: translateY(0); }
         }
 
-        .slide-in {
-            animation: slideIn 0.3s ease-out;
-        }
-
-        @keyframes slideIn {
-            from { transform: translateX(-20px); opacity: 0; }
-            to { transform: translateX(0); opacity: 1; }
+        @media (prefers-reduced-motion: reduce) {
+            *, *::before, *::after {
+                animation: none !important;
+                transition: none !important;
+            }
         }
     </style>
 </head>
 <body>
     <div class="index-container">
-        <h1>🕰️ Timeline - Histoire de l'Informatique</h1>
-        <p class="subtitle">Découvrez l'histoire fascinante de l'informatique à travers les âges</p>
-        <p class="last-update">Dernière mise à jour : <span id="last-update-date">11 août 2025 à 22:05</span></p>
+        <header>
+            <h1><span aria-hidden="true">🕰️ </span>Timeline – Histoire de l’informatique</h1>
+            <p class="subtitle">L’histoire de l’informatique, de l’Antiquité à nos jours</p>
+            <p class="last-update" id="last-update" hidden>Dernière mise à jour : <time id="last-update-date"></time></p>
+        </header>
 
-        <!-- Section de filtres avancés -->
-        <div class="filters-section">
-            <div class="filters-header">
-                <svg class="filters-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
-                </svg>
-                <h2>Filtres avancés</h2>
-            </div>
-            
-            <div class="filters-grid">
-                <div class="filter-group">
-                    <label class="filter-label">Recherche textuelle</label>
-                    <input type="text" id="search-bar" class="filter-input" placeholder="Rechercher un événement...">
-                </div>
-                
-                <div class="filter-group">
-                    <label class="filter-label">Catégories (sélection multiple)</label>
-                    <div class="category-multiselect" id="category-multiselect">
-                        <!-- Les catégories seront générées dynamiquement -->
-                    </div>
-                </div>
-                
-                <div class="filter-group">
-                    <label class="filter-label">Périodes (sélection multiple)</label>
-                    <div class="period-multiselect" id="period-multiselect">
-                        <!-- Les périodes seront générées dynamiquement -->
-                    </div>
-                </div>
-                
-                <div class="filter-group">
-                    <label class="filter-label">Sous-périodes (sélection multiple)</label>
-                    <div class="subperiod-multiselect" id="subperiod-multiselect">
-                        <!-- Les sous-périodes seront générées dynamiquement -->
-                    </div>
-                </div>
-            </div>
-            
-            <div class="filter-group">
-                <label class="filter-label">Plage de dates</label>
-                <div class="date-slider-container">
-                    <div class="slider-group">
-                        <div class="slider-labels">
-                            <span>Année de début</span>
-                            <span id="date-start-value">-3000</span>
-                        </div>
-                        <input type="range" id="date-start" class="slider-input" min="-3000" max="2025" value="-3000">
-                    </div>
-                    <div class="slider-group">
-                        <div class="slider-labels">
-                            <span>Année de fin</span>
-                            <span id="date-end-value">2025</span>
-                        </div>
-                        <input type="range" id="date-end" class="slider-input" min="-3000" max="2025" value="2025">
-                    </div>
-                </div>
-            </div>
-            
-            <div class="filter-actions">
-                <button id="clear-filters" class="btn btn-secondary">
-                    <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+        <main>
+            <!-- Filtres -->
+            <section class="filters-section" aria-labelledby="filters-title">
+                <div class="filters-header">
+                    <svg class="filters-icon" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 4a1 1 0 011-1h16a1 1 0 011 1v2.586a1 1 0 01-.293.707l-6.414 6.414a1 1 0 00-.293.707V17l-4 4v-6.586a1 1 0 00-.293-.707L3.293 7.293A1 1 0 013 6.586V4z"></path>
                     </svg>
-                    Effacer les filtres
-                </button>
-                <span id="results-count" style="color: var(--text-secondary); font-size: 0.875rem;"></span>
-            </div>
-        </div>
+                    <h2 id="filters-title">Filtres</h2>
+                </div>
 
-        <!-- Section de téléchargement -->
-        <div class="download-section">
-            <h3>📥 Télécharger toutes les cartes</h3>
-            <p>Obtenez le PDF complet avec tous les événements de l'histoire de l'informatique</p>
-            <a href="output/fresque_temporelle.pdf" download class="btn download-btn">
-                <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
-                </svg>
-                Télécharger le PDF complet
-            </a>
-        </div>
+                <div class="filters-grid">
+                    <div class="filter-group">
+                        <label class="filter-label" for="search-bar">Recherche</label>
+                        <input type="search" id="search-bar" class="filter-input" placeholder="Exemple : Turing, chiffrement, réseau…" autocomplete="off">
+                    </div>
 
-        <!-- Timeline -->
-        <div class="timeline-container">
-            <div class="loading" id="loading">
-                <div class="spinner"></div>
-                <p>Chargement de la timeline...</p>
-            </div>
-            
-            <div class="timeline" id="timeline">
-                <!-- La timeline sera générée dynamiquement -->
-            </div>
-        </div>
+                    <fieldset class="filter-group">
+                        <legend class="filter-label">Catégories</legend>
+                        <div class="chip-list" id="category-multiselect"></div>
+                    </fieldset>
+
+                    <fieldset class="filter-group">
+                        <legend class="filter-label">Périodes</legend>
+                        <div class="chip-list" id="period-multiselect"></div>
+                    </fieldset>
+
+                    <fieldset class="filter-group">
+                        <legend class="filter-label">Sous-périodes</legend>
+                        <div class="chip-list" id="subperiod-multiselect"></div>
+                    </fieldset>
+                </div>
+
+                <fieldset class="filter-group">
+                    <legend class="filter-label">Plage de dates</legend>
+                    <div class="date-slider-container">
+                        <div class="slider-group">
+                            <div class="slider-labels">
+                                <label for="date-start">Année de début</label>
+                                <output id="date-start-value" for="date-start"></output>
+                            </div>
+                            <input type="range" id="date-start" class="slider-input" step="1">
+                        </div>
+                        <div class="slider-group">
+                            <div class="slider-labels">
+                                <label for="date-end">Année de fin</label>
+                                <output id="date-end-value" for="date-end"></output>
+                            </div>
+                            <input type="range" id="date-end" class="slider-input" step="1">
+                        </div>
+                    </div>
+                </fieldset>
+
+                <div class="filter-actions">
+                    <p id="results-count" class="results-count" role="status" aria-live="polite"></p>
+                    <button type="button" id="clear-filters" class="btn btn-secondary">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                        </svg>
+                        Effacer les filtres
+                    </button>
+                </div>
+            </section>
+
+            <!-- Téléchargement -->
+            <section class="download-section" aria-labelledby="download-title">
+                <h2 id="download-title"><span aria-hidden="true">📥 </span>Télécharger toutes les cartes</h2>
+                <p id="download-text">Le PDF complet : une carte A5 par événement, à imprimer pour construire une fresque en classe.</p>
+                <a href="output/fresque_temporelle.pdf" download class="btn download-btn">
+                    <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
+                    </svg>
+                    Télécharger le PDF complet
+                </a>
+            </section>
+
+            <!-- Frise -->
+            <section class="timeline-container" aria-label="Frise chronologique">
+                <div class="loading" id="loading" role="status">
+                    <div class="spinner" aria-hidden="true"></div>
+                    <p>Chargement de la frise…</p>
+                </div>
+                <noscript><p class="loading">La frise a besoin de JavaScript. Le PDF complet reste téléchargeable ci-dessus.</p></noscript>
+                <div class="timeline" id="timeline"></div>
+            </section>
+        </main>
 
         <footer class="index-footer">
-            <div class="footer-license">
-                <span>« Timeline - Histoire de l'Informatique » par <a href="https://github.com/babash" target="_blank" rel="noopener noreferrer">babash</a> est placé sous la licence <a href="https://creativecommons.org/publicdomain/zero/1.0/deed.fr" target="_blank" rel="license">CC0 1.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" class="license-icon" alt="Creative Commons"><img src="https://mirrors.creativecommons.org/presskit/icons/zero.svg" class="license-icon" alt="Zero"></span>
-            </div>
-            <div class="footer-project">
-                <a href="https://github.com/babash/TimelineNSI" target="_blank" rel="noopener noreferrer" class="footer-link-item" title="Voir le projet sur GitHub">
-                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icon" fill="currentColor">
-                        <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
-                    </svg>
-                    <span>Projet sur GitHub</span>
-                </a>
-            </div>
+            <p>
+                « Timeline – Histoire de l’informatique » par Babash - NSI Tani Malandi,
+                sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" rel="license">CC BY-SA 4.0</a><img src="assets/icons/creative-commons.svg" class="license-icon" alt=""><img src="assets/icons/creative-commons-by.svg" class="license-icon" alt=""><img src="assets/icons/creative-commons-sa.svg" class="license-icon" alt="">.
+                <br>Le code source est sous licence MIT.
+            </p>
+            <ul class="footer-links">
+                <li><a href="https://babash.github.io/Babash-NSI-SNT/">Ressources NSI et SNT</a></li>
+                <li>
+                    <a href="https://github.com/babash/TimelineNSI">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icon" aria-hidden="true" focusable="false">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        Code source sur GitHub
+                    </a>
+                </li>
+            </ul>
         </footer>
     </div>
 
     <script>
-        // Données des événements et périodes
-        let events = [];
-        let periods = [];
-        let categories = [];
-        let filteredEvents = [];
-        let currentFilters = {
-            search: '',
-            categories: [],
-            periods: [],
-            subperiods: [],
-            dateStart: -3000,
-            dateEnd: 2025
-        };
+        'use strict';
 
-        // Couleurs par catégorie
+        const ANNEE_EN_COURS = new Date().getFullYear();
+        const NBSP = ' ';
+
+        // Couleurs des badges de catégorie : texte foncé de la même teinte, contraste d’au moins 4,5:1.
         const categoryColors = {
-            'Algorithmique': '#e74c3c',
-            'Cryptographie': '#3498db',
-            'Hardware': '#2ecc71',
-            'Théorie de l\'information': '#f39c12',
-            'Réseau': '#9b59b6',
-            'Logiciel libre': '#1abc9c',
-            'Internet': '#34495e',
-            'Intelligence Artificielle': '#e67e22',
-            'Cybersécurité': '#8e44ad',
-            'Langage de programmation': '#27ae60'
+            'Algorithmique': { bg: '#fce6e4', text: '#bf2718' },
+            'Cryptographie': { bg: '#e3f1fa', text: '#1d6ca1' },
+            'Hardware': { bg: '#e2f8eb', text: '#1b7943' },
+            'Théorie de l’information': { bg: '#fdf1de', text: '#925d07' },
+            'Réseau': { bg: '#f1e8f5', text: '#8c49a7' },
+            'Logiciel libre': { bg: '#dff6f1', text: '#107461' },
+            'Systèmes et logiciels': { bg: '#efebe9', text: '#7b6056' },
+            'Internet': { bg: '#e3e6e8', text: '#34495e' },
+            'Intelligence Artificielle': { bg: '#fcede0', text: '#9f5412' },
+            'Cybersécurité': { bg: '#efe5f4', text: '#8b43a9' },
+            'Langage de programmation': { bg: '#e1f4e9', text: '#1b7842' }
+        };
+        const defaultColor = { bg: '#eeeeee', text: '#4d4d4d' };
+
+        let events = [];       // dans l’ordre chronologique ; event.num = numéro de la carte (ligne du CSV)
+        let periodRows = [];   // lignes de periodes.csv
+        let periodList = [];   // [{ name, start, end, description, subPeriods: [{ name, start, end }] }]
+        let imageCredits = new Map();
+        let minYear = -3000;
+
+        const filters = {
+            search: '',
+            categories: new Set(),
+            periods: new Set(),
+            subperiods: new Set(),
+            dateStart: -3000,
+            dateEnd: ANNEE_EN_COURS
         };
 
-        // Charger les données
+        // ---------- Outils ----------
+
+        function escapeHtml(text) {
+            return String(text ?? '').replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+        }
+
+        // Unifie les apostrophes : le code compare toujours avec l’apostrophe typographique.
+        function unifyApostrophes(text) {
+            return String(text ?? '').replace(/['`´]/g, '’');
+        }
+
+        // Pour la recherche : sans accents, sans casse, apostrophes unifiées.
+        function normalize(text) {
+            return unifyApostrophes(text)
+                .normalize('NFD').replace(/[̀-ͯ]/g, '')
+                .replace(/œ/gi, 'oe').replace(/æ/gi, 'ae')
+                .toLowerCase();
+        }
+
+        function formatYear(year) {
+            const y = parseInt(year, 10);
+            if (Number.isNaN(y)) return String(year);
+            return y < 0 ? `${-y}${NBSP}av.${NBSP}J.-C.` : String(y);
+        }
+
+        function formatRange(start, end) {
+            return `${formatYear(start)} – ${formatYear(end)}`;
+        }
+
+        function plural(n, word) {
+            return `${n} ${word}${n > 1 ? 's' : ''}`;
+        }
+
+        // Lecteur CSV (RFC 4180) : guillemets, guillemets doublés, virgules et retours à la ligne dans les champs.
+        function parseCSV(text) {
+            const rows = [];
+            let row = [], field = '', inQuotes = false;
+            text = text.replace(/^﻿/, '');
+            for (let i = 0; i < text.length; i++) {
+                const c = text[i];
+                if (inQuotes) {
+                    if (c === '"') {
+                        if (text[i + 1] === '"') { field += '"'; i++; }
+                        else inQuotes = false;
+                    } else field += c;
+                } else if (c === '"') inQuotes = true;
+                else if (c === ',') { row.push(field); field = ''; }
+                else if (c === '\n' || c === '\r') {
+                    if (c === '\r' && text[i + 1] === '\n') i++;
+                    row.push(field); rows.push(row); row = []; field = '';
+                } else field += c;
+            }
+            if (field !== '' || row.length) { row.push(field); rows.push(row); }
+            const nonEmpty = rows.filter(r => r.some(v => v.trim() !== ''));
+            if (!nonEmpty.length) return [];
+            const headers = nonEmpty[0].map(h => h.trim());
+            return nonEmpty.slice(1).map(r => {
+                const obj = {};
+                headers.forEach((h, i) => { obj[h] = (r[i] ?? '').trim(); });
+                return obj;
+            });
+        }
+
+        async function fetchCSV(url, optional = false) {
+            const response = await fetch(url, { cache: 'no-cache' });
+            if (!response.ok) {
+                if (optional) return [];
+                throw new Error(`Erreur HTTP ${response.status} pour ${url}`);
+            }
+            return parseCSV(await response.text());
+        }
+
+        // ---------- Chargement ----------
+
         async function loadData() {
+            const loading = document.getElementById('loading');
             try {
-                console.log('🔄 Chargement des données...');
-                
-                // Charger les périodes
-                const periodsResponse = await fetch('data/periodes.csv');
-                if (!periodsResponse.ok) {
-                    throw new Error(`Erreur HTTP ${periodsResponse.status} pour periodes.csv`);
-                }
-                const periodsText = await periodsResponse.text();
-                periods = parseCSV(periodsText);
-                console.log(`✅ ${periods.length} périodes chargées`);
-                
-                // Charger les catégories
-                const categoriesResponse = await fetch('data/categories.csv');
-                if (!categoriesResponse.ok) {
-                    throw new Error(`Erreur HTTP ${categoriesResponse.status} pour categories.csv`);
-                }
-                const categoriesText = await categoriesResponse.text();
-                categories = parseCSV(categoriesText);
-                console.log(`✅ ${categories.length} catégories chargées`);
-                
-                // Charger les événements
-                const eventsResponse = await fetch('data/histoire_informatique_evenements.csv');
-                if (!eventsResponse.ok) {
-                    throw new Error(`Erreur HTTP ${eventsResponse.status} pour histoire_informatique_evenements.csv`);
-                }
-                const eventsText = await eventsResponse.text();
-                events = parseCSV(eventsText);
-                console.log(`✅ ${events.length} événements chargés`);
-                
-                // Trier les événements par date
-                events.sort((a, b) => parseInt(a.Date) - parseInt(b.Date));
-                filteredEvents = [...events];
-                
+                const [periodsData, eventsData, imagesData] = await Promise.all([
+                    fetchCSV('data/periodes.csv'),
+                    fetchCSV('data/histoire_informatique_evenements.csv'),
+                    fetchCSV('data/images.csv', true).catch(() => [])
+                ]);
+
+                periodRows = periodsData.map(p => ({
+                    ...p,
+                    Période: unifyApostrophes(p.Période),
+                    'Sous-période': unifyApostrophes(p['Sous-période'])
+                }));
+                periodList = buildPeriodList(periodRows);
+
+                // Numéro de carte = rang dans le fichier CSV, mémorisé avant le tri par date.
+                events = eventsData.map((e, index) => ({
+                    ...e,
+                    num: index + 1,
+                    year: parseInt(e.Date, 10),
+                    Période: unifyApostrophes(e.Période),
+                    'Sous-période': unifyApostrophes(e['Sous-période']),
+                    Catégorie: unifyApostrophes(e.Catégorie)
+                }));
+                events.sort((a, b) => (a.year - b.year) || (a.num - b.num));
+
+                imageCredits = new Map(imagesData
+                    .filter(r => r.carte && r.fichier)
+                    .map(r => [parseInt(r.carte, 10), r]));
+
+                const years = [...events.map(e => e.year), ...periodList.map(p => p.start)].filter(Number.isFinite);
+                minYear = Math.min(...years);
+                filters.dateStart = minYear;
+                filters.dateEnd = ANNEE_EN_COURS;
+
                 setupFilters();
-                renderTimeline();
-                
-                document.getElementById('loading').style.display = 'none';
-                console.log('🎉 Données chargées avec succès !');
+                document.getElementById('download-text').textContent =
+                    `Le PDF complet : ${plural(events.length, 'carte')} A5, une par événement, à imprimer pour construire une fresque en classe.`;
+                loading.hidden = true;
+                applyFilters();
             } catch (error) {
-                console.error('❌ Erreur lors du chargement des données:', error);
-                document.getElementById('loading').innerHTML = `
-                    <div style="color: #e74c3c; padding: 1rem;">
-                        <h3>Erreur lors du chargement des données</h3>
-                        <p>${error.message}</p>
-                        <button onclick="loadData()" class="btn btn-primary" style="margin-top: 1rem;">
-                            Réessayer
-                        </button>
-                    </div>
-                `;
+                console.error('Erreur lors du chargement des données :', error);
+                loading.innerHTML = `
+                    <div style="color: #b3261e; padding: 1rem;">
+                        <h2 style="font-size: 1.25rem;">Erreur lors du chargement des données</h2>
+                        <p>${escapeHtml(error.message)}</p>
+                        <button type="button" id="retry" class="btn btn-primary" style="margin-top: 1rem;">Réessayer</button>
+                    </div>`;
+                document.getElementById('retry').addEventListener('click', () => window.location.reload());
             }
         }
 
-        // Parser CSV amélioré
-        function parseCSV(csvText) {
-            const lines = csvText.split('\n');
-            if (lines.length < 2) return [];
-            
-            const headers = parseCSVLine(lines[0]);
-            const data = [];
-            
-            for (let i = 1; i < lines.length; i++) {
-                if (lines[i].trim()) {
-                    const values = parseCSVLine(lines[i]);
-                    const obj = {};
-                    headers.forEach((header, index) => {
-                        obj[header] = values[index] || '';
+        function buildPeriodList(rows) {
+            const map = new Map();
+            rows.forEach(r => {
+                const name = r.Période;
+                if (!map.has(name)) {
+                    map.set(name, {
+                        name,
+                        start: parseInt(r.Début, 10),
+                        end: parseInt(r.Fin, 10),
+                        description: r.Description || '',
+                        subPeriods: []
                     });
-                    data.push(obj);
                 }
-            }
-            
-            return data;
+                const p = map.get(name);
+                if (!p.description && r.Description) p.description = r.Description;
+                if (r['Sous-période']) {
+                    p.subPeriods.push({ name: r['Sous-période'], start: parseInt(r['Début SP'], 10), end: parseInt(r['Fin SP'], 10) });
+                }
+            });
+            return [...map.values()];
         }
 
-        function parseCSVLine(line) {
-            const result = [];
-            let current = '';
-            let inQuotes = false;
-            
-            for (let i = 0; i < line.length; i++) {
-                const char = line[i];
-                
-                if (char === '"') {
-                    inQuotes = !inQuotes;
-                } else if (char === ',' && !inQuotes) {
-                    result.push(current.trim());
-                    current = '';
-                } else {
-                    current += char;
-                }
-            }
-            
-            result.push(current.trim());
-            return result.map(item => item.replace(/^"|"$/g, ''));
+        // ---------- Filtres ----------
+
+        function createChips(containerId, prefix, values, set, labelFor = v => v) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+            values.forEach((value, i) => {
+                const id = `${prefix}-${i}`;
+                const input = document.createElement('input');
+                input.type = 'checkbox';
+                input.id = id;
+                input.className = 'chip-input';
+                input.value = value;
+                const label = document.createElement('label');
+                label.htmlFor = id;
+                label.className = 'chip';
+                label.textContent = labelFor(value);
+                input.addEventListener('change', () => {
+                    if (input.checked) set.add(value); else set.delete(value);
+                    applyFilters();
+                });
+                container.append(input, label);
+            });
         }
 
-        // Configuration des filtres
         function setupFilters() {
-            // Remplir les filtres de catégorie (sélection multiple)
-            const uniqueCategories = [...new Set(events.map(e => e.Catégorie))];
-            const categoryContainer = document.getElementById('category-multiselect');
-            
-            uniqueCategories.forEach(category => {
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = `category-${category.replace(/\s+/g, '-')}`;
-                checkbox.className = 'category-checkbox';
-                checkbox.value = category;
-                
-                const label = document.createElement('label');
-                label.htmlFor = checkbox.id;
-                label.className = 'category-label';
-                label.textContent = category;
-                
-                categoryContainer.appendChild(checkbox);
-                categoryContainer.appendChild(label);
-                
-                // Événement de changement
-                checkbox.addEventListener('change', () => {
-                    updateSelectedCategories();
-                });
-            });
+            // Catégories : ordre d’apparition dans la frise
+            const categories = [...new Set(events.map(e => e.Catégorie).filter(Boolean))];
+            createChips('category-multiselect', 'categorie', categories, filters.categories);
 
-            // Remplir les filtres de période (sélection multiple)
-            const uniquePeriods = [...new Set(periods.map(p => p.Période))];
-            const periodContainer = document.getElementById('period-multiselect');
-            
-            uniquePeriods.forEach(period => {
-                const checkbox = document.createElement('input');
-                checkbox.type = 'checkbox';
-                checkbox.id = `period-${period.replace(/\s+/g, '-')}`;
-                checkbox.className = 'period-checkbox';
-                checkbox.value = period;
-                
-                const label = document.createElement('label');
-                label.htmlFor = checkbox.id;
-                label.className = 'period-label';
-                label.textContent = period;
-                
-                periodContainer.appendChild(checkbox);
-                periodContainer.appendChild(label);
-                
-                // Événement de changement
-                checkbox.addEventListener('change', () => {
-                    updateSelectedPeriods();
-                });
-            });
+            createChips('period-multiselect', 'periode', periodList.map(p => p.name), filters.periods);
 
-            // Remplir les filtres de sous-période (sélection multiple)
-            const uniqueSubperiods = [...new Set(periods.map(p => p['Sous-période']))];
-            const subperiodContainer = document.getElementById('subperiod-multiselect');
-            
-            uniqueSubperiods.forEach(subperiod => {
-                if (subperiod) {
-                    const checkbox = document.createElement('input');
-                    checkbox.type = 'checkbox';
-                    checkbox.id = `subperiod-${subperiod.replace(/\s+/g, '-')}`;
-                    checkbox.className = 'subperiod-checkbox';
-                    checkbox.value = subperiod;
-                    
-                    const label = document.createElement('label');
-                    label.htmlFor = checkbox.id;
-                    label.className = 'subperiod-label';
-                    label.textContent = subperiod;
-                    
-                    subperiodContainer.appendChild(checkbox);
-                    subperiodContainer.appendChild(label);
-                    
-                    // Événement de changement
-                    checkbox.addEventListener('change', () => {
-                        updateSelectedSubperiods();
-                    });
-                }
-            });
+            const subperiods = periodList.flatMap(p => p.subPeriods.map(sp => sp.name));
+            createChips('subperiod-multiselect', 'sous-periode', subperiods, filters.subperiods);
 
-            // Événements des filtres
-            document.getElementById('search-bar').addEventListener('input', (e) => {
-                currentFilters.search = e.target.value;
+            document.getElementById('search-bar').addEventListener('input', e => {
+                filters.search = e.target.value;
                 applyFilters();
             });
 
-            // Sliders pour les dates
-            const dateStartSlider = document.getElementById('date-start');
-            const dateEndSlider = document.getElementById('date-end');
-            const dateStartValue = document.getElementById('date-start-value');
-            const dateEndValue = document.getElementById('date-end-value');
+            const start = document.getElementById('date-start');
+            const end = document.getElementById('date-end');
+            [start, end].forEach(slider => {
+                slider.min = minYear;
+                slider.max = ANNEE_EN_COURS;
+            });
+            start.value = filters.dateStart;
+            end.value = filters.dateEnd;
 
-            dateStartSlider.addEventListener('input', (e) => {
-                currentFilters.dateStart = parseInt(e.target.value);
-                dateStartValue.textContent = e.target.value;
+            // Le début ne peut pas dépasser la fin, et inversement.
+            start.addEventListener('input', () => {
+                let v = parseInt(start.value, 10);
+                if (v > filters.dateEnd) { v = filters.dateEnd; start.value = v; }
+                filters.dateStart = v;
+                updateSliderLabels();
                 applyFilters();
             });
-
-            dateEndSlider.addEventListener('input', (e) => {
-                currentFilters.dateEnd = parseInt(e.target.value);
-                dateEndValue.textContent = e.target.value;
+            end.addEventListener('input', () => {
+                let v = parseInt(end.value, 10);
+                if (v < filters.dateStart) { v = filters.dateStart; end.value = v; }
+                filters.dateEnd = v;
+                updateSliderLabels();
                 applyFilters();
             });
+            updateSliderLabels();
 
             document.getElementById('clear-filters').addEventListener('click', clearFilters);
         }
 
-        // Mettre à jour les catégories sélectionnées
-        function updateSelectedCategories() {
-            const checkboxes = document.querySelectorAll('.category-checkbox:checked');
-            currentFilters.categories = Array.from(checkboxes).map(cb => cb.value);
-            applyFilters();
+        function updateSliderLabels() {
+            const pairs = [['date-start', filters.dateStart], ['date-end', filters.dateEnd]];
+            pairs.forEach(([id, value]) => {
+                const text = formatYear(value);
+                document.getElementById(`${id}-value`).textContent = text;
+                document.getElementById(id).setAttribute('aria-valuetext', text);
+            });
         }
 
-        // Mettre à jour les périodes sélectionnées
-        function updateSelectedPeriods() {
-            const checkboxes = document.querySelectorAll('.period-checkbox:checked');
-            currentFilters.periods = Array.from(checkboxes).map(cb => cb.value);
-            applyFilters();
+        function eventMatches(event) {
+            if (filters.search.trim()) {
+                const terms = normalize(filters.search).split(/\s+/).filter(Boolean);
+                const haystack = normalize([event.Titre, event['Description courte'], event.Description, event.Note, event.Catégorie].join(' '));
+                if (!terms.every(t => haystack.includes(t))) return false;
+            }
+            if (filters.categories.size && !filters.categories.has(event.Catégorie)) return false;
+            if (filters.periods.size && !filters.periods.has(event.Période)) return false;
+            if (filters.subperiods.size && !filters.subperiods.has(event['Sous-période'])) return false;
+            if (event.year < filters.dateStart || event.year > filters.dateEnd) return false;
+            return true;
         }
 
-        // Mettre à jour les sous-périodes sélectionnées
-        function updateSelectedSubperiods() {
-            const checkboxes = document.querySelectorAll('.subperiod-checkbox:checked');
-            currentFilters.subperiods = Array.from(checkboxes).map(cb => cb.value);
-            applyFilters();
-        }
-
-        // Appliquer les filtres
         function applyFilters() {
-            filteredEvents = events.filter(event => {
-                // Filtre de recherche
-                if (currentFilters.search) {
-                    const searchTerm = currentFilters.search.toLowerCase();
-                    const matchesSearch = 
-                        event.Titre.toLowerCase().includes(searchTerm) ||
-                        event['Description courte'].toLowerCase().includes(searchTerm) ||
-                        (event.Description && event.Description.toLowerCase().includes(searchTerm));
-                    if (!matchesSearch) return false;
-                }
-
-                // Filtre de catégories (conjonction)
-                if (currentFilters.categories.length > 0) {
-                    if (!currentFilters.categories.includes(event.Catégorie)) {
-                        return false;
-                    }
-                }
-
-                // Filtre de périodes (sélection multiple)
-                if (currentFilters.periods.length > 0) {
-                    const eventYear = parseInt(event.Date);
-                    const eventInSelectedPeriod = currentFilters.periods.some(periodName => {
-                        const period = periods.find(p => p.Période === periodName);
-                        if (period) {
-                            const startYear = parseInt(period.Début);
-                            const endYear = parseInt(period.Fin);
-                            return eventYear >= startYear && eventYear <= endYear;
-                        }
-                        return false;
-                    });
-                    if (!eventInSelectedPeriod) {
-                        return false;
-                    }
-                }
-
-                // Filtre de sous-périodes (sélection multiple)
-                if (currentFilters.subperiods.length > 0) {
-                    const eventYear = parseInt(event.Date);
-                    const eventInSelectedSubperiod = currentFilters.subperiods.some(subperiodName => {
-                        const subperiod = periods.find(p => p['Sous-période'] === subperiodName);
-                        if (subperiod) {
-                            const startYear = parseInt(subperiod['Début SP']);
-                            const endYear = parseInt(subperiod['Fin SP']);
-                            return eventYear >= startYear && eventYear <= endYear;
-                        }
-                        return false;
-                    });
-                    if (!eventInSelectedSubperiod) {
-                        return false;
-                    }
-                }
-
-                // Filtre de dates
-                const eventYear = parseInt(event.Date);
-                if (eventYear < currentFilters.dateStart || eventYear > currentFilters.dateEnd) {
-                    return false;
-                }
-
-                return true;
-            });
-
-            updateResultsCount();
-            renderTimeline();
+            const visible = events.filter(eventMatches);
+            const countEl = document.getElementById('results-count');
+            countEl.textContent = visible.length === events.length
+                ? `${plural(events.length, 'événement')}`
+                : `${plural(visible.length, 'événement')} sur ${events.length}`;
+            renderTimeline(visible);
         }
 
-        // Effacer tous les filtres
         function clearFilters() {
-            currentFilters = {
-                search: '',
-                categories: [],
-                periods: [],
-                subperiods: [],
-                dateStart: -3000,
-                dateEnd: 2025
-            };
-
+            filters.search = '';
+            filters.categories.clear();
+            filters.periods.clear();
+            filters.subperiods.clear();
+            filters.dateStart = minYear;
+            filters.dateEnd = ANNEE_EN_COURS;
             document.getElementById('search-bar').value = '';
-            document.getElementById('date-start').value = -3000;
-            document.getElementById('date-end').value = 2025;
-            document.getElementById('date-start-value').textContent = '-3000';
-            document.getElementById('date-end-value').textContent = '2025';
-
-            // Décocher toutes les catégories
-            document.querySelectorAll('.category-checkbox').forEach(cb => {
-                cb.checked = false;
-            });
-
-            // Décocher toutes les périodes
-            document.querySelectorAll('.period-checkbox').forEach(cb => {
-                cb.checked = false;
-            });
-
-            // Décocher toutes les sous-périodes
-            document.querySelectorAll('.subperiod-checkbox').forEach(cb => {
-                cb.checked = false;
-            });
-
-            filteredEvents = [...events];
-            updateResultsCount();
-            renderTimeline();
+            document.getElementById('date-start').value = filters.dateStart;
+            document.getElementById('date-end').value = filters.dateEnd;
+            document.querySelectorAll('.chip-input').forEach(cb => { cb.checked = false; });
+            updateSliderLabels();
+            applyFilters();
         }
 
-        // Mettre à jour le compteur de résultats
-        function updateResultsCount() {
-            const countElement = document.getElementById('results-count');
-            countElement.textContent = `${filteredEvents.length} événement${filteredEvents.length > 1 ? 's' : ''} trouvé${filteredEvents.length > 1 ? 's' : ''}`;
-        }
+        // ---------- Affichage ----------
 
-        // Rendre la timeline
-        function renderTimeline() {
-            const timelineContainer = document.getElementById('timeline');
-            timelineContainer.innerHTML = '';
-            
-            if (filteredEvents.length === 0) {
-                timelineContainer.innerHTML = `
+        function renderTimeline(visible) {
+            const timeline = document.getElementById('timeline');
+            timeline.innerHTML = '';
+            timeline.classList.toggle('has-events', visible.length > 0);
+
+            if (!visible.length) {
+                timeline.innerHTML = `
                     <div class="no-results">
-                        <h3>Aucun événement trouvé</h3>
-                        <p>Aucun événement ne correspond aux critères de recherche sélectionnés.</p>
-                        <button onclick="clearFilters()" class="btn btn-primary" style="margin-top: 1rem;">
-                            Effacer les filtres
-                        </button>
-                    </div>
-                `;
+                        <h2>Aucun événement trouvé</h2>
+                        <p>Aucun événement ne correspond aux filtres choisis.</p>
+                        <button type="button" class="btn btn-primary" style="margin-top: 1rem;">Effacer les filtres</button>
+                    </div>`;
+                timeline.querySelector('button').addEventListener('click', clearFilters);
                 return;
             }
 
-            // Grouper les événements par période
-            const eventsByPeriod = groupEventsByPeriod(filteredEvents);
-            
-            // Rendre chaque période
-            Object.keys(eventsByPeriod).forEach(periodName => {
-                const periodEvents = eventsByPeriod[periodName];
-                const period = periods.find(p => p.Période === periodName);
-                
-                if (period && periodEvents.length > 0) {
-                    const periodElement = createPeriodElement(period, periodEvents);
-                    timelineContainer.appendChild(periodElement);
-                }
-            });
-        }
+            // Regroupement par période puis sous-période, avec les colonnes du CSV.
+            const known = new Set(periodList.map(p => p.name));
+            const groups = periodList.map(p => ({
+                period: p,
+                subs: [
+                    ...p.subPeriods.map(sp => ({ sp, items: visible.filter(e => e.Période === p.name && e['Sous-période'] === sp.name) })),
+                    { sp: null, items: visible.filter(e => e.Période === p.name && !p.subPeriods.some(sp => sp.name === e['Sous-période'])) }
+                ]
+            }));
+            const orphans = visible.filter(e => !known.has(e.Période));
+            if (orphans.length) {
+                groups.push({ period: { name: 'Autres événements', start: null, end: null, description: '' }, subs: [{ sp: null, items: orphans }] });
+            }
 
-        // Grouper les événements par période
-        function groupEventsByPeriod(events) {
-            const grouped = {};
-            
-            events.forEach(event => {
-                const eventYear = parseInt(event.Date);
-                let periodName = 'Période inconnue';
-                
-                // Trouver la période correspondante
-                for (const period of periods) {
-                    const startYear = parseInt(period.Début);
-                    const endYear = parseInt(period.Fin);
-                    
-                    if (eventYear >= startYear && eventYear <= endYear) {
-                        periodName = period.Période;
-                        break;
+            groups.forEach(({ period, subs }) => {
+                if (!subs.some(s => s.items.length)) return;
+                const section = document.createElement('section');
+                section.className = 'period fade-in';
+                const dates = Number.isFinite(period.start) ? `<p class="period-dates">${formatRange(period.start, period.end)}</p>` : '';
+                section.innerHTML = `
+                    <div class="period-header">
+                        <h2 class="period-title">${escapeHtml(period.name)}</h2>
+                        ${dates}
+                        ${period.description ? `<p class="period-description">${escapeHtml(period.description)}</p>` : ''}
+                    </div>`;
+                subs.forEach(({ sp, items }) => {
+                    if (!items.length) return;
+                    const block = document.createElement('div');
+                    block.className = 'subperiod';
+                    if (sp) {
+                        block.innerHTML = `<h3 class="subperiod-title">${escapeHtml(sp.name)} <span class="subperiod-dates">· ${formatRange(sp.start, sp.end)}</span></h3>`;
                     }
-                }
-                
-                if (!grouped[periodName]) {
-                    grouped[periodName] = [];
-                }
-                grouped[periodName].push(event);
+                    const grid = document.createElement('div');
+                    grid.className = 'events-grid';
+                    items.forEach(e => grid.appendChild(createEventElement(e)));
+                    block.appendChild(grid);
+                    section.appendChild(block);
+                });
+                timeline.appendChild(section);
             });
-            
-            return grouped;
         }
 
-        // Créer un élément de période
-        function createPeriodElement(period, periodEvents) {
-            const periodDiv = document.createElement('div');
-            periodDiv.className = 'period fade-in';
-            
-            const periodHeader = document.createElement('div');
-            periodHeader.className = 'period-header';
-            periodHeader.innerHTML = `
-                <div class="period-title">${period.Période}</div>
-                <div class="period-dates">${period.Début} - ${period.Fin}</div>
-                ${period.Description ? `<div class="period-description">${period.Description}</div>` : ''}
-            `;
-            
-            const eventsGrid = document.createElement('div');
-            eventsGrid.className = 'events-grid';
-            
-            periodEvents.forEach((event, index) => {
-                const eventElement = createEventElement(event, index);
-                eventsGrid.appendChild(eventElement);
-            });
-            
-            periodDiv.appendChild(periodHeader);
-            periodDiv.appendChild(eventsGrid);
-            
-            return periodDiv;
+        function imageHtml(event) {
+            const credit = imageCredits.get(event.num);
+            if (!credit) return '';
+            const file = credit.fichier.includes('/') ? credit.fichier : `images/${credit.fichier}`;
+            const author = credit.page_commons
+                ? `<a href="${escapeHtml(credit.page_commons)}">${escapeHtml(credit.auteur || 'Wikimedia Commons')}</a>`
+                : escapeHtml(credit.auteur || '');
+            const licence = credit.url_licence
+                ? `<a href="${escapeHtml(credit.url_licence)}" rel="license">${escapeHtml(credit.licence || 'licence')}</a>`
+                : escapeHtml(credit.licence || '');
+            const caption = [author, licence].filter(Boolean).join(', ');
+            return `
+                <figure class="event-image">
+                    <img src="${escapeHtml(file)}" alt="${escapeHtml(credit.description || '')}" loading="lazy" decoding="async">
+                    ${caption ? `<figcaption>Image : ${caption}</figcaption>` : ''}
+                </figure>`;
         }
 
-        // Créer un élément d'événement
-        function createEventElement(event, index) {
-            const eventDiv = document.createElement('div');
-            eventDiv.className = 'event slide-in';
-            
-            const categoryColor = categoryColors[event.Catégorie] || '#95a5a6';
-            
-            eventDiv.innerHTML = `
-                <div class="event-date">${event.Date}</div>
-                <div class="event-title">${event.Titre}</div>
-                <div class="event-description">${event['Description courte']}</div>
-                <div class="event-category" style="background-color: ${categoryColor}20; color: ${categoryColor};">
-                    ${event.Catégorie}
-                </div>
+        function createEventElement(event) {
+            const article = document.createElement('article');
+            article.className = 'event';
+            article.dataset.num = event.num;
+            const color = categoryColors[event.Catégorie] || defaultColor;
+            article.innerHTML = `
+                <p class="event-date"><time>${formatYear(event.year)}</time></p>
+                <h4 class="event-title">${escapeHtml(event.Titre)}</h4>
+                ${imageHtml(event)}
+                <p class="event-description">${escapeHtml(event['Description courte'])}</p>
+                <p class="event-category" style="background-color: ${color.bg}; color: ${color.text}; border-color: ${color.text}33;">
+                    ${escapeHtml(event.Catégorie)}
+                </p>
                 <div class="event-actions">
-                    <a href="output/cards/${index + 1}.pdf" class="event-download-btn" download>
-                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <a href="output/cards/${event.num}.pdf" class="event-download-btn" download="carte-${event.num}.pdf">
+                        <svg width="16" height="16" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true" focusable="false">
                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 10v6m0 0l-3-3m3 3l3-3m2 8H7a2 2 0 01-2-2V5a2 2 0 012-2h5.586a1 1 0 01.707.293l5.414 5.414a1 1 0 01.293.707V19a2 2 0 01-2 2z"></path>
                         </svg>
-                        Télécharger
+                        Télécharger<span class="visually-hidden"> la carte « ${escapeHtml(event.Titre)} » (PDF)</span>
                     </a>
-                </div>
-            `;
-            
-            return eventDiv;
+                </div>`;
+            // Une image qui ne se charge pas est masquée, avec son crédit.
+            const img = article.querySelector('.event-image img');
+            if (img) img.addEventListener('error', () => img.closest('.event-image').remove());
+            return article;
         }
 
-        // Initialiser la page
-        document.addEventListener('DOMContentLoaded', loadData);
+        // « Dernière mise à jour » : date de la page envoyée par le serveur.
+        function showLastUpdate() {
+            const m = /^(\d{2})\/(\d{2})\/(\d{4}) (\d{2}):(\d{2}):(\d{2})$/.exec(document.lastModified);
+            if (!m) return;
+            const date = new Date(+m[3], +m[1] - 1, +m[2], +m[4], +m[5], +m[6]);
+            if (Number.isNaN(date.getTime())) return;
+            const el = document.getElementById('last-update-date');
+            el.dateTime = date.toISOString().slice(0, 10);
+            el.textContent = new Intl.DateTimeFormat('fr-FR', { day: 'numeric', month: 'long', year: 'numeric' }).format(date);
+            document.getElementById('last-update').hidden = false;
+        }
+
+        document.addEventListener('DOMContentLoaded', () => {
+            showLastUpdate();
+            loadData();
+        });
     </script>
 </body>
 </html>

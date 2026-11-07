@@ -3,74 +3,62 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Page non trouvée - Fresque Temporelle</title>
+    <title>Page introuvable – Timeline – Histoire de l’informatique</title>
+    <meta name="robots" content="noindex">
+    <!-- Cette page peut s'afficher à n'importe quelle adresse du site : tous les liens partent de /TimelineNSI/. -->
+    <link rel="icon" href="/TimelineNSI/assets/favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="/TimelineNSI/assets/fonts/polices.css">
     <style>
+        * { box-sizing: border-box; }
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: 'Lato', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
             margin: 0;
-            padding: 0;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            padding: 1rem;
+            background: #f4f7f6;
+            color: #333;
             min-height: 100vh;
             display: flex;
             align-items: center;
             justify-content: center;
         }
-        
         .error-container {
             background: white;
-            border-radius: 15px;
-            padding: 3rem;
+            border-radius: 8px;
+            border-top: 0.5rem solid #FFD43B;
+            padding: 2.5rem 2rem;
             text-align: center;
-            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
             max-width: 500px;
+            width: 100%;
         }
-        
         .error-code {
-            font-size: 6rem;
-            font-weight: bold;
-            color: #667eea;
+            font-family: 'Orbitron', sans-serif;
+            font-weight: 600;
+            font-size: 4.5rem;
+            color: #306998;
             margin: 0;
         }
-        
-        .error-message {
-            font-size: 1.5rem;
-            color: #2c3e50;
-            margin: 1rem 0;
-        }
-        
-        .error-description {
-            color: #7f8c8d;
-            margin-bottom: 2rem;
-        }
-        
+        .error-message { font-size: 1.5rem; margin: 1rem 0; }
+        .error-description { color: #595959; margin-bottom: 2rem; line-height: 1.6; }
         .back-button {
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: #306998;
             color: white;
-            border: none;
-            padding: 1rem 2rem;
-            border-radius: 25px;
-            cursor: pointer;
-            font-weight: 500;
+            padding: 0.875rem 1.75rem;
+            border-radius: 0.5rem;
+            font-weight: 700;
             text-decoration: none;
             display: inline-block;
-            transition: all 0.3s ease;
         }
-        
-        .back-button:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
-        }
+        .back-button:hover { background: #1f4e75; }
+        .back-button:focus-visible { outline: 3px solid #1a1a1a; outline-offset: 2px; }
     </style>
 </head>
 <body>
-    <div class="error-container">
+    <main class="error-container">
         <h1 class="error-code">404</h1>
-        <h2 class="error-message">Page non trouvée</h2>
-        <p class="error-description">
-            Oups ! Il semble que cette page n'existe pas. 
-            Retournez à la timeline pour continuer votre voyage dans l'histoire de l'informatique.
-        </p>
-        <a href="/" class="back-button">🏠 Retour à l'accueil</a>
-    </div>
+        <h2 class="error-message">Page introuvable</h2>
+        <p class="error-description">Cette page n’existe pas. Retournez à la frise pour continuer votre voyage dans l’histoire de l’informatique.</p>
+        <a href="/TimelineNSI/" class="back-button">Retour à la frise</a>
+    </main>
 </body>
 </html>

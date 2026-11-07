@@ -33,6 +33,8 @@ Une ligne par sous-période : `Période`, `Abréviation Période`, `Début`, `Fi
 
 Une ligne par image : `carte` (numéro de la carte), `fichier` (chemin du fichier, par exemple `images/3.jpg`), `page_commons` (page de l’image sur Wikimedia Commons), `auteur`, `licence`, `url_licence` (vide pour le domaine public), `description` (texte alternatif). Le crédit s’affiche sur la carte et sur le site : « Image : auteur, licence, Wikimedia Commons ». Une carte sans ligne n’a pas d’image.
 
+Un **schéma original** (source dans `outils/schemas/`) a une colonne `page_commons` vide : son crédit devient « Schéma : auteur, licence ». Si l’auteur d’une image de Commons n’est pas nommé, on écrit ce que donne Commons : « Auteur inconnu » ou « Photographe inconnu ».
+
 ## `Note Type.csv`
 
 La liste des types de note (pour mémoire : le générateur ne le lit pas).

@@ -1,0 +1,94 @@
+# Un seul workflow pour le site TimelineNSI.
+# - Sur toute branche : génération des cartes, assemblage du site (liste blanche) et contrôle.
+# - Sur main seulement : publication sur GitHub Pages, puis vérification du site en ligne.
+# Résultats : gh api repos/babash/TimelineNSI/actions/runs, puis les jobs et leurs journaux.
+name: Construire, publier et vérifier
+
+on:
+  push:
+    branches: ['**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: publier-${{ github.ref }}
+  cancel-in-progress: ${{ github.ref != 'refs/heads/main' }}
+
+jobs:
+  construire:
+    name: Construire et contrôler
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer pdfinfo et pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Installer les dépendances (package-lock.json)
+        run: npm ci
+
+      - name: Générer les cartes
+        run: npm run generate
+
+      - name: Assembler le site (liste blanche)
+        run: bash scripts/assembler-site.sh
+
+      - name: Contrôler le site assemblé
+        run: node scripts/controler-site.js _site
+
+      - name: Préparer le site pour GitHub Pages
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+          retention-days: 7
+
+  publier:
+    name: Publier sur GitHub Pages
+    if: github.ref == 'refs/heads/main'
+    needs: construire
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deploiement.outputs.page_url }}
+    steps:
+      - name: Publier
+        id: deploiement
+        uses: actions/deploy-pages@v4
+
+  verifier:
+    name: Vérifier le site en ligne
+    if: github.ref == 'refs/heads/main'
+    needs: publier
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le dépôt
+        uses: actions/checkout@v5
+
+      - name: Installer Node.js
+        uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+
+      - name: Installer pdfinfo et pdftotext
+        run: sudo apt-get update -qq && sudo apt-get install -y -qq poppler-utils
+
+      - name: Installer les dépendances
+        run: npm ci
+
+      - name: Vérifier https://babash.github.io/TimelineNSI/
+        env:
+          VERSION_ATTENDUE: ${{ github.sha }}
+        run: node scripts/verifier-en-ligne.js https://babash.github.io/TimelineNSI/

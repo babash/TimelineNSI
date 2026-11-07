@@ -1,6 +1,19 @@
 {
- "_aide": "Par carte : titres exacts (File:...) et recherches Commons (espace Fichier). limite = résultats par recherche.",
- "_actif": false,
+ "_aide": "Par carte : titres exacts (File:...) et recherches Commons (espace Fichier). limite = résultats par recherche. _cartes : cartes à chercher (toutes si absent).",
+ "_actif": true,
+ "_cartes": [
+  "76",
+  "77",
+  "78",
+  "79",
+  "80",
+  "81",
+  "82",
+  "83",
+  "84",
+  "85",
+  "86"
+ ],
  "1": {
   "titres": [
    "File:Word Aamu in two Egyptian scripts circa 1900 BCE.jpg"
@@ -681,5 +694,161 @@
    "facial analysis bias chart",
    "facial recognition system diagram"
   ]
+ },
+ "76": {
+  "titres": [
+   "File:Social Network Diagram (segment).svg"
+  ],
+  "recherches": [
+   "social network graph diagram svg",
+   "social graph friends of friends"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "77": {
+  "titres": [
+   "File:National Security Agency, Fort Meade, Maryland (14496972922).jpg",
+   "File:National Security Agency, 2013.jpg",
+   "File:PRISM Collection Details.jpg",
+   "File:Prism slide 5.jpg"
+  ],
+  "recherches": [
+   "NSA headquarters Fort Meade",
+   "telephone metadata diagram"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "78": {
+  "titres": [
+   "File:Gale-Shapley.gif"
+  ],
+  "recherches": [
+   "stable marriage problem",
+   "Gale-Shapley algorithm",
+   "stable matching bipartite"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "79": {
+  "titres": [
+   "File:S7300.JPG",
+   "File:Gas centrifuge cascade.jpg",
+   "File:Zippe-type gas centrifuge.svg"
+  ],
+  "recherches": [
+   "Simatic S7-300",
+   "Siemens S7-300 PLC",
+   "gas centrifuge cascade"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "80": {
+  "titres": [
+   "File:Turing test diagram.svg",
+   "File:Turing Test Version 3.svg",
+   "File:Turing Test version 3.png",
+   "File:ASR-33 at CHM.agr.jpg"
+  ],
+  "recherches": [
+   "Turing test diagram",
+   "imitation game Turing test"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "81": {
+  "titres": [
+   "File:Dartmouth Hall, Dartmouth College - general view.JPG",
+   "File:Dartmouth College campus 2007-06-23 Dartmouth Hall 02.JPG"
+  ],
+  "recherches": [
+   "Dartmouth Hall",
+   "Dartmouth Summer Research Project on Artificial Intelligence",
+   "Dartmouth workshop 1956"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "82": {
+  "titres": [
+   "File:Transformer, one encoder-decoder block.png",
+   "File:Transformer, attention block diagram.png",
+   "File:Transformer, full architecture.png"
+  ],
+  "recherches": [
+   "transformer neural network architecture diagram",
+   "self-attention diagram"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "83": {
+  "titres": [
+   "File:Packet Switching.gif",
+   "File:CPT-internet-packetswitching-reroute.svg",
+   "File:ARPA Network, Logical Map, September 1973.jpg"
+  ],
+  "recherches": [
+   "CYCLADES network Pouzin",
+   "Mitra 15 CII",
+   "datagram packet switching diagram"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "84": {
+  "titres": [
+   "File:Diffie-Hellman Key Exchange (fr).svg",
+   "File:Diffie-Hellman Key Exchange.svg",
+   "File:Diffie-Hellman Key Exchange Paint Analogy.svg"
+  ],
+  "recherches": [
+   "Diffie-Hellman key exchange"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "85": {
+  "titres": [
+   "File:Dijkstra Animation.gif",
+   "File:Dijkstras progress animation.gif"
+  ],
+  "recherches": [
+   "Dijkstra algorithm graph",
+   "shortest path weighted graph"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
+ },
+ "86": {
+  "titres": [
+   "File:Ariane 501 Fragment.jpg",
+   "File:Ariane 501 Fallout Zone.svg",
+   "File:Ariane 501 Cluster.svg",
+   "File:Ariane 5ES liftoff from ELA-3.jpg",
+   "File:Ariane 5ECA on its way to launch pad ELA-3.jpg"
+  ],
+  "recherches": [
+   "Ariane 501",
+   "Ariane 5 flight 501 debris",
+   "Ariane 5 launcher"
+  ],
+  "tuile": 320,
+  "colonnes": 4,
+  "limite": 5
  }
 }

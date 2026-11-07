@@ -5,7 +5,8 @@ Pour chaque carte, écrit dans resultats/ :
   <n>.txt  le résumé des candidates (taille, licence, auteur, description) ;
   <n>.jpg  une planche d'aperçus numérotés (moins de 50 ko).
 Une carte déjà traitée avec les mêmes requêtes n'est pas refaite.
-Mettre "_actif": true dans requetes.json pour relancer des recherches.
+Mettre "_actif": true dans requetes.json pour relancer des recherches ;
+"_cartes": ["76", "77"] limite la recherche à ces cartes.
 """
 import hashlib
 import io
@@ -103,8 +104,9 @@ def main():
         print("Recherche désactivée (_actif = false dans requetes.json)")
         return
     RES.mkdir(exist_ok=True)
+    seules = set(reqs.get("_cartes") or [])
     for carte, req in reqs.items():
-        if carte.startswith("_"):
+        if carte.startswith("_") or (seules and carte not in seules):
             continue
         empreinte = hashlib.sha1(json.dumps(req, sort_keys=True).encode()).hexdigest()[:12]
         txt = RES / f"{carte}.txt"

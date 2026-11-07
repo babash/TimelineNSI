@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" lang="fr">
+  <title>L’échange de clés Diffie-Hellman avec de petits nombres</title>
+  <desc>Connus de tous : p = 23 et g = 5. Alice garde le secret 6 et envoie 5**6 % 23 = 8. Bob garde le secret 15 et envoie 5**15 % 23 = 19. Alice calcule 19**6 % 23 = 2, Bob calcule 8**15 % 23 = 2 : ils ont la même clé, 2. Qui écoute voit 8 et 19, mais pas 6 ni 15.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 84 (Diffie et Hellman, 1976).
+       Calcul vérifié : 5**6 % 23 = 8 ; 5**15 % 23 = 19 ; 19**6 % 23 = 2 ; 8**15 % 23 = 2.
+       Export PNG : node outils/schemas/exporter.js 84 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 400; src: url('../../assets/fonts/fira-code-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 500; src: url('../../assets/fonts/fira-code-latin-500-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 26px; }
+    .titre { font-size: 35px; font-weight: 700; fill: #4a00b0; }
+    .public { font-size: 27px; }
+    .nom { font-size: 30px; font-weight: 700; }
+    .petit { font-size: 24px; fill: #404040; }
+    .gras { font-weight: 700; }
+    .valeur { font-family: 'Fira Code', monospace; font-size: 30px; font-weight: 500; }
+  </style>
+  <defs>
+    <pattern id="hachures" width="12" height="12" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="12" height="12" fill="#f4f4f4"/>
+      <line x1="0" y1="0" x2="0" y2="12" stroke="#dcdcdc" stroke-width="4"/>
+    </pattern>
+    <marker id="fleche" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#1a1a1a"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="400" fill="#fff"/>
+
+  <text class="titre" x="600" y="40" text-anchor="middle">Une clé commune, sans jamais l’envoyer</text>
+  <text class="public" x="600" y="80" text-anchor="middle">Connus de tous : <tspan class="code gras">p = 23</tspan> et <tspan class="code gras">g = 5</tspan></text>
+
+  <!-- Alice -->
+  <rect x="20" y="96" width="390" height="284" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="nom" x="215" y="132" text-anchor="middle">Alice</text>
+  <rect x="40" y="146" width="350" height="46" rx="8" fill="url(#hachures)" stroke="#555" stroke-width="2.5" stroke-dasharray="9 6"/>
+  <text class="public" x="215" y="178" text-anchor="middle">secret : <tspan class="code gras">6</tspan></text>
+  <text class="code" x="215" y="242" text-anchor="middle">5**6 % 23 = <tspan class="gras">8</tspan></text>
+  <rect x="40" y="318" width="350" height="50" rx="8" fill="#fff" stroke="#4a00b0" stroke-width="4"/>
+  <text class="code" x="215" y="352" text-anchor="middle">19**6 % 23 = <tspan class="gras">2</tspan></text>
+
+  <!-- Bob -->
+  <rect x="790" y="96" width="390" height="284" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="nom" x="985" y="132" text-anchor="middle">Bob</text>
+  <rect x="810" y="146" width="350" height="46" rx="8" fill="url(#hachures)" stroke="#555" stroke-width="2.5" stroke-dasharray="9 6"/>
+  <text class="public" x="985" y="178" text-anchor="middle">secret : <tspan class="code gras">15</tspan></text>
+  <text class="code" x="985" y="242" text-anchor="middle">5**15 % 23 = <tspan class="gras">19</tspan></text>
+  <rect x="810" y="318" width="350" height="50" rx="8" fill="#fff" stroke="#4a00b0" stroke-width="4"/>
+  <text class="code" x="985" y="352" text-anchor="middle">8**15 % 23 = <tspan class="gras">2</tspan></text>
+
+  <!-- Le réseau public : seuls 8 et 19 passent -->
+  <text class="petit" x="600" y="138" text-anchor="middle">Qui écoute voit 8 et 19,</text>
+  <text class="petit" x="600" y="168" text-anchor="middle">mais pas 6 ni 15.</text>
+  <line x1="420" y1="226" x2="778" y2="226" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+  <rect x="573" y="194" width="54" height="44" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <text class="valeur" x="600" y="227" text-anchor="middle">8</text>
+  <line x1="780" y1="280" x2="422" y2="280" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+  <rect x="566" y="258" width="68" height="44" rx="6" fill="#fff" stroke="#1a1a1a" stroke-width="2.5"/>
+  <text class="valeur" x="600" y="291" text-anchor="middle">19</text>
+  <text class="public gras" x="600" y="352" text-anchor="middle">même clé : 2</text>
+  <line x1="390" y1="343" x2="486" y2="343" stroke="#4a00b0" stroke-width="3"/>
+  <line x1="714" y1="343" x2="810" y2="343" stroke="#4a00b0" stroke-width="3"/>
+</svg>

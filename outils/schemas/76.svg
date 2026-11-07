@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" lang="fr">
+  <title>L’affaire Cambridge Analytica : un test récupère aussi les données des amies et amis</title>
+  <desc>Une personne fait un test de personnalité sur Facebook. Le test récupère ses données et celles de ses amies et amis, qui n’ont rien installé. La société Cambridge Analytica s’en sert pour envoyer des messages politiques ciblés. Environ 300 000 personnes ont fait le test ; jusqu’à 87 millions de comptes sont concernés, selon Facebook.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 76 (2018).
+       Chiffres de la carte (fiche T10h) : environ 300 000 personnes ont fait le test ; jusqu’à 87 millions de comptes selon Facebook.
+       Export PNG : node outils/schemas/exporter.js 76 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .titre { font-size: 34px; font-weight: 700; fill: #0d4ea6; }
+    .boite { font-size: 28px; }
+    .fort { font-weight: 700; }
+    .legende { font-size: 23px; fill: #303030; }
+    .chiffres { font-size: 27px; }
+  </style>
+  <defs>
+    <marker id="fleche" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#1a1a1a"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="360" fill="#fff"/>
+  <text class="titre" x="600" y="38" text-anchor="middle">Un test en ligne, et les données des amies et amis partent aussi</text>
+  <line x1="140" y1="168" x2="140" y2="80" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="209" y2="113" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="226" y2="188" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="178" y2="247" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="102" y2="247" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="54" y2="188" stroke="#1a1a1a" stroke-width="3"/>
+  <line x1="140" y1="168" x2="71" y2="113" stroke="#1a1a1a" stroke-width="3"/>
+  <circle cx="140" cy="80" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="209" cy="113" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="226" cy="188" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="178" cy="247" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="102" cy="247" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="54" cy="188" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="71" cy="113" r="17" fill="#fff" stroke="#1a1a1a" stroke-width="3.5"/>
+  <circle cx="140" cy="168" r="27" fill="#1a1a1a"/>
+  <line x1="250" y1="170" x2="300" y2="170" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+  <rect x="306" y="118" width="262" height="104" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="boite" x="437" y="162" text-anchor="middle">Le test récupère</text>
+  <text class="boite" x="437" y="196" text-anchor="middle">leurs données</text>
+  <line x1="574" y1="170" x2="620" y2="170" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+  <rect x="626" y="118" width="236" height="104" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="boite fort" x="744" y="162" text-anchor="middle">Cambridge</text>
+  <text class="boite fort" x="744" y="196" text-anchor="middle">Analytica</text>
+  <line x1="868" y1="170" x2="914" y2="170" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+  <rect x="920" y="118" width="262" height="104" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="boite" x="1051" y="162" text-anchor="middle">Messages politiques</text>
+  <text class="boite" x="1051" y="196" text-anchor="middle">ciblés</text>
+  <circle cx="34" cy="290" r="11" fill="#1a1a1a"/>
+  <text class="legende" x="54" y="298">fait le test</text>
+  <circle cx="200" cy="290" r="10" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="legende" x="220" y="298">amie ou ami : n’a rien installé</text>
+  <text class="chiffres" x="1182" y="298" text-anchor="end">Environ <tspan class="fort">300 000</tspan> personnes ont fait le test</text>
+  <text class="chiffres" x="1182" y="338" text-anchor="end">Jusqu’à <tspan class="fort">87 millions</tspan> de comptes concernés, selon Facebook</text>
+</svg>

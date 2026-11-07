@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" lang="fr">
+  <title>Extrait de la proposition de l’atelier de Dartmouth (31 août 1955)</title>
+  <desc>Extrait de la proposition, en anglais : « We propose that a 2 month, 10 man study of artificial intelligence be carried out during the summer of 1956 at Dartmouth College ». En français : « Nous proposons qu’une étude de l’intelligence artificielle, de 2 mois et à 10 personnes, soit menée pendant l’été 1956 au Dartmouth College ». Proposition de J. McCarthy, M. Minsky, N. Rochester et C. Shannon, 31 août 1955.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 81 (conférence de Dartmouth, 1956).
+       Citation vérifiée (transcription de l’UMBC, ebiquity.umbc.edu, et page Commons du PDF de la proposition) :
+       « We propose that a 2 month, 10 man study of artificial intelligence be carried out during the summer of 1956
+       at Dartmouth College in Hanover, New Hampshire. » Proposition datée du 31 août 1955.
+       Export PNG : node outils/schemas/exporter.js 81 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 400; src: url('../../assets/fonts/fira-code-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 500; src: url('../../assets/fonts/fira-code-latin-500-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .titre { font-size: 32px; font-weight: 700; fill: #5b2c6f; }
+    .cite { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 27px; }
+    .trad { font-size: 28px; }
+    .fort { font-weight: 700; }
+    .cite .fort { font-weight: 500; text-decoration: underline; }
+    .entete { font-size: 22px; fill: #404040; }
+    .source { font-size: 22px; fill: #404040; }
+  </style>
+  <rect width="1200" height="350" fill="#fff"/>
+  <text class="titre" x="600" y="34" text-anchor="middle">1955 : un projet de recherche qui donne son nom à l’IA</text>
+  <path d="M20 58 H590 L630 98 V306 H20 Z" fill="#fff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M590 58 V98 H630 Z" fill="#d9d9d9" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
+  <text class="entete" x="54" y="84">Extrait de la proposition (en anglais)</text>
+  <text class="entete" x="676" y="84">En français</text>
+  <text class="cite" x="54" y="112">We propose that a 2 month,</text>
+  <text class="cite" x="54" y="152">10 man study of <tspan class="fort">artificial</tspan></text>
+  <text class="cite" x="54" y="192"><tspan class="fort">intelligence</tspan> be carried out</text>
+  <text class="cite" x="54" y="232">during the summer of 1956</text>
+  <text class="cite" x="54" y="272">at Dartmouth College […]</text>
+  <text class="trad" x="676" y="112">« Nous proposons qu’une étude</text>
+  <text class="trad" x="676" y="152">de l’<tspan class="fort">intelligence artificielle</tspan>,</text>
+  <text class="trad" x="676" y="192">de 2 mois et à 10 personnes,</text>
+  <text class="trad" x="676" y="232">soit menée pendant l’été 1956</text>
+  <text class="trad" x="676" y="272">au Dartmouth College […] »</text>
+  <text class="source" x="600" y="340" text-anchor="middle">Proposition de J. McCarthy, M. Minsky, N. Rochester et C. Shannon, 31 août 1955.</text>
+</svg>

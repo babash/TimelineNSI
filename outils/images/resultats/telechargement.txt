@@ -4,6 +4,16 @@
 
 [75] schéma original gardé : images/75.png
 
+[76] schéma original gardé : images/76.png
+
+[78] schéma original gardé : images/78.png
+
+[81] schéma original gardé : images/81.png
+
+[82] schéma original gardé : images/82.png
+
+[84] schéma original gardé : images/84.png
+
 [1] Word Aamu in two Egyptian scripts circa 1900 BCE.jpg
     original 824x701 image/jpeg ; sortie 824x701 110 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
@@ -754,16 +764,6 @@
     description API : Diagram of the Turing test. This file was derived from: File:Turing test diagram.png
     catégories licence : CC-Zero; Self-published work
 
-[81] A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf
-    original 1275x1650 application/pdf ; sortie 451x106 30 ko
-    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
-    Artist : John McCarthy et al
-    Credit : http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
-    auteur retenu : John McCarthy et al
-    Restrictions :  ; AttributionRequired : false
-    description API : A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.
-    catégories licence : John McCarthy (computer scientist); PD-US missing SDC copyright status; PD US no notice
-
 [83] CPT-internet-packetswitching-reroute.svg
     original 766x515 image/svg+xml ; sortie 1000x673 133 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
@@ -794,4 +794,4 @@
     description API : Morceau de la structure du satellite récupéré de Ariane 501
     catégories licence : PD-self; Self-published work
 
-TOTAL : 82 images, 8165 ko
+TOTAL : 86 images, 8428 ko

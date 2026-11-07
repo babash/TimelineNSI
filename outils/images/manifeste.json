@@ -276,10 +276,10 @@
   "sha1": "4dc406a24eaac3e78db103ddc79b72c250b005b2"
  },
  "51": {
-  "fichier": "Pdp-7-oslo-2004.jpeg",
-  "format": "jpg",
+  "fichier": "Version 7 Unix SIMH PDP11 Emulation DMR.png",
+  "format": "png",
   "recadrage": "",
-  "sha1": "95a8248e666f090677e406a1b782f0a83bfaaa14"
+  "sha1": "d1b632337d0de258e16d5d2ee5b3656cc63948c3"
  },
  "52": {
   "fichier": "Visicalc.png",
@@ -293,11 +293,17 @@
   "recadrage": "",
   "sha1": "7439bdbf6b806ae4daaa37174aecdbe89206f1a4"
  },
- "55": {
-  "fichier": "Giant Linux kernel tux mascotte at Linux Day 2022 in Milano.jpg",
+ "54": {
+  "fichier": "Free Software Foundation office (2346065159).jpg",
   "format": "jpg",
   "recadrage": "",
-  "sha1": "f8d90562421e4d6c6f17bdd35a5b2f5acb3dac15"
+  "sha1": "406762314f09007d34b311dafba3f61dba03b018"
+ },
+ "55": {
+  "fichier": "Tux, the Linux penguin I.jpg",
+  "format": "jpg",
+  "recadrage": "",
+  "sha1": "6238b7a542e57ca0b97f9cd6746d9385f83d0046"
  },
  "56": {
   "fichier": "Microsoft Windows 1.0 screenshot.png",
@@ -329,6 +335,12 @@
   "recadrage": "",
   "sha1": "59569d5a72929b6acca92a8a3f903cc55dfb3609"
  },
+ "60": {
+  "fichier": "ChatGPT-Logo.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "b7d9cbbb03ea72ccf9a4822cc393cfccd7311b9a"
+ },
  "61": {
   "fichier": "CreeperWorm.jpg",
   "format": "jpg",
@@ -342,10 +354,10 @@
   "sha1": "f9d0d924e43dd110d1258e9f3b76a896b3db29b3"
  },
  "63": {
-  "fichier": "GDPR p1.svg",
+  "fichier": "OJ L 119 of 2016 - FR French.pdf",
   "format": "png",
   "recadrage": "",
-  "sha1": "98cb088c07bf89916cf5c28274c21efec5e1e8af"
+  "sha1": "d7a0a3164b5455edc29cb8b8c3b7f09ccbfb668a"
  },
  "64": {
   "fichier": "Google’s First Production Server.jpg",

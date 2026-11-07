@@ -498,15 +498,15 @@
     description API : Draw that represents the Internet of Things, signed by the author
     catégories licence : CC-BY-2.0
 
-[51] Pdp-7-oslo-2004.jpeg
-    original 2272x1704 image/jpeg ; sortie 1200x900 194 ko
-    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
-    Artist : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Matiashf (étant donné la revendication de droit d’auteur).
-    Credit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
-    auteur retenu : Matias Fjeld
-    Restrictions :  ; AttributionRequired : true
-    description API : A modified PDP-7 under restoration in Oslo, Norway Photo taken by me, Matias Fjeld (matiashf), on 2004-12-09.
-    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration redundant; PDP-7; Self-published work
+[51] Version 7 Unix SIMH PDP11 Emulation DMR.png
+    original 652x416 image/png ; sortie 652x416 9 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Huihermit
+    Credit : Travail personnel
+    auteur retenu : Huihermit
+    Restrictions :  ; AttributionRequired : false
+    description API : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The user ("dmr") and home directory ("/usr/dmr") for Dennis Ritchie are still present. Version 7 is considered an "Ancient Unix" and is no longer proprietary.
+    catégories licence : CC-Zero; PDP-11; Self-published work
 
 [52] Visicalc.png
     original 560x384 image/png ; sortie 560x384 3 ko
@@ -528,15 +528,25 @@
     description API : Screenshot of MS-DOS 6.22
     catégories licence : CC-Zero; Self-published work
 
-[55] Giant Linux kernel tux mascotte at Linux Day 2022 in Milano.jpg
-    original 4000x6000 image/jpeg ; sortie 800x1200 221 ko
+[54] Free Software Foundation office (2346065159).jpg
+    original 2816x2112 image/jpeg ; sortie 1200x900 144 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
-    Artist : User:Kowalski7cc
-    Credit : Special:PermaLink/698735294#Thank you for your photos from Linux Day Milano 2022!
-    auteur retenu : Kowalski7cc
+    Artist : Mike Linksvayer from Oakland, California
+    Credit : dsc03106.jpg
+    auteur retenu : Mike Linksvayer
     Restrictions :  ; AttributionRequired : false
-    description API : A giant and soft Tux mascotte, to thank the kernel Linux and Free software, at the conference Linux Day 2022 in Milano.
+    description API : dsc03106.jpg
     catégories licence : CC-Zero
+
+[55] Tux, the Linux penguin I.jpg
+    original 1920x1277 image/jpeg ; sortie 1200x798 105 ko
+    licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
+    Artist : Renato.pierri
+    Credit : Travail personnel
+    auteur retenu : Renato.pierri
+    Restrictions :  ; AttributionRequired : true
+    description API : Tux, the Linux penguin I. It is a gift that was given to IBMers from Brazil. There is a video about its refurbishing process. Search by "Reformando o Tux da IBM"
+    catégories licence : CC-BY-SA-4.0; Self-published work
 
 [56] Microsoft Windows 1.0 screenshot.png
     original 2384x1644 image/png ; sortie 1200x828 284 ko
@@ -578,6 +588,16 @@
     description API : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: chinese
     catégories licence : CC-BY-SA-4.0; Self-published work
 
+[60] ChatGPT-Logo.svg
+    original 512x512 image/svg+xml ; sortie 1200x1200 137 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : OpenAI
+    Credit : Travail personnel basé sur : ChatGPT-Logo.png
+    auteur retenu : OpenAI
+    Restrictions : trademarked ; AttributionRequired : false
+    description API : This image represents the official branding for ChatGPT.
+    catégories licence : PD shape
+
 [61] CreeperWorm.jpg
     original 400x300 image/jpeg ; sortie 400x300 5 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
@@ -598,15 +618,15 @@
     description API : Countries initially affected in WannaCry ransomware attack. The source says: "...countries affected in the first few hours of the cyber-attack..."
     catégories licence : CC-BY-SA-3.0
 
-[63] GDPR p1.svg
-    original 677x958 image/svg+xml ; sortie 848x1200 388 ko
+[63] OJ L 119 of 2016 - FR French.pdf
+    original 1239x1752 application/pdf ; sortie 848x1200 340 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
-    Artist : The European Parliament and The Council (Union européenne)
-    Credit : Official Journal of the European Union
-    auteur retenu : The European Parliament and The Council (Union européenne)
+    Artist : Office des publications de l'Union européenne
+    Credit : EUR-Lex ([1], [2])
+    auteur retenu : Office des publications de l'Union européenne
     Restrictions :  ; AttributionRequired : false
-    description API : The first page of the General Data Protection Regulation
-    catégories licence : Attribution only license; European Union license; PD-EUGov
+    description API : Official Journal of the European Union - L 119 of 4 May 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
 
 [64] Google’s First Production Server.jpg
     original 2543x4209 image/jpeg ; sortie 725x1200 267 ko
@@ -698,4 +718,4 @@
     description API : Spanning tree protocol at work. Figure 6.
     catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
 
-TOTAL : 70 images, 11183 ko
+TOTAL : 72 images, 11117 ko

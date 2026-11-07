@@ -1,0 +1,38 @@
+# carte v61 requêtes 4785eb81c3d6
+{"tuile": 400, "colonnes": 2, "titres": ["File:CreeperWorm.jpg", "File:O primeiro vírus de computador; Creeper.png", "File:Virus Creeper.jpg", "File:MS-DOS 6.22.jpg"]}
+
+[1] File:CreeperWorm.jpg
+    taille 400x300 image/jpeg 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Screenshot von User Worm&Virus
+    crédit : Screenshot von einer Simulation des Wurms
+    description : Bildschirmtext, der vom Netzwerkwurm Creeper angezeigt wird
+    catégories licence : CC-Zero
+    catégories : Creeper (worm)
+
+[2] File:O primeiro vírus de computador; Creeper.png
+    taille 555x182 image/png 14 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : AndréMurilo612
+    crédit : Travail personnel
+    description : O primeiro vírus de computador foi o Creeper criado por Bob Thomas.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Creeper (worm)
+
+[3] File:Virus Creeper.jpg
+    taille 828x828 image/jpeg 22 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Viacheslav Novikov
+    crédit : Travail personnel
+    description : Hlášení, které se zobrazovalo na obrazovce během útoku Creepera
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Creeper (worm)
+
+[4] File:MS-DOS 6.22.jpg
+    taille 1441x797 image/jpeg 138 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Gvtyhbiju
+    crédit : Travail personnel
+    description : Screenshot of MS-DOS 6.22
+    catégories licence : CC-Zero; Self-published work
+    catégories : MS-DOS; Microsoft

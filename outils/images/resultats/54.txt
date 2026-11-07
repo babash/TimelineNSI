@@ -1,16 +1,7 @@
-# carte 54 requêtes ee36c531ca05
-{"titres": ["File:Heckert GNU white.png"], "recherches": ["GNU Manifesto", "GNU project", "Free Software Foundation", "GNU head"]}
+# carte 54 requêtes 469aadc9794a
+{"recherches": ["GNU Manifesto Dr. Dobb's", "Free Software Foundation office", "GNU Emacs 1985", "GNU project"]}
 
-[1] File:Heckert GNU white.png
-    taille 720x720 image/png 40 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : This work Rafał Pocztarski Original work Aurelio A. Heckert <aurium@gmail.com>
-    crédit : Travail personnel, The GNU Art Gallery, gnu.org, others
-    description : A Bold GNU Head
-    catégories licence : CC-BY-SA-2.0; FAL; GFDL-1.3; GNU license icon bitmaps; License migration not eligible; Self-published work
-    catégories : GNU Heckert; Upload protected files; Vector version available; With trademark
-
-[2] File:35 years of freedom and memories from the FSF tech team - GNU Manifesto.png
+[1] File:35 years of freedom and memories from the FSF tech team - GNU Manifesto.png
     taille 800x524 image/png 132 ko
     licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
     auteur : Raghavendra Kamath
@@ -19,106 +10,34 @@
     catégories licence : CC-BY-4.0
     catégories : 1985 posters; 2020 posters; English-language posters; Free Software Foundation; GNU Project; March 1985 events; Richard Stallman in 1985; Richard Stallman in 2020
 
-[3] File:Manifesto comunista capitulo I.ogg
-    taille 0x0 application/ogg 2391 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : Marri
-    crédit : Travail personnel
-    description : Audiobook do manifesto comunista de Marx e Engesl, capítulo I
-    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Communist Manifesto; Spoken Wikisource - Portuguese
-
-[4] File:Communist-manifesto (cropped).png
-    taille 464x309 image/png 232 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Friedrich Engels, Karl Marx
-    crédit : from www.marxists.org via en.wikipedia
-    description : Cover of the Communist Manifesto’s initial publication in February 1848 in London.
-    catégories licence : Author died more than 100 years ago public domain images; CC-BY-SA-3.0-migrated; CC-PD-Mark; GFDL; License migration completed
-    catégories : Communist Manifesto; Extracted images; Marxists Internet Archive
-
-[5] File:Stuckists Turner Prize manifesto inside.jpg
-    taille 795x552 image/jpeg 87 ko
+[2] File:GNU.png
+    taille 276x256 image/png 5 ko
     licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
-    auteur : 
-    crédit : 
-    description : 
+    auteur : Richard Stallman
+    crédit : http://www.gnu.org/gnu/manifesto.it.html
+    description : Gnu is not unix
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
-    catégories : Billy Childish; Charles Thomson; Demonstrations and protests by Stuckists against the Turner Prize; Files with no machine-readable author; Files with no machine-readable source; Images from Stuckism International; Manifestos; Media missing infobox template; Stuckist publications
+    catégories : GNU head; With trademark
 
-[6] File:Stuckists Turner Prize manifesto front.jpg
-    taille 388x552 image/jpeg 51 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
-    auteur : 
-    crédit : 
-    description : 
-    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
-    catégories : Billy Childish; Charles Thomson; Demonstrations and protests by Stuckists against the Turner Prize; Files with no machine-readable author; Files with no machine-readable source; Images from Stuckism International; Manifestos; Media missing infobox template; Prize (text); Stuckist publications
+[3] File:Miguel Quaremme - Une Introduction Philosophique au Copyleft.pdf
+    taille 1239x1752 application/pdf 509 ko
+    licence : CC BY-SA 1.0 | cc-by-sa-1.0 | https://creativecommons.org/licenses/by-sa/1.0 -> OK
+    auteur : Miguel Quaremme
+    crédit : http://quaremme.be/2010/01/08/une-introduction-philosophique-au-copyleft/
+    description : Une introduction philosophique au copyleft par Miguel Quaremme, 2003.
+    catégories licence : CC-BY-SA-1.0; Education PDF files; Philosophy PDF files
+    catégories : Books about philosophy; Books without Wikidata item
 
-[7] File:Stuckists Turner Prize manifesto back.jpg
-    taille 393x552 image/jpeg 21 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
-    auteur : 
-    crédit : 
-    description : 
-    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
-    catégories : Billy Childish; Charles Thomson; Demonstrations and protests by Stuckists against the Turner Prize; Files with no machine-readable author; Files with no machine-readable source; Images from Stuckism International; Manifestos; Media missing infobox template; Stuckist publications
-
-[8] File:A GNU edits wikipedia.svg
-    taille 375x387 image/svg+xml 180 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Flanoz
-    crédit : Travail personnel
-    description : Created for an editathon by Free Software Assosiation in Turkey, for Turkish Wikipedia. A GNU edits Wikipedia
-    catégories licence : CC-Zero; Self-published work
-    catégories : GNU Project; Wikipedia edit-a-thons
-
-[9] File:تعرف على البرمجيات الحرة.pdf
-    taille 1004x1416 application/pdf 1123 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : فهد السعيدي (Fahad Al-Saidi)
-    crédit : https://itwadi.com/node/2518
-    description : Une série d'introduction aux logiciels libres, par Fahad Al-Saidi, coordonnée par Ahmed AbouZaid.
-    catégories licence : Arabic-language PDF files; CC-BY-SA-3.0
-    catégories : Free software; GNU Project; Programming books in Arabic
-
-[10] File:Gnu-wallpaper.png
-    taille 3840x2160 image/png 9116 ko
+[4] File:OPEN SOURCE E FREE SOFTWARE DIFFERENZE OPERATIVE E DUBBI INTERPRETATIVI.pdf
+    taille 1275x1650 application/pdf 820 ko
     licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Raghukamath
+    auteur : Ugo LOPEZ
     crédit : Travail personnel
-    description : A wallpaper intended for linux operating system. This wallpaper shows gnu the mascot of the Freesoftware gnu project
-    catégories licence : CC-BY-4.0; Self-published work
-    catégories : Art by Commons users; GNU head
+    description : L'elaborato rappresenta una dettagliata analisi sugli strumenti legali di protezione del software: partendo da una panoramica sulla protezione attraverso diritto d'autore, brevetto e copyright e sulle rispettive differenze, si continua con alcuni cenni storici sul software libero e open source, senza dimenticare di analizzare alcuni casi tipo di licenze particolari e senza tralasciare alcuni casi 
+    catégories licence : CC-BY-4.0; Self-published work; Software licenses
+    catégories : Free Software Foundation; Free software; Open Source Initiative; Open source
 
-[11] File:Winking-GNU-head.svg
-    taille 935x953 image/svg+xml 15 ko
-    licence : FAL-1.3 |  | http://artlibre.org/licence/lal/en -> ?
-    auteur : Bravo Edison, Aurélio A. Heckert, Free Software Foundation, Inc., and Etienne Suvasa
-    crédit : https://www.gnu.org/graphics/bold-initiative-GNU-head.html
-    description : A variation of the GNU logo where the logo is winking and talking.
-    catégories licence : FAL-1.3
-    catégories : GNU Project logos; With trademark
-
-[12] File:GNU-STICKER.png
-    taille 1936x1936 image/png 210 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Codefail
-    crédit : Travail personnel
-    description : GNU is love
-    catégories licence : CC-BY-SA-4.0; GPL; Self-published work
-    catégories : GNU Project; GNU letter combinations; PNG created with Inkscape
-
-[13] File:Try GNU APL.png
-    taille 1920x1200 image/png 134 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : François-Dominique
-    crédit : Travail personnel
-    description : La fenêtre bleue contient la session d'essai, la jaune le clavier permettant de taper les tous les caractères APL non disponibles au clavier (et quelques autres aussi)
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : APL (programming language); GNU Project
-
-[14] File:Free Software Foundation office (2346065159).jpg
+[5] File:Free Software Foundation office (2346065159).jpg
     taille 2816x2112 image/jpeg 2420 ko
     licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
     auteur : Mike Linksvayer from Oakland, California
@@ -127,20 +46,101 @@
     catégories licence : CC-Zero
     catégories : FSF letter combinations; Flickr images reviewed by FlickreviewR 2; Free Software Foundation office, Boston
 
-[15] File:Free Software Foundation Licensing and Compliance Lab logo.png
-    taille 750x200 image/png 27 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Free Software Foundation
-    crédit : https://www.fsf.org/blogs/licensing/rail-are-nonfree-and-unethical
-    description : The logo of the Free Software Foundation's Licensing and Complaince Lab.
-    catégories licence : CC-BY-4.0; Creative Commons Attribution 4.0 missing SDC copyright license; Creative Commons Attribution missing SDC copyright status
-    catégories : Free Software Foundation logos
+[6] File:Apache OpenOffice 4.1.11 start centre screenshot.png
+    taille 752x499 image/png 45 ko
+    licence : Apache License 2.0 |  | http://www.apache.org/licenses/LICENSE-2.0 -> ?
+    auteur : Software: Apache Software Foundation and contributors Screenshot: VulcanSphere
+    crédit : Self-taken; derivative work
+    description : Apache OpenOffice 4.4.11 initial screen
+    catégories licence : Apache License
+    catégories : Free screenshots; Screenshots of Apache OpenOffice 4.1; Screenshots taken by VulcanSphere
 
-[16] File:OPEN SOURCE E FREE SOFTWARE DIFFERENZE OPERATIVE E DUBBI INTERPRETATIVI.pdf
-    taille 1275x1650 application/pdf 820 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Ugo LOPEZ
+[7] File:2009 Wikimedia Foundation Office 14.jpg
+    taille 4752x3168 image/jpeg 3349 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dmgultekin
     crédit : Travail personnel
-    description : L'elaborato rappresenta una dettagliata analisi sugli strumenti legali di protezione del software: partendo da una panoramica sulla protezione attraverso diritto d'autore, brevetto e copyright e sulle rispettive differenze, si continua con alcuni cenni storici sul software libero e open source, senza dimenticare di analizzare alcuni casi tipo di licenze particolari e senza tralasciare alcuni casi 
-    catégories licence : CC-BY-4.0; Self-published work; Software licenses
-    catégories : Free Software Foundation; Free software; Open Source Initiative; Open source
+    description : Exterior of the new Wikimedia Foundation office
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : 149 New Montgomery Street; Files with coordinates missing SDC location of creation; Second and Howard Historic District; Taken with Canon EOS 500D
+
+[8] File:New Wikimedia Foundation Office 09.jpg
+    taille 4752x3168 image/jpeg 2126 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dmgultekin
+    crédit : Travail personnel
+    description : New Wikimedia Foundation Office
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : 3D Wikipedia puzzle globe at the Wikimedia Foundation office; Taken with Canon EOS 500D; Wikimedia Foundation Memory Bank; Wikimedia Foundation office at 149 New Montgomery Street
+
+[9] File:Office of Taichung Software Park.JPG
+    taille 4000x3000 image/jpeg 2313 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : SSR2000
+    crédit : Travail personnel
+    description : ​臺中軟體園區辦公室，原台灣省菸葉試驗所基地辦公室。
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : 2013 photographs of Taichung; Office buildings in Taichung; Photographs by SSR2000; Taichung Software Park; Taken with Canon PowerShot SX230 HS
+
+[10] File:New Wikimedia Foundation Office 11.jpg
+    taille 4752x3168 image/jpeg 2287 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dmgultekin
+    crédit : Travail personnel
+    description : New Wikimedia Foundation Office
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : 3D Wikipedia puzzle globe at the Wikimedia Foundation office; Taken with Canon EOS 500D; Wikimedia Foundation office at 149 New Montgomery Street
+
+[11] File:AWK Language Programming.pdf
+    taille 1275x1650 application/pdf 1325 ko
+    licence : Old FSF Documentation License |  | https://fedoraproject.org/wiki/Licensing:OldFSFDocLicense?rd=Licensing/OldFSFDocLicense -> ?
+    auteur : Arnold D. Robbins
+    crédit : https://blyx.com/public/docs/programacion/Awk_Language_Programming.pdf
+    description : Manuel d'utilisation de GNU AWK, par Arnold D. Robbins
+    catégories licence : 
+    catégories : AWK; Arnold D. Robbins; GNU Awk; OFSFDL
+
+[12] File:03November2006.pdf
+    taille 1275x1650 application/pdf 184 ko
+    licence : CC BY 2.5 | cc-by-2.5 | https://creativecommons.org/licenses/by/2.5 -> OK
+    auteur : Wikinews contributors
+    crédit : Wikinews articles
+    description : n:Wikinews:Print edition for November 3, 2006.
+    catégories licence : CC-BY-2.5; CC-BY-SA-3.0; Copyright by Wikimedia; Licensing templates based on Mbox; Print Edition (PDF)
+    catégories : November 2006; Printedition; Trademarks and logos of Wikimedia
+
+[13] File:The NIST EXPRESS toolkit- updating existing applications (IA nistexpresstoolk5205libe).pdf
+    taille 1218x1618 application/pdf 889 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Libes, Don
+    crédit : Internet Archive identifier: nistexpresstoolk5205libe https://archive.org/download/nistexpresstoolk5205libe/nistexpresstoolk5205libe.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[14] File:An implementation of REpresentation and MAintenance of Process knowledge (REMAP model in the knowledge-based software assistant concept demonstration system (IA animplementation1094539953).pdf
+    taille 1275x1650 application/pdf 3035 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hughes, Frank J. Kendall, Steven C.
+    crédit : Internet Archive identifier: animplementation1094539953 https://archive.org/download/animplementation1094539953/animplementation1094539953.pdf
+    description : The REpresentation and MAintenance of Process knowledge (REMAP) model supports the various stakeholders involved in software design during development and maintenance by capturing the rationale behind design decisions. This process knowledge is invaluable Subjects: REMAP; KBSA; REFINE; Andersen Consulting; IBIS; Requirements Engineering; Deliberations; Knowledge-based Software Engineering
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:A GNU edits wikipedia.svg
+    taille 375x387 image/svg+xml 180 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Flanoz
+    crédit : Travail personnel
+    description : Created for an editathon by Free Software Assosiation in Turkey, for Turkish Wikipedia. A GNU edits Wikipedia
+    catégories licence : CC-Zero; Self-published work
+    catégories : GNU Project; Wikipedia edit-a-thons
+
+[16] File:تعرف على البرمجيات الحرة.pdf
+    taille 1004x1416 application/pdf 1123 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : فهد السعيدي (Fahad Al-Saidi)
+    crédit : https://itwadi.com/node/2518
+    description : Une série d'introduction aux logiciels libres, par Fahad Al-Saidi, coordonnée par Ahmed AbouZaid.
+    catégories licence : Arabic-language PDF files; CC-BY-SA-3.0
+    catégories : Free software; GNU Project; Programming books in Arabic

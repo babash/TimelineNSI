@@ -1,5 +1,5 @@
-# carte 22 requêtes ed2ac77d4d8a
-{"recherches": ["Python logo", "Python programming language code", "Python IDLE screenshot", "Python 3 code"]}
+# carte 22 requêtes 7459cd183108
+{"titres": ["File:Python-logo-notext.svg"], "recherches": ["Hello world Python", "Python syntax example", "Python source code example svg", "Python program code"]}
 
 [1] File:Python-logo-notext.svg
     taille 110x110 image/svg+xml 2 ko
@@ -10,137 +10,137 @@
     catégories licence : PD shape
     catégories : Official Python icons and direct derivatives; SVG Python logo icons; Valid SVG created with Inkscape:Logos; With trademark
 
-[2] File:Python logo (icon only).svg
-    taille 556x562 image/svg+xml 2 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : ™/®Python Software Foundation
-    crédit : https://www.python.org/community/logos/
-    description : Python logo, excluding the wordmark and shadow underneath the icon.
-    catégories licence : GPL
-    catégories : Official Python icons and direct derivatives; SVG Python logo icons; With trademark
-
-[3] File:Python logo 01.svg
-    taille 600x600 image/svg+xml 10 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : Dnu72
+[2] File:Hello World in Python.png
+    taille 528x346 image/png 48 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Christianjgarcia
     crédit : Travail personnel
-    description : Logo del lenguaje de programación Python.
-    catégories licence : GPL
-    catégories : Python logo construction (image set); Valid SVG created with Inkscape
+    description : Code snippet that will print hello world in Python code
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Hello World source code; Python programming examples
 
-[4] File:Python-logo.png
-    taille 1869x2048 image/png 174 ko
-    licence : CC BY 2.5 | cc-by-2.5 | https://creativecommons.org/licenses/by/2.5 -> OK
-    auteur : Logo Python
-    crédit : Logo Python
-    description : python
-    catégories licence : CC-BY-2.5
-    catégories : Python logos
-
-[5] File:Python logo 1990s.svg
-    taille 410x120 image/svg+xml 13 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Just van Rossum
-    crédit : Travail personnel; Traced from https://web.archive.org/web/19970501011626im_/http://www.python.org:80/pics/pythonHi.gif
-    description : Python logo, used between 1990s–2006
-    catégories licence : PD textlogo
-    catégories : Python dot matrix logo; SVG text logos
-
-[6] File:Python logo (2025).png
-    taille 1280x1275 image/png 116 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Auteur inconnuUnknown author
-    crédit : https://brandslogos.com/wp-content/uploads/images/large/python-logo.png
-    description : PYTHON LOGO
-    catégories licence : CC-Zero
-    catégories : PNG logos with transparent background; Template Unknown (author)
-
-[7] File:Python Code.png
-    taille 732x832 image/png 106 ko
+[3] File:Hello World Python Swahili.png
+    taille 264x22 image/png 2 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Thraea19
+    auteur : UmojaWetu
     crédit : Travail personnel
-    description : C'est vraiment juste un code python, il n'y a rien de vraiment intéressant à ce sujet.
+    description : Hello world with Python in Swahili
     catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Coding; Computer programming; Python (programming language)
+    catégories : Hello World!; Swahili-language screenshots
 
-[8] File:Python Code File Extractor.png
-    taille 816x583 image/png 80 ko
+[4] File:Pygame - Hello World.png
+    taille 652x515 image/png 10 ko
     licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Maxtispro
+    auteur : Phobulos
     crédit : Travail personnel
-    description : Extracts log files from one directory into another directory.
+    description : Example program Hello World created in Python with module Pygame. Source code of program can be found in article Pygame on Czech Wikipedia. Program is launched in system Ubuntu 11.04.
     catégories licence : CC-Zero; Self-published work
-    catégories : Python (programming language)
+    catégories : English-language Hello World dialog boxes; Pygame
 
-[9] File:Python - Load Audio File.png
-    taille 1710x628 image/png 156 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : TheCodeGenie
+[5] File:Ugs screenshot hello world python.jpg
+    taille 2880x1920 image/jpeg 379 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Sanjdm
     crédit : Travail personnel
-    description : Python code that will open an audio file (MP3 or WAV) and report its name, length in seconds, and size in megabytes.
-    catégories licence : CC-Zero; Self-published work
-    catégories : Python (programming language); Source code
-
-[10] File:Python Programming eBook Reader.pdf
-    taille 539x718 application/pdf 875 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Dirk Hünniger
-    crédit : Travail personnel
-    description : eBook Reader optimized version of the Python Wikibook
-    catégories licence : CC-BY-SA-3.0; Self-published work
-    catégories : Python (programming language)
-
-[11] File:CPT-TheoryOfComp-Binary-Search-Python.png
-    taille 513x528 image/png 65 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : MsDennig
-    crédit : Travail personnel
-    description : Script de recherche dichotomique en Python.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Binary search algorithm; Python (programming language)
-
-[12] File:Python, schema toku kodu v 1.png
-    taille 2286x1141 image/png 559 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Diagrams.net (objects), Juandev (code, drawing)
-    crédit : Travail personnel avec : Diagrams.net
-    description : Schéma co se děje z kódem Pythonu při interpretaci.
-    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
-    catégories : All Wikimedia screenshots; Files by Juandev; Python (programming language)
-
-[13] File:Python 3.2.2's IDLE Editor.jpg
-    taille 685x719 image/jpeg 33 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : Python Software Foundation
-    crédit : Screenshot
-    description : Python 3.2.2's IDLE Editor
-    catégories licence : GPL
-    catégories : Free screenshots; IDLE
-
-[14] File:Python 3.2.2's IDLE Shell.jpg
-    taille 685x719 image/jpeg 43 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : Python Software Foundation
-    crédit : Screenshot
-    description : Python 3.2.2's IDLE Shell
-    catégories licence : GPL
-    catégories : Free screenshots; IDLE
-
-[15] File:Python's IDLE.png
-    taille 908x742 image/png 141 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Максим Пе
-    crédit : Travail personnel
-    description : Python's Integrated Development and Learning Environment. IDLE version: 3.10.7. Run in Ubuntu.
-    catégories licence : CC-BY-SA-4.0
-    catégories : Free screenshots; IDLE
-
-[16] File:Python IDLE.png
-    taille 911x328 image/png 19 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Bernardo Lansing
-    crédit : Travail personnel
-    description : Screenshot do Python IDLE, REPL para a linguagem de programação Python.
-    catégories licence : CC-BY-SA-4.0; Self-published work
+    description : hello world code python
+    catégories licence : CC-BY-4.0; Self-published work
     catégories : Screenshots
+
+[6] File:PyQt5 Hello World Exmaple on Ubuntu 17.10 (GNOME Shell).png
+    taille 320x270 image/png 5 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Python3lover
+    crédit : Travail personnel
+    description : A screenshot of an Hello World example made by PyQt5 on Ubuntu 17.10 (GNOME Shell).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : PyQt; Python (programming language)
+
+[7] File:HelloWorld Python Tkinter.png
+    taille 308x70 image/png 5 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Salexey
+    crédit : Travail personnel
+    description : A simple GUI with the Tkinter library.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Tkinter
+
+[8] File:Python add5 syntax.svg
+    taille 602x449 image/svg+xml 17 ko
+    licence : Copyrighted free use |  |  -> ?
+    auteur : Xander89
+    crédit : Travail personnel basé sur : Python add5 syntax.png
+    description : example of Python language
+    catégories licence : Copyrighted free use
+    catégories : Python (programming language)
+
+[9] File:Python add5 parse.png
+    taille 783x600 image/png 20 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Lulu of the Lotus-Eaters sur Wikipédia anglais
+    crédit : Transféré de en.wikipedia à Commons.
+    description : Example of programming language parse tree.العاب نينتندو سويتش
+    catégories licence : PD-user
+    catégories : Abstract syntax trees; PNG created with Graphviz; Python (programming language)
+
+[10] File:Dot's syntax highlighter 2012-08-18.png
+    taille 1043x531 image/png 106 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Remember the dot
+    crédit : Travail personnel
+    description : Screenshot of my syntax highlighter editing wikipedia:Neuroterus albipes.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Dot's Syntax Highlighter
+
+[11] File:Wiki source editor with Dot's syntax highlighter.png
+    taille 1672x1080 image/png 157 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Authors of the Balatonújlak article on the Hungarian Wikipedia; screenshot: Samat
+    crédit : Travail personnel
+    description : A 2010-es wikikódszerkesztő Dot szintaxiskiemelőjével
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Dot's Syntax Highlighter
+
+[12] File:Wiki source editor with Dot's syntax highlighter 2.png
+    taille 1672x1080 image/png 221 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Authors of the Balatonújlak article on the Hungarian Wikipedia; screenshot: Samat
+    crédit : Travail personnel
+    description : A 2010-es wikikódszerkesztő Dot szintaxiskiemelőjével
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Dot's Syntax Highlighter
+
+[13] File:Dot's Syntax Highlighter 2012-12-06.png
+    taille 1134x455 image/png 96 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Remember the dot
+    crédit : Travail personnel
+    description : Screenshot of my syntax highlighter editing wikipedia:Neuroterus albipes.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Dot's Syntax Highlighter; Editing; Screenshots
+
+[14] File:Mpl example 3D surface.svg
+    taille 720x540 image/svg+xml 328 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Adrien F. Vincent
+    crédit : Travail personnel
+    description : 3D surface plot with Matplotlib
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Images with Matplotlib source code; Images with NumPy source code; Images with Python source code; SVG created also with python; SVG surface plots; Valid SVG created with Matplotlib
+
+[15] File:Mpl example histogram.svg
+    taille 720x540 image/svg+xml 24 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Adrien F. Vincent
+    crédit : Travail personnel
+    description : Histogram using matplotlib
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Images with Matplotlib source code; Images with NumPy source code; Images with Python source code; Valid SVG created with Matplotlib
+
+[16] File:Mpl example polar plot.svg
+    taille 540x540 image/svg+xml 39 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Adrien F. Vincent
+    crédit : Travail personnel
+    description : Logarithmic spiral with matplotlib
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Images with Matplotlib source code; Images with NumPy source code; Images with Python source code; Valid SVG created with Matplotlib

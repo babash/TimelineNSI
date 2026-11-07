@@ -1,146 +1,146 @@
-# carte 72 requêtes 61c84476594a
-{"recherches": ["tf-idf", "inverse document frequency", "Karen Spärck Jones", "search engine index"]}
+# carte 72 requêtes 3e60548e5672
+{"recherches": ["tf-idf formula", "inverted index", "information retrieval search engine diagram", "term frequency inverse document frequency"]}
 
-[1] File:Tf-idf of some words in some articles.jpg
-    taille 2710x1467 image/jpeg 101 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Ladsgroup
-    crédit : Travail personnel
-    description : Suming over w:tf-idf of 66 words in articles of Persian Wikipedia that has at least one of these words. the 66 words are words like 'his majesty' that can show unbalanced point of view.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Persian Wikipedia statistics
-
-[2] File:Tf-idf.jpg
-    taille 575x222 image/jpeg 17 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Ferran.gonzalo.sergio
-    crédit : Travail personnel
-    description : gràfic tf-idf
-    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Computational linguistics; Files using the Catalan language
-
-[3] File:Blog fingerprinting identifying anonymous posts written by an author of interest using word and character frequency analysis (IA blogfingerprinti109454522).pdf
-    taille 1275x1650 application/pdf 448 ko
+[1] File:Das Aufs neue wohl zubereitete Tinten-Fass, oder, Anweisung, wie man gute schwarze, buntfärbige, auch andere curiöse Tinten auf mancherlei Weise zubereiten (IA dasaufsneuewohlz00unse).pdf
+    taille 591x1010 application/pdf 6725 ko
     licence : Public domain | pd |  -> OK
-    auteur : Dreier, David J.
-    crédit : Internet Archive identifier: blogfingerprinti109454522 https://archive.org/download/blogfingerprinti109454522/blogfingerprinti109454522.pdf
-    description : Internet blogs are an easily accessible means of global communications. Monitoring blogs for criminal and terrorist activity is a serious challenge, due to blogs' anonymous nature and the sheer volume of data. The intelligence community is often faced with more information than it can process. The need exists to develop methods for processing the massive amounts of data this media presents, withou
+    auteur : 
+    crédit : Internet Archive identifier: dasaufsneuewohlz00unse https://archive.org/download/dasaufsneuewohlz00unse/dasaufsneuewohlz00unse.pdf
+    description : Woodcut of inkstand on t.p., woodcut head piece at chapter 1, and tail piece at conclusion "Vorbericht zu der vierten Edition", p. [3] British Museum. Catalogue Subjects: Ink; Writing materials and instruments; Formulas, recipes, etc
+    catégories licence : PD US expired
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Files with no machine-readable author; Images from the Getty Research Institute; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[2] File:The farm journal directory of Jay County, Indiana (IA farmjournaldirec00unse 1).pdf
+    taille 1514x2204 application/pdf 45853 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: farmjournaldirec00unse_1 https://archive.org/download/farmjournaldirec00unse_1/farmjournaldirec00unse_1.pdf IA contributor: Allen County Public Library Genealogy Center IA
+    description : "With a complete road map of the county" Farmers' directory -- Classified business directory Photocopy 16 Subjects: Jay County (Ind.) -- Directories
+    catégories licence : PD-US missing SDC copyright status; PD US
+    catégories : Books from the Allen County Public Library; Books uploaded by Fæ; Books without Wikidata item; Files with no machine-readable author; IA uploads needing categories; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[3] File:Computer-aided design of linear networks in the frequency domain (IA computeraideddes00kirk).pdf
+    taille 1187x1606 application/pdf 2182 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Kirk, Donald E., 1937-
+    crédit : Internet Archive identifier: computeraideddes00kirk https://archive.org/download/computeraideddes00kirk/computeraideddes00kirk.pdf
+    description : Final report contract No. GR-501720--Cover. Subjects: TROPICAL CYCLONE MOTION.; METEOROLOGY.; WEATHER FORECASTING.; CYCLONES--TROPICAL.; WIND SHEAR.
     catégories licence : CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Reports from the Naval Postgraduate School; Scans from the Internet Archive; Scans from the Internet Archive/unverified
 
-[4] File:Dichterstimmen der Gegenwart - Eine Sammlung vom Felde der deutsche Lyrik seit 1850 (IA bub gb tfEOAAAAIAAJ).pdf
-    taille 433x625 application/pdf 17958 ko
+[4] File:Hortorvm libri triginta (IA gri 33125008612653).pdf
+    taille 1052x1500 application/pdf 46478 ko
     licence : Public domain | pd |  -> OK
-    auteur : Weller, Karl
-    crédit : Internet Archive identifier: bub_gb_tfEOAAAAIAAJ https://archive.org/download/bub_gb_tfEOAAAAIAAJ/bub_gb_tfEOAAAAIAAJ.pdf IA contributor: unknown library IA digitizing sponsor: Google
-    description : Subjects: bub_upload
+    auteur : Court, Benoît de
+    crédit : Internet Archive identifier: gri_33125008612653 https://archive.org/download/gri_33125008612653/gri_33125008612653.pdf IA contributor: Getty Research Institute
+    description : [24], 683, [1] p. ; 34 cm. (fol.) Jean de Tournes' device on t.p. (serpents). Headpieces. Decorated and historiated initials in various sizes, including some from an alphabet that may be after Hans Holbein; see Hollstein Subjects: Botany -- Pre-Linnean works; Trees -- Early works to 1800
     catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
-    catégories : Books uploaded by Fæ; Books without Wikidata item; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Latin-language books; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
 
-[5] File:A Framework for Generating Extractive Summary from Multiple Malayalam Documents.pdf
-    taille 1239x1752 application/pdf 553 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : K. Manju, S. David Peter and Sumam Mary Idicula
-    crédit : https://mdpi-res.com/d_attachment/information/information-12-00041/article_deploy/information-12-00041.pdf?version=1610977715 https://www.mdpi.com/2078-2489/12/1/41
-    description : Scholarly article "A Framework for Generating Extractive Summary from Multiple Malayalam Documents" on MDPI journal information
-    catégories licence : CC-BY-4.0
-    catégories : 2023 scientific journals; Scholarly articles about the Malayalam language
+[5] File:JGR-OPIC (Overseas Private Investment Corporation) (2 of 2) - DPLA - bf7a11c9e29c976feb574b53726d99ff.pdf
+    taille 1275x1650 application/pdf 2640 ko
+    licence : Public domain | pd |  -> OK
+    auteur : President (1981-1989 : Reagan). Office of Counsel to the President. 1/1981-1/1989
+    crédit : File URL Catalog record
+    description : 
+    catégories licence : PD US
+    catégories : Media contributed by Ronald Reagan Presidential Library; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration
 
-[6] File:Sloan SDAW Final Grant Report 2023.pdf
-    taille 1275x1650 application/pdf 9553 ko
+[6] File:A treatise on dynamics of a particle - with numerous examples (IA ondynami00taittreatiserich).pdf
+    taille 533x850 application/pdf 17606 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Tait, Peter Guthrie, 1831-1901 Steele, William John
+    crédit : Internet Archive identifier: ondynami00taittreatiserich https://archive.org/download/ondynami00taittreatiserich/ondynami00taittreatiserich.pdf
+    description : Subjects: Dynamics of a particle
+    catégories licence : PD US expired
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:1907 Ultra High Relief $20 Double Eagle (Inverted Edge Letters).jpg
+    taille 4602x2296 image/jpeg 8743 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Heritage Auctions (image); U.S. Mint (coin)
+    crédit : Heritage Auctions Lot 4412, 7 January 2015
+    description : 1907 Ultra High Relief $20 Double Eagle (Inverted Edge Letters)(1216-4412)
+    catégories licence : CC-BY-4.0; CC-PD-Mark; PD US Government; PD US money
+    catégories : 1907 coins; 2015 User:Godot13; All Images by User:Godot13; Featured pictures of coins; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, English; HA uploaded by User:Godot13; Items with VRTS permission confirmed; Saint-Gaudens double eagle; United States double eagle patterns
+
+[8] File:Indice invertido ejemplo.png
+    taille 1000x1000 image/png 100 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : CBogen (WMF)
+    auteur : RI2AI
     crédit : Travail personnel
-    description : Structured Data Across Wikimedia: Final Report for the Sloan Foundation
+    description : Representación de un índice invertido de palabras seleccionadas encontradas en dos documentos diferentes.
     catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Alfred P. Sloan Foundation; Structured Data Across Wikimedia; Structured Data on Commons; Wikimedia Foundation documents
+    catégories : Algoritmos de búsqueda
 
-[7] File:Comparison of the step frequency radar with the conventional constant frequency radars (IA comparisonofstep1094531981).pdf
-    taille 1275x1650 application/pdf 1965 ko
+[9] File:Indice invertido.png
+    taille 4000x7112 image/png 2476 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : RI2AI
+    crédit : Travail personnel
+    description : Representación de un índice invertido de las palabras encontradas en trece documentos diferentes.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Algoritmos de búsqueda
+
+[10] File:CSA-T56-$100-1863 (inverted back).jpg
+    taille 6440x5837 image/jpeg 15030 ko
     licence : Public domain | pd |  -> OK
-    auteur : Geladakis, Dimitrios N.
-    crédit : Internet Archive identifier: comparisonofstep1094531981 https://archive.org/download/comparisonofstep1094531981/comparisonofstep1094531981.pdf
-    description : In this thesis, the Step Frequency radar system is compared with the conventional Constant Frequency. radar system. The two radar systems are separately analyzed and their analyses are followed by a comparison which is mainly based upon their effectiveness to detect moving targets in clutter. The step frequency waveform consists of a series of pulses whose pulse width is constant and whose carrier
-    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books about radar; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+    auteur : musée national d'histoire américaine
+    crédit : Image by Godot13
+    description : CSA-T56-$100-1863 (inverted back)
+    catégories licence : CC-BY-SA-4.0; Licensed-PD-Art missing SDC digital representation of; PD-Art (PD-US-expired); PD US expired; Self-published work
+    catégories : 100 dollar Confederate banknotes; 2015 User:Godot13; All Images by User:Godot13; Featured Pictures (English Wikipedia) by User:Godot13; Featured Pictures (English Wikipedia, numismatic) by User:Godot13; Featured pictures on Wikipedia, English; Files that may be protected by currency protection laws; Files with Assessments template missing SDC Commons no value quality assessment; George W. Randolph
 
-[8] File:Application of Multi-Frequency Modulation (MFM) for high-speed data communications to a voice frequency channel (IA applicationofmul1094534823).pdf
-    taille 1275x1650 application/pdf 3366 ko
+[11] File:Breastfeeding - Inverted Nipple.png
+    taille 1024x768 image/png 340 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : BruceBlaus
+    crédit : Travail personnel
+    description : Breastfeeding - Inverted Nipple
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2016 illustrations; Breastfeeding in art; Images from Blausen Medical Communications with labels in English; Images with annotations; Inverted human female nipples; Items with VRTS permission confirmed
+
+[12] File:Inverted Arch (PSF).png
+    taille 1077x857 image/png 146 ko
     licence : Public domain | pd |  -> OK
-    auteur : Salsman, Charles P.
-    crédit : Internet Archive identifier: applicationofmul1094534823 https://archive.org/download/applicationofmul1094534823/applicationofmul1094534823.pdf
-    description : Multi-Frequency Modulation (MFM) has been developed at NPS using both differential quadrature-phase-shift-keying (DQPSK) and differential-quadrature- amplitude-modulation (DQAM) encoding formats. Previous applications of these encoding formats were on industry standard computers (PC) over a 16-20 kHz channel. This report discusses the implementation of MFM to a voice frequency channel of 200-3400 
-    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+    auteur : Pearson Scott Foresman
+    crédit : Cette image a été extraite d'un autre fichier
+    description : Inverted (Up side down) Arc
+    catégories licence : PD-ScottForesman; PD-author
+    catégories : Arches; Extracted images; Inverse; Items with VRTS permission confirmed; Pearson Scott Foresman publisher
 
-[9] File:Radar target imaging by time-domain inverse scattering. (IA radartargetimagi00mora).pdf
-    taille 1131x1608 application/pdf 4841 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Morag, Meir
-    crédit : Internet Archive identifier: radartargetimagi00mora https://archive.org/download/radartargetimagi00mora/radartargetimagi00mora.pdf
-    description : ADA102660 Bibliography: l. 138-139 Thesis (M.S. in E.E.)--Naval Postgraduate School, 1981 Subjects:
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+[13] File:Search-engine-diagram-de.svg
+    taille 744x638 image/svg+xml 111 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Jakob Voss
+    crédit : Travail personnel
+    description : Diagram of the search engine concept (de)
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Information retrieval; Path text SVG; Search engines; Valid SVG created with Inkscape:Diagrams
 
-[10] File:The measurement of frequency and frequency stability of precision oscillators (IA measurementoffre669alla).pdf
-    taille 1110x1487 application/pdf 1676 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Allan, David W.
-    crédit : Internet Archive identifier: measurementoffre669alla https://archive.org/download/measurementoffre669alla/measurementoffre669alla.pdf
-    description : Subjects: Frequency stability.; Frequencies of oscillating systems.
-    catégories licence : CC-PD-Mark; PD-USGov missing SDC copyright status; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+[14] File:Search-engine-diagram-he.svg
+    taille 512x433 image/svg+xml 83 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Search-engine-diagram-de.svg: Jakob Voss derivative work: Amirki (talk)
+    crédit : Search-engine-diagram-de.svg
+    description : Diagram of the search engine concept (de)
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Hebrew-language SVG diagrams; Information retrieval; SVG retouched pictures; Search engines; Uploaded with derivativeFX
 
-[11] File:Karen Spärck.jpg
-    taille 576x768 image/jpeg 61 ko
-    licence : CC BY 2.5 | cc-by-2.5 | https://creativecommons.org/licenses/by/2.5 -> OK
-    auteur : en:user:Markus Kuhn
-    crédit : http://en.wikipedia.org/wiki/Image:Karen_Sp%C3%A4rck_Jones.jpg
-    description : Prof. Karen Spärck Jones, photographed in summer 2002 in front of the University of Cambridge Computer Laboratory
-    catégories licence : CC-BY-2.5
-    catégories : Karen Spärck Jones; Personality rights warning
+[15] File:Search-engine-diagram-en.svg
+    taille 512x433 image/svg+xml 112 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Jakob Voss
+    crédit : Travail personnel
+    description : Diagram of the search engine concept (en)
+    catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Information retrieval; Search engines
 
-[12] File:The thirteenth text REtrieval conference, TREC 2004 (IA thirteenthtextre5002voor).pdf
-    taille 1222x1614 application/pdf 7913 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Voorhes, Ellen M. Buckland, Lori P.
-    crédit : Internet Archive identifier: thirteenthtextre5002voor https://archive.org/download/thirteenthtextre5002voor/thirteenthtextre5002voor.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[13] File:On the Dangers of Stochastic Parrots Can Language Models Be Too Big.pdf
-    taille 1275x1650 application/pdf 297 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell
-    crédit : https://dl.acm.org/doi/abs/10.1145/3442188.3445922 https://doi.org/10.1145/3442188
-    description : The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific 
-    catégories licence : CC-BY-4.0
-    catégories : Machine learning research
-
-[14] File:The fourth text REtrieval conference (IA fourthtextretrie5002harm).pdf
-    taille 1254x1637 application/pdf 44373 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Harman, D.K.
-    crédit : Internet Archive identifier: fourthtextretrie5002harm https://archive.org/download/fourthtextretrie5002harm/fourthtextretrie5002harm.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; National Institute of Standards and Technology Special Publications; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[15] File:The eleventh text REtrieval conference, TREC 2002 (IA eleventhtextretr5002voor).pdf
-    taille 1260x1654 application/pdf 81011 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Voorhees, Ellen M. Buckland, Lori P.
-    crédit : Internet Archive identifier: eleventhtextretr5002voor https://archive.org/download/eleventhtextretr5002voor/eleventhtextretr5002voor.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[16] File:The first text REtrieval conference (TREC-1) (IA firsttextretriev5002harm).pdf
-    taille 1254x1631 application/pdf 29517 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Harman, D.K.
-    crédit : Internet Archive identifier: firsttextretriev5002harm https://archive.org/download/firsttextretriev5002harm/firsttextretriev5002harm.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; National Institute of Standards and Technology Special Publications; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+[16] File:Stakeholders of a search engine and their interactions.svg
+    taille 764x455 image/svg+xml 31 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Onse
+    crédit : Travail personnel
+    description : This diagram shows different stakeholders interacting with a search engine. Its purpose is to make clear that there are many different parties and interests associated with a search engine. This diagram does not claim to be complete, neither in the list of stakeholders nor in the displayed interactions.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Information retrieval; Internet diagrams; Search engines

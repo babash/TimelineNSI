@@ -1,16 +1,7 @@
-# carte 51 requêtes 7e9c9fcece34
-{"recherches": ["PDP-7 computer", "Unix history", "Unix terminal screenshot", "Version 7 Unix"]}
+# carte 51 requêtes d220af78825e
+{"titres": ["File:Pdp-7-oslo-2004.jpeg"], "recherches": ["Version 7 Unix", "Research Unix", "PDP-7 Unix", "Unix Bell Labs", "Unix V6 source code"]}
 
-[1] File:DEC PDP-1 Minicomputer (1959) in Computer History Museum.jpg
-    taille 2900x4000 image/jpeg 3490 ko
-    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
-    auteur : Marcin Wichary from San Francisco, Calif.
-    crédit : Flickr
-    description : Computer History Museum.
-    catégories licence : CC-BY-2.0; DEC PDP series minicomputers on single-coloured background; PDP-1
-    catégories : Computers in the Computer History Museum; Digitally manipulated photographs; Extracted images; Images edited with GIMP and IrfanView; Images with extracted images; Photographs by Marcin Wichary; Retouched pictures
-
-[2] File:Pdp-7-oslo-2004.jpeg
+[1] File:Pdp-7-oslo-2004.jpeg
     taille 2272x1704 image/jpeg 346 ko
     licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
     auteur : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Matiashf (étant donné la revendication de droit d’auteur).
@@ -19,128 +10,137 @@
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration redundant; PDP-7; Self-published work
     catégories : Assumed own work; DECtape; Files with no machine-readable source; Old oscilloscopes with round CRT screens; Oscilloscopes built into computers; Punched tapes
 
-[3] File:DEC PDP-11 20 computer at the Computer History Museum.jpg
-    taille 3648x2736 image/jpeg 2782 ko
-    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
-    auteur : Don DeBold
-    crédit : Flickr: DEC PDP11/20 Computer
-    description : DEC PDP-11 20 computer at the Computer History Museum
-    catégories licence : CC-BY-2.0; PDP-11/20
-    catégories : Computers in the Computer History Museum; Files from Don DeBold Flickr stream; Files with coordinates missing SDC location of creation; Flickr images uploaded by Flickr upload bot; Taken with Canon PowerShot S95
-
-[4] File:DEC PDP-7.jpg
-    taille 1080x1080 image/jpeg 434 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : ComputerGeek7066
+[2] File:Version 7 Unix SIMH PDP11 Emulation DMR.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
     crédit : Travail personnel
-    description : DEC PDP-7 living computer museum
-    catégories licence : CC-BY-SA-4.0; PDP-7; Self-published work
-    catégories : ASR-33; Computers in the Living Computer Museum; Files with coordinates missing SDC location of creation; Oscilloscopes built into computers
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The user ("dmr") and home directory ("/usr/dmr") for Dennis Ritchie are still present. Version 7 is considered an "Ancient Unix" and is no longer proprietary.
+    catégories licence : CC-Zero; PDP-11; Self-published work
+    catégories : Research Unix
 
-[5] File:PDP-8 at the Computer History Museum.jpg
-    taille 4372x2906 image/jpeg 3565 ko
+[3] File:Version 7 UNIX SIMH PDP11 Etc.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The contents of "/etc", which contains configuration files, binary executables, and more.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Research Unix
+
+[4] File:Version 7 UNIX SIMH PDP11 Filesystem Layout.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. Showing the filesystem layout for "/" and "/usr".
+    catégories licence : CC-Zero; Self-published work
+    catégories : Research Unix
+
+[5] File:Version 7 UNIX SIMH PDP11 Etc Rc.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. The contents of "/etc/rc", the startup script run by "/etc/init" at boot time. The script is executed by the Bourne shell.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Research Unix
+
+[6] File:Version 7 UNIX SIMH PDP11 Kernels Shell.png
+    taille 652x416 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. Listing the files for Unix kernel variants, and the Bourne shell. Note the tiny sizes (50k kernels, 17k shell).
+    catégories licence : CC-Zero; Self-published work
+    catégories : Command-line interface; Ls; Research Unix
+
+[7] File:Version 7 UNIX SIMH PDP11 Bourne Shell Manual.png
+    taille 652x416 image/png 10 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Huihermit
+    crédit : Travail personnel
+    description : Version 7 Unix for the PDP-11, running in the SIMH PDP-11 simulator. Original Bourne shell manual page ("man sh").
+    catégories licence : CC-Zero; Self-published work
+    catégories : Research Unix
+
+[8] File:UNIX Licence Plate (trademark of Bell Labs) - Live Free or Die - Computer Museum (2007-11-10 23.07.38 by Carlo Nardone).jpg
+    taille 2272x1704 image/jpeg 966 ko
     licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Todd Dailey
-    crédit : Flickr: PDP-8
-    description : PDP-8 at the Computer History Museum
-    catégories licence : CC-BY-SA-2.0; PDP-8
-    catégories : Computers in the Computer History Museum; Flickr images uploaded by Flickr upload bot; Taken with Canon EOS 5D
+    auteur : Carlo Nardone from Roma, Italy
+    crédit : Computer Museum: UNIX Placard
+    description : Computer Museum: UNIX Placard
+    catégories licence : CC-BY-SA-2.0; Unix promotional license plates
+    catégories : Bell Labs; Collections of the Computer History Museum; Files from Carlo Nardone Flickr stream; Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2
 
-[6] File:PDP-11 at the Computer History Museum.jpg
-    taille 4187x2783 image/jpeg 2971 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Todd Dailey
-    crédit : Flickr: PDP-11
-    description : PDP-11 at the Computer History Museum
-    catégories licence : CC-BY-SA-2.0; Detailed views of disassembled DEC PDP-11 minicomputers
-    catégories : Computers in the Computer History Museum; Flickr images uploaded by Flickr upload bot; Taken with Canon EOS 5D
+[9] File:Bell Labs UNIX Guides.jpg
+    taille 3264x2448 image/jpeg 1695 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Craig MacGregor
+    crédit : Travail personnel
+    description : The "UNIX Programming Starter Package" and "UNIX Text Editing & Phototypesetting Starter Package" comb-bound guides, straight from Bell Labs, circa 1980. An introductory guide to C and shell (with more UNIX specifics than K&R's "The C Programming Lanaguage"), and everything you ever wanted to know about "ed" and "troff".
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation; Taken with iPhone 4S; Unix Manuals
 
-[7] File:Unix history-simple.svg
-    taille 1920x1080 image/svg+xml 136 ko
+[10] File:Bell Labs UNIX Text Editing & Phototypesetting Starter Package (open).jpg
+    taille 2448x3264 image/jpeg 1838 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Craig MacGregor
+    crédit : Travail personnel
+    description : NOT FOR USE OR DISCLOSURE OUTSIDE BELL LABORATORIES
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation; Phototypesetting; Taken with iPhone 4S; Unix Manuals
+
+[11] File:Bell Labs UNIX Text Editing & Phototypesetting Starter Package (Table of Contents).jpg
+    taille 3264x2448 image/jpeg 1593 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Craig MacGregor
+    crédit : Travail personnel
+    description : It might seem quite archaic to use ed/troff on an ASR-33, but I suppose it was better than a typewriter, considering this was prior to any sort of word processing. I imagine this guide was targeted to both programmers and the typing pool.
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation; Taken with iPhone 4S; Unix Manuals; Works about troff
+
+[12] File:Actual DEC UNIX License Plate DSC 0317.jpg
+    taille 4239x2157 image/jpeg 1377 ko
     licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Eraserhead1, Infinity0, Sav_vas
-    crédit : Travail personnel avec : Levenez Unix History Diagram, Information on the history of IBM's AIX on ibm.com
-    description : A diagram showing the key Unix and Unix-like operating systems
-    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
-    catégories : English-language SVG diagrams; Images with annotations; Invalid SVG created with Inkscape:Diagrams; The Open Group; Translation possible - SVG; Unix timelines
+    auteur : Armandops
+    crédit : Travail personnel
+    description : Original UNIX license plate in the NH style. aps
+    catégories licence : CC-BY-SA-3.0; Self-published work; Unix promotional license plates
+    catégories : Bell Labs; Digital Equipment Corporation; Live Free or Die (text); Taken with Nikon D600
 
-[8] File:Unix history-simple-fi.svg
-    taille 1960x1358 image/svg+xml 77 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : User:Ipr1
-    crédit : File:Unix_history-simple.svg
-    description : A diagram showing the key Unix and Unix-like operating systems
-    catégories licence : CC-BY-SA-3.0
-    catégories : Unix timelines
-
-[9] File:Unix history-simple es.svg
-    taille 1962x1282 image/svg+xml 766 ko
+[13] File:Unix history-simple-tr.svg
+    taille 2012x1462 image/svg+xml 114 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : VARGUX
-    crédit : Cette image vectorielle contient des éléments, éventuellement modifiés, qui ont été extraits de :
-    description : This is a diagram of the main Unix and Unix-like operating systems (in spanish)
+    auteur : VectorVoyager
+    crédit : Travail personnel
+    description : Kayda değer Unix ve Unix-benzeri işletim sistemlerini gösteren bir diyagram
     catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Deprecated template usage: AttribSVG; Files with derivative versions; Spanish-language SVG diagrams; Unix timelines; Vector images using elements from other vector images
+    catégories : Bell Labs; Berkeley Software Distribution; Linux diagrams in Turkish; MINIX; POSIX; Solaris (operating system); Unix
 
-[10] File:Unix timeline.de.svg
-    taille 655x558 image/svg+xml 52 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Guillem, Wereon, Hotmocha (copied from old version's history) Christoph S. (redrew the image with Inkscape) Ysangkok (touched up the redrawn image) syrcro (Translation)
-    crédit : Original image: Image:Unix.png and Image:Unix history.svg
-    description : This picture shows the relations between several Unix systems in German
-    catégories licence : PD-self; Self-published work
-    catégories : Unix timelines
+[14] File:Login USENIX Newsletter feb1983.djvu
+    taille 5100x6601 image/vnd.djvu 588 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : USENIX Association
+    crédit : Internet Archive identifier: login-feb83
+    description : ;login: The USENIX Association NewsletterVolume 8, Number 1, February, 1983
+    catégories licence : CC-Zero; Files from external sources with reviewed licenses
+    catégories : Books without Wikidata item; DjVu files in English; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Uploaded with IA Upload
 
-[11] File:Unix timeline.sl.svg
-    taille 655x568 image/svg+xml 76 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Guillem, Wereon, Hotmocha (copied from old version's history) Christoph S. (redrew the image with Inkscape) Ysangkok (touched up the redrawn image) xJaM (Slovene translation)
-    crédit : Original image: Image:Unix.png, Image:Unix history.svg
-    description : Cette image montre les relations entre plusieurs systèmes Unix
-    catégories licence : PD-self; Self-published work
-    catégories : Slovene-language SVG diagrams; Translation possible - SVG; Unix timelines
-
-[12] File:Unix history-simple.fr.svg
-    taille 1920x1080 image/svg+xml 136 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Unix_history-simple.svg: Eraserhead1, Infinity0, Sav_vas derivative work: Joe le Kiffeur (talk)
-    crédit : Unix_history-simple.svg
-    description : A diagram showing the key Unix and Unix-like operating systems (French translation)
-    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Files with derivative versions; French-language SVG diagrams; SVG retouched pictures; Unix timelines; Uploaded with derivativeFX
-
-[13] File:Unix talk screenshot 01.png
-    taille 1024x726 image/png 27 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : 
-    crédit : 
-    description : 
-    catégories licence : GPL
-    catégories : Files with no machine-readable author; Files with no machine-readable source; Free screenshots; IRC clients; Media missing infobox template; Spanish-language screenshots of Debian; Spanish-language screenshots of GNOME Terminal
-
-[14] File:Screenshot-htop.png
-    taille 569x452 image/png 61 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
-    auteur : Chomwitt
-    crédit : htop
-    description : Εικόνα από το πρόγραμμα διαχείρισης διεργασιών htop
-    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
-    catégories : Screenshots of Htop; Terminal emulators; Unix software
-
-[15] File:Unix manual.png
-    taille 706x686 image/png 93 ko
-    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
-    auteur : Kamran Mackey
-    crédit : Arch Linux using the Cinnamon display manager.
-    description : unix man page on man (of the man-db flavor); running in mate-terminal.
-    catégories licence : GPL
-    catégories : English-language screenshots of GNOME Terminal; English-language screenshots of Ubuntu; Free screenshots; Man page; Screenshots of Linux software; Ubuntu 5.10
-
-[16] File:Pg (Unix)-screenshot.png
-    taille 491x342 image/png 11 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : ZyMOS
+[15] File:John Lions Garden Illuminated.jpg
+    taille 4032x2268 image/jpeg 3724 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Aaron.quigley
     crédit : Travail personnel
-    description : a screenshot of the unix terminal pager pg (Unix) in xterm
-    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
-    catégories : Free screenshots; Plain text file viewers; Screenshots of Xterm; Screenshots of free software
+    description : John Lions was an Associate Professor at the School of Computer Science and Engineering in UNSW. John was well-known for his impactful teachings and for his line-by-line commentary of the Unix V6 source code, also referred to as the ‘Lions Book’ which became the ‘The Most Famous Suppressed Manuscript in Computer History. 2021 year marked the 45th anniversary of the Commentary, and the 25th anniver
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Lighting; Trees
+
+[16] File:Data and model management for the Joint Warfare Experimental Prototype (IA datandmodelmanag1094532225).pdf
+    taille 1275x1650 application/pdf 3767 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Chua, Michael T.L.
+    crédit : Internet Archive identifier: datandmodelmanag1094532225 https://archive.org/download/datandmodelmanag1094532225/datandmodelmanag1094532225.pdf
+    description : This thesis describes a new data management design for the Joint Warfare Analysis Experimental Prototype (JWAEP), a joint theater level, low resolution stochastic simulation developed at the Naval Postgraduate School. The design calls for (1) a 32 bit Windows program to access the JWAEP data which is stored in a SQL database server, (2) direct output of the database information into the plain text
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

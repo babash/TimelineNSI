@@ -1,35 +1,8 @@
-# carte 68 requêtes d4647397797d
-{"recherches": ["Hedy Lamarr patent 2292387", "Secret Communication System patent", "frequency hopping spread spectrum", "Lamarr Antheil patent"]}
+# carte 68 requêtes 892715a1fa23
+{"recherches": ["US Patent 2292387", "Secret Communication System Markey Antheil patent drawing", "Hedy Lamarr patent drawing", "patent 2,292,387"]}
 
-[1] File:Hedy Lamarr and George Antheil's patent.webp
-    taille 411x333 image/webp 25 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Hedy Lamarr and George Antheil’s patent for a “Secret Communication System”
-    crédit : http://eusci.org.uk/2021/02/19/hedy-lamarr-the-actress-that-made-frequency-hopping-waves/
-    description : Bằng sáng chế của Hedy Lamarr và George Antheil cho "hệ thống thông tin bí mật"
-    catégories licence : CC-BY-SA-2.0
-    catégories : United States patent 2292387
-
-[2] File:Lamarr patent.png
-    taille 560x587 image/png 123 ko
-    licence : Public domain | pd |  -> OK
-    auteur : U.S. Patent Office
-    crédit : The Register
-    description : Patent for Secret Communication System
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : United States patent 2292387
-
-[3] File:Signature of Hedy Kiesler Markey (1941) (cropped).jpg
-    taille 1389x273 image/jpeg 73 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives at Kansas City as part of a cooperation project. The donation was facilitated by the Digital Public Library of America. Record in so
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Digital Public Library of America files missing creator; Digital Public Library of America files missing required SDC statements; Extracted images; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; Signatures of Hedy Lamarr; US Nati
-
-[4] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 41).jpg
-    taille 2423x3184 image/jpeg 355 ko
+[1] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 43).jpg
+    taille 2398x3199 image/jpeg 221 ko
     licence : Public domain | pd |  -> OK
     auteur : Department of Commerce. Patent and Trademark Office. (1975)
     crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
@@ -37,17 +10,8 @@
     catégories licence : PD US
     catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
 
-[5] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 1).pdf
-    taille 1345x2102 application/pdf 5957 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files
-
-[6] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 19).jpg
-    taille 2555x3900 image/jpeg 430 ko
+[2] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 21).jpg
+    taille 2555x3900 image/jpeg 451 ko
     licence : Public domain | pd |  -> OK
     auteur : Department of Commerce. Patent and Trademark Office. (1975)
     crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
@@ -55,7 +19,52 @@
     catégories licence : PD US
     catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
 
-[7] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 10).jpg
+[3] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 9).jpg
+    taille 2343x3410 image/jpeg 1013 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Department of Commerce. Patent and Trademark Office. (1975)
+    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
+    description : 
+    catégories licence : PD US
+    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
+
+[4] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 17).jpg
+    taille 2555x3900 image/jpeg 368 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Department of Commerce. Patent and Trademark Office. (1975)
+    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
+    description : 
+    catégories licence : PD US
+    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
+
+[5] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 38).jpg
+    taille 2408x3735 image/jpeg 323 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Department of Commerce. Patent and Trademark Office. (1975)
+    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
+    description : 
+    catégories licence : PD US
+    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
+
+[6] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 5).jpg
+    taille 1062x2554 image/jpeg 214 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Department of Commerce. Patent and Trademark Office. (1975)
+    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
+    description : 
+    catégories licence : PD US
+    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
+
+[7] File:Catalog of Copyright Entries 1950 Commercial Prints and Labels Jan-Dec 3D Ser Vol 4 Pt 11B (IA catalogofcopyrig3411libr).pdf
+    taille 1350x1689 application/pdf 23970 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Govt. Print. Off.
+    crédit : Internet Archive identifier: catalogofcopyrig3411libr File: https://archive.org/download/catalogofcopyrig3411libr/catalogofcopyrig3411libr.pdf
+    description : :Title: Catalog of Copyright Entries 1950 Commercial Prints and Labels Jan-Dec 3D Ser Vol 4 Pt 11B Description: The Catalogs of Copyright Entries (CCEs) are published compilations of copyright registration records cataloged from July 1891 through December 1977. These entries alone may not reflect the complete Copyright Office record pertaining to a particular work. Contact the U.S. Copyright Offic
+    catégories licence : CC-PD-Mark; Catalogs of Copyright Entries; PD US Government
+    catégories : Books uploaded by Fæ; Scans from the Internet Archive; Scans from the Internet Archive/reviewed
+
+[8] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 10).jpg
     taille 2343x3410 image/jpeg 1031 ko
     licence : Public domain | pd |  -> OK
     auteur : Department of Commerce. Patent and Trademark Office. (1975)
@@ -64,83 +73,11 @@
     catégories licence : PD US
     catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
 
-[8] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 14).jpg
-    taille 2555x3900 image/jpeg 471 ko
+[9] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 23).jpg
+    taille 2550x3900 image/jpeg 399 ko
     licence : Public domain | pd |  -> OK
     auteur : Department of Commerce. Patent and Trademark Office. (1975)
     crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
     description : 
     catégories licence : PD US
     catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
-
-[9] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 3).jpg
-    taille 2566x4213 image/jpeg 535 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
-
-[10] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 11).jpg
-    taille 2343x3410 image/jpeg 457 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
-
-[11] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 12).jpg
-    taille 2555x3289 image/jpeg 277 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
-
-[12] File:Patent Case File No. 2,292,387, Secret Communication System, Inventors Hedy Kiesler Markey and George Antheil - DPLA - 128f022cfd9421aa10de72958a7edf90 (page 30).jpg
-    taille 2555x3900 image/jpeg 443 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Department of Commerce. Patent and Trademark Office. (1975)
-    crédit : This file was contributed to Wikimedia Commons by National Archives and Records Administration as part of a cooperation project. The donation was facilitated by the Digital Public Library of America, 
-    description : 
-    catégories licence : PD US
-    catégories : Artworks without Wikidata item; Media contributed by National Archives at Kansas City; Media contributed by the Digital Public Library of America; Media contributed by the National Archives and Records Administration; US National Archives series: Patent Case Files; United States patent 2292387
-
-[13] File:Frequency hopping Spread Spectrum.jpg
-    taille 902x812 image/jpeg 49 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Acorletti
-    crédit : Travail personnel
-    description : Frequency hopping Spread Spectrum
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : EDP; Spread spectrum
-
-[14] File:Spread spectrum frequency management. (IA spreadspectrumfr00mont).pdf
-    taille 1193x1625 application/pdf 3738 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Montgomery, Robert D.;Boger, Dan C.
-    crédit : Internet Archive identifier: spreadspectrumfr00mont https://archive.org/download/spreadspectrumfr00mont/spreadspectrumfr00mont.pdf
-    description : Thesis advisor, Dan C. Boger Superseded 1983 ed. - ADA128163 ADA218668 Thesis (M.S. in Tele. Syst. Mgmt.) Naval Postgraduate School, June 1989 Bibliography: p. 67-68 Subjects:
-    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; SINCGARS; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[15] File:Frequency hopping with analog messages- (IA frequencyhopping00kard).pdf
-    taille 1181x1587 application/pdf 2063 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Kardisan, Suwito.
-    crédit : Internet Archive identifier: frequencyhopping00kard https://archive.org/download/frequencyhopping00kard/frequencyhopping00kard.pdf
-    description : Thesis advisor(s): Myers, Glen A "March 1988." Thesis (M.S. in E.E.)--Naval Postgraduate School, March 1988 Includes bibliographical references: (p. 32) Frequency hopping (FH) is used by the military as an electronic counter-counter-measure (ECCM) technique. The carrier frequency is caused to vary from one value to another over a range of values in usually a random or pseudo-random manner. The mes
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[16] File:A frequency hopping synchronization system. (IA afrequencyhoppin1094541076).pdf
-    taille 1275x1650 application/pdf 1186 ko
-    licence : Public domain | pd |  -> OK
-    auteur : McDevitt, Robert John
-    crédit : Internet Archive identifier: afrequencyhoppin1094541076 https://archive.org/download/afrequencyhoppin1094541076/afrequencyhoppin1094541076.pdf
-    description : Frequency hopping is one of several spread spectrum communication techniques which offer some immunity to jamming as well as some rejection of multipath interference. Synchronization of the frequency hopping transmitter and receiver is necessary in an operating system. This research concerns a method of synchronization whereby the receiver resynchronizes with the transmitter once each frequency ho
-    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
-    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified

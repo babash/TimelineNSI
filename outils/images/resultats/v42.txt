@@ -1,0 +1,38 @@
+# carte v42 requêtes 513739c16ad5
+{"tuile": 400, "colonnes": 2, "titres": ["File:Intuix USB flash drive, 256 MB.jpg", "File:UsbFlashDrive-0145.jpg", "File:Clé USB 1.jpg", "File:Supertalent USB-Stick.jpg"]}
+
+[1] File:Intuix USB flash drive, 256 MB.jpg
+    taille 4520x1600 image/jpeg 1116 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Cjp24
+    crédit : Travail personnel
+    description : Clé (face inférieure) USB 2.0 Intuix de capacité 256 Mo, puce de mémoire flash Samsung 401 visible (à droite) ; avec DEL (témoin d'activité), capuchon rouge retiré. Vitesse de lecture: 9 Mo/s, écriture: 7 Mo/s (d'après Intuix).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 256 MB USB flash drives; Electronic devices on white background; Images with annotations; Pictures by Cjp24; Printed circuit boards; Red electronic devices; Red storage media; Samsung integrated circuits; Transparent USB flash drives
+
+[2] File:UsbFlashDrive-0145.jpg
+    taille 2816x2112 image/jpeg 2757 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Loadmaster (David R. Tribble) This image was made by Loadmaster (David R. Tribble). Email the author: David R. Tribble Also see my personal gallery at Google Photos
+    crédit : Travail personnel
+    description : Lexar 512 MB USB flash drive internals.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Disassembled USB flash drives; Flash memory controllers; Images by Loadmaster; Lexar USB flash drives; Taken with Sony DSC-H2
+
+[3] File:Clé USB 1.jpg
+    taille 3548x1380 image/jpeg 1313 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Lionel Allorge
+    crédit : Travail personnel
+    description : Ce document a été réalisé avec le mini studio-photo mis à disposition des photographes par Wikimédia France.
+    catégories licence : CC-BY-SA-3.0; FAL; GFDL; License migration redundant; Self-published work
+    catégories : Black and red objects; Images supported by Wikimedia France - Photo studio; Media supported by Wikimedia France; Taken with Canon EOS 600D; USB flash drives; USB flash drives with white background; Uploaded with Commonist
+
+[4] File:Supertalent USB-Stick.jpg
+    taille 2942x2336 image/jpeg 819 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Afrank99
+    crédit : Travail personnel
+    description : USB Flash Drive SuperTalent Pico-C 8 GB. Stainless steel casing, waterproof.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Files by User:afrank99; Focus stacking images of electronic devices; Quality images; Quality images missing SDC depicts; Quality images of equipment; Super Talent Technology storage media; Taken with Canon EOS 20D; USB flash drives; USB flash drives with white background

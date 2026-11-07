@@ -1,61 +1,16 @@
-# carte 75 requêtes 8d3dfbab3ceb
-{"recherches": ["Gender Shades", "facial recognition bias", "algorithmic bias", "facial recognition system"]}
+# carte 75 requêtes 1dff3b6347b1
+{"recherches": ["Gender Shades Buolamwini", "facial recognition accuracy gender skin type", "facial analysis bias chart", "facial recognition system diagram"]}
 
-[1] File:Female lions dozing.jpg
-    taille 4032x3024 image/jpeg 1416 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : TrudiJ
-    crédit : Travail personnel
-    description : Lions at the Rhino & Lion Nature Reserve, Kromdraai, Krugersdorp, South Africa
-    catégories licence : CC-Zero; Self-published work
-    catégories : 3 Panthera leo; Animals lying in tree shades; Lying Panthera leo; Panthera leo (families, captive); Rhino and Lion Nature Reserve; Taken with iPhone 7 (main camera); White lions in zoos
+[1] File:The Dangers of Supremely White Data and The Coded Gaze - YouTube.webm
+    taille 1280x720 video/webm 193807 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Wikimedia Foundation
+    crédit : YouTube : The Dangers of Supremely White Data and The Coded Gaze – Voir/enregistrer des versions archivées sur archive.org
+    description : https://wikimania2018.wikimedia.org/wiki/Invited_speakers#Joy_Buolamwini Biography: Joy Buolamwini is a poet of code who uses art and research to illuminate the social implications of artificial intelligence. She founded the Algorithmic Justice League to fight the coded gaze -bias in AI. At the MIT Media Lab, she pioneered techniques that are now leading to increased transparency in the use of fac
+    catégories licence : CC-BY-3.0; License reviewed by YouTubeReviewBot
+    catégories : Joy Buolamwini; Media from YouTube; Uploaded with video2commons; Videos of 2018
 
-[2] File:Unsafe areas for women in india.png
-    taille 1000x1167 image/png 158 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Genetics4good
-    crédit : Travail personnel
-    description : Map showing the safety for women in various states in India, as well as the safety ranking for the largest agglomorations. The map was made based on the Female Safety Index (FSI) in the Well_Being Index India Report 2013 made by Tata Strategic Management Group.[1] States: light green: greatest safety yellow: medium safety light red: least safety I should be noted that the color patterns (light red
-    catégories licence : CC-BY-SA-3.0; Self-published work
-    catégories : Crimes against women; Feminism and health; Gender-based violence; Maps of states of India; Violence against women; Violence maps; Women of India
-
-[3] File:French genders, rules and exceptions; (IA frenchgendersrul00grim).pdf
-    taille 581x904 application/pdf 2233 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Grimshaw, Robert, [from old catalog] Comp
-    crédit : Internet Archive identifier: frenchgendersrul00grim https://archive.org/download/frenchgendersrul00grim/frenchgendersrul00grim.pdf
-    description : Subjects: French language
-    catégories licence : PD US expired
-    catégories : Books from New York (state); Books in the Library of Congress; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[4] File:Pride flag Serbia basic.png
-    taille 5400x3600 image/png 563 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : ImStevan
-    crédit : Travail personnel
-    description : The coat of arms of Serbia overlaid onto the pride flag, where colors have been altered to resemble the shades used on the Serbian flag
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Flags of Serbia; LGBTQ in Serbia; LGBT pride flags of Serbia; LGBT symbols status
-
-[5] File:Corrélation taxon genre.png
-    taille 638x436 image/png 18 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : LoCap
-    crédit : Travail personnel
-    description : Schéma montrant les corrélations existant entre les variables taille et longueur des cheveux, au sein des groupes (ou de l'échantillon entier). Source: Black and White or Shades of Gray: Are Gender Differences Categorical or Dimensional? Harry T. Reis and Bobbi J. Carothers; 2014.
-    catégories licence : CC-BY-SA-3.0; Self-published work
-    catégories : Taxon genre
-
-[6] File:Portal Transgender.svg
-    taille 136x117 image/svg+xml 13 ko
-    licence : CC BY-SA 2.5 | cc-by-sa-2.5 | https://creativecommons.org/licenses/by-sa/2.5 -> OK
-    auteur : File:Portal LGBT.svg: Grzegorz Wysocki
-    crédit : File:Portal LGBT.svg
-    description : A portal icon for en:Portal:Transgender, based on File:Portal LGBT.svg. Gradient from pink (feminine) to blue (masculine) (and shades in-between) to represent the spectrum of gender identity.
-    catégories licence : CC-BY-SA-2.5; Self-published work
-    catégories : Transgender symbols; Uploaded with derivativeFX; Valid SVG created with CorelDRAW:Icons; WikiProject LGBT artwork; Wikipedia portals; Wikipedia puzzle piece icons
-
-[7] File:Two sources of bias explain errors in facial age estimation.pdf
+[2] File:Two sources of bias explain errors in facial age estimation.pdf
     taille 1085x1575 application/pdf 680 ko
     licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
     auteur : Clifford, Colin W. G.; Watson, Tamara L.; White, David
@@ -64,83 +19,128 @@
     catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
     catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 10; Uploaded by DaxBot needing category review
 
-[8] File:Are affective factors related to individual differences in facial expression recognition?.pdf
-    taille 1085x1575 application/pdf 569 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Alharbi, Sarah A. H.; Button, Katherine; Zhang, Lingshan; O'Shea, Kieran J.; Fasolt, Vanessa; Lee, Anthony J.; DeBruine, Lisa M.; Jones, Benedict C.
-    crédit : https://doi.org/10.1098/rsos.190699 via PubMed Central FTP
-    description : Alharbi, Sarah A. H.; Button, Katherine; Zhang, Lingshan; O'Shea, Kieran J.; Fasolt, Vanessa; Lee, Anthony J.; DeBruine, Lisa M.; Jones, Benedict C. (2020). "Are affective factors related to individual differences in facial expression recognition?". Royal Society Open Science. 7 (9): 190699. doi:10.1098/rsos.190699. ISSN 2054-5703. PMC 7540805. PMID 33047005. (Check for updates)
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 9; Uploaded by DaxBot needing category review
-
-[9] File:Chimpanzee fathers bias their behaviour towards their offspring.pdf
-    taille 1085x1575 application/pdf 473 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Murray, Carson M.; Stanton, Margaret A.; Lonsdorf, Elizabeth V.; Wroblewski, Emily E.; Pusey, Anne E.
-    crédit : https://doi.org/10.1098/rsos.160441 via PubMed Central FTP
-    description : Murray, Carson M.; Stanton, Margaret A.; Lonsdorf, Elizabeth V.; Wroblewski, Emily E.; Pusey, Anne E. (2016). "Chimpanzee fathers bias their behaviour towards their offspring". Royal Society Open Science. 3 (11): 160441. doi:10.1098/rsos.160441. ISSN 2054-5703. PMC 5180124. PMID 28018626. (Check for updates)
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Intrasexual competition; Research articles about Pan troglodytes; Royal Society Open Science Journal Volume 3 Issue 11; Uploaded by DaxBot needing category review
-
-[10] File:Goats prefer positive human emotional facial expressions.pdf
-    taille 1085x1575 application/pdf 460 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Nawroth, Christian; Albuquerque, Natalia; Savalli, Carine; Single, Marie-Sophie; McElligott, Alan G.
-    crédit : https://doi.org/10.1098/rsos.180491 via PubMed Central FTP
-    description : Nawroth, Christian; Albuquerque, Natalia; Savalli, Carine; Single, Marie-Sophie; McElligott, Alan G. (2018). "Goats prefer positive human emotional facial expressions". Royal Society Open Science. 5 (8): 180491. doi:10.1098/rsos.180491. ISSN 2054-5703. PMC 6124102. PMID 30225038. (Check for updates)
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 8; Uploaded by DaxBot needing category review
-
-[11] File:Older adults detect happy facial expressions less rapidly.pdf
-    taille 1085x1575 application/pdf 542 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Saito, Akie; Sato, Wataru; Yoshikawa, Sakiko
-    crédit : https://doi.org/10.1098/rsos.191715 via PubMed Central FTP
-    description : Saito, Akie; Sato, Wataru; Yoshikawa, Sakiko (2020). "Older adults detect happy facial expressions less rapidly". Royal Society Open Science. 7 (3): 191715. doi:10.1098/rsos.191715. ISSN 2054-5703. PMC 7137944. PMID 32269799. (Check for updates)
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 3; Uploaded by DaxBot needing category review
-
-[12] File:Tasman-PCR - a genetic diagnostic assay for Tasmanian devil facial tumour diseases.pdf
-    taille 1085x1575 application/pdf 1032 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Kwon, Young Mi; Stammnitz, Maximilian R.; Wang, Jinhong; Swift, Kate; Knowles, Graeme W.; Pye, Ruth J.; Kreiss, Alexandre; Peck, Sarah; Fox, Samantha; Pemberton, David; Jones, Menna E.; Hamede, Rodrig
-    crédit : https://doi.org/10.1098/rsos.180870 via PubMed Central FTP
-    description : Kwon, Young Mi; Stammnitz, Maximilian R.; Wang, Jinhong; Swift, Kate; Knowles, Graeme W.; Pye, Ruth J.; Kreiss, Alexandre; Peck, Sarah; Fox, Samantha; Pemberton, David; Jones, Menna E.; Hamede, Rodrigo; Murchison, Elizabeth P. (2018). "Tasman-PCR: a genetic diagnostic assay for Tasmanian devil facial tumour diseases". Royal Society Open Science. 5 (10): 180870. doi:10.1098/rsos.180870. ISSN 2054-5
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 10; Uploaded by DaxBot needing category review
-
-[13] File:Ethics of Open Sharing icon - Algorithmic bias.svg
-    taille 512x512 image/svg+xml 2 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Julius Uusikylä // KRUT Collective
-    crédit : Ethics of Open Sharing
-    description : Ethics of Open Sharing icon - Algorithmic bias
-    catégories licence : CC-Zero
-    catégories : Ethics of Open Sharing playing cards
-
-[14] File:The vicious cycle of bias across society, data, algorithms, and healthcare.png
-    taille 685x682 image/png 268 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Chakradeo, K., Huynh, I., Balaganeshan, S.B. et al. Navigating fairness aspects of clinical prediction models. BMC Med 23, 567 (2025). https://doi.org/10.1186/s12916-025-04340-3
-    crédit : Navigating fairness aspects of clinical prediction models - https://doi.org/10.1186/s12916-025-04340-3
-    description : The vicious cycle of bias across society, data, algorithms, and healthcare
-    catégories licence : CC-BY-4.0
-    catégories : WikiProject Hearing Health
-
-[15] File:Neutral bots probe political bias on social media.pdf
-    taille 1239x1629 application/pdf 1850 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Wen Chen, Diogo Pacheco, Kai-Cheng Yang & Filippo Menczer
-    crédit : https://www.nature.com/articles/s41467-021-25738-6
-    description : Social media platforms attempting to curb abuse and misinformation have been accused of political bias. We deploy neutral social bots who start following different news sources on Twitter, and track them to probe distinct biases emerging from platform mechanisms versus user interactions. We find no strong or consistent evidence of political bias in the news feed. Despite this, the news and informa
-    catégories licence : CC-BY-4.0; English-language PDF files
-    catégories : 2021-09-22; Bias; Criticism of Twitter; Nature (2021)
-
-[16] File:Wikipedia - Confirmation bias (spoken by AI voice).mp3
-    taille 0x0 audio/mpeg 51504 ko
+[3] File:Face recognition technology for law enforcement applications (IA facerecognitiont5465wils).pdf
+    taille 1262x1704 application/pdf 7141 ko
     licence : Public domain | pd |  -> OK
-    auteur : Authors of the Wikipedia article (also the AI tools - see SoniTranslate readme)
-    crédit : The Wikipedia article narrated by SoniTranslate tools as described in Help:Spoken Wikipedia using AI; voice en-US-BrianMultilingualNeural
-    description : Confirmation bias narrated by AI-generated voice using SoniTranslate as described here
-    catégories licence : CC-BY-SA-4.0; PD-algorithm
-    catégories : AI-generated voice; Audio versions of Wikipedia articles from 2024; Cognitive biases; Spoken Wikipedia articles using English-language speech synthesis
+    auteur : Wilson, C. L. Barnes, C. S. Chellappa, R. Sirohey, S. A.
+    crédit : Internet Archive identifier: facerecognitiont5465wils https://archive.org/download/facerecognitiont5465wils/facerecognitiont5465wils.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; NIST Reports (NISTIR series); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:How robust is familiar face recognition? A repeat detection study of more than 1000 faces.pdf
+    taille 1085x1575 application/pdf 883 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Chapman, Angus F.; Hawkins-Elder, Hannah; Susilo, Tirta
+    crédit : https://doi.org/10.1098/rsos.170634 via PubMed Central FTP
+    description : Chapman, Angus F.; Hawkins-Elder, Hannah; Susilo, Tirta (2018). "How robust is familiar face recognition? A repeat detection study of more than 1000 faces". Royal Society Open Science. 5 (5): 170634. doi:10.1098/rsos.170634. ISSN 2054-5703. PMC 5990823. PMID 29892342. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Royal Society Open Science Journal Volume 5 Issue 5; Uploaded by DaxBot needing category review
+
+[5] File:Studies of fingerprint matching using the NIST verification test bed (VTB) (IA studiesoffingerp7020wils).pdf
+    taille 1235x1612 application/pdf 5859 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Wilson, Charles L. Watson, Craig I. Garris, Michael D. Hicklin, Austin
+    crédit : Internet Archive identifier: studiesoffingerp7020wils https://archive.org/download/studiesoffingerp7020wils/studiesoffingerp7020wils.pdf
+    description : Subjects: Fingerprints -- Databases; Fingerprints -- Standards -- United States; Images, Photographic -- Databases; Image processing -- Digital techniques
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; NIST Reports (NISTIR series); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:Alexithymia - a general deficit of interoception.pdf
+    taille 1085x1575 application/pdf 522 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Brewer, Rebecca; Cook, Richard; Bird, Geoffrey
+    crédit : https://doi.org/10.1098/rsos.150664 via PubMed Central FTP
+    description : Brewer, Rebecca; Cook, Richard; Bird, Geoffrey (2016). "Alexithymia: a general deficit of interoception". Royal Society Open Science. 3 (10): 150664. doi:10.1098/rsos.150664. ISSN 2054-5703. PMC 5098957. PMID 27853532. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 3 Issue 10; Uploaded by DaxBot needing category review
+
+[7] File:Pupil dilation as an index of preferred mutual gaze duration.pdf
+    taille 1085x1575 application/pdf 703 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Binetti, Nicola; Harrison, Charlotte; Coutrot, Antoine; Johnston, Alan; Mareschal, Isabelle
+    crédit : https://doi.org/10.1098/rsos.160086 via PubMed Central FTP
+    description : Binetti, Nicola; Harrison, Charlotte; Coutrot, Antoine; Johnston, Alan; Mareschal, Isabelle (2016). "Pupil dilation as an index of preferred mutual gaze duration". Royal Society Open Science. 3 (7): 160086. doi:10.1098/rsos.160086. ISSN 2054-5703. PMC 4968459. PMID 27493767. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 3 Issue 7; Uploaded by DaxBot needing category review
+
+[8] File:Facial Indicators of Positive Emotions in Rats.pdf
+    taille 1275x1650 application/pdf 1930 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Kathryn Finlayson, Jessica Frances Lampe, Sara Hintze, Hanno Wu¨rbel, Luca Melotti
+    crédit : https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0166446&type=printable
+    description : Until recently, research in animal welfare science has mainly focused on negative experiences like pain and suffering, often neglecting the importance of assessing and promoting positive experiences. In rodents, specific facial expressions have been found to occur in situations thought to induce negatively valenced emotional states (e.g., pain, aggression and fear), but none have yet been identifi
+    catégories licence : CC-BY-4.0; English-language PDF files
+    catégories : Facial expressions of animals; Rats
+
+[9] File:Breaking Down Porn - A Classification Office Analysis of Commonly Viewed Pornography in NZ.pdf
+    taille 1239x1752 application/pdf 1209 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Office of Film and Literature Classification
+    crédit : https://www.classificationoffice.govt.nz/assets/PDFs/Breaking-Down-Porn.pdf
+    description : 2019 OFLC research report analysing the top 200 most viewed Pornhub videos in New Zealand over the period of a year
+    catégories licence : CC-BY-4.0
+    catégories : Photographs by Mark Tantrum; Research reports from the Office of Film and Literature Classification
+
+[10] File:The modern eye - with an analysis of 1,300 errors of refraction (IA 101741434.nlm.nih.gov).pdf
+    taille 754x1312 application/pdf 1632 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Southard, William F. (William Freeman), 1845- author
+    crédit : Internet Archive identifier: 101741434.nlm.nih.gov https://archive.org/download/101741434.nlm.nih.gov/101741434.pdf
+    description : 32 pages : 24 cm Cover title Reprinted from: Pacific medical journal, Oct., Nov., Dec. 1893 "Read before the San Francisco County Medical Society, Sept. 12, 1893"--Cover Includes bibliographical references NLM copy, inscription, With compliments of the author, on page 1 Condition reviewed 20190304 digitized. 2019 Subjects: Vision Disorders; Refractive Errors
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Medical Heritage Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:An analysis of industry responses to Federal regulations in safety requirements for new automobiles (IA analysisofindust00bunc).pdf
+    taille 1193x1554 application/pdf 5502 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Bunch, Howard M Kubacki, Michael, joint author United States. National Highway Traffic Safety Administration University of Michigan. Highway Safety Research Institute
+    crédit : Internet Archive identifier: analysisofindust00bunc https://archive.org/download/analysisofindust00bunc/analysisofindust00bunc.pdf
+    description : HS-803 369 Cover title Final report issued September 1978 Subjects:
+    catégories licence : CC-PD-Mark; FEDLINK items for license review; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; National Highway Traffic Safety Administration; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:United States Navy Medical News Letter Vol. 24, No. 8, 29 October 1954 (IA NavyMedicalNewsletter19541029).pdf
+    taille 1143x1645 application/pdf 28136 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Navy. Bureau of Medicine and Surgery
+    crédit : https://archive.org/details/NavyMedicalNewsletter19541029 https://archive.org/download/NavyMedicalNewsletter19541029/Navy%20Medical%20Newsletter%201954-10-29.pdf
+    description : United States Navy Medical News Letter Vol. 24, No. 8, 29 October 1954 Residency Training Policy . . . . . . . . . . . . . . . . . . . . . 2SPECIAL NOTICE . . . . . . .. . . . . . . . . . . . . . . . . . . . . 3Recommendations Resulting from the USS Bennington Disaster by C. W. Norman, CDR MC USN . . . . . . . . 5Electric Shock by Lt R. L. Kline, USN, and Dr. J. B. Friauf, Electrical Branch, Burea
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : 1954 documents of the United States; Books uploaded by Fæ; Books without Wikidata item; United States Navy Medical News Letter
+
+[13] File:The adolescent period.djvu
+    taille 4600x7016 image/vnd.djvu 9358 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Frank Kayley Shuttleworth
+    crédit : Licence non renouvelée dans les 28 ans suivant la publication.
+    description : This 1951 monograph from the Institute of Child Welfare of the University of California is designed to illustrate the processes of physical growth, sexual maturation, and differences in body builds among normal adolescents. It consists exclusively of half-tone reproductions of photographs of nude children, mostly serial photographs of the same children taken at different ages. The arrangement of t
+    catégories licence : PD-US missing SDC copyright status; PD US not renewed
+    catégories : Black and white montages; Female human breast size; Frank Kayley Shuttleworth; Fully nude children; Human surface anatomy of female breasts; Montages of human body parts; Nude teenagers; Puberty; Tanner scale; The adolescent period; a graphic and pictorial atlas
+
+[14] File:Implementing a facial recognition system to improve accessibility and increase utilization of entry control points at military installations (IA implementingfaci109455627).pdf
+    taille 1275x1650 application/pdf 1585 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Walker, Kristopher.
+    crédit : Internet Archive identifier: implementingfaci109455627 https://archive.org/download/implementingfaci109455627/implementingfaci109455627.pdf
+    description : Most military installations utilize an entry control point that is inefficient, time consuming, and manpower intensive. Unfortunately, as a result of the current inefficiency, traffic congestion has become a nuisance for many service members, as well as government employees. Directive Type Memorandum (DTM) 09-012, \"Interim Policy Guidance DoD Physical Access Control\" distributed by the Undersecr
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:Recruitment and objective determination of look-alike human pairs.jpg
+    taille 3370x2008 image/jpeg 1012 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Authors of the study: Ricky S. Joshi, Maria Rigau, Carlos A. García-Prieto, Manuel Castro de Moura, David Piñeyro, Sebastian Moran, Veronica Davalos, Pablo Carrión, Manuel Ferrando-Bernal, Iñigo Olald
+    crédit : https://www.cell.com/cell-reports/fulltext/S2211-1247(22)01075-0
+    description : "(A) Representation of the global worldwide distribution of 32 look-alike pairs (n = 64) in this study. (B) 27 facial parameters by which the Microsoft Oxford Project face API (Microsoft) objectively performs face detection. (C) Venn diagram showing the number of look-alike pairs discerned and jointly identified in the three facial recognition programs: MatConvNet, Custom-Net, and Microsoft. Numbe
+    catégories licence : CC-BY-4.0
+    catégories : 2022 in science; Biological comparisons; Faces; Facial recognition system; Genetic studies on human face; Genetics; Look-alike
+
+[16] File:Utilizing current commercial-off-the-shelf facial-recognition and public live video streaming to enhance national security (IA utilizingcurrent1094543898).pdf
+    taille 1275x1650 application/pdf 1695 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Cruz, Victor F.
+    crédit : Internet Archive identifier: utilizingcurrent1094543898 https://archive.org/download/utilizingcurrent1094543898/utilizingcurrent1094543898.pdf
+    description : The nation’s security depends in part on proactive approaches and methods to evolving technologies for identifying persons of interest, enemies of state (foreign and domestic), potential acts of terrorism, and foreign intelligence. Currently, state and federal entities operate passive surveillance technologies with biometrics to identify and curtail national security threats, so as to act within t
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

@@ -1,0 +1,38 @@
+# carte v27 requêtes f9151683c0a7
+{"tuile": 400, "colonnes": 2, "titres": ["File:Manchester Baby Replica (Alt).webp", "File:Manchester baby head on.JPG", "File:Manchester Baby Replica.webp", "File:SSEM Replica.jpg"]}
+
+[1] File:Manchester Baby Replica (Alt).webp
+    taille 5328x2960 image/webp 14025 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Logg Tandy
+    crédit : Travail personnel
+    description : Replica of the Manchester Baby on display at the Science and Industry Museum in Manchester, England.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Collections of the Museum of Science and Industry in Manchester; Files with coordinates missing SDC location of creation (53° N, 3° W); Logg Tandy; Manchester Small-Scale Experimental Machine; Taken with Sony DSC-RX10 IV
+
+[2] File:Manchester baby head on.JPG
+    taille 5376x2904 image/jpeg 4459 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Geni
+    crédit : Photo by user:geni
+    description : Photo of the recreation of the Manchester Small-Scale Experimental Machine (AKA the manchester baby) in the museum of science and industry
+    catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Manchester Small-Scale Experimental Machine; Taken with Canon EOS 5D Mark III
+
+[3] File:Manchester Baby Replica.webp
+    taille 5472x3114 image/webp 16105 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Logg Tandy
+    crédit : Travail personnel
+    description : Replica of the Manchester Baby on display at the Science and Industry Museum in Manchester, England.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Collections of the Museum of Science and Industry in Manchester; Files with coordinates missing SDC location of creation (53° N, 3° W); Images with annotations; Logg Tandy; Manchester Small-Scale Experimental Machine; Taken with Sony DSC-RX10 IV
+
+[4] File:SSEM Replica.jpg
+    taille 1024x734 image/jpeg 460 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Users Ian Dunster, Racklever on en.wikipedia
+    crédit : (Uploaded using CommonsHelper or PushForCommons)
+    description : Manchester University SSEM 'Baby' replica on display at the Museum of Science and Industry in Manchester.
+    catégories licence : PD-self; Self-published work
+    catégories : Files by User:Ian Dunster from en.wikipedia; Manchester Small-Scale Experimental Machine

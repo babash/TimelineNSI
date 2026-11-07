@@ -1,43 +1,7 @@
-# carte 66 requêtes e96bae35fe10
-{"recherches": ["Facebook logo", "Facebook headquarters sign", "Facebook 2004 thefacebook", "Facebook"]}
+# carte 66 requêtes ac2153745d90
+{"recherches": ["thefacebook 2004", "Facebook 2004 screenshot", "Facebook like button", "Facebook headquarters Menlo Park sign"]}
 
-[1] File:Facebook f logo (2019).svg
-    taille 1280x1280 image/svg+xml 1 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Facebook, Inc.
-    crédit : https://en.facebookbrand.com
-    description : The "f" logo from Facebook, introduced in May 2019.
-    catégories licence : PD textlogo
-    catégories : 2019 SVG logos; Blue and white logos with transparent background; Facebook f logos; SVG logos of Facebook; SVG text logos; Valid SVG created with CorelDRAW:Text logos; White letter F; White letter logos with blue background; With trademark
-
-[2] File:Facebook icon 2013.svg
-    taille 300x300 image/svg+xml 2 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Facebook, Inc. (original logo). Gabriel dos Santos (SVG version).
-    crédit : facebook
-    description : The icon used by Facebook social network.
-    catégories licence : PD shape
-    catégories : Blue and white SVG icons; Facebook f logos; Files by User:Gabriel dos Santos; Plain blue SVG letter F icons; SVG logos of Facebook; Valid SVG created with Other tools:Icons; With trademark
-
-[3] File:2019 Facebook Logo variants.png
-    taille 1600x1000 image/png 23 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Facebook Inc.
-    crédit : https://newsroom.fb.com/news/2019/11/introducing-our-new-company-brand/
-    description : Corporate logo of the company Facebook since 2019 in their different variants (Facebook, WhatsApp and Instagram)
-    catégories licence : PD textlogo
-    catégories : Logos of Facebook; Text logos; With trademark
-
-[4] File:Logo Facebook Blanco.png
-    taille 900x900 image/png 22 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Stebanpq7
-    crédit : Travail personnel
-    description : Icono de Facebook en blanco
-    catégories licence : CC-Zero; Self-published work
-    catégories : Logos of Facebook
-
-[5] File:Screen of Facebook (2).PNG
+[1] File:Screen of Facebook (2).PNG
     taille 1600x859 image/png 43 ko
     licence : Public domain | pd |  -> OK
     auteur : Facebook
@@ -46,70 +10,7 @@
     catégories licence : PD other reasons; PD other reasons old
     catégories : Files with broken file links; Screenshots of Facebook; With trademark
 
-[6] File:Facebook Logo (2015) light.svg
-    taille 512x99 image/svg+xml 2 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Facebook Inc.
-    crédit : Investor Relations webpage of Facebook Inc., Annual Report 2017
-    description : The Facebook Alfa wordmark logo design released since 2015, extracted from its official 2017 Annual Report PDF file. This version of the logo is obsolete, and no longer in use.
-    catégories licence : PD textlogo
-    catégories : 2015 SVG logos; Obsolete logos of the United States; SVG logos of Facebook; SVG text logos; Valid SVG created with Adobe Illustrator:Text logos; With trademark
-
-[7] File:Reverse side of Facebook thumbs up sign.jpg
-    taille 4080x3072 image/jpeg 4736 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Mliu92
-    crédit : Travail personnel
-    description : Near intersection of Bayfront Expy and Willow Rd, Menlo Park, California
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Facebook's Menlo Park Headquarters; Files with coordinates missing SDC location of creation; United States photographs taken on 2024-05-27; Uploaded with Mobile/Android
-
-[8] File:Meta Headquarters Sign.jpg
-    taille 1080x810 image/jpeg 172 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Nokia621
-    crédit : Travail personnel
-    description : Entrance sign at Meta's headquarters complex in Menlo Park, California
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Facebook's Menlo Park Headquarters
-
-[9] File:Visit to Facebook headquarters.jpg
-    taille 1200x1600 image/jpeg 660 ko
-    licence : Public domain | pd |  -> OK
-    auteur : U.S. Department of the Treasury
-    crédit : https://www.flickr.com/photos/ustreasury/9579233446/
-    description : August 22, 2013 - Secretary Lew signs the wall at Facebook headquarters in Menlo Park, CA, during a visit where he participated in a roundtable with local business leaders.
-    catégories licence : PD US Treasury
-    catégories : Events in Menlo Park, California; Facebook's Menlo Park Headquarters; Files from the U.S. Department of the Treasury Flickr stream; Files with coordinates missing SDC location of creation; Flickr images missing SDC creator; Flickr images reviewed by FlickreviewR; Jacob Lew in 2013; Taken with iPhone 5; United States photographs taken on 2013-08-22
-
-[10] File:Facebook HQ swag store.jpg
-    taille 4160x3120 image/jpeg 2599 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Shreyas Minocha
-    crédit : Travail personnel
-    description : A sign at the FB HQ that says "Swag store".
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Facebook's Menlo Park Headquarters; Promotional items
-
-[11] File:Facebook Like sign.jpg
-    taille 612x612 image/jpeg 88 ko
-    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
-    auteur : Kevin Krejci from Near the Pacific Ocean, DSA
-    crédit : Like Facebook Headquarters Thumb
-    description : I offered Facebook $101B, but they turned me down...
-    catégories licence : CC-BY-2.0
-    catégories : 1601 (house number); Facebook Like button; Flickr images reviewed by FlickreviewR
-
-[12] File:Secretary Kerry Signs a Message on Facebook's Wall at Their New Headquarters in Menlo Park (27862586365).jpg
-    taille 4282x2854 image/jpeg 2490 ko
-    licence : Public domain | pd |  -> OK
-    auteur : U.S. Department of State from United States
-    crédit : Secretary Kerry Signs a Message on Facebook's Wall at Their New Headquarters in Menlo Park
-    description : U.S. Secretary of State John Kerry signs a message on the Facebook wall at their new headquarters in Menlo Park, California, before meeting with CEO Mark Zuckerberg on June 23, 2016. Earlier, Secretary Kerry delivered remarks at the Opening Plenary of the 2016 Global Entrepreneurship Summit and toured the Innovation Marketplace on the campus of Stanford University. [State Department photo/ Public 
-    catégories licence : PD US DOS
-    catégories : Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR; John Kerry visits Facebook's Menlo Park Headquarters; Menlo Park, California, photographs taken on 2016-06-23; Photographs by the U.S. Department of State; Taken with Nikon D4S
-
-[13] File:Facebook-IU.png
+[2] File:Facebook-IU.png
     taille 2560x612 image/png 225 ko
     licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
     auteur : DeanMalova
@@ -118,7 +19,7 @@
     catégories licence : CC-Zero; Self-published work
     catégories : Facebook; Social networks
 
-[14] File:Popularity of Facebook August 2019.png
+[3] File:Popularity of Facebook August 2019.png
     taille 6460x3480 image/png 1319 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
     auteur : Toomson
@@ -127,7 +28,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
     catégories : 2019 maps of the world; Facebook; Internet-related maps of the world; Mapchart.net
 
-[15] File:Facebook Whistleblower Frances Haugen discusses her concerns.webm
+[4] File:Facebook Whistleblower Frances Haugen discusses her concerns.webm
     taille 640x360 video/webm 363115 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
     auteur : DavidMCEddy
@@ -136,7 +37,16 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
     catégories : Digital Services Act; Facebook; Frances Haugen; Political violence; Rohingya persecution in Myanmar (2016–present); Videos in English
 
-[16] File:Facebook App on Mobile Phone (46848249812).jpg
+[5] File:Facebook icon 2013.svg
+    taille 300x300 image/svg+xml 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook, Inc. (original logo). Gabriel dos Santos (SVG version).
+    crédit : facebook
+    description : The icon used by Facebook social network.
+    catégories licence : PD shape
+    catégories : Blue and white SVG icons; Facebook f logos; Files by User:Gabriel dos Santos; Plain blue SVG letter F icons; SVG logos of Facebook; Valid SVG created with Other tools:Icons; With trademark
+
+[6] File:Facebook App on Mobile Phone (46848249812).jpg
     taille 7952x5304 image/jpeg 41595 ko
     licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
     auteur : Tony Webster from Minneapolis, Minnesota, United States
@@ -144,3 +54,93 @@
     description : The Facebook mobile app on an Android smartphone
     catégories licence : CC-BY-2.0
     catégories : Facebook; Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2; Photographs by Tony Webster
+
+[7] File:Meine liebsten 100 Tweets 2013.pdf
+    taille 1752x1239 application/pdf 16069 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Sebastian Wallroth
+    crédit : Travail personnel
+    description : German coffee table book with 100 tweets illustrated with free images from Wikimedia Commons and Flickr.
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Book covers; Coffee table books; Photographs by David Shankbone; Screenshots of tweets
+
+[8] File:DeanSpace.webm
+    taille 288x240 video/webm 12021 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : David Weinberger
+    crédit : YouTube : Before there was Facebook, there was DeanSpace – Voir/enregistrer des versions archivées sur archive.org
+    description : Zack Rosen describes the DeanSpace social networking software being built by the Howard Dean campaign. This is from Lisa Rein's site and was videoed at Harvard Law School, July 27, 2003. http://www.onlisareinsradar.com/archives/001562.php
+    catégories licence : CC-BY-3.0; License reviewed by YouTubeReviewBot
+    catégories : Howard Dean presidential campaign, 2004 in Massachusetts; Media from YouTube; Social media in the United States presidential election, 2004; Uploaded with video2commons
+
+[9] File:Ron DeSantis arrives in Volusia County by state jet after 2022 storm.png
+    taille 2846x1576 image/png 4299 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Volusia County Sheriff's Office
+    crédit : Screenshot of a Facebook video from the Volusia Sheriff's Office
+    description : Gov. Ron DeSantis visited Volusia County. Sheriff Mike Chitwood and the Volusia Sheriff's Office escorted him and his team through neighborhoods impacted by the storm.
+    catégories licence : PD Florida
+    catégories : Aircraft in the United States photographed in 2022; Aircraft of the Florida Department of Law Enforcement at Daytona Beach International Airport; Effects of Hurricane Ian in Florida; Mike Chitwood; N943FL (aircraft); October 2022 in Florida; Ron DeSantis in 2022; Still images from videos; United States photographs taken on 2022-10-07; Volusia Sheriff's Office
+
+[10] File:Trains at Kifissos bridge in Athens, May 2015..webm
+    taille 1920x1080 video/webm 169163 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : The Hellenic Trainspotters
+    crédit : YouTube : Trains at Kifissos bridge in Athens, May 2015. – Voir/enregistrer des versions archivées sur archive.org
+    description : The rail bridge of Kifissos that passes over the homonymous river and the highway is located at Aghio Ioanis Rentis region in southwestern Athens. Next to Rentis yard and the central depot of Southern Hellas it is the first challenge that trains face after leaving their sheds. The bridge was built in 2004 and replaced the old level-crossing (and the old metal bridge) of Kifissos river. Scenes Film
+    catégories licence : CC-BY-3.0; Files from external sources with reviewed licenses
+    catégories : 2015 in Athens; Media from YouTube; Transport in Athens; Uploaded with video2commons; Videos of 2015 from Greece; Videos of trains
+
+[11] File:'Why do American warriors under fire do what men have done since this nation's inception-' 3Caz-ofl5SM.webm
+    taille 1920x1080 video/webm 30385 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : The U.S. Army
+    crédit : YouTube : 'Why do American warriors under fire do what men have done since this nation's inception?' – Voir/enregistrer des versions archivées sur archive.org
+    description : Medal of Honor recipient Staff Sgt. David G. Bellavia's speech at his induction into the Pentagon's Hall of Heroes, June, 26, 2019, for conspicuous gallantry in November 2004 during Operation Phantom Fury in Fallujah, Iraq. Learn more at www.army.mil/medalofhonor/bellavia. Soldier4Life #ServeWithHonor #MedalofHonor #Ready2Fight About U.S. Army: The Army Mission – our purpose – remains constant: To
+    catégories licence : CC-BY-3.0; License reviewed by YouTubeReviewBot
+    catégories : 2019-06-26; Media from YouTube; Pentagon Hall of Heroes ceremony for David Bellavia; Videos of 2019 from the United States; Videos of the United States Army
+
+[12] File:Implementing Hazard Pointers in Rust.webm
+    taille 640x360 video/webm 444721 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Jon Gjengset
+    crédit : YouTube : Implementing Hazard Pointers in Rust – Voir/enregistrer des versions archivées sur archive.org
+    description : This time, we take a stab at implementing Hazard Pointers (https://erdani.org/publications/cuj-2004-12.pdf) in Rust. We follow along with the C++ implementation in Facebook's Folly library (https://github.com/facebook/folly/blob/master/folly/synchronization/Hazptr.h), as well as the C++ standardization proposal (https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2021/p1121r3.pdf). 0:00:00 Introdu
+    catégories licence : CC-BY-3.0; License review needed (video)
+    catégories : Media from YouTube; Uploaded with video2commons; Videos from YouTube; Videos in English; Videos of Rust (programming language)
+
+[13] File:Facebook Like Button.jpg
+    taille 750x250 image/jpeg 23 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Sean MacEntee
+    crédit : https://www.flickr.com/photos/smemon/5684115572
+    description : Facebook Like Button
+    catégories licence : CC-BY-2.0
+    catégories : Facebook Like button; Flickr images reviewed by FlickreviewR 2; Photographs by Sean MacEntee; Screenshots of Facebook
+
+[14] File:Facebook Thumb icon.svg
+    taille 512x396 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook
+    crédit : Facebook Brand Guidelines
+    description : Facebook Thumb icon
+    catégories licence : PD textlogo
+    catégories : Blue and white SVG icons; Facebook Like button; SVG logos of Facebook; SVG social network icons; SVG text logos; SVG thumbs up icons; With trademark
+
+[15] File:Facebook Like button.svg
+    taille 100x100 image/svg+xml 4 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook
+    crédit : Travail personnel Cette image vectorielle SVG non W3C-spécifiée a été créée avec Inkscape .
+    description : Facebook Like button
+    catégories licence : PD shape; PD textlogo
+    catégories : Facebook Like button; Plain blue SVG people icons; SVG text logos; SVG thumbs up icons; Unspec New SVG created with Inkscape; Unspec SVG created with Inkscape; With trademark
+
+[16] File:Facebook-like-button.png
+    taille 516x330 image/png 8 ko
+    licence : Public domain | pd |  -> OK
+    auteur : original uploader was Dry Martini at it.wikipedia
+    crédit : Transferred from it.wikipedia (Original text : Travail personnel)
+    description : The thumb graphic from the Facebook "like" button.
+    catégories licence : PD-shape missing SDC copyright status; PD shape
+    catégories : 1 (numeral); Facebook Like button; With trademark

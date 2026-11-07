@@ -1,5 +1,5 @@
-# carte 67 requêtes 444cbd074554
-{"recherches": ["YouTube logo", "YouTube headquarters", "YouTube 2005", "YouTube"]}
+# carte 67 requêtes 66042cec899b
+{"recherches": ["YouTube logo 2005", "Logo of YouTube (2005-2011)", "YouTube 2005 screenshot", "YouTube logo"]}
 
 [1] File:Launch of Shenzhou 13.jpg
     taille 3072x4608 image/jpeg 1954 ko
@@ -28,106 +28,7 @@
     catégories licence : PD textlogo
     catégories : 2013 logos; Obsolete logos of the United States; SVG logos of YouTube; SVG text logos; TOO-United States; Valid SVG created with Other tools:Trigonometry; With trademark
 
-[4] File:YouTube Kids Logo (2017-2019).png
-    taille 3851x681 image/png 346 ko
-    licence : Public domain | pd |  -> OK
-    auteur : YouTube
-    crédit : Fandom Wikia Logos
-    description : Logo du service YouTube .
-    catégories licence : PD textlogo
-    catégories : Logos of YouTube; Text logos; With trademark; Y in logos
-
-[5] File:YouTube Rewind Logo (2017 to 2021).svg
-    taille 638x446 image/svg+xml 1 ko
-    licence : Public domain | pd |  -> OK
-    auteur : YouTube
-    crédit : https://yt3.ggpht.com/a-/AN66SAy_tE2XZbnM6gP_1cpD3ObJaHtCZuh8saplOw=s900-mo-c-c0xffffffff-rj-k-no
-    description : YouTube Rewind Logo 2017 to 2021 with ⏪ symbol
-    catégories licence : PD textlogo
-    catégories : Plain red SVG left arrow icons; Red and white logos; SVG logos of YouTube; SVG text logos; White on red logos; With trademark; YouTube Rewind
-
-[6] File:YouTube Playables logo.jpg
-    taille 176x176 image/jpeg 22 ko
-    licence : Public domain | pd |  -> OK
-    auteur : YouTube, LLC
-    crédit : youtube.com
-    description : Logo for the new YouTube feature YouTube Playables
-    catégories licence : PD-shape missing SDC copyright status; PD shape
-    catégories : Icons of YouTube; Mobile games; Video game logos
-
-[7] File:901 Cherry Avenue.jpg
-    taille 5004x2800 image/jpeg 3907 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Coolcaesar
-    crédit : Travail personnel
-    description : This office building at 901 Cherry Avenue in San Bruno, California was home to the headquarters of YouTube at the time this photograph was taken. Photographed by user Coolcaesar on April 2, 2017 in San Bruno, California.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : April 2017 in California; Buildings in San Bruno, California; United States photographs taken on 2017-04-02; YouTube headquarters
-
-[8] File:YouTube HQ 11.JPG
-    taille 4000x2248 image/jpeg 1143 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : BrokenSphere
-    crédit : Travail personnel
-    description : YouTube headquarters in San Bruno, California.
-    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Photos by User:BrokenSphere; Taken with Canon Digital IXUS 105; YouTube headquarters
-
-[9] File:YouTube Space LA exterior.jpg
-    taille 3264x2448 image/jpeg 2203 ko
-    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
-    auteur : Scot Byrd
-    crédit : IMG_4133
-    description : Aidios YouTube Space LA! Thanks for the fun mixer and tour!
-    catégories licence : CC-BY-2.0
-    catégories : Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR; YouTube headquarters
-
-[10] File:YouTube HQ 10.JPG
-    taille 4000x2248 image/jpeg 999 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : BrokenSphere
-    crédit : Travail personnel
-    description : YouTube headquarters in San Bruno, California.
-    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Photos by User:BrokenSphere; Taken with Canon Digital IXUS 105; YouTube headquarters
-
-[11] File:YouTube HQ 6.JPG
-    taille 4000x3000 image/jpeg 1982 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : BrokenSphere
-    crédit : Travail personnel
-    description : YouTube headquarters in San Bruno, California.
-    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Photos by User:BrokenSphere; Taken with Canon Digital IXUS 105; YouTube headquarters
-
-[12] File:YouTube HQ 7.JPG
-    taille 4000x2248 image/jpeg 1147 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : BrokenSphere
-    crédit : Travail personnel
-    description : YouTube headquarters in San Bruno, California.
-    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
-    catégories : Photos by User:BrokenSphere; Taken with Canon Digital IXUS 105; YouTube headquarters
-
-[13] File:WLB YouTube icon.svg
-    taille 50x50 image/svg+xml 2 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Original : YouTube Vecteur : Moheen
-    crédit : Ce fichier est dérivé de : YouTube Logo 2017.svg
-    description : YouTube social media icon for Wiki Loves Bangla
-    catégories licence : PD-shape missing SDC copyright status; PD shape; PD textlogo
-    catégories : Derivative versions; SVG created with Inkscape and Adobe Illustrator; SVG icons with triangles; SVG logos of YouTube; SVG text logos; SVGs by Moheen Reeyad; Valid SVG created with Adobe Illustrator; Vectorizations; Wiki Loves Bangla; With trademark
-
-[14] File:YouTube social white square (2024).svg
-    taille 1000x1000 image/svg+xml 2 ko
-    licence : Public domain | pd |  -> OK
-    auteur : YouTube to
-    crédit : Ce fichier est dérivé de : YouTube 2024.svg
-    description : YouTube red but more pinkish social media icon on white background (#FF0033FF) (2024)
-    catégories licence : PD shape; PD textlogo
-    catégories : Derivative versions; Plain red SVG right arrow icons; Red squares; SVG icons created with Inkscape; SVG icons with triangles; SVG logos of YouTube; SVG text logos; Valid SVG created with Inkscape; With trademark
-
-[15] File:YouTube results screenshot.jpg
+[4] File:YouTube results screenshot.jpg
     taille 1919x1080 image/jpeg 397 ko
     licence : Public domain | pd |  -> OK
     auteur : Smile and Learn - English, Rockin Robin Cooks, Nicky's Kitchen
@@ -136,11 +37,110 @@
     catégories licence : CC-BY-3.0; PD ineligible
     catégories : English-language screenshots of websites; Media from YouTube; Screenshots of YouTube (website); With trademark
 
-[16] File:YouTube Availability.png
-    taille 6460x3403 image/png 1610 ko
+[5] File:YouTube Logo 2017.svg
+    taille 512x114 image/svg+xml 5 ko
     licence : Public domain | pd |  -> OK
-    auteur : Calibri42
+    auteur : YouTube
+    crédit : https://www.youtube.com/howyoutubeworks/resources/brand-resources/#logos-icons-and-colors
+    description : Logo de YouTube (2017)
+    catégories licence : PD textlogo
+    catégories : Black and red text logos; SVG logos of YouTube; SVG text logos; TOO-United States; Valid SVG created with Adobe Illustrator:Text logos; With trademark
+
+[6] File:YouTube logo ukr (2005-2017).png
+    taille 250x128 image/png 29 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Youtube
+    crédit : https://s.ytimg.com/yts/img/doodles/ukraine_launch_110x30-vflUbIt4m.png
+    description : YouTube logo on the day of official launch of YouTube in Ukraine (13 December 2012)
+    catégories licence : PD textlogo
+    catégories : Logos of YouTube; Text logos; Variations on the national flag of Ukraine; With trademark
+
+[7] File:Logo of YouTube (2006-2011) realtext.svg
+    taille 1105x440 image/svg+xml 15 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Youtu.be
+    crédit : File:Logo of YouTube (2006-2011).svg
+    description : Derived from original legacy YouTube logo, but with real actual text in the Impact (typeface) inside the SVG data instead of paths that resemble alphabetic letters.
+    catégories licence : PD textlogo
+    catégories : SVG logos of YouTube; SVG text logos; With trademark
+
+[8] File:Logo of YouTube (2011-2013).svg
+    taille 1105x440 image/svg+xml 19 ko
+    licence : Public domain | pd |  -> OK
+    auteur : YouTube
+    crédit : http://upload.wikimedia.org/wikipedia/commons/archive/9/98/20130118135042!YouTube_Logo.svg
+    description : YouTube logo (2011–2013).
+    catégories licence : PD textlogo
+    catégories : SVG logos of YouTube; SVG text logos; TOO-United States; With trademark
+
+[9] File:Logo YouTube (2005-2017).svg
+    taille 546x277 image/svg+xml 13 ko
+    licence : Public domain | pd |  -> OK
+    auteur : HernandoJoseAJ
     crédit : Travail personnel
-    description : Availability of YouTube
-    catégories licence : CC-BY-SA-4.0; PD map; Self-published work
-    catégories : Censorship of YouTube in China; Map images that should use vector graphics; PNG that should use vector graphics; YouTube maps
+    description : YouTube logo from 2005–2011.
+    catégories licence : PD textlogo
+    catégories : SVG logos of YouTube; SVG text logos; With trademark
+
+[10] File:YouTube video player history.png
+    taille 1216x1220 image/png 208 ko
+    licence : Public domain | pd |  -> OK
+    auteur : YouTube; compiled by User:Elominius
+    crédit : Captures of YouTube watch pages, https://ythistory.weebly.com/, and https://ythistory.co.cc/, accessed through the Wayback Machine.
+    description : Design history of the video player used by YouTube. Note that each layout generation might have gone through minor undocumented iterations, and that appearance may vary with embedding parameters.
+    catégories licence : Images requiring an update; PD shape
+    catégories : Adobe Flash; De minimis without reason; HTML5; Media players; Screenshots of YouTube (website)
+
+[11] File:YouTube license placement for obP-ztpRBeI.png
+    taille 494x317 image/png 21 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Namco Bandai Games and YouTube
+    crédit : [1] YouTube (Temps : 0m01s) – Voir/enregistrer des versions archivées sur archive.org
+    description : Namco Bandai Games' logo
+    catégories licence : CC-BY-3.0; License review needed
+    catégories : Bandai Namco logos (2005); Logos of video game companies in Japan; Media from YouTube; Still images of YouTube videos
+
+[12] File:Me at the zoo (screenshot).png
+    taille 320x240 image/png 132 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Jawed Karim and Yakov Lapitsky
+    crédit : Cette image a été extraite d'un autre fichier
+    description : Me at the zoo, the first video ever to be uploaded to YouTube. It was uploaded at 8:27 pm on Saturday, April 23, 2005 by Jawed Karim, one of the co-founders of the site, under the username "jawed"
+    catégories licence : CC-BY-3.0
+    catégories : Extracted images; Me at the zoo; Still images of YouTube videos
+
+[13] File:René Vivas 2005.jpg
+    taille 857x750 image/jpeg 75 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Confidencial
+    crédit : YouTube : https://www.youtube.com/watch?v=uNqMV8J-ZuY – Voir/enregistrer des versions archivées sur archive.org
+    description : Former Sandinista Chief of Police René Vivas in a 2005 interview for a documentary, “La transición: Los años de Doña Violeta”, by Esta Semena Screencap at 15:14.
+    catégories licence : CC-BY-3.0; License review needed
+    catégories : Media from Confidencial; Media from YouTube; Men in 2005; Nicaragua in the 21st century; Retouched pictures; Sandinista National Liberation Front; YouTube review needed
+
+[14] File:Beru (2005 Kannada movie) trailer.ogv
+    taille 1920x1080 application/ogg 217454 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : P Sheshadri
+    crédit : YouTube : Beru movie – Voir/enregistrer des versions archivées sur archive.org
+    description : Beru (2005 Kannada movie) trailer
+    catégories licence : CC-BY-3.0; Files from external sources with reviewed licenses
+    catégories : Beru (2005 film); Media from YouTube; Videos of P. Sheshadri
+
+[15] File:Mariano Fiallos Oyanguren 2005.jpg
+    taille 816x682 image/jpeg 129 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Confidencial
+    crédit : YouTube : https://www.youtube.com/watch?v=uNqMV8J-ZuY – Voir/enregistrer des versions archivées sur archive.org
+    description : Former president of Nicaragua’s Supreme Electoral Council Mariano Fiallos Oyanguren in a 2005 interview for a documentary, “La transición: Los años de Doña Violeta”, by Esta Semena. Screencap at 2:38.
+    catégories licence : CC-BY-3.0; License review needed
+    catégories : Media from Confidencial; Media from YouTube; Men in 2005; Men wearing glasses; Men with beards wearing glasses; Men with microphones; Nicaragua in the 21st century; Retouched pictures; YouTube review needed
+
+[16] File:YouTube Kids Logo (2017-2019).png
+    taille 3851x681 image/png 346 ko
+    licence : Public domain | pd |  -> OK
+    auteur : YouTube
+    crédit : Fandom Wikia Logos
+    description : Logo du service YouTube .
+    catégories licence : PD textlogo
+    catégories : Logos of YouTube; Text logos; With trademark; Y in logos

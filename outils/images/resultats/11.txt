@@ -1,25 +1,16 @@
-# carte 11 requêtes 61a812b34ca5
-{"recherches": ["Euclid algorithm flowchart", "Euclidean algorithm", "Euclid Elements Book VII manuscript"]}
+# carte 11 requêtes 19487756e2df
+{"titres": ["File:Euclidean algorithm 1071 462.gif", "File:Euclid flowchart.svg"], "recherches": ["Euclid Elements papyrus Oxyrhynchus", "Euclid Elements manuscript", "algorithme d'Euclide", "greatest common divisor Euclid"]}
 
-[1] File:Euclid algorithm flowchart diagram in Breton.svg
-    taille 330x742 image/svg+xml 26 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Huñvreüs
+[1] File:Euclidean algorithm 1071 462.gif
+    taille 462x1071 image/gif 7 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Proteins
     crédit : Travail personnel
-    description : This diagram explains how Euclides’ algoritm works in Breton. It is a translation of Euclid flowchart.svg, found on Commons, made by user Somepics and licenced under CC 4.0 share-alike.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Breton-language SVG diagrams; Derivative versions; Euclidean algorithm
+    description : Animation of the Euclidean algorithm for 1071 and 462. The initial green rectangle has dimensions a = 1071 and b = 462. Square 462x462 tiles are added until a green 462x147 rectangle remains. This is tiled with square 147x147 tiles until a 21x147 rectangle remains. This third rectangle is tiled with 21x21 square tiles, leaving no remainder. Thus, 21 is the greatest common divisor of 1071 and 462.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Animated GIF files; Euclidean algorithm
 
-[2] File:Euclid flowchart 1.png
-    taille 330x742 image/png 12 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : Wvbailey
-    crédit : Travail personnel
-    description : Euclid's algorithm for computing the greatest common divisor of two numbers, drawn as a flowchart.
-    catégories licence : CC-BY-3.0; Self-published work
-    catégories : Euclidean algorithm; Math images that should use vector graphics; PNG that should use vector graphics
-
-[3] File:Euclid flowchart.svg
+[2] File:Euclid flowchart.svg
     taille 330x742 image/svg+xml 29 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
     auteur : Somepics
@@ -28,34 +19,106 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
     catégories : English-language SVG diagrams; Euclidean algorithm
 
-[4] File:Euclidean algorithm Uk.svg
-    taille 955x2351 image/svg+xml 24 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Wvbailey
-    crédit : File:Euclid_flowchart_1.png
-    description : Блок-схема алгоритму Евкліда
-    catégories licence : CC-BY-SA-3.0
-    catégories : Euclidean algorithm
-
-[5] File:Detection and tracking of cracks based on thermoelastic stress analysis.pdf
-    taille 1085x1575 application/pdf 1799 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Middleton, C. A.; Weihrauch, M.; Christian, W. J. R.; Greene, R. J.; Patterson, E. A.
-    crédit : https://doi.org/10.1098/rsos.200823 via PubMed Central FTP
-    description : Middleton, C. A.; Weihrauch, M.; Christian, W. J. R.; Greene, R. J.; Patterson, E. A. (2020). "Detection and tracking of cracks based on thermoelastic stress analysis". Royal Society Open Science. 7 (12): 200823. doi:10.1098/rsos.200823. ISSN 2054-5703. PMC 7813230. PMID 33489256. (Check for updates)
-    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
-    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 12; Uploaded by DaxBot needing category review
-
-[6] File:The seeds of artificial intelligence - SUMEX-AIM (IA seedsofartificia00frei).pdf
-    taille 1204x1602 application/pdf 6356 ko
+[3] File:P. Oxy. I 29.jpg
+    taille 1694x1032 image/jpeg 271 ko
     licence : Public domain | pd |  -> OK
-    auteur : Freiherr, Gregory Research Resources Information Center
-    crédit : Internet Archive identifier: seedsofartificia00frei https://archive.org/download/seedsofartificia00frei/seedsofartificia00frei.pdf
-    description : "A publication of Division of Research Resources, National Institutes of Health." "March 1980." Print version record Subjects: SUMEX-AIM (Computer system); Medicine; Biochemistry; Psychology; Artificial intelligence; Computers; Cybernetics; Diagnosis, Computer-Assisted
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Books uploaded by Fæ; Books without Wikidata item; Documents from the US National Institutes of Health Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+    auteur : Euclid
+    crédit : https://openn.library.upenn.edu/Data/0016/html/e2748.html
+    description : Oxyrhynchus papyrus (P.Oxy. I 29) showing fragment of Euclid's Elements
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
+    catégories : Mathematical proof; Papyrus Oxyrhynchus 29
 
-[7] File:Extended-euclidean-algorithm-runtime de.svg
+[4] File:Euclid-POxy.jpg
+    taille 4748x1099 image/jpeg 1133 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Benutzer:Bibhistor
+    crédit : Selbst erstellt, Vorlagen über 100 Jahre alt.
+    description : Euclid’s Elements School Papyrus of Roman Oxyrhynchus, 100 AD Same in English School Book, London, 1901 AD
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed; Self-published work; User-created GFDL images
+    catégories : Euclid; Papyrus Oxyrhynchus 29
+
+[5] File:P.Penn. Museum inv. E02748 Euclid's Elements 2.5.jpg
+    taille 3745x2322 image/jpeg 1138 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : University of Pennsylvania Museum of Archaeology and Anthropology
+    crédit : https://openn.library.upenn.edu/Data/0016/html/e2748.html
+    description : Originally P.Oxy.29 (now P.Penn. Museum inv. E02748); a papyrus fragment of Euclid's Elements Book II, Proposition 5 dated 3rd-4th century CE.
+    catégories licence : CC-BY-SA-4.0
+    catégories : Elements of Euclid; Oxyrhynchus papyri; Papyrus Oxyrhynchus 29
+
+[6] File:What's what,a guide for to-day to life as it is and things as they are. (IA whatswhataguidef00quil).pdf
+    taille 1222x1868 application/pdf 84879 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Quilter, Harry, 1851-1907
+    crédit : Internet Archive identifier: whatswhataguidef00quil https://archive.org/download/whatswhataguidef00quil/whatswhataguidef00quil.pdf
+    description : xii, 1182 p. 20 cm Subjects: Encyclopedias and dictionaries
+    catégories licence : PD US expired
+    catégories : Books in the Library of Congress; Books published in London; Books uploaded by Fæ; Books without Wikidata item; IA books of at least 500 pages; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:Naskah matematika Kuno.pdf
+    taille 2000x1125 application/pdf 828 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Bereader
+    crédit : Travail personnel
+    description : Karya Koleksi tentang naskah matematika kuno.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Karya koleksi Pelatihan SPT 2025
+
+[8] File:Euclid, Elements 10, appendix.jpg
+    taille 2103x2555 image/jpeg 1004 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid
+    crédit : 2d copy
+    description : Euclid, Elements 10, appendix in Oxford, Bodleian Library, MS. D’Orville 301, fol. 268r.
+    catégories licence : CC-PD-Mark; PD-US missing SDC copyright status; PD-old missing SDC copyright status; PD Old; PD US expired
+    catégories : 9th-century manuscripts; Elements of Euclid; Files from the Bodleian Libraries
+
+[9] File:Houghton 56-1235 - Euclid, Elements (Arabic), 1594.jpg
+    taille 631x945 image/jpeg 242 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid (اوقليدس) and Nasir al-Din al-Tusi (محمد بن محمد بن الحسن طوسی)
+    crédit : Houghton Library
+    description : Translation of Euclid's Elements (Elementorum geometricorum libri tredecim) in Arabic by Nasir al-Din al-Tusi, 1594. *56-1235, Houghton Library, Harvard University
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
+    catégories : Arabic text; Elements of Euclid; Manuscripts of Nasir al-Din Tusi; Media in the Houghton Library, Harvard University
+
+[10] File:Euclid Lueneburg ms 14v.jpg
+    taille 862x1240 image/jpeg 267 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid, Boethius
+    crédit : M. Folkerts. Ein neuer Text des Euclides Latinus. Faksimiledruck der Handschrift Lüneburg D 4o 48, f.13-17v (Hildesheim: Dr. H. A. Gerstenberg, 1970).
+    description : Euclid's Elements, ms. from Lüneburg (see Mélanges in “Euclid in Medieval Europe” by Dr. Menso Folkerts). Page 14v.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Elements of Euclid (manuscript from Lüneburg); Medieval diagrams
+
+[11] File:Euclid Lueneburg ms 17v.jpg
+    taille 837x1210 image/jpeg 899 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid, Boethius
+    crédit : M. Folkerts. Ein neuer Text des Euclides Latinus. Faksimiledruck der Handschrift Lüneburg D 4o 48, f.13-17v (Hildesheim: Dr. H. A. Gerstenberg, 1970).
+    description : Euclid's Elements, ms. from Lüneburg (see Mélanges in “Euclid in Medieval Europe” by Dr. Menso Folkerts). Page 17v.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Elements of Euclid (manuscript from Lüneburg); Medieval diagrams
+
+[12] File:Euclid Lueneburg ms 15v.jpg
+    taille 866x1222 image/jpeg 984 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid, Boethius
+    crédit : M. Folkerts. Ein neuer Text des Euclides Latinus. Faksimiledruck der Handschrift Lüneburg D 4o 48, f.13-17v (Hildesheim: Dr. H. A. Gerstenberg, 1970).
+    description : Euclid's Elements, ms. from Lüneburg (see Mélanges in “Euclid in Medieval Europe” by Dr. Menso Folkerts). Page 15v
+    catégories licence : CC-PD-Mark; PD Old
+    catégories : Elements of Euclid (manuscript from Lüneburg); Medieval diagrams
+
+[13] File:Euclid Lueneburg ms 16v.jpg
+    taille 857x1231 image/jpeg 959 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Euclid, Boethius
+    crédit : M. Folkerts. Ein neuer Text des Euclides Latinus. Faksimiledruck der Handschrift Lüneburg D 4o 48, f.13-17v (Hildesheim: Dr. H. A. Gerstenberg, 1970).
+    description : Euclid's Elements, ms. from Lüneburg (see Mélanges in “Euclid in Medieval Europe” by Dr. Menso Folkerts). Page 16v.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Elements of Euclid (manuscript from Lüneburg); Medieval diagrams
+
+[14] File:Extended-euclidean-algorithm-runtime de.svg
     taille 624x573 image/svg+xml 3261 ko
     licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
     auteur : MartinThoma
@@ -64,7 +127,16 @@
     catégories licence : CC-Zero; Self-published work
     catégories : Computational complexity theory; Euclidean algorithm; German-language SVG diagrams; Images by Martin Thoma/Mathematics; Quality images - valid vector; Quality images missing SDC depicts; TikZ graphics; Translation possible - SVG; Valid SVG created with Other tools:Trigonometry
 
-[8] File:Euclidean algorithm 252 105 animation flipped.gif
+[15] File:Algorithme d'Euclide animation.gif
+    taille 300x300 image/gif 128 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Global Donald
+    crédit : Travail personnel
+    description : Illustration schématisée animée de l'algorithme d'Euclide
+    catégories licence : CC-Zero; Self-published work
+    catégories : All media needing categories as of 2026; Media needing categories as of 25 October 2026; PNG created with Python
+
+[16] File:Euclidean algorithm 252 105 animation flipped.gif
     taille 200x650 image/gif 41 ko
     licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
     auteur : Proteins
@@ -72,75 +144,3 @@
     description : Flipped version of earlier animation; better for lead images.
     catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
     catégories : Animated GIF files; Euclidean algorithm
-
-[9] File:Euclid's algorithm Book VII Proposition 2 3.svg
-    taille 1098x1495 image/svg+xml 14 ko
-    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
-    auteur : user:Wvbailey, converted to SVG by hand by user:brighterorange
-    crédit : File:Euclid's_algorithm_Book_VII_Proposition_2_3.png
-    description : Another possible illustration for Euclid's algorithm with Nicomachus' example colored in the same way as Euclid's. Derived from Heath 1908.
-    catégories licence : CC-BY-3.0
-    catégories : Euclidean algorithm
-
-[10] File:Euclidean Algorithm Running Time.svg
-    taille 476x369 image/svg+xml 79 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Dearjean13
-    crédit : Travail personnel
-    description : Color map of the number of iterations used by the Euclidean algorithm to compute gcd(x, y) for x and y from 0 to 500.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Color mapping; Euclidean algorithm; Files allowed to be overwritten by everyone
-
-[11] File:Euclid's book On divisions of figures - ... with a restoration based on Woepcke's text and on the Practica geometriae of Leonardo Pisano (IA euclidsbookondiv00archrich).pdf
-    taille 883x1350 application/pdf 6915 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Archibald, Raymond Clare, 1875-1957 Euclid Wöpcke, Franz, 1826-1864 Fibonacci, Leonardo, ca. 1170-ca. 1240
-    crédit : Internet Archive identifier: euclidsbookondiv00archrich https://archive.org/download/euclidsbookondiv00archrich/euclidsbookondiv00archrich.pdf
-    description : Subjects: Geometry, Plane
-    catégories licence : PD US expired
-    catégories : 1915 books from Cambridge; Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Euclid; Raymond Clare Archibald; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[12] File:Euclid's elements of geometry - books I-IV, VI and XI (IA euclidselementso00euclrich).pdf
-    taille 683x1012 application/pdf 24704 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Euclid Smith, Charles, 1844-1916 Bryant, Sophie Willock, 1850-1922
-    crédit : Internet Archive identifier: euclidselementso00euclrich https://archive.org/download/euclidselementso00euclrich/euclidselementso00euclrich.pdf
-    description : Subjects: Geometry -- Early works to 1800
-    catégories licence : Books from the United States PDF files; PD US expired
-    catégories : Books from New York (state); Books published in London; Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[13] File:A Long Way From Euclid (IA longwayfromeucli005621mbp).pdf
-    taille 533x791 application/pdf 18330 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Constance Reid
-    crédit : Internet Archive identifier: longwayfromeucli005621mbp https://archive.org/download/longwayfromeucli005621mbp/longwayfromeucli005621mbp.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; Mathematics PDF files; PD-old-100-expired
-    catégories : 1834 books; 1834 in mathematics; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Thomas Y. Crowell & Company; Universal Library Project
-
-[14] File:A Long Way From Euclid (IA longwayfromeucli017990mbp).pdf
-    taille 533x791 application/pdf 18330 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Constance Reid
-    crédit : Internet Archive identifier: longwayfromeucli017990mbp https://archive.org/download/longwayfromeucli017990mbp/longwayfromeucli017990mbp.pdf
-    description : Subjects:
-    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
-    catégories : Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Thomas Y. Crowell & Company; Universal Library Project
-
-[15] File:Greek geometry from Thales to Euclid (IA cu31924059413751).pdf
-    taille 775x1154 application/pdf 3947 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Allman, George Johnston, 1824-1904
-    crédit : Internet Archive identifier: cu31924059413751 https://archive.org/download/cu31924059413751/cu31924059413751.pdf
-    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. "From 'Hermathena', v. 3, no. 5; 
-    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
-    catégories : Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[16] File:The story of Euclid (IA aas8329.0001.001.umich.edu).pdf
-    taille 706x889 application/pdf 7968 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Frankland, William Barrett, 1875-
-    crédit : Internet Archive identifier: aas8329.0001.001.umich.edu https://archive.org/download/aas8329.0001.001.umich.edu/aas8329.0001.001.umich.edu.pdf
-    description : Subjects: Euclid; Geometry
-    catégories licence : PD US expired
-    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified; University of Michigan Books

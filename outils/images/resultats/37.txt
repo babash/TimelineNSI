@@ -1,5 +1,5 @@
-# carte 37 requêtes 4c5095f6d29a
-{"recherches": ["Kilby integrated circuit", "first integrated circuit", "Fairchild integrated circuit planar", "integrated circuit chip"]}
+# carte 37 requêtes 188489115267
+{"titres": ["File:Replica IC.png"], "recherches": ["Jack Kilby integrated circuit", "Kilby first integrated circuit Texas Instruments", "Fairchild planar integrated circuit 1960", "first integrated circuit replica"]}
 
 [1] File:Replica IC.png
     taille 5425x3713 image/png 44628 ko
@@ -37,16 +37,7 @@
     catégories licence : CC-BY-4.0
     catégories : 1958 events; Annual review collages; Attributed work; Files with broken file links
 
-[5] File:Highlights in Semiconductor Device Development (IA jresv86n6p565 A1b).pdf
-    taille 1035x1368 application/pdf 480 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Esaki, L.
-    crédit : Internet Archive identifier: jresv86n6p565_A1b https://archive.org/download/jresv86n6p565_A1b/jresv86n6p565_A1b.pdf
-    description : Journal of Research of the National Bureau of Standards Subjects: diode; field-effect transitor; IMPATT diode; integrated circuit; LASER; LED; photocell; solar cell; solid state; transitor; tunnel diode; III-V compounds.
-    catégories licence : CC-PD-Mark; PD US Government
-    catégories : Bipolar junction transistors; Books uploaded by Fæ; Books without Wikidata item; Journal of Research of the National Bureau of Standards; Scans from the Internet Archive; Scans from the Internet Archive/unverified
-
-[6] File:RIT NandE Vol18Num3 1986 Oct9 Complete.pdf
+[5] File:RIT NandE Vol18Num3 1986 Oct9 Complete.pdf
     taille 1650x2550 application/pdf 5889 ko
     licence : Public domain | pd |  -> OK
     auteur : Rochester Institute of Technology
@@ -55,92 +46,92 @@
     catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
     catégories : 1986-10-09; Bruce Davidson (photographer); Frederic W. Goudy Award; Genesee River; Hiro (photographer); Images with extracted images; John Hromi; Matthew Carter; October 1986 in New York (state); RIT News and Events, 1986
 
-[7] File:R12-2 germanium integrated circuit structure, 1961-1962 RUS.svg
-    taille 1100x1500 image/svg+xml 46 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Retired electrician
-    crédit : Travail personnel based on drawings in https://www.electronics.ru/files/article_pdf/0/article_436_763.pdf
-    description : P12-2, the first Soviet production monolithic IC - a germanium 2NAND gate. Exactly who, when and how invented it remains a controversy. The first substantial batch was built at the Riga fab (later known as Alfa) in the end of 1961. Two, three or four such circuits were packaged into Kvant series micromodules that were used by Gnome airporne digital computers. All sizes in millimeters.
-    catégories licence : CC-Zero; Self-published work
-    catégories : R12-2; SVG electronics
-
-[8] File:Moore's Law Transistor Count 1970-2020.png
-    taille 3133x2318 image/png 540 ko
-    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
-    auteur : Max Roser, Hannah Ritchie
-    crédit : https://ourworldindata.org/uploads/2020/11/Transistor-Count-over-time.png
-    description : A logarithmic graph showing the timeline of how transistor counts in microchips are almost doubling every two years from 1970 to 2020; Moore's law.
-    catégories licence : CC-BY-4.0
-    catégories : Charts showing data through 2020; English-language charts; English-language statistical charts; Graph images that should use vector graphics; Moore's law charts; Our World in Data science and technological change charts; PNG that should use vector graphics
-
-[9] File:Lei de moore 2006.png
-    taille 1060x742 image/png 113 ko
+[6] File:What constitutes national security in the semiconductor industry?- a look at the competing views surrounding DoD's support of semiconductors (IA whatconstitutesn1094527608).pdf
+    taille 1275x1650 application/pdf 2920 ko
     licence : Public domain | pd |  -> OK
-    auteur : José Maria Silveira Neto
-    crédit : Created in Inkscape based on http://fr.wikipedia.org/wiki/Image:Loi_de_Moore.png but with a better desing and colors and in portuguese.
-    description : Graphic of Moore's Law, the graphic show the evolution of the number of transitors nos microchips Intel over the time.
-    catégories licence : PD-self; Self-published work
-    catégories : Graph images that should use vector graphics; Microprocessors diagrams; Moore's law charts; PNG that should use vector graphics; Portuguese text
+    auteur : Johnson, William A.
+    crédit : Internet Archive identifier: whatconstitutesn1094527608 https://archive.org/download/whatconstitutesn1094527608/whatconstitutesn1094527608.pdf
+    description : This thesis examines the current views surrounding federal support of the semiconductor industry, specifically from the Department of Defense. 'National security' is often cited as a reason for federal intervention in the industry. How well founded are the arguments for this support? The current situation in the domestic semiconductor industry is examined, and the industry's explanations for recen
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; IA books copyright review automatically suggested; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
 
-[10] File:Loi de Moore.png
-    taille 900x625 image/png 26 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
-    auteur : Original téléversé par QcRef87 sur Wikipédia français.
-    crédit : Transféré de fr.wikipedia à Commons par Bloody-libu utilisant CommonsHelper.
-    description : Graphique (en ordonnées logarithmiques) illustrant la loi de Moore par rapport à l'évolution réelle du nombre de transistors dans les microprocesseurs Intel; en pointillés verts au-dessus, représentation de l'hypothèse selon laquelle ce nombre doublerait tous les 18 mois. Catégorie:Schémas
-    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
-    catégories : French-language charts; Intel; Moore's law charts
-
-[11] File:Ley de Moore.png
-    taille 800x556 image/png 21 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Seofilo
-    crédit : http://seofilo.com/que-es-la-ley-de-moore/
-    description : Ley de Moore
-    catégories licence : CC-BY-SA-4.0
-    catégories : Moore's law charts; Spanish-language charts
-
-[12] File:Transistor Count and Moore's Law - 2011 Estonian.png
-    taille 667x599 image/png 54 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Erkiv
-    crédit : Travail personnel
-    description : Edited the original file to have text in Estonian language.
-    catégories licence : CC-BY-SA-3.0; Self-published work
-    catégories : Estonian text; Moore's law charts; Transistor diagrams
-
-[13] File:Fairchild uA791KC.jpg
-    taille 3000x2400 image/jpeg 8264 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Mister rf
-    crédit : Travail personnel
-    description : The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Decapped integrated circuits; Fairchild integrated circuits; Focus stacking images of electronic components; Integrated circuit dies; Metal can integrated circuit packages; Photos by User:Mister rf; Wire bonding
-
-[14] File:ΜA791KC die.jpg
-    taille 2219x2812 image/jpeg 3709 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Mister rf
-    crédit : Travail personnel
-    description : μA791KC die The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Fairchild integrated circuits; Integrated circuit dies; Operational amplifier integrated circuits; Photos by User:Mister rf; Quality images; Wire bonding
-
-[15] File:UA791KC wire bonding.jpg
-    taille 3000x2400 image/jpeg 9002 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : Mister rf
-    crédit : Travail personnel
-    description : The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Fairchild integrated circuits; Focus stacking images of electronic components; Integrated circuit dies; Operational amplifier integrated circuits; Photos by User:Mister rf; Wire bonding
-
-[16] File:A study of transient radiation effects on the response of standard and radiation-hardened integrated-circuit operational amplifiers in an electron beam. (IA studyoftransient00enri).pdf
-    taille 1475x1927 application/pdf 3081 ko
+[7] File:How Virtual Technology Can Impact Total Ownership Costs on a USN Vessel (IA howvirtualtechno109456771).pdf
+    taille 1275x1650 application/pdf 1848 ko
     licence : Public domain | pd |  -> OK
-    auteur : Enright, Patric Stam
-    crédit : Internet Archive identifier: studyoftransient00enri https://archive.org/download/studyoftransient00enri/studyoftransient00enri.pdf
-    description : Bibliography: p. 50 ADA708393 Thesis (M.S. in E.E.)--Naval Postgraduate School, 1969 Subjects:
+    auteur : Boothe, BJ S.
+    crédit : Internet Archive identifier: howvirtualtechno109456771 https://archive.org/download/howvirtualtechno109456771/howvirtualtechno109456771.pdf
+    description : This thesis investigates the development of virtual technology and how the Consolidated Afloat Network Enterprise Services (CANES) program can reduce Total Cost of Ownership when a ships local area networks are upgraded. With the recent development of cloud computing technologies, everyone from Fortune 500 companies to defense organizations believes that there are tangible benefits to moving opera
     catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[8] File:RIT NandE Vol18Num2 1986 Sep25 Complete.pdf
+    taille 1650x2550 application/pdf 5079 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Rochester Institute of Technology
+    crédit : News & Events 1986 at the RIT Digital Archive
+    description : From News and Events, a newsletter published by the Rochester Institute of Technology (RIT)
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : 1986-09-25; Bausch & Lomb Center; M. Richard Rose in 1986; RIT News and Events, 1986; Robert McFarlane; September 1986 in New York (state)
+
+[9] File:BOU DCSA 1201 - Computer Basics - Unit 01 - Introduction to Computers.pdf
+    taille 1275x1650 application/pdf 146 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Prof M Lutfar Rahman Dr. M Alamgir Hossain Sheikh Iqbal Ahmed Anwar Sadat
+    crédit : Bangladesh Open University OER Repository, item hdl:7777/268, original file Unit-01.pdf
+    description : Computer Basics (DCSA 1201). Unit 01 - Introduction to Computers. Course material published by Bangladesh Open University. Programme: Diploma in Computer Science & Application (DCSA). School: School of Science & Technology (SST).
+    catégories licence : CC-BY-4.0; Creative Commons Attribution 4.0 missing SDC copyright license; Creative Commons Attribution missing SDC copyright status
+    catégories : BOU DCSA 1201 Computer Basics; Uploaded with pypan
+
+[10] File:A teletype selective call system. (IA teletypeselectiv00shoe).pdf
+    taille 1231x1647 application/pdf 2379 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Shoemaker, Hugh Louis.;
+    crédit : Internet Archive identifier: teletypeselectiv00shoe https://archive.org/download/teletypeselectiv00shoe/teletypeselectiv00shoe.pdf
+    description : ADA483587 Thesis (M.S. in Communications Eng.)--U.S. Naval Postgraduate School, 1966 Bibliography: p. 36 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:Delta modulation incorporating integrated circuits - a feasibility study. (IA deltamodulationi00waff).pdf
+    taille 1252x1662 application/pdf 3608 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Waff, William Burns
+    crédit : Internet Archive identifier: deltamodulationi00waff https://archive.org/download/deltamodulationi00waff/deltamodulationi00waff.pdf
+    description : ADA709404 Thesis (M.S. in E.E.)--Naval Postgraduate School, 1969 Bibliography: p. 81-84 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Techniques for measuring the integrity of passivation overcoats on integrated circuits (IA techniquesformea4003kern).pdf
+    taille 1058x1487 application/pdf 7592 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Kern, Werner Comizzoli, Robert B.
+    crédit : Internet Archive identifier: techniquesformea4003kern https://archive.org/download/techniquesformea4003kern/techniquesformea4003kern.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:Silicon compiler design of combinational and pipeline adder integrated circuits. (IA siliconcompilerd00froe).pdf
+    taille 1208x1562 application/pdf 7323 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Froede, Alexander O. III.
+    crédit : Internet Archive identifier: siliconcompilerd00froe https://archive.org/download/siliconcompilerd00froe/siliconcompilerd00froe.pdf
+    description : Available from National Technical Information Service, Springfield, Va ADA158995 Thesis (M.S. in E.E.) Naval Postgraduate School, 1985 Bibliography: p. 138 c.1 - 214245, c.2 - 214246 Subjects: Electrical engineering
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[14] File:Thermal analysis and design of air cooled electronic circuit boards using a desk top computer. (IA thermalanalysisd00folt).pdf
+    taille 837x1089 application/pdf 8112 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Foltz, Ricky Allen
+    crédit : Internet Archive identifier: thermalanalysisd00folt https://archive.org/download/thermalanalysisd00folt/thermalanalysisd00folt.pdf
+    description : ADA092309 .Thesis (M.S. in M.E. and Degree of M. Engineer)Naval Postgraduate School, 1980 Bibliography: l. 133-134 Subjects: Mechanical engineering
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:Measured noise performance of a data clock circuit derived from the local M-sequence in direct-sequence spread spectrum systems (IA measurednoiseper1094534897).pdf
+    taille 1275x1650 application/pdf 2009 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Harshbarger, Stuart D.
+    crédit : Internet Archive identifier: measurednoiseper1094534897 https://archive.org/download/measurednoiseper1094534897/measurednoiseper1094534897.pdf
+    description : An improved method for deriving the timing information required for data recovery in the receiver of direct-sequence spread spectrum systems was implemented in hardware. This method uses a priori knowledge of the spreading sequence and its relation to the transmitted data to determine the precise beginning and end of data bits in the received signal. Testing of the hardware built for this research
+    catégories licence : CC-PD-Mark; PD-USGov missing SDC copyright status; PD US Government
     catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

@@ -1,5 +1,5 @@
-# carte 35 requêtes 8baf7968cb16
-{"titres": ["File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg"], "recherches": ["Colossus computer Bletchley", "Colossus rebuild National Museum of Computing", "Colossus Mark 2"]}
+# carte 35 requêtes 0c1b8f9446be
+{"titres": ["File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg"], "recherches": ["Colossus computer replica", "Colossus Mark II rebuild", "Colossus computer TNMOC", "Colossus code breaking computer"]}
 
 [1] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg
     taille 640x480 image/jpeg 120 ko
@@ -10,16 +10,34 @@
     catégories licence : CC-BY-SA-2.0
     catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; National Museum of Computing; Taken with Canon PowerShot G6
 
-[2] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590878.jpg
-    taille 640x480 image/jpeg 100 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Ian Petticrew
-    crédit : From geograph.org.uk
-    description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
-    catégories licence : CC-BY-SA-2.0
-    catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Taken with Canon PowerShot G6
+[2] File:Colossus computer replica (1).jpg
+    taille 1705x2472 image/jpeg 1676 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Nimmons
+    crédit : https://www.flickr.com/photos/stevenimmonsauthor/48871443846/
+    description : Replica of Colossus Computer at The National Museum of Computing, Bletchley Park, UK.
+    catégories licence : CC-BY-2.0; Files from Flickr with changed licenses
+    catégories : Colossus computer replica; Files with coordinates missing SDC location of creation (51° N, 1° W); Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2
 
-[3] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590865.jpg
+[3] File:Colossus computer replica (2).jpg
+    taille 2285x1858 image/jpeg 1581 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Nimmons
+    crédit : https://www.flickr.com/photos/stevenimmonsauthor/48742012221/
+    description : Replica of Colossus Computer at The National Museum of Computing, Bletchley Park, UK.
+    catégories licence : CC-BY-2.0; Files from Flickr with changed licenses
+    catégories : Colossus computer replica; Files with coordinates missing SDC location of creation (51° N, 1° W); Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2
+
+[4] File:Colossus computer replica (3).jpg
+    taille 2102x2803 image/jpeg 2525 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Nimmons
+    crédit : https://www.flickr.com/photos/stevenimmonsauthor/48870918803/
+    description : Replica of Colossus Computer at The National Museum of Computing, Bletchley Park, UK.
+    catégories licence : CC-BY-2.0; Files from Flickr with changed licenses
+    catégories : Colossus computer replica; Files with coordinates missing SDC location of creation (51° N, 1° W); Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2
+
+[5] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590865.jpg
     taille 480x640 image/jpeg 100 ko
     licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
     auteur : Ian Petticrew
@@ -27,24 +45,6 @@
     description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
     catégories licence : CC-BY-SA-2.0
     catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Taken with Canon PowerShot G6
-
-[4] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590872.jpg
-    taille 640x499 image/jpeg 101 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Ian Petticrew
-    crédit : From geograph.org.uk
-    description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
-    catégories licence : CC-BY-SA-2.0
-    catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; National Museum of Computing
-
-[5] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590851.jpg
-    taille 480x640 image/jpeg 114 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Ian Petticrew
-    crédit : From geograph.org.uk
-    description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
-    catégories licence : CC-BY-SA-2.0
-    catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; National Museum of Computing; Taken with Canon PowerShot G6
 
 [6] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590869.jpg
     taille 480x640 image/jpeg 102 ko
@@ -55,25 +55,70 @@
     catégories licence : CC-BY-SA-2.0
     catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Taken with Canon PowerShot G6
 
-[7] File:Colossus rebuild information (2189541945).jpg
-    taille 2272x1704 image/jpeg 987 ko
-    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
-    auteur : Marcin Wichary from San Francisco, U.S.A.
-    crédit : Colossus rebuild information
-    description : Colossus rebuild information
-    catégories licence : CC-BY-2.0
-    catégories : Files with coordinates missing SDC location of creation (51° N, 1° W); Flickr images reviewed by FlickreviewR; National Museum of Computing; Photographs by Marcin Wichary
+[7] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590878.jpg
+    taille 640x480 image/jpeg 100 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Ian Petticrew
+    crédit : From geograph.org.uk
+    description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
+    catégories licence : CC-BY-SA-2.0
+    catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Taken with Canon PowerShot G6
 
-[8] File:Colossus rebuild Selection Panel.jpg
-    taille 3207x3505 image/jpeg 3756 ko
-    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
-    auteur : TedColes
-    crédit : Travail personnel
-    description : The Selection Panel of the rebuilt Colossus computer at The National Museum of Computing on Bletchley Park
-    catégories licence : CC-BY-SA-4.0; Self-published work
-    catégories : Colossus computer replica
+[8] File:Rome and the renaissance, the pontificate of Julius II, from the French of Julian Klaczko; (IA romerenaissancep00klac).pdf
+    taille 841x1266 application/pdf 21764 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Klaczko, Julian, 1828-1906 Dennie, John
+    crédit : Internet Archive identifier: romerenaissancep00klac https://archive.org/download/romerenaissancep00klac/romerenaissancep00klac.pdf
+    description : Each plate and portrait accompanied by guard sheet with descriptive letterpress Subjects: Julius II, Pope, 1443-1513; Art; Renaissance
+    catégories licence : Books from the United States PDF files; PD-US missing SDC copyright status; PD US expired
+    catégories : Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; IA books of at least 500 pages; Images from the Getty Research Institute; Scans from the Internet Archive; Scans from the Internet Archive/unverified
 
-[9] File:2014-365-125 Just Part of Colossus (14094365766).jpg
+[9] File:Travels in Norway, Sweden, Finland, Russia, and Turkey; also on the Coasts of the Sea of Azof and of the Black Sea, in Two Volumes, Vol. II (IA dli.granth.18138).pdf
+    taille 750x1237 application/pdf 24984 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Jones, George Matthew
+    crédit : Internet Archive identifier: dli.granth.18138 https://archive.org/download/dli.granth.18138/18138.pdf
+    description : Source: Asiatic Society of Mumbai Pages/Folios: viii, 594p. Identifier: BK_00084408 Digitization Sponsor: Government of Maharashtra Original Source: <a href="https://granthsanjeevani.com/jspui/handle/123456789/18138" rel="nofollow">Item 18138</a> Subjects: Book; Geography and Travel; Granth Sanjeevani
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Bharat Ek Khoj; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:The Constitutions of the Free masons. (1723).pdf
+    taille 1275x1650 application/pdf 8029 ko
+    licence : Public domain | pd |  -> OK
+    auteur : James Anderson
+    crédit : https://www.google.ru/search?q=The+Constitutions+of+the+Freemasons&newwindow=1&source=lnms&tbm=bks&sa=X&ved=2ahUKEwj9jK32v8fzAhUjiIsKHYhOCkUQ_AUoAXoECAEQCw&biw=1318&bih=652&dpr=1
+    description : James Anderson. The Constitutions of the Free masons (1723)
+    catégories licence : CC-PD-Mark; PD-old-70-expired; PD-old missing SDC copyright status
+    catégories : Constituciones de Anderson
+
+[11] File:James Anderson. The Constitutions of the Free Masons (1855).pdf
+    taille 1275x1650 application/pdf 4005 ko
+    licence : Public domain | pd |  -> OK
+    auteur : James Anderson
+    crédit : https://www.google.ru/search?q=The+Constitutions+of+the+Freemasons&newwindow=1&tbm=bks&ei=R-RmYZ-NJ-eprgTb3Y6IDQ&start=30&sa=N&ved=2ahUKEwjfzJiGxMfzAhXnlIsKHduuA9E4FBDy0wN6BAgBEEY&biw=1318&bih=652&dpr
+    description : James Anderson. The Constitutions of the Free Masons (1855)
+    catégories licence : CC-PD-Mark; PD-old-70-expired; PD-old missing SDC copyright status
+    catégories : Constituciones de Anderson
+
+[12] File:The Constitutions of the Free masons (1723).pdf
+    taille 1275x1650 application/pdf 7299 ko
+    licence : Public domain | pd |  -> OK
+    auteur : James Anderson
+    crédit : https://www.google.ru/search?q=The+Constitutions+of+the+Freemasons&newwindow=1&source=lnms&tbm=bks&sa=X&ved=2ahUKEwj9jK32v8fzAhUjiIsKHYhOCkUQ_AUoAXoECAEQCw&biw=1318&bih=652&dpr=1
+    description : James Anderson. The Constitutions of the Free masons (1723)
+    catégories licence : CC-PD-Mark; PD-old-70-expired; PD-old missing SDC copyright status
+    catégories : Constituciones de Anderson
+
+[13] File:A sketch of modern and ancient geography for the use of schools (IA Butler1818wo01P).pdf
+    taille 5060x7883 application/pdf 540846 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Butler, Samuel A
+    crédit : https://archive.org/details/Butler1818wo01P https://archive.org/download/Butler1818wo01P/Butler1818wo01P.pdf
+    description : From the library of Charles Darwin Subjects:
+    catégories licence : CC-PD-Mark; License review needed; PD-old-100-expired
+    catégories : Books from the Biodiversity Heritage Library; Books uploaded by Fæ; Books without Wikidata item
+
+[14] File:2014-365-125 Just Part of Colossus (14094365766).jpg
     taille 4769x3179 image/jpeg 5984 ko
     licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
     auteur : cogdogblog
@@ -82,20 +127,20 @@
     catégories licence : CC-BY-2.0
     catégories : Colossus computer replica; Flickr images reviewed by FlickreviewR; Photographs by Alan Levine; Photos uploaded from Flickr by Fæ using a script; Vacuum tube installations
 
-[10] File:Constitution book of 1723 - the Wilson ms. constitution (IA cu31924030299451).pdf
-    taille 1160x1543 application/pdf 4131 ko
-    licence : Public domain | pd |  -> OK
-    auteur : Freemasons. Constitutions Woodford, Adolphus Frederick Alexander
-    crédit : Internet Archive identifier: cu31924030299451 https://archive.org/download/cu31924030299451/cu31924030299451.pdf
-    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Cover title: Anderson's constitut
-    catégories licence : CC-PD-Mark; PD-old-100-expired
-    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+[15] File:Apennine Colossus panorama (81988p).jpg
+    taille 8192x9307 image/jpeg 62265 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Rhododendrites
+    crédit : Travail personnel
+    description : Apennine Colossus (panorama)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Appennino by Giambologna; Featured pictures by Rhododendrites; Featured pictures of Italy; Featured pictures of sculptures; Featured pictures on English Wikipedia by Rhododendrites; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, English; Featured pictures on Wikipedia, Vietnamese; Files by Rhododendrites - 2023-10; Files uploaded by Rhododendrites (all); Files with coordin
 
-[11] File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590880.jpg
-    taille 640x480 image/jpeg 112 ko
-    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
-    auteur : Ian Petticrew
-    crédit : From geograph.org.uk
-    description : Colossus Computer, Bletchley Park. The Colossus machines were electronic computing devices used by British codebreakers to read encrypted German wireless messages during World War II. The original machine was designed during 1943-4 by a team led by Tommy Flowers at the Post Office Research Station at Dollis Hill - the machine's Post Office roots are plainly evident in the Strowger-type relays, uni
-    catégories licence : CC-BY-SA-2.0
-    catégories : Colossus computer replica; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Taken with Canon PowerShot G6
+[16] File:ColossusRebuild 11.jpg
+    taille 2281x2423 image/jpeg 3414 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : MaltaGC sur Wikipédia anglais
+    crédit : Photograph taken by myself. Travail personnel Transféré de en.wikipedia à Commons.
+    description : In 1994, a team led by Tony Sale began a reconstruction of a Colossus at en:Bletchley Park. Here, in 2006, Tony supervises the breaking of an enciphered message with the completed machine.
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed; License migration redundant; Self-published work; User-created GFDL images
+    catégories : Colossus computer replica; Images with annotations

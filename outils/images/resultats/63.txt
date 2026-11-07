@@ -1,7 +1,16 @@
-# carte 63 requêtes b2399b3b0885
-{"recherches": ["General Data Protection Regulation", "GDPR", "RGPD", "règlement général sur la protection des données"]}
+# carte 63 requêtes 4100b9fff697
+{"titres": ["File:GDPR p1.svg"], "recherches": ["RGPD règlement 2016/679", "Journal officiel de l'Union européenne règlement 2016/679", "GDPR regulation document", "protection des données personnelles"]}
 
-[1] File:Internet privacy Index.jpg
+[1] File:GDPR p1.svg
+    taille 677x958 image/svg+xml 1924 ko
+    licence : Public domain | pd |  -> OK
+    auteur : The European Parliament and The Council (Union européenne)
+    crédit : Official Journal of the European Union
+    description : The first page of the General Data Protection Regulation
+    catégories licence : Attribution only license; European Union license; PD-EUGov
+    catégories : General Data Protection Regulation; Official Journal of the European Union 2016, L Series; Valid SVG created with CorelDRAW
+
+[2] File:Internet privacy Index.jpg
     taille 1414x1746 image/jpeg 343 ko
     licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
     auteur : Maps.interlude
@@ -9,15 +18,6 @@
     description : Best and Worst countries for internet Privacy
     catégories licence : CC-BY-4.0; Self-published work
     catégories : General Data Protection Regulation; Internet privacy; Maps by Maps.interlude; Maps of the world showing ratings by an index
-
-[2] File:Gdpr-Regulation-Laptop.jpg
-    taille 960x640 image/jpeg 96 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : TheDigitalArtist
-    crédit : https://pixabay.com/photos/laptop-gdpr-privacy-protection-3233780/
-    description : Protection Privacy Gdpr Regulation Laptop
-    catégories licence : CC-Zero
-    catégories : Custom Computer keyboard keycaps; General Data Protection Regulation
 
 [3] File:MediaWiki and data protection - where do we stand regarding GDPR.webm
     taille 1280x720 video/webm 152694 ko
@@ -28,16 +28,7 @@
     catégories licence : CC-BY-SA-3.0
     catégories : Files uploaded by Wikimedia Foundation staff; General Data Protection Regulation; Markus Glaser; Media from YouTube; Uploaded with videoconvert; Wikimedia Hackathon Barcelona 2018 recorded sessions
 
-[4] File:Gdpr Europe.jpg
-    taille 6000x4000 image/jpeg 1274 ko
-    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
-    auteur : Dooffy
-    crédit : https://pixabay.com/illustrations/gdpr-castle-protection-privacy-3285252/
-    description : Symbol for General Data Protection Regulation (GDPR) in Europe.
-    catégories licence : CC-Zero
-    catégories : Europe in art; General Data Protection Regulation; Images from Pixabay
-
-[5] File:EU-UK GDPR divergence.webm
+[4] File:EU-UK GDPR divergence.webm
     taille 1920x1080 video/webm 77926 ko
     licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
     auteur : Open Rights Group
@@ -46,20 +37,110 @@
     catégories licence : CC-BY-SA-4.0
     catégories : Data protection; Photographs by Simon Dawson; Videos about data protection
 
-[6] File:GDPR p1.svg
-    taille 677x958 image/svg+xml 1924 ko
-    licence : Public domain | pd |  -> OK
-    auteur : The European Parliament and The Council (Union européenne)
-    crédit : Official Journal of the European Union
-    description : The first page of the General Data Protection Regulation
-    catégories licence : Attribution only license; European Union license; PD-EUGov
-    catégories : General Data Protection Regulation; Official Journal of the European Union 2016, L Series; Valid SVG created with CorelDRAW
+[5] File:Gdpr-Regulation-Laptop.jpg
+    taille 960x640 image/jpeg 96 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : TheDigitalArtist
+    crédit : https://pixabay.com/photos/laptop-gdpr-privacy-protection-3233780/
+    description : Protection Privacy Gdpr Regulation Laptop
+    catégories licence : CC-Zero
+    catégories : Custom Computer keyboard keycaps; General Data Protection Regulation
 
-[7] File:Meri Grigoryan 2008 11 20 olympiade dresden.jpeg
-    taille 1377x1634 image/jpeg 1589 ko
-    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
-    auteur : Frank Hoppe
+[6] File:Gdpr Europe.jpg
+    taille 6000x4000 image/jpeg 1274 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Dooffy
+    crédit : https://pixabay.com/illustrations/gdpr-castle-protection-privacy-3285252/
+    description : Symbol for General Data Protection Regulation (GDPR) in Europe.
+    catégories licence : CC-Zero
+    catégories : Europe in art; General Data Protection Regulation; Images from Pixabay
+
+[7] File:OJ L 207 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 2577 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - L 207 of 1 August 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-08-01; 2016 texts; Official Journal of the European Union 2016, L Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[8] File:OJ C 360 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 1274 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - C 360 of 30 September 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-09-30; 2016 texts; Official Journal of the European Union 2016, C Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[9] File:OJ L 213 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 1127 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - L 213 of 6 August 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-08-06; 2016 texts; Official Journal of the European Union 2016, L Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[10] File:OJ C 111 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 1314 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - C 111 of 29 March 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-03-29; 2016 texts; Official Journal of the European Union 2016, C Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[11] File:OJ C 163 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 6118 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - C 163 of 4 May 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-05-04; 2016 texts; Official Journal of the European Union 2016, C Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[12] File:OJ L 255 of 2016 - FR French.pdf
+    taille 1239x1752 application/pdf 1276 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Office des publications de l'Union européenne
+    crédit : EUR-Lex ([1], [2])
+    description : Official Journal of the European Union - L 255 of 21 September 2016 - French edition
+    catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
+    catégories : 2016-09-21; 2016 texts; Official Journal of the European Union 2016, L Series; Official Journal of the European Union files uploaded by EUResourcesBot; Uploaded with OpenRefine
+
+[13] File:Dokumenty przydatne do wdrożenia RODO w firmie MSP.png
+    taille 1458x1299 image/png 136 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Andrzej Kasprzyk (itring.pl)
     crédit : Travail personnel
-    description : WFM Meri Grigoryan (England) bei der 38. Schacholympiade in Dresden 2008
-    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
-    catégories : 1977 births; Chess Olympiad 2008; Dresden photographs taken on 2008-11-20; Meri Grigoryan; Photographs by Frank Hoppe; Taken with Fujifilm FinePix S8000fd
+    description : Useful documents o implement GDPR in small company (SME)
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : General Data Protection Regulation; Information graphics; Privacy; Prywatność; RODO; Security
+
+[14] File:Operation Dixon Evidence Bundle for FCA v Axis Mundi Global Custody Ltd (Served 23 February 2021).pdf
+    taille 1239x1752 application/pdf 18815 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Mixalakix
+    crédit : Travail personnel
+    description : The document titled "K3 - EI00059 Operation Dixon Evidence Bundle as served 23 February 2021.pdf" is a detailed evidence bundle compiled by the Financial Conduct Authority (FCA) for its regulatory proceedings against Axis Mundi Global Custody Ltd (formerly LBX Custody Ltd). Served on 23 February 2021, this bundle comprises 36 items, including internal FCA communications, emails, screenshots, bank 
+    catégories licence : CC-Zero; Self-published work
+    catégories : Files with coordinates missing SDC location of creation (51° N, 0° E); Financial regulation; Legal documents; Money laundering
+
+[15] File:November 2021 position paper on the European Commission’s legislative proposal to revise the eIDAS Regulation.pdf
+    taille 1275x1650 application/pdf 145 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Corporate work of Mozilla, with contact persons Owen Barrett and Udbhav Tiwari
+    crédit : https://blog.mozilla.org/netpolicy/files/2021/11/eIDAS-Position-paper-Mozilla-.pdf
+    description : November 2021 position paper on the European Commission’s legislative proposal to revise the eIDAS Regulation
+    catégories licence : CC-BY-3.0; English-language PDF files
+    catégories : Mozilla; Privacy law
+
+[16] File:Public Version Legal Q3 2017-18 QCI Quarterly Check-In Deck (May 2018).pdf
+    taille 1500x843 application/pdf 4234 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : KFrancis (WMF)
+    crédit : Travail personnel
+    description : Public Version Legal Q3 2017-18 QCI Quarterly Check-In Deck (May 2018)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Files uploaded by Wikimedia Foundation staff; General Data Protection Regulation; Wikimedia Foundation quarterly check-ins, FY2017-18

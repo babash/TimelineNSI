@@ -489,12 +489,61 @@
   "recadrage": "",
   "sha1": "fe6e5c8dcd19871a7b860ec403baf8491bcbc6c7"
  },
+ "77": {
+  "cadre": "1000x750",
+  "fichier": "National Security Agency headquarters, Fort Meade, Maryland.jpg",
+  "format": "jpg",
+  "recadrage": "",
+  "sha1": "e75267a8e6375628328da22cf70a7b8db4638ee6"
+ },
+ "79": {
+  "cadre": "1000x750",
+  "fichier": "Gas centrifuge cascade.jpg",
+  "format": "jpg",
+  "recadrage": "",
+  "sha1": "3702060d920621af2cef255366bbd3992c693b62"
+ },
  "8": {
   "cadre": "1000x750",
   "fichier": "Pascaline-CnAM 823-2-IMG 1510-white.jpg",
   "format": "jpg",
   "recadrage": "",
   "sha1": "333e2e164687861e1c7e377c1eae037cc7a4f32a"
+ },
+ "80": {
+  "cadre": "1000x750",
+  "fichier": "Turing test diagram.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "9ed6426937a09b64a217b2bb43b5b11bf90464ef"
+ },
+ "81": {
+  "cadre": "1000x750",
+  "fichier": "A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "5bce9c3d602fea82d7913a98c3bec8a26104ec84"
+ },
+ "83": {
+  "cadre": "1000x750",
+  "fichier": "CPT-internet-packetswitching-reroute.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "3a2885f2ab4fb2aeb2abd5da28ab9b162d11456a"
+ },
+ "85": {
+  "cadre": "1000x750",
+  "fichier": "Shortest path with direct weights.svg",
+  "format": "png",
+  "recadrage": "",
+  "sha1": "667681be0f6f5840f69bc9763656abf54551f550"
+ },
+ "86": {
+  "cadre": "1000x750",
+  "fichier": "Ariane 501 Fragment.jpg",
+  "format": "jpg",
+  "recadrage": "",
+  "sha1": "1b9acd9a87e1c89dd0c7ba024095f23a3ffe2291"
  },
  "9": {
   "cadre": "1000x750",

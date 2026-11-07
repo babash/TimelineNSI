@@ -724,4 +724,74 @@
     description API : Spanning tree protocol at work. Figure 6.
     catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
 
-TOTAL : 75 images, 7232 ko
+[77] National Security Agency headquarters, Fort Meade, Maryland.jpg
+    original 2904x2265 image/jpeg ; sortie 962x750 213 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : National Security Agency
+    Credit : https://www.nsa.gov/resources/everyone/digital-media-center/image-galleries/places/
+    auteur retenu : National Security Agency
+    Restrictions :  ; AttributionRequired : false
+    description API : Quartier général de la NSA à Fort George G. Meade, Maryland
+    catégories licence : PD US NSA
+
+[79] Gas centrifuge cascade.jpg
+    original 3200x2560 image/jpeg ; sortie 937x750 197 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : U.S. Department of Energy
+    Credit : http://www.doedigitalarchive.doe.gov/ImageDetailView.cfm?ImageID=1000682&page=search&pageid=thumb
+    auteur retenu : U.S. Department of Energy
+    Restrictions :  ; AttributionRequired : false
+    description API : Cascade of gas centrifuges used to produce enriched uranium. This photograph is of the U.S. gas centrifuge plant in Piketon, Ohio from 1984.
+    catégories licence : PD US DOE
+
+[80] Turing test diagram.svg
+    original 512x394 image/svg+xml ; sortie 975x750 49 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Schoeneh
+    Credit : Travail personnel
+    auteur retenu : Schoeneh
+    Restrictions :  ; AttributionRequired : false
+    description API : Diagram of the Turing test. This file was derived from: File:Turing test diagram.png
+    catégories licence : CC-Zero; Self-published work
+
+[81] A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf
+    original 1275x1650 application/pdf ; sortie 580x750 37 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : John McCarthy et al
+    Credit : http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
+    auteur retenu : John McCarthy et al
+    Restrictions :  ; AttributionRequired : false
+    description API : A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.
+    catégories licence : John McCarthy (computer scientist); PD-US missing SDC copyright status; PD US no notice
+
+[83] CPT-internet-packetswitching-reroute.svg
+    original 766x515 image/svg+xml ; sortie 1000x673 133 ko
+    licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
+    Artist : Pluke
+    Credit : Travail personnel
+    auteur retenu : Pluke
+    Restrictions :  ; AttributionRequired : false
+    description API : Demonstration of how re-routing is handled in a packet switching network.
+    catégories licence : CC-Zero; Self-published work
+
+[85] Shortest path with direct weights.svg
+    original 512x280 image/svg+xml ; sortie 1000x548 101 ko
+    licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
+    Artist : Artyom Kalinin
+    Credit : Travail personnel
+    auteur retenu : Artyom Kalinin
+    Restrictions :  ; AttributionRequired : true
+    description API : Shortest path (A, C, E, D, F) between vertices A and F in the weighted directed graph.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+
+[86] Ariane 501 Fragment.jpg
+    original 2217x1539 image/jpeg ; sortie 1000x695 207 ko
+    licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
+    Artist : Deadpan
+    Credit : Travail personnel
+    auteur retenu : Deadpan
+    Restrictions :  ; AttributionRequired : false
+    description API : Morceau de la structure du satellite récupéré de Ariane 501
+    catégories licence : PD-self; Self-published work
+
+TOTAL : 82 images, 8171 ko

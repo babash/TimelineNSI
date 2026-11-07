@@ -1,3 +1,9 @@
+[72] schéma original gardé : images/72.png
+
+[73] schéma original gardé : images/73.png
+
+[75] schéma original gardé : images/75.png
+
 [1] Word Aamu in two Egyptian scripts circa 1900 BCE.jpg
     original 824x701 image/jpeg ; sortie 824x701 110 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
@@ -9,7 +15,7 @@
     catégories licence : CC-PD-Mark; PD-Art (PD-old-100-expired); PD-Art missing SDC copyright status; PD-old-100-expired; PD-old missing SDC copyright status
 
 [2] Skytale auf Rundholz 3.jpg
-    original 3825x5100 image/jpeg ; sortie 900x1200 259 ko
+    original 3825x5100 image/jpeg ; sortie 562x750 111 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Burkhard Mücke
     Credit : Travail personnel
@@ -19,7 +25,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [3] Antikythera Fragment A (Front).webp
-    original 3648x3648 image/webp ; sortie 1200x1200 326 ko
+    original 3648x3648 image/webp ; sortie 750x750 133 ko
     licence API : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK ; retenue : CC BY 4.0 https://creativecommons.org/licenses/by/4.0
     Artist : Logg Tandy
     Credit : Travail personnel
@@ -29,7 +35,7 @@
     catégories licence : CC-BY-4.0; Self-published work
 
 [4] Caesar3.svg
-    original 856x361 image/svg+xml ; sortie 1200x505 108 ko
+    original 856x361 image/svg+xml ; sortie 1000x421 88 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Cepheus
     Credit : Travail personnel
@@ -39,7 +45,7 @@
     catégories licence : PD-self; Self-published work
 
 [5] 0121521 Chaturbhuj Temple, Gwalior Fort, Madhya Pradesh 37 (where is zero in this Hindu inscription).jpg
-    original 5016x3000 image/jpeg ; sortie 1200x718 277 ko
+    original 5016x3000 image/jpeg ; sortie 1000x598 202 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Ms Sarah Welch
     Credit : Travail personnel
@@ -49,7 +55,7 @@
     catégories licence : CC-Zero; Self-published work
 
 [6] Bodleian MS. Huntington 214 roll332 frame36.jpg
-    original 1000x722 image/jpeg ; sortie 1000x722 255 ko
+    original 1000x722 image/jpeg ; sortie 1000x722 219 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Al-Khawarizmi
     Credit : Bodleian Libraries
@@ -59,17 +65,17 @@
     catégories licence : CC-PD-Mark; PD-Art (PD-old-auto-expired); PD-old-100-expired
 
 [7] Al-kindi cryptographic 1.jpg
-    original 938x1390 image/jpeg ; sortie 810x1200 248 ko
+    original 938x1390 image/jpeg ; sortie 506x750 120 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Auteur inconnuUnknown author
     Credit : Travail personnel
-    auteur retenu : domaine public
+    auteur retenu : Auteur inconnu
     Restrictions :  ; AttributionRequired : false
     description API : صفحة من مخطوطة الكندي (رسالة في المُعَمَّى) محفوظة في المكتبة السليمانية في إسطنبول تحت رقم 4832.
     catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
 
 [8] Pascaline-CnAM 823-2-IMG 1510-white.jpg
-    original 4500x3000 image/jpeg ; sortie 1200x800 91 ko
+    original 4500x3000 image/jpeg ; sortie 1000x666 65 ko
     licence API : CC BY-SA 3.0 fr | cc-by-sa-3.0-fr | https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en -> OK ; retenue : CC BY-SA 3.0 FR https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en
     Artist : Rama
     Credit : Travail personnel
@@ -79,7 +85,7 @@
     catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-FR; Self-published work
 
 [9] Leibniz-Rechenmaschine TSD (06).JPG
-    original 4000x2248 image/jpeg ; sortie 1200x674 139 ko
+    original 4000x2248 image/jpeg ; sortie 1000x562 99 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Dr. Bernd Gross
     Credit : Travail personnel
@@ -89,7 +95,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [10] Hand-driven-jacquard-loom.jpg
-    original 1500x2000 image/jpeg ; sortie 900x1200 285 ko
+    original 1500x2000 image/jpeg ; sortie 562x750 116 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : Edal Anton Lefterov
     Credit : Travail personnel
@@ -99,7 +105,7 @@
     catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
 
 [11] P. Oxy. I 29.jpg
-    original 1694x1032 image/jpeg ; sortie 1200x731 272 ko
+    original 1694x1032 image/jpeg ; sortie 1000x609 196 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Euclid
     Credit : https://openn.library.upenn.edu/Data/0016/html/e2748.html
@@ -109,7 +115,7 @@
     catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
 
 [12] Boole Laws of Thought 1854.png
-    original 539x895 image/png ; sortie 539x895 20 ko
+    original 539x895 image/png ; sortie 452x750 59 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : George Boole (1815-1864)
     Credit : Google books: https://www.google.cat/books?id=SWgLVT0otY8C
@@ -119,7 +125,7 @@
     catégories licence : Author died more than 100 years ago public domain images; Author died more than 70 years ago public domain images; CC-PD-Mark; PD-old missing SDC copyright status
 
 [13] Diagram for the computation of Bernoulli numbers.jpg
-    original 2000x1400 image/jpeg ; sortie 1200x840 255 ko
+    original 2000x1400 image/jpeg ; sortie 1000x700 190 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Ada Lovelace
     Credit : http://www.sophiararebooks.com/pictures/3544a.jpg
@@ -129,7 +135,7 @@
     catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
 
 [14] Turing Machine Model Davey 2012.jpg
-    original 5066x3377 image/jpeg ; sortie 1200x800 124 ko
+    original 5066x3377 image/jpeg ; sortie 1000x666 91 ko
     licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
     Artist : Rocky Acosta
     Credit : Travail personnel
@@ -139,7 +145,7 @@
     catégories licence : CC-BY-3.0; Self-published work
 
 [15] Apollo DSKY CHM.agr.jpg
-    original 2458x2733 image/jpeg ; sortie 1079x1200 190 ko
+    original 2458x2733 image/jpeg ; sortie 675x750 82 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : ArnoldReinhold
     Credit : Travail personnel
@@ -149,7 +155,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [16] Relational key SVG.svg
-    original 300x258 image/svg+xml ; sortie 1200x1032 178 ko
+    original 300x258 image/svg+xml ; sortie 872x750 130 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : IkamusumeFan
     Credit : Travail personnel
@@ -159,7 +165,7 @@
     catégories licence : CC-BY-SA-3.0; Self-published work
 
 [17] Fortran punch card ESA.jpg
-    original 4421x1956 image/jpeg ; sortie 1200x531 174 ko
+    original 4421x1956 image/jpeg ; sortie 1000x442 124 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : Till Niermann
     Credit : Travail personnel
@@ -169,7 +175,7 @@
     catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
 
 [18] COBOL Report Apr60.djvu
-    original 2368x3108 image/vnd.djvu ; sortie 914x1200 109 ko
+    original 2368x3108 image/vnd.djvu ; sortie 571x750 55 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : CODASYL
     Credit : https://ia801604.us.archive.org/3/items/bitsavers_codasylCOB_6843924/COBOL_Report_Apr60.djvu
@@ -179,7 +185,7 @@
     catégories licence : PD-scan (PD-US-no notice); PD US no notice
 
 [19] First Computer Bug, 1947.jpg
-    original 2889x2285 image/jpeg ; sortie 1200x949 181 ko
+    original 2889x2285 image/jpeg ; sortie 949x750 122 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988.
     Credit : U.S. Naval Historical Center Online Library Photograph NH 96566-KN The above link is no longer valid on 13.04.2017, the image available here.
@@ -189,7 +195,7 @@
     catégories licence : CC-PD-Mark; PD US Navy
 
 [20] Hello world c.svg
-    original 805x201 image/svg+xml ; sortie 1200x300 35 ko
+    original 805x201 image/svg+xml ; sortie 1000x250 28 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Shaddim
     Credit : Travail personnel
@@ -209,7 +215,7 @@
     catégories licence : CC-BY-SA-3.0; Self-published work
 
 [22] Python-logo-notext.svg
-    original 110x110 image/svg+xml ; sortie 1200x1200 88 ko
+    original 110x110 image/svg+xml ; sortie 750x750 53 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : www.python.org
     Credit : www.python.org
@@ -219,7 +225,7 @@
     catégories licence : PD shape
 
 [23] Public key encryption.svg
-    original 525x513 image/svg+xml ; sortie 1200x1172 146 ko
+    original 525x513 image/svg+xml ; sortie 768x750 89 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Davidgothberg
     Credit : Travail personnel
@@ -229,7 +235,7 @@
     catégories licence : PD-self; Self-published work
 
 [24] Bitcoin Block Data.svg
-    original 906x386 image/svg+xml ; sortie 1200x512 99 ko
+    original 906x386 image/svg+xml ; sortie 1000x427 78 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : Matthäus Wander
     Credit : Travail personnel
@@ -239,7 +245,7 @@
     catégories licence : CC-BY-SA-3.0; Self-published work
 
 [25] AES-SubBytes.svg
-    original 810x420 image/svg+xml ; sortie 1200x623 151 ko
+    original 810x420 image/svg+xml ; sortie 1000x519 123 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Matt Crypto
     Credit : Travail personnel
@@ -249,7 +255,7 @@
     catégories licence : PD-self; Self-published work
 
 [26] Analytical engine trial model, Charles Babbage, 1834-1871 - Science Museum, London - DSC05565.jpg
-    original 5472x3648 image/jpeg ; sortie 1200x800 203 ko
+    original 5472x3648 image/jpeg ; sortie 1000x666 145 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Daderot
     Credit : Travail personnel
@@ -259,7 +265,7 @@
     catégories licence : CC-Zero; Self-published work
 
 [27] Manchester baby head on.JPG
-    original 5376x2904 image/jpeg ; sortie 1200x648 203 ko
+    original 5376x2904 image/jpeg ; sortie 1000x540 150 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Geni
     Credit : Photo by user:geni
@@ -269,7 +275,7 @@
     catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
 
 [28] ARL EDVAC 01.png
-    original 1093x1024 image/png ; sortie 1093x1024 190 ko
+    original 1093x1024 image/png ; sortie 801x750 96 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : U.S. Army Photo
     Credit : http://ftp.arl.mil/ftp/historic-computers/
@@ -279,7 +285,7 @@
     catégories licence : PD US Army
 
 [29] UNIVAC I console, 1951, Computer History Museum.jpg
-    original 4566x3044 image/jpeg ; sortie 1200x800 207 ko
+    original 4566x3044 image/jpeg ; sortie 1000x666 148 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : The wub
     Credit : Travail personnel
@@ -289,7 +295,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [30] Intel C4004.jpg
-    original 6000x4000 image/jpeg ; sortie 1200x800 101 ko
+    original 6000x4000 image/jpeg ; sortie 1000x666 76 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Thomas Nguyen
     Credit : Travail personnel
@@ -299,7 +305,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [31] Altair 8800 computer in Intel Museum.jpg
-    original 4032x3024 image/jpeg ; sortie 1200x900 174 ko
+    original 4032x3024 image/jpeg ; sortie 1000x750 124 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : David290
     Credit : Travail personnel
@@ -309,7 +315,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [32] Ibm pc 5150.jpg
-    original 1920x1784 image/jpeg ; sortie 1200x1115 147 ko
+    original 1920x1784 image/jpeg ; sortie 807x750 77 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : Ruben de Rijcke
     Credit : Travail personnel
@@ -319,7 +325,7 @@
     catégories licence : CC-BY-SA-3.0; Self-published work
 
 [33] Computer macintosh 128k, 1984 (all about Apple onlus).jpg
-    original 2312x2132 image/jpeg ; sortie 1200x1106 223 ko
+    original 2312x2132 image/jpeg ; sortie 814x750 107 ko
     licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
     Artist : Sailko
     Credit : Travail personnel
@@ -329,7 +335,7 @@
     catégories licence : CC-BY-3.0; Self-published work
 
 [34] Zuse Z1 Nachbau, Deutsches Technikmuseum Berlin, 1.jpg
-    original 4608x3456 image/jpeg ; sortie 1200x900 219 ko
+    original 4608x3456 image/jpeg ; sortie 1000x750 159 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : Morn
     Credit : Travail personnel
@@ -349,7 +355,7 @@
     catégories licence : CC-BY-SA-2.0
 
 [36] A replica of the first working transistor 02.jpg
-    original 1600x1850 image/jpeg ; sortie 1038x1200 192 ko
+    original 1600x1850 image/jpeg ; sortie 649x750 78 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Mister rf
     Credit : Travail personnel
@@ -359,7 +365,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [37] Replica IC.png
-    original 5425x3713 image/png ; sortie 1200x821 154 ko
+    original 5425x3713 image/png ; sortie 1000x684 112 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Florian Schäffer
     Credit : Travail personnel
@@ -369,7 +375,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [38] Computer mouse prototype top.jpg
-    original 958x1046 image/jpeg ; sortie 958x1046 102 ko
+    original 958x1046 image/jpeg ; sortie 687x750 59 ko
     licence API : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK ; retenue : CC BY 4.0 https://creativecommons.org/licenses/by/4.0
     Artist : This file comes from Science Museum Collections, a website operated by Science Museum Group, a non-departmental public body in the UK. Ce bandeau n’indique rien sur le statut de l’œuvre au regard du droit d'auteur. Un bandeau de droit d’auteur est requis. Voir Commons:À propos des licences pour plus d’informations.
     Credit : [1]
@@ -389,7 +395,7 @@
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
 
 [40] Atari-2600-Wood-4Sw-Set.jpg
-    original 3940x2300 image/jpeg ; sortie 1200x700 107 ko
+    original 3940x2300 image/jpeg ; sortie 1000x584 76 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Evan-Amos
     Credit : Travail personnel
@@ -409,7 +415,7 @@
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
 
 [42] Intuix USB flash drive, 256 MB.jpg
-    original 4520x1600 image/jpeg ; sortie 1200x425 74 ko
+    original 4520x1600 image/jpeg ; sortie 1000x354 54 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Cjp24
     Credit : Travail personnel
@@ -419,7 +425,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [43] Original iPhone docked.jpg
-    original 1496x2256 image/jpeg ; sortie 796x1200 71 ko
+    original 1496x2256 image/jpeg ; sortie 497x750 34 ko
     licence API : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK ; retenue : CC BY-SA 2.0 https://creativecommons.org/licenses/by-sa/2.0
     Artist : Andrew from London, UK
     Credit : 16GB iPhone
@@ -429,7 +435,7 @@
     catégories licence : CC-BY-SA-2.0
 
 [44] Shannon communication system fr.svg
-    original 457x215 image/svg+xml ; sortie 1200x565 62 ko
+    original 457x215 image/svg+xml ; sortie 1000x471 48 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : en:User:Wanderingstan, User:Stannered
     Credit : File:Shannon_communication_system.svg
@@ -439,7 +445,7 @@
     catégories licence : PD-user
 
 [45] A sketch of the ARPANET in December 1969.png
-    original 2057x3003 image/png ; sortie 822x1200 112 ko
+    original 2057x3003 image/png ; sortie 514x750 49 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : DARPA
     Credit : https://www.darpa.mil/attachments/(2O15)%20Global%20Nav%20-%20About%20Us%20-%20History%20-%20Resources%20-%2050th%20-%20Internet%20(Approved).pdf
@@ -453,13 +459,13 @@
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Photographe inconnu
     Credit : Dan Murphy's TECO, TENEX, and TOPS-20 Papers (http://tenex.opost.com)
-    auteur retenu : domaine public
+    auteur retenu : Photographe inconnu
     Restrictions :  ; AttributionRequired : false
     description API : Timesharing and Development KA-10s at BBN, circa 1970. According to Ray Tomlinson: "The first email was sent between the two machines shown in this photograph. They were (obviously) side-by-side, but the only connection between them was through the ARPANET. In the foreground is BBN-TENEXA (BBNA for 
     catégories licence : PD-US missing SDC copyright status; PDP-10; PD US no notice
 
 [47] Ethernet RJ45 connector p1160054.jpg
-    original 1540x1193 image/jpeg ; sortie 1200x930 129 ko
+    original 1540x1193 image/jpeg ; sortie 968x750 79 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : David.Monniaux (étant donné la revendication de droit d’auteur).
     Credit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
@@ -469,7 +475,7 @@
     catégories licence : CC-BY-SA-2.0-FR; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
 
 [48] First Web Server.jpg
-    original 2048x1536 image/jpeg ; sortie 1200x900 178 ko
+    original 2048x1536 image/jpeg ; sortie 1000x750 126 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : User:Coolcaesar at en.wikipedia
     Credit : Travail personnel
@@ -489,7 +495,7 @@
     catégories licence : CC-Zero
 
 [50] Internet of things signed by the author.jpg
-    original 2048x1536 image/jpeg ; sortie 1200x900 96 ko
+    original 2048x1536 image/jpeg ; sortie 1000x750 73 ko
     licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
     Artist : Wilgengebroed on Flickr
     Credit : https://www.flickr.com/photos/wilgengebroed/8249565455/
@@ -519,7 +525,7 @@
     catégories licence : PD-text missing SDC copyright status; PD text
 
 [53] MS-DOS 6.22.jpg
-    original 1441x797 image/jpeg ; sortie 1200x664 46 ko
+    original 1441x797 image/jpeg ; sortie 1000x553 36 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Gvtyhbiju
     Credit : Travail personnel
@@ -529,7 +535,7 @@
     catégories licence : CC-Zero; Self-published work
 
 [54] Free Software Foundation office (2346065159).jpg
-    original 2816x2112 image/jpeg ; sortie 1200x900 144 ko
+    original 2816x2112 image/jpeg ; sortie 1000x750 95 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Mike Linksvayer from Oakland, California
     Credit : dsc03106.jpg
@@ -539,7 +545,7 @@
     catégories licence : CC-Zero
 
 [55] Tux, the Linux penguin I.jpg
-    original 1920x1277 image/jpeg ; sortie 1200x798 105 ko
+    original 1920x1277 image/jpeg ; sortie 1000x665 75 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Renato.pierri
     Credit : Travail personnel
@@ -549,7 +555,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [56] Microsoft Windows 1.0 screenshot.png
-    original 2384x1644 image/png ; sortie 1200x828 284 ko
+    original 2384x1644 image/png ; sortie 1000x690 208 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Rezonansowy, Microsoft
     Credit : Ce fichier est dérivé de : Microsoft Windows 1.0 page2.jpg Microsoft Windows 1.0 page3.jpg Cette image matricielle PNG a été créée avec GIMP.
@@ -569,7 +575,7 @@
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
 
 [58] IBM Deep Blue at Computer History Museum (9361685537).jpg
-    original 1067x1600 image/jpeg ; sortie 800x1200 122 ko
+    original 1067x1600 image/jpeg ; sortie 500x750 59 ko
     licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
     Artist : Anton Chiang from Cupertino, CA, USA
     Credit : Computer History Museum
@@ -579,7 +585,7 @@
     catégories licence : CC-BY-2.0
 
 [59] Lee Sedol (B) vs AlphaGo (W) - Game 1.svg
-    original 341x357 image/svg+xml ; sortie 1145x1200 309 ko
+    original 341x357 image/svg+xml ; sortie 716x750 167 ko
     licence API : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK ; retenue : CC BY-SA 4.0 https://creativecommons.org/licenses/by-sa/4.0
     Artist : Wesalius
     Credit : Travail personnel
@@ -589,7 +595,7 @@
     catégories licence : CC-BY-SA-4.0; Self-published work
 
 [60] ChatGPT-Logo.svg
-    original 512x512 image/svg+xml ; sortie 1200x1200 137 ko
+    original 512x512 image/svg+xml ; sortie 750x750 75 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : OpenAI
     Credit : Travail personnel basé sur : ChatGPT-Logo.png
@@ -609,7 +615,7 @@
     catégories licence : CC-Zero
 
 [62] Countries initially affected in WannaCry ransomware attack.png
-    original 1425x625 image/png ; sortie 1200x526 173 ko
+    original 1425x625 image/png ; sortie 1000x438 136 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0
     Artist : User:Roke
     Credit : BlankMap-World-v2.png
@@ -619,17 +625,17 @@
     catégories licence : CC-BY-SA-3.0
 
 [63] OJ L 119 of 2016 - FR French.pdf
-    original 1239x1752 application/pdf ; sortie 960x910 344 ko
+    original 1239x1752 application/pdf ; sortie 791x750 115 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Office des publications de l'Union européenne
     Credit : EUR-Lex ([1], [2])
-    auteur retenu : Office des publications de l'Union européenne
+    auteur retenu : Office des publications de l’Union européenne
     Restrictions :  ; AttributionRequired : false
     description API : Official Journal of the European Union - L 119 of 4 May 2016 - French edition
     catégories licence : Attribution only license; European Union license; French-language PDF files; PD-EUGov; PD-EdictGov
 
 [64] Google’s First Production Server.jpg
-    original 2543x4209 image/jpeg ; sortie 725x1200 267 ko
+    original 2543x4209 image/jpeg ; sortie 453x750 121 ko
     licence API : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK ; retenue : CC BY 2.0 https://creativecommons.org/licenses/by/2.0
     Artist : Steve Jurvetson
     Credit : https://www.flickr.com/photos/jurvetson/157722937/
@@ -639,7 +645,7 @@
     catégories licence : CC-BY-2.0
 
 [65] Wikipedia Screenshot 2001-12-17.png
-    original 1115x1207 image/png ; sortie 1109x1200 225 ko
+    original 1115x1207 image/png ; sortie 693x750 135 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : Agon S. Buchholz (asb)
     Credit : Screenshot angefertigt von Agon S. Buchholz (asb)
@@ -659,7 +665,7 @@
     catégories licence : CC-BY-2.0
 
 [67] Logo YouTube (2005-2017).svg
-    original 546x277 image/svg+xml ; sortie 1200x611 84 ko
+    original 546x277 image/svg+xml ; sortie 1000x509 69 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : HernandoJoseAJ
     Credit : Travail personnel
@@ -669,7 +675,7 @@
     catégories licence : PD textlogo
 
 [68] Lamarr patent.png
-    original 560x587 image/png ; sortie 560x587 297 ko
+    original 560x587 image/png ; sortie 560x587 126 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : U.S. Patent Office
     Credit : The Register
@@ -679,7 +685,7 @@
     catégories licence : CC-PD-Mark; PD US Government
 
 [69] Bletchley Park Naval Enigma IMG 3604.JPG
-    original 1704x2272 image/jpeg ; sortie 900x1200 226 ko
+    original 1704x2272 image/jpeg ; sortie 562x750 89 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : Magnus Manske
     Credit : Created by Magnus Manske.
@@ -689,7 +695,7 @@
     catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
 
 [70] ENIAC Penn1.jpg
-    original 2592x1952 image/jpeg ; sortie 1200x904 297 ko
+    original 2592x1952 image/jpeg ; sortie 996x750 202 ko
     licence API : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK ; retenue : CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/
     Artist : Original téléversé par TexasDex sur Wikipédia anglais.
     Credit : Transféré de en.wikipedia à Commons par Andrei Stroe utilisant CommonsHelper.
@@ -699,7 +705,7 @@
     catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
 
 [71] Capsule, Mercury, MA-6.jpg
-    original 5784x7543 image/jpeg ; sortie 920x1200 212 ko
+    original 5784x7543 image/jpeg ; sortie 575x750 86 ko
     licence API : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK ; retenue : CC0 https://creativecommons.org/publicdomain/zero/1.0/deed.en
     Artist : Smithsonian Institution
     Credit : This file is part of the Smithsonian Institution's Open Access collection. Their website states: "We have released these images and data into the Public Domain as Creative Commons Zero (CC0), meaning you can use, transform, and share our open access assets without asking permission from the Smithsonian."
@@ -709,7 +715,7 @@
     catégories licence : CC-Zero; Images from the Smithsonian Institution
 
 [74] Spanning tree protocol at work 6.svg
-    original 591x591 image/svg+xml ; sortie 1200x1200 168 ko
+    original 591x591 image/svg+xml ; sortie 750x750 91 ko
     licence API : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK ; retenue : CC BY 3.0 https://creativecommons.org/licenses/by/3.0
     Artist : GhosT
     Credit : self-made, based on en:User:Ngriffeth's en:Image:STP5.jpg
@@ -718,4 +724,4 @@
     description API : Spanning tree protocol at work. Figure 6.
     catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
 
-TOTAL : 72 images, 11120 ko
+TOTAL : 75 images, 7232 ko

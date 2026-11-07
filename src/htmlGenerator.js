@@ -1,6 +1,6 @@
 // src/htmlGenerator.js : HTML d'une carte A5 et du document complet
 
-const { escapeHtml, formatYear, sourceLabel } = require('./format');
+const { escapeHtml, formatYear, sourceLabel, unifyApostrophes } = require('./format');
 
 const parseDate = (dateStr) => parseInt(dateStr, 10);
 const safeName = (text) => String(text || '').replace(/\s+/g, '-');
@@ -52,16 +52,19 @@ function imageHtml(currentEvent, images) {
     const file = images.files.get(currentEvent.num);
     if (!file) return '';
     const credit = images.credits.get(currentEvent.num);
-    const alt = credit?.description || currentEvent.Titre;
+    const alt = unifyApostrophes(credit?.description || currentEvent.Titre);
     let creditHtml = '';
     if (credit && (credit.auteur || credit.licence)) {
-        const author = credit.page_commons
-            ? `<a href="${escapeHtml(credit.page_commons)}">${escapeHtml(credit.auteur || 'Wikimedia Commons')}</a>`
-            : escapeHtml(credit.auteur || '');
-        const licence = credit.url_licence
-            ? `<a href="${escapeHtml(credit.url_licence)}">${escapeHtml(credit.licence || 'licence')}</a>`
-            : escapeHtml(credit.licence || '');
-        creditHtml = `<p class="image-credit">Image : ${[author, licence].filter(Boolean).join(', ')}</p>`;
+        // « Image : auteur, licence, Wikimedia Commons » (liens vers la licence et vers la page Commons)
+        const parts = [];
+        if (credit.auteur) parts.push(escapeHtml(unifyApostrophes(credit.auteur)));
+        if (credit.licence) {
+            parts.push(credit.url_licence
+                ? `<a href="${escapeHtml(credit.url_licence)}">${escapeHtml(credit.licence)}</a>`
+                : escapeHtml(credit.licence));
+        }
+        if (credit.page_commons) parts.push(`<a href="${escapeHtml(credit.page_commons)}">Wikimedia Commons</a>`);
+        creditHtml = `<p class="image-credit">Image : ${parts.join(', ')}</p>`;
     }
     // Chemin relatif à la racine du dépôt (voir la balise <base> du document).
     const src = file.relative.split('/').map(encodeURIComponent).join('/');

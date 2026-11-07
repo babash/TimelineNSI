@@ -18,7 +18,8 @@ index.html            la page du site
 manifest.json, robots.txt, sitemap.xml
 assets/               polices, icônes et favicon, hébergés sur le site
 data/                 les données (fichiers CSV) : c’est là qu’on modifie le contenu
-images/               les images des cartes, nommées <numéro de carte>.jpg (à venir)
+images/               les images des cartes, nommées <numéro de carte>.jpg ou .png
+outils/images/        les outils qui ont cherché ces images sur Wikimedia Commons
 generate-cards.js     le générateur des cartes PDF
 src/                  le code du générateur
 styles/               la mise en forme des cartes
@@ -35,7 +36,7 @@ Tout le contenu est dans `data/`. Les colonnes sont décrites dans [`data/README
 - `histoire_informatique_evenements.csv` : un événement par ligne.
 - `periodes.csv` : les périodes et sous-périodes, avec leurs dates.
 - `categories.csv` : les catégories et leurs abréviations.
-- `images.csv` (à venir) : le crédit de chaque image (auteur, licence, page Wikimedia Commons).
+- `images.csv` : le crédit de chaque image (auteur, licence, page Wikimedia Commons, texte alternatif).
 
 Règles à respecter :
 - **Le numéro d’une carte est le rang de sa ligne** dans `histoire_informatique_evenements.csv` (la première ligne après l’en-tête est la carte 1). L’ordre des lignes ne compte pas pour la frise, qui trie par date. Pour ne pas changer l’adresse des cartes déjà distribuées (`output/cards/<n>.pdf`), **ajoutez les nouveaux événements à la fin** et ne déplacez pas les lignes.
@@ -47,7 +48,7 @@ Règles à respecter :
 
 Une nouvelle catégorie demande aussi une couleur et une icône : `src/config.js` (icône, bandeau), `styles/_variables.css` et les trois feuilles `_card.css`, `_timeline.css`, `_content.css`, et `categoryColors` dans `index.html` (contraste d’au moins 4,5:1).
 
-Pour ajouter une image : déposez `images/<n>.jpg` (ou `.png`) et ajoutez sa ligne dans `data/images.csv`. Sans fichier, la carte n’a pas d’image ; sans ligne, pas de crédit.
+Pour ajouter une image : déposez `images/<n>.jpg` (ou `.png`) et ajoutez sa ligne dans `data/images.csv`. Sans fichier, la carte n’a pas d’image ; sans ligne, pas de crédit. L’image est toujours affichée entière, et son crédit apparaît sous la forme « Image : auteur, licence, Wikimedia Commons ». La génération et la publication s’arrêtent si une image citée dans `data/images.csv` est introuvable.
 
 ## Générer les cartes
 
@@ -77,7 +78,7 @@ Puis ouvrez http://localhost:8000/.
 
 Le site est publié par GitHub Actions (réglage du dépôt : *Settings › Pages › Source : GitHub Actions*). Un seul workflow, `.github/workflows/publier.yml` :
 
-1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés), puis contrôle : une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
+1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés), puis contrôle : chaque image citée dans `data/images.csv` existe, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
 2. **Sur `main` seulement** : publication sur GitHub Pages, puis **vérification du site en ligne**. Le script attend que la page en ligne corresponde au commit publié, l’ouvre dans Chrome (aucune erreur JavaScript, un événement par ligne du CSV, aucun débordement à 320 px), puis vérifie que chaque bouton « Télécharger » renvoie la carte de son événement.
 
 Pour lire les résultats :
@@ -92,7 +93,7 @@ gh api repos/babash/TimelineNSI/actions/jobs/<id>/logs
 
 - **Contenu** (textes, cartes, frise) : « Timeline – Histoire de l’informatique » par **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 - **Code** : licence MIT (fichier [`LICENSE`](LICENSE)).
-- **Images** : chacune a sa propre licence, indiquée sur la carte et dans `data/images.csv`. **Les crédits des images sont en cours** : les images des cartes sont en train d’être remplacées par des images libres de Wikimedia Commons, créditées.
+- **Images** : des images libres de Wikimedia Commons. Chacune a sa propre licence (domaine public, CC0, CC BY ou CC BY-SA), indiquée sur la carte, sur le site et dans `data/images.csv`. Trois cartes n’ont pas encore d’image.
 - **Polices** : Lato, Orbitron et Fira Code, sous licence SIL OFL 1.1 (fichiers `assets/fonts/OFL-*.txt`), installées par les paquets npm `@fontsource`.
 - **Icônes** : Font Awesome Free (icônes sous licence CC BY 4.0).
 - **Bandeaux des cartes** : photos de Pexels (licence Pexels).

@@ -29,9 +29,9 @@ Une ligne par sous-période : `Période`, `Abréviation Période`, `Début`, `Fi
 
 `Nom` et `Abréviation` (18 caractères au plus).
 
-## `images.csv` (à venir)
+## `images.csv`
 
-Une ligne par image : `carte` (numéro de la carte), `fichier` (nom du fichier dans `images/`), `page_commons` (page de l’image sur Wikimedia Commons), `auteur`, `licence`, `url_licence`, `description` (texte alternatif). Le crédit s’affiche sur la carte et sur le site : « Image : auteur, licence ».
+Une ligne par image : `carte` (numéro de la carte), `fichier` (chemin du fichier, par exemple `images/3.jpg`), `page_commons` (page de l’image sur Wikimedia Commons), `auteur`, `licence`, `url_licence` (vide pour le domaine public), `description` (texte alternatif). Le crédit s’affiche sur la carte et sur le site : « Image : auteur, licence, Wikimedia Commons ». Une carte sans ligne n’a pas d’image.
 
 ## `Note Type.csv`
 

@@ -53,6 +53,18 @@ walk(site).forEach(file => {
     });
 });
 
+// Images : chaque image citée dans data/images.csv existe dans le site publié
+const imageRows = parseCsv(fs.readFileSync(path.join(site, 'data/images.csv'), 'utf8'));
+imageRows.forEach(row => {
+    const num = parseInt(row.carte, 10);
+    if (!Number.isInteger(num) || num < 1 || num > n) fail(`images.csv : numéro de carte invalide (${row.carte})`);
+    const rel = row.fichier && (row.fichier.includes('/') ? row.fichier : `images/${row.fichier}`);
+    if (!rel) fail(`images.csv : fichier manquant pour la carte ${row.carte}`);
+    else if (!exists(rel)) fail(`images.csv : image introuvable ${rel} (carte ${row.carte})`);
+    else if (fs.statSync(path.join(site, rel)).size === 0) fail(`image vide : ${rel}`);
+});
+console.log(`${imageRows.length} images citées dans data/images.csv, toutes présentes : ${errors.length === 0 ? 'oui' : 'à vérifier'}.`);
+
 // Cartes individuelles
 const cardFiles = fs.readdirSync(path.join(site, 'output/cards')).filter(f => f.endsWith('.pdf'));
 if (cardFiles.length !== n) fail(`${cardFiles.length} cartes PDF pour ${n} événements`);

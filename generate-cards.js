@@ -70,6 +70,15 @@ async function main() {
         if (!(e.Catégorie in categories)) problems.push(`carte ${e.num} : catégorie inconnue (${e.Catégorie})`);
         if (!(e['Note Type'] in config.noteTypeIcons)) problems.push(`carte ${e.num} : type de note inconnu (${e['Note Type']})`);
     });
+    // Chaque image citée dans data/images.csv doit exister, et correspondre à une carte.
+    const fsSync = require('fs');
+    images.credits.forEach((row, num) => {
+        if (num < 1 || num > allEvents.length) problems.push(`images.csv : carte ${num} inexistante`);
+        if (row.fichier && !fsSync.existsSync(path.join(ROOT, row.fichier.includes('/') ? row.fichier : path.join('images', row.fichier)))) {
+            problems.push(`images.csv : image introuvable pour la carte ${num} (${row.fichier})`);
+        }
+        if (!images.files.has(num)) problems.push(`images.csv : pas de fichier images/${num}.* pour la carte ${num}`);
+    });
     if (problems.length) throw new Error(`Données incorrectes :\n  ${problems.join('\n  ')}`);
 
     const online = await networkAvailable();

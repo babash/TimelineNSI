@@ -1284,17 +1284,19 @@
             const credit = imageCredits.get(event.num);
             if (!credit) return '';
             const file = credit.fichier.includes('/') ? credit.fichier : `images/${credit.fichier}`;
-            const author = credit.page_commons
-                ? `<a href="${escapeHtml(credit.page_commons)}">${escapeHtml(credit.auteur || 'Wikimedia Commons')}</a>`
-                : escapeHtml(credit.auteur || '');
-            const licence = credit.url_licence
-                ? `<a href="${escapeHtml(credit.url_licence)}" rel="license">${escapeHtml(credit.licence || 'licence')}</a>`
-                : escapeHtml(credit.licence || '');
-            const caption = [author, licence].filter(Boolean).join(', ');
+            // « Image : auteur, licence, Wikimedia Commons »
+            const parts = [];
+            if (credit.auteur) parts.push(escapeHtml(unifyApostrophes(credit.auteur)));
+            if (credit.licence) {
+                parts.push(credit.url_licence
+                    ? `<a href="${escapeHtml(credit.url_licence)}" rel="license">${escapeHtml(credit.licence)}</a>`
+                    : escapeHtml(credit.licence));
+            }
+            if (credit.page_commons) parts.push(`<a href="${escapeHtml(credit.page_commons)}">Wikimedia Commons</a>`);
             return `
                 <figure class="event-image">
-                    <img src="${escapeHtml(file)}" alt="${escapeHtml(credit.description || '')}" loading="lazy" decoding="async">
-                    ${caption ? `<figcaption>Image : ${caption}</figcaption>` : ''}
+                    <img src="${escapeHtml(file)}" alt="${escapeHtml(unifyApostrophes(credit.description || ''))}" loading="lazy" decoding="async">
+                    ${parts.length ? `<figcaption>Image : ${parts.join(', ')}</figcaption>` : ''}
                 </figure>`;
         }
 

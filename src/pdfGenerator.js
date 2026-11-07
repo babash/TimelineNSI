@@ -49,6 +49,18 @@ async function openBrowser({ horsLigne }) {
                 card.querySelectorAll('.title, .sub-period-label, .source, .marker-date').forEach(el => {
                     if (el.scrollWidth > el.clientWidth + 1) problems.push(`débordement horizontal (${el.className})`);
                 });
+                // Contrôle : le nom de catégorie du bandeau latéral est lisible (contraste ≥ 4,5:1).
+                const sidebar = card.querySelector('.category-sidebar');
+                if (sidebar) {
+                    const rgb = v => (v.match(/\d+(\.\d+)?/g) || []).slice(0, 3).map(Number);
+                    const lum = ([r, g, b]) => [r, g, b]
+                        .map(x => { x /= 255; return x <= 0.03928 ? x / 12.92 : ((x + 0.055) / 1.055) ** 2.4; })
+                        .reduce((acc, x, i) => acc + x * [0.2126, 0.7152, 0.0722][i], 0);
+                    const style = getComputedStyle(sidebar);
+                    const [l1, l2] = [lum(rgb(style.color)), lum(rgb(style.backgroundColor))].sort((a, b) => b - a);
+                    const ratio = (l1 + 0.05) / (l2 + 0.05);
+                    if (ratio < 4.5) problems.push(`bandeau de catégorie peu lisible (${ratio.toFixed(2)}:1)`);
+                }
                 return problems.map(p => ({ num: card.dataset.num, problem: p }));
             }));
             await page.pdf({

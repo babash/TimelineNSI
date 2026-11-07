@@ -2,7 +2,7 @@
 :root {
     --color-algorithmique: #0077b6; --color-hardware: #d00000; --color-cryptographie: #6a00f4;
     --color-theorie-de-linformation: #fca311; --color-reseau: #2a9d8f; --color-logiciel-libre: #e76f51;
-    --color-internet: #1a73e8; --color-intelligence-artificielle: #8e44ad;
+    --color-internet: #176ee1; --color-intelligence-artificielle: #8e44ad;
     --color-cybersecurite: #c0392b;
     --color-langage-de-programmation: #28a745;
     --color-systemes-et-logiciels: #6d4c41;
@@ -11,6 +11,6 @@
     --color-note-fun-fact: #fffbe6; --color-note-la-star: #f9f0ff;
     --color-note-concept-cle: #e6fffa;
     --font-body: 'Lato', sans-serif;
-    --color-text: #212529; --color-text-light: #6c757d; --color-bg-card: #ffffff;
+    --color-text: #212529; --color-text-on-light: #1a1a1a; --color-text-light: #6c757d; --color-bg-card: #ffffff;
     --color-bg-page: #f8f9fa; --color-border: #dee2e6;
 }

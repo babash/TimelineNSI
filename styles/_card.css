@@ -9,7 +9,7 @@
 .card:last-child { break-after: auto; }
 .category-sidebar {
     flex: 0 0 12mm;
-    writing-mode: vertical-rl; text-orientation: mixed;
+    writing-mode: vertical-rl; text-orientation: sideways; /* sideways : ponctuation comme en horizontal (apostrophe) */
     display: flex; align-items: center; justify-content: center;
     color: white; 
     letter-spacing: 1px; /* Espacement réduit pour les noms longs */
@@ -38,6 +38,12 @@
 .category-sidebar[data-category="Cybersécurité"] { background-color: var(--color-cybersecurite); }
 .category-sidebar[data-category="Langage-de-programmation"] { background-color: var(--color-langage-de-programmation); }
 .category-sidebar[data-category="Systèmes-et-logiciels"] { background-color: var(--color-systemes-et-logiciels); }
+/* Contraste du nom de catégorie d'au moins 4,5:1 : texte blanc sur les fonds foncés,
+   texte foncé sur les quatre fonds clairs (rapports dans le README). */
+.category-sidebar[data-category="Théorie-de-l’information"],
+.category-sidebar[data-category="Réseau"],
+.category-sidebar[data-category="Logiciel-libre"],
+.category-sidebar[data-category="Langage-de-programmation"] { color: var(--color-text-on-light); }
 
 .card-header { padding: 8mm 10mm; flex-shrink: 0; text-align: center; }
 .title { font-size: 24pt; font-weight: 900; margin: 0; }

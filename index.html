@@ -544,6 +544,9 @@
             font-size: 0.75rem;
             font-weight: 500;
             font-family: 'Fira Code', monospace;
+            /* Sans ligatures : sinon Fira Code transforme le « .- » de « J.-C. » */
+            font-variant-ligatures: none;
+            font-feature-settings: "liga" 0, "calt" 0;
             box-shadow: 0 2px 4px rgba(48, 105, 152, 0.2);
         }
 

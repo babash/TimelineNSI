@@ -4,7 +4,8 @@
 //   node outils/schemas/exporter.js 72 75      seulement ceux-là
 //
 // Chaque outils/schemas/<n>.svg devient images/<n>.png, à la taille du viewBox du SVG
-// (1200 px de large). Le rendu est fait par Chrome (Puppeteer, déjà installé par npm ci),
+// (1200 px de large). Le script signale un texte de moins de 26 px : imprimé dans la zone
+// d'image d'une carte (environ 12 cm de large), il ferait moins de 7 pt. Le rendu est fait par Chrome (Puppeteer, déjà installé par npm ci),
 // avec les polices hébergées dans assets/fonts/ : le script s'arrête si l'une manque.
 // Hors ligne : seules les ressources locales sont chargées.
 
@@ -14,6 +15,7 @@ const { pathToFileURL } = require('url');
 const puppeteer = require('puppeteer');
 
 const ICI = __dirname;
+const TEXTE_MIN = 26; // px, pour un SVG de 1200 px de large
 const IMAGES = path.join(ICI, '..', '..', 'images');
 
 async function main() {
@@ -43,10 +45,15 @@ async function main() {
                 return faces.length ? faces.filter(f => f.status !== 'loaded').map(f => `${f.family} ${f.weight}`) : ['aucune police déclarée'];
             });
             if (manquantes.length) throw new Error(`${nom} : polices non chargées (${manquantes.join(', ')})`);
+            // Plus petit texte du schéma : 26 px au moins (environ 7 pt imprimés dans la zone d'image d'une carte).
+            const plusPetit = await page.evaluate(() => Math.min(...[...document.querySelectorAll('text, tspan')]
+                .filter(el => [...el.childNodes].some(c => c.nodeType === 3 && c.textContent.trim()))
+                .map(el => parseFloat(getComputedStyle(el).fontSize))));
             const sortie = path.join(IMAGES, nom.replace('.svg', '.png'));
             await page.screenshot({ path: sortie, clip: { x: 0, y: 0, width: largeur, height: hauteur } });
             await page.close();
-            console.log(`${nom} -> images/${path.basename(sortie)} (${largeur} x ${hauteur} px, ${Math.round(fs.statSync(sortie).size / 1024)} ko)`);
+            console.log(`${nom} -> images/${path.basename(sortie)} (${largeur} x ${hauteur} px, ${Math.round(fs.statSync(sortie).size / 1024)} ko, plus petit texte ${plusPetit} px)`);
+            if (plusPetit < TEXTE_MIN) console.warn(`   attention : texte de ${plusPetit} px, moins de ${TEXTE_MIN} px (7 pt sur la carte)`);
         }
     } finally {
         await browser.close();

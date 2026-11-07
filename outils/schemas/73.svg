@@ -9,9 +9,9 @@
     @font-face { font-family: 'Fira Code'; font-weight: 400; src: url('../../assets/fonts/fira-code-latin-400-normal.woff2') format('woff2'); }
     @font-face { font-family: 'Fira Code'; font-weight: 500; src: url('../../assets/fonts/fira-code-latin-500-normal.woff2') format('woff2'); }
     text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
-    .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 25px; }
+    .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 26px; }
     .titre { font-size: 35px; font-weight: 700; fill: #17602a; }
-    .etiquette { font-size: 25px; font-weight: 700; }
+    .etiquette { font-size: 26px; font-weight: 700; }
     .commentaire { fill: #555; }
     .bouton { fill: #fff; stroke: #17602a; stroke-width: 3; }
     .bouton-texte { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 26px; font-weight: 500; }

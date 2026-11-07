@@ -12,7 +12,7 @@
     .mot { font-size: 31px; }
     .fort { font-weight: 700; }
     .note { font-size: 26px; fill: #1a1a1a; }
-    .pied { font-size: 24px; fill: #303030; }
+    .pied { font-size: 26px; fill: #303030; }
   </style>
   <rect width="1200" height="400" fill="#fff"/>
   <text class="titre" x="600" y="36" text-anchor="middle">L’attention : pour comprendre « il », quels mots regarder ?</text>
@@ -46,5 +46,5 @@
   <path d="M907 280 C907 351 1102 351 1102 280" fill="none" stroke="#9a9a9a" stroke-width="3" stroke-linecap="round"/>
   <path d="M907 280 C907 349 720 349 720 280" fill="none" stroke="#5b2c6f" stroke-width="13" stroke-linecap="round"/>
   <text class="note" x="20" y="262">« il » = <tspan class="fort">le lait</tspan></text>
-  <text class="pied" x="600" y="388" text-anchor="middle">Plus l’arc est épais, plus le mot compte. Exemple simplifié : le modèle calcule ces poids pour chaque mot.</text>
+  <text class="pied" x="600" y="388" text-anchor="middle">Plus l’arc est épais, plus le mot compte (exemple simplifié).</text>
 </svg>

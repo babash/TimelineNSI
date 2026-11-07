@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" lang="fr">
   <title>La pondération IDF sur trois documents</title>
-  <desc>Trois documents : « le robot trie », « le robot code », « le chat dort ». Le mot « le » est dans les 3 documents : poids 0. « robot » est dans 2 documents : poids 0,58. « chat » est dans 1 seul document : poids 1,58. Formule : idf = log2(N / n), N nombre de documents, n nombre de documents qui contiennent le mot. Un mot rare dit plus qu’un mot fréquent.</desc>
+  <desc>Trois documents : « le robot trie », « le robot code », « le chat dort ». Le mot « le » est dans les 3 documents : poids 0. « robot » est dans 2 documents : poids 0,58. « chat » est dans 1 seul document : poids 1,58. Formule : idf = log2(N / n), avec N le nombre total de documents et n le nombre de documents qui contiennent le mot (logarithme de base 2, comme en 1972). Un mot rare dit plus qu’un mot fréquent.</desc>
   <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 72 (Karen Spärck Jones, 1972).
        Export PNG : node outils/schemas/exporter.js 72 -->
   <style>
@@ -11,13 +11,13 @@
     text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
     .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; }
     .titre { font-size: 38px; font-weight: 700; fill: #00507a; }
-    .doc-nom { font-size: 22px; fill: #555; }
+    .doc-nom { font-size: 26px; fill: #4a4a4a; }
     .mot { font-size: 31px; }
-    .entete { font-size: 24px; fill: #555; }
+    .entete { font-size: 26px; fill: #4a4a4a; }
     .ligne { font-size: 29px; }
     .gras { font-weight: 700; }
     .valeur { font-size: 29px; font-weight: 700; }
-    .petit { font-size: 24px; fill: #333; }
+    .petit { font-size: 26px; fill: #333; }
     .doc { fill: #fff; stroke: #1a1a1a; stroke-width: 3; stroke-linejoin: round; }
     .coin { fill: #d9d9d9; stroke: #1a1a1a; stroke-width: 3; stroke-linejoin: round; }
     .barre { fill: #00507a; }
@@ -29,20 +29,19 @@
   <!-- Les trois documents -->
   <g>
     <path class="doc" d="M30 72 H140 L172 104 V262 H30 Z"/><path class="coin" d="M140 72 V104 H172 Z"/>
-    <text class="doc-nom" x="46" y="102">doc 1</text>
+    <text class="doc-nom" x="46" y="103">doc 1</text>
     <text class="mot" x="46" y="150">le</text><text class="mot" x="46" y="192">robot</text><text class="mot" x="46" y="234">trie</text>
 
     <path class="doc" d="M200 72 H310 L342 104 V262 H200 Z"/><path class="coin" d="M310 72 V104 H342 Z"/>
-    <text class="doc-nom" x="216" y="102">doc 2</text>
+    <text class="doc-nom" x="216" y="103">doc 2</text>
     <text class="mot" x="216" y="150">le</text><text class="mot" x="216" y="192">robot</text><text class="mot" x="216" y="234">code</text>
 
     <path class="doc" d="M370 72 H480 L512 104 V262 H370 Z"/><path class="coin" d="M480 72 V104 H512 Z"/>
-    <text class="doc-nom" x="386" y="102">doc 3</text>
+    <text class="doc-nom" x="386" y="103">doc 3</text>
     <text class="mot" x="386" y="150">le</text><text class="mot" x="386" y="192">chat</text><text class="mot" x="386" y="234">dort</text>
   </g>
-  <text class="ligne" x="271" y="306" text-anchor="middle"><tspan class="gras">N = 3</tspan> documents</text>
-  <text class="petit" x="30" y="350">le : log<tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(3 / 3) = log</tspan><tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(1) = 0</tspan></text>
-  <text class="petit" x="30" y="384">chat : log<tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(3 / 1) = 1,58…</tspan></text>
+  <text class="code" x="271" y="318" text-anchor="middle" font-size="36" font-weight="500">idf = log<tspan font-size="26" dy="9">2</tspan><tspan dy="-9">(N / n)</tspan></text>
+  <text class="ligne" x="271" y="370" text-anchor="middle">avec <tspan class="gras">N = 3</tspan> documents</text>
 
   <!-- Le tableau des poids -->
   <text class="entete" x="572" y="96">mot</text>
@@ -66,8 +65,8 @@
   <rect class="barre" x="990" y="220" width="198" height="30"/>
   <line x1="568" y1="266" x2="1188" y2="266" stroke="#1a1a1a" stroke-width="2"/>
 
-  <!-- La formule -->
-  <text class="code" x="572" y="312" font-size="32" font-weight="500">idf = log<tspan font-size="21" dy="8">2</tspan><tspan dy="-8">(N / n)</tspan></text>
-  <text class="petit" x="572" y="350"><tspan class="gras">n</tspan> : nombre de documents qui contiennent le mot</text>
-  <text class="petit" x="572" y="384"><tspan class="gras">log<tspan font-size="16" dy="6">2</tspan></tspan><tspan dy="-6"> : logarithme de base 2, comme en 1972</tspan></text>
+  <!-- La légende -->
+  <text class="petit" x="572" y="306"><tspan class="gras">n</tspan> : nombre de documents qui contiennent le mot</text>
+  <text class="petit" x="572" y="342"><tspan class="gras">N</tspan> : nombre total de documents</text>
+  <text class="petit" x="572" y="378">logarithme de base 2, comme en 1972</text>
 </svg>

@@ -15,10 +15,10 @@
     @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
     text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
     .titre { font-size: 35px; font-weight: 700; fill: #5b2c6f; }
-    .sous-titre { font-size: 25px; fill: #404040; }
+    .sous-titre { font-size: 26px; fill: #404040; }
     .groupe { font-size: 28px; }
     .valeur { font-size: 28px; }
-    .source { font-size: 22px; fill: #404040; }
+    .source { font-size: 26px; fill: #404040; }
   </style>
   <rect width="1200" height="340" fill="#fff"/>
   <text class="titre" x="20" y="40">Erreurs des logiciels qui devinent le genre d’un visage</text>
@@ -36,5 +36,5 @@
   <path d="M350 253.0 H360.2 Q365.2 253.0 365.2 258.0 V282.0 Q365.2 287.0 360.2 287.0 H350 Z" fill="#a3a3a3"/>
   <text class="valeur" x="377.2" y="280">0,8 %</text>
   <line x1="350" y1="96" x2="350" y2="294" stroke="#1a1a1a" stroke-width="2"/>
-  <text class="source" x="20" y="328">Source : J. Buolamwini et T. Gebru, « Gender Shades », PMLR 81, 2018 (tableau 4).</text>
+  <text class="source" x="20" y="328">Source : Buolamwini et Gebru, « Gender Shades », PMLR 81, 2018, tableau 4.</text>
 </svg>

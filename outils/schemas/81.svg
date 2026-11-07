@@ -17,24 +17,24 @@
     .trad { font-size: 28px; }
     .fort { font-weight: 700; }
     .cite .fort { font-weight: 500; text-decoration: underline; }
-    .entete { font-size: 22px; fill: #404040; }
-    .source { font-size: 22px; fill: #404040; }
+    .entete { font-size: 26px; fill: #404040; }
+    .source { font-size: 26px; fill: #404040; }
   </style>
   <rect width="1200" height="350" fill="#fff"/>
   <text class="titre" x="600" y="34" text-anchor="middle">1955 : un projet de recherche qui donne son nom à l’IA</text>
   <path d="M20 58 H590 L630 98 V306 H20 Z" fill="#fff" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
   <path d="M590 58 V98 H630 Z" fill="#d9d9d9" stroke="#1a1a1a" stroke-width="3" stroke-linejoin="round"/>
-  <text class="entete" x="54" y="84">Extrait de la proposition (en anglais)</text>
-  <text class="entete" x="676" y="84">En français</text>
-  <text class="cite" x="54" y="112">We propose that a 2 month,</text>
-  <text class="cite" x="54" y="152">10 man study of <tspan class="fort">artificial</tspan></text>
-  <text class="cite" x="54" y="192"><tspan class="fort">intelligence</tspan> be carried out</text>
-  <text class="cite" x="54" y="232">during the summer of 1956</text>
-  <text class="cite" x="54" y="272">at Dartmouth College […]</text>
-  <text class="trad" x="676" y="112">« Nous proposons qu’une étude</text>
-  <text class="trad" x="676" y="152">de l’<tspan class="fort">intelligence artificielle</tspan>,</text>
-  <text class="trad" x="676" y="192">de 2 mois et à 10 personnes,</text>
-  <text class="trad" x="676" y="232">soit menée pendant l’été 1956</text>
-  <text class="trad" x="676" y="272">au Dartmouth College […] »</text>
+  <text class="entete" x="54" y="86">Extrait de la proposition (en anglais)</text>
+  <text class="entete" x="676" y="86">En français</text>
+  <text class="cite" x="54" y="118">We propose that a 2 month,</text>
+  <text class="cite" x="54" y="157">10 man study of <tspan class="fort">artificial</tspan></text>
+  <text class="cite" x="54" y="196"><tspan class="fort">intelligence</tspan> be carried out</text>
+  <text class="cite" x="54" y="235">during the summer of 1956</text>
+  <text class="cite" x="54" y="274">at Dartmouth College […]</text>
+  <text class="trad" x="676" y="118">« Nous proposons qu’une étude</text>
+  <text class="trad" x="676" y="157">de l’<tspan class="fort">intelligence artificielle</tspan>,</text>
+  <text class="trad" x="676" y="196">de 2 mois et à 10 personnes,</text>
+  <text class="trad" x="676" y="235">soit menée pendant l’été 1956</text>
+  <text class="trad" x="676" y="274">au Dartmouth College […] »</text>
   <text class="source" x="600" y="340" text-anchor="middle">Proposition de J. McCarthy, M. Minsky, N. Rochester et C. Shannon, 31 août 1955.</text>
 </svg>

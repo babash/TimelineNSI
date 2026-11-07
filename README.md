@@ -9,6 +9,7 @@ Sur le site, on peut :
 - chercher un événement (la recherche ignore les accents et les majuscules) ;
 - filtrer par catégorie, période, sous-période et plage de dates ;
 - télécharger la carte PDF de chaque événement, ou le PDF complet (une carte par page).
+- agrandir l’image d’un événement : elle s’ouvre en taille réelle dans un nouvel onglet (utile sur téléphone pour lire un schéma).
 
 ## Ce que contient le dépôt
 
@@ -54,7 +55,7 @@ Une nouvelle catégorie demande aussi une couleur et une icône : `src/config.js
 Pour ajouter une image : déposez `images/<n>.jpg` (ou `.png`) et ajoutez sa ligne dans `data/images.csv`. Sans fichier, la carte n’a pas d’image ; sans ligne, pas de crédit. L’image est toujours affichée entière, sur un fond pâle de la couleur de la catégorie, et son crédit apparaît sous la forme « Image : auteur, licence, Wikimedia Commons ». La génération et la publication s’arrêtent si une image citée dans `data/images.csv` est introuvable.
 
 - **Taille des images** : la zone d’image d’une carte mesure au plus 119 × 64 mm environ. Une image de 1000 × 750 px au plus suffit (au moins 213 ppp sur toute la largeur) : au-delà, le PDF s’alourdit sans gain visible à l’impression. L’outil `outils/images/telecharger.py` réduit les images de Commons à ce cadre.
-- **Schéma original** : la source SVG va dans `outils/schemas/<n>.svg`, avec les polices de `assets/fonts/`, et `node outils/schemas/exporter.js <n>` l’exporte en `images/<n>.png`. Dans `data/images.csv`, sa ligne a une colonne `page_commons` vide : le crédit devient « Schéma : auteur, licence ». Le texte du schéma doit rester lisible imprimé en noir et blanc, à la taille de la zone d’image (environ 12 × 3,5 cm sur les cartes au texte long).
+- **Schéma original** : la source SVG va dans `outils/schemas/<n>.svg`, avec les polices de `assets/fonts/`, et `node outils/schemas/exporter.js <n>` l’exporte en `images/<n>.png`. Dans `data/images.csv`, sa ligne a une colonne `page_commons` vide : le crédit devient « Schéma : auteur, licence ». Le schéma doit rester lisible imprimé en noir et blanc, à la taille de la zone d’image (environ 12 × 3,5 cm sur les cartes au texte long) : 1200 px de large, un format large (environ 3 pour 1) et aucun texte de moins de 26 px, soit 7 pt imprimés. L’export signale un texte plus petit.
 
 ## Générer les cartes
 

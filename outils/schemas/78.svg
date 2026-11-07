@@ -9,17 +9,17 @@
     @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
     text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
     .titre { font-size: 33px; font-weight: 700; fill: #00507a; }
-    .entete { font-size: 24px; fill: #404040; }
+    .entete { font-size: 26px; fill: #404040; }
     .nom { font-size: 28px; font-weight: 700; }
     .liste { font-size: 26px; }
     .sup { fill: #707070; }
     .obtenu { font-weight: 700; text-decoration: underline; }
-    .pied { font-size: 24px; fill: #303030; }
+    .pied { font-size: 26px; fill: #303030; }
   </style>
   <rect width="1200" height="320" fill="#fff"/>
   <text class="titre" x="600" y="36" text-anchor="middle">Des paires stables : personne n’a intérêt à changer</text>
   <text class="entete" x="20" y="76">Élèves et leurs vœux</text>
-  <text class="entete" x="770" y="76">Formations (1 place) et leurs classements</text>
+  <text class="entete" x="1190" y="76" text-anchor="end">Formations (1 place) et leurs classements</text>
   <rect x="20" y="89" width="120" height="46" rx="8" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
   <text class="nom" x="80" y="121" text-anchor="middle">Ana</text>
   <text class="liste" x="156" y="121">Info<tspan class="sup"> &gt; </tspan><tspan class="obtenu">Maths</tspan><tspan class="sup"> &gt; </tspan>Bio</text>
@@ -41,5 +41,5 @@
   <line x1="452" y1="112" x2="758" y2="174" stroke="#00507a" stroke-width="6" stroke-linecap="round"/>
   <line x1="452" y1="174" x2="758" y2="112" stroke="#00507a" stroke-width="6" stroke-linecap="round"/>
   <line x1="452" y1="236" x2="758" y2="236" stroke="#00507a" stroke-width="6" stroke-linecap="round"/>
-  <text class="pied" x="600" y="306" text-anchor="middle">Chaque élève demande ses vœux dans l’ordre ; chaque formation garde la meilleure demande reçue.</text>
+  <text class="pied" x="600" y="306" text-anchor="middle">Chaque élève demande ses vœux dans l’ordre ; chaque formation garde la meilleure demande.</text>
 </svg>

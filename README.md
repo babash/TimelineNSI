@@ -3,13 +3,13 @@
 Une frise interactive de l’histoire de l’informatique, de l’Antiquité à nos jours, pour les cours de NSI et de SNT. Chaque événement existe aussi en **carte A5 à imprimer**, pour construire une fresque en classe.
 
 - **Le site** : https://babash.github.io/TimelineNSI/
-- Il fait partie des **Ressources NSI et SNT** : https://babash.github.io/Babash-NSI-SNT/
+- **Les Ressources NSI et SNT**, dont il fait partie : https://babash.github.io/Babash-NSI-SNT/
 
 Sur le site, on peut :
 - chercher un événement (la recherche ignore les accents et les majuscules) ;
 - filtrer par catégorie, période, sous-période et plage de dates ;
-- télécharger la carte PDF de chaque événement, ou le PDF complet (une carte par page).
-- agrandir l’image d’un événement : elle s’ouvre en taille réelle dans un nouvel onglet (utile sur téléphone pour lire un schéma).
+- télécharger la carte PDF de chaque événement, ou le PDF complet (une carte par page) ;
+- agrandir l’image d’un événement (clic sur l’image, ou bouton « Agrandir » à côté du crédit) : elle s’ouvre en taille réelle dans un nouvel onglet (utile sur téléphone pour lire un schéma).
 
 ## Ce que contient le dépôt
 
@@ -20,7 +20,7 @@ manifest.json, robots.txt, sitemap.xml
 assets/               polices, icônes et favicon, hébergés sur le site
 data/                 les données (fichiers CSV) : c’est là qu’on modifie le contenu
 images/               les images des cartes, nommées <numéro de carte>.jpg ou .png
-outils/images/        les outils qui ont cherché ces images sur Wikimedia Commons
+outils/images/        les outils qui ont cherché ces images sur Wikimedia Commons (et leur rapport)
 outils/schemas/       les schémas originaux (sources SVG) et leur export en PNG
 generate-cards.js     le générateur des cartes PDF
 src/                  le code du générateur
@@ -70,7 +70,7 @@ Les cartes sont dans `output/cards/<n>.pdf` et le PDF complet dans `output/fresq
 
 - La génération n’utilise que des fichiers locaux (polices, icônes, images) : elle marche sans accès à Internet. Elle bloque toute autre requête et s’arrête si une carte en fait une.
 - Elle s’arrête aussi si un texte déborde ou si un texte coloré (bandeau latéral, crédit de l’image, mot-clé) a un contraste inférieur à 4,5:1.
-- Poids (novembre 2026, 86 cartes) : environ 10,5 Mo pour le PDF complet, de 60 à 370 ko par carte.
+- Poids (novembre 2026, 86 cartes) : environ 10,5 Mo pour le PDF complet, de 50 à 365 ko par carte.
 - Si Puppeteer ne peut pas télécharger Chrome, installez les dépendances avec `PUPPETEER_SKIP_DOWNLOAD=1 npm ci`, puis indiquez un Chrome déjà installé : `PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome npm run generate`.
 
 Pour voir le site complet en local :
@@ -87,10 +87,10 @@ Puis ouvrez http://localhost:8000/.
 
 Le site est publié par GitHub Actions (réglage du dépôt : *Settings › Pages › Source : GitHub Actions*), avec le workflow `.github/workflows/publier.yml` :
 
-1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés, avec `version.txt`, écrit à l’assemblage : le commit publié), puis contrôle : chaque image citée dans `data/images.csv` existe, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
+1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés, avec `version.txt`, écrit à l’assemblage : le commit publié ; la copie publiée de `data/images.csv` reçoit aussi la largeur et la hauteur de chaque image, lues dans les fichiers, pour que le site réserve leur place avant le chargement), puis contrôle : chaque image citée dans `data/images.csv` existe, avec sa taille, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
 2. **Sur `main` seulement** : publication sur GitHub Pages, puis **vérification du site en ligne**. Le script attend que la page en ligne corresponde au commit publié, l’ouvre dans Chrome (aucune erreur JavaScript, un événement par ligne du CSV, aucun débordement à 320 px), puis vérifie que chaque bouton « Télécharger » renvoie la carte de son événement.
 
-Le second workflow, `.github/workflows/images.yml`, ne publie rien : sur les branches d’atelier des images, quand `outils/images/` change, il interroge l’API de Wikimedia Commons (inaccessible depuis certains postes), télécharge les images retenues dans `outils/images/choix.csv` et enregistre le résultat dans la branche (`images/`, `data/images.csv`, `outils/images/resultats/`).
+Le second workflow, `.github/workflows/images.yml`, ne publie rien : sur les branches d’atelier des images, quand `outils/images/` change, il interroge l’API de Wikimedia Commons (inaccessible depuis certains postes), télécharge les images retenues dans `outils/images/choix.csv` et enregistre le résultat dans la branche (`images/`, `data/images.csv`, `outils/images/manifeste.json` et le rapport `outils/images/resultats/telechargement.txt`). Les aperçus de la recherche (planches de vignettes, parfois avec des personnes) ne vont pas dans le dépôt : ils sont dans l’artefact « apercus-recherche » du run (onglet Actions), effacé au bout de 7 jours.
 
 Pour lire les résultats :
 

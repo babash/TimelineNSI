@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" lang="fr">
   <title>L’échange de clés Diffie-Hellman avec de petits nombres</title>
-  <desc>Connus de tous : p = 23 et g = 5. Alice garde le secret 6 et envoie 5**6 % 23 = 8. Bob garde le secret 15 et envoie 5**15 % 23 = 19. Alice calcule 19**6 % 23 = 2, Bob calcule 8**15 % 23 = 2 : ils ont la même clé, 2. Qui écoute voit 8 et 19, mais pas 6 ni 15.</desc>
+  <desc>Nombres publics : p = 23 et g = 5. Alice garde le secret 6 et envoie 5**6 % 23 = 8. Bob garde le secret 15 et envoie 5**15 % 23 = 19. Alice calcule 19**6 % 23 = 2, Bob calcule 8**15 % 23 = 2 : Alice et Bob ont la même clé, 2. Qui écoute voit 8 et 19, mais pas 6 ni 15.</desc>
   <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 84 (Diffie et Hellman, 1976).
        Calcul vérifié : 5**6 % 23 = 8 ; 5**15 % 23 = 19 ; 19**6 % 23 = 2 ; 8**15 % 23 = 2.
        Format 1200 x 350 : la zone d’image de la carte est large (environ 3,4 pour 1) ; textes d’au moins 26 px (7 pt imprimés).
@@ -31,7 +31,7 @@
   <rect width="1200" height="350" fill="#fff"/>
 
   <text class="titre" x="20" y="36">Une clé commune, sans jamais l’envoyer</text>
-  <text class="public" x="1180" y="36" text-anchor="end">Connus de tous : <tspan class="code gras">p=23</tspan>, <tspan class="code gras">g=5</tspan></text>
+  <text class="public" x="1180" y="36" text-anchor="end">Nombres publics : <tspan class="code gras">p=23</tspan>, <tspan class="code gras">g=5</tspan></text>
 
   <!-- Alice -->
   <rect x="20" y="56" width="372" height="282" rx="12" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>

@@ -43,12 +43,25 @@ jobs:
       - name: Téléchargement des images retenues
         run: python3 outils/images/telecharger.py
 
+      # Les aperçus de la recherche (planches <n>.jpg, résumés <n>.txt) montrent des images de Commons,
+      # parfois des personnes : ils ne vont pas dans le dépôt public, seulement dans un artefact
+      # du workflow, effacé au bout de 7 jours (onglet Actions, page du run).
+      - name: Aperçus de la recherche (artefact, 7 jours)
+        uses: actions/upload-artifact@v4
+        with:
+          name: apercus-recherche
+          path: |
+            outils/images/resultats/
+            !outils/images/resultats/telechargement.txt
+          if-no-files-found: ignore
+          retention-days: 7
+
       - name: Commit des résultats
         run: |
           git config user.name Claude
           git config user.email noreply@anthropic.com
-          git add -A -- outils/images
-          for p in images data/images.csv; do
+          # Dans outils/images/, seuls le manifeste et le rapport de téléchargement sont enregistrés.
+          for p in outils/images/manifeste.json outils/images/resultats/telechargement.txt images data/images.csv; do
             if [ -e "$p" ]; then git add -A -- "$p"; fi
           done
           if git diff --cached --quiet; then

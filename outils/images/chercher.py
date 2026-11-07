@@ -4,7 +4,10 @@
 Pour chaque carte, écrit dans resultats/ :
   <n>.txt  le résumé des candidates (taille, licence, auteur, description) ;
   <n>.jpg  une planche d'aperçus numérotés (moins de 50 ko).
-Une carte déjà traitée avec les mêmes requêtes n'est pas refaite.
+Ces aperçus ne sont pas enregistrés dans le dépôt public (.gitignore) : le workflow images.yml
+les dépose dans un artefact « apercus-recherche », gardé 7 jours (onglet Actions, page du run).
+Une carte déjà traitée avec les mêmes requêtes n'est pas refaite tant que son <n>.txt est là
+(dans le workflow, qui part du dépôt, les recherches actives sont donc refaites à chaque passage).
 Mettre "_actif": true dans requetes.json pour relancer des recherches ;
 "_cartes": ["76", "77"] limite la recherche à ces cartes.
 """

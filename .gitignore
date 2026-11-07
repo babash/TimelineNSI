@@ -6,6 +6,12 @@ node_modules/
 output/
 _site/
 
+# Aperçus de la recherche d'images (outils/images/chercher.py) : planches de vignettes de Commons,
+# parfois avec des personnes, et leurs résumés. Ils ne vont pas dans le dépôt public :
+# le workflow images.yml les dépose dans un artefact. Seul le rapport de téléchargement est suivi.
+outils/images/resultats/*
+!outils/images/resultats/telechargement.txt
+
 # Journaux npm
 npm-debug.log*
 yarn-error.log

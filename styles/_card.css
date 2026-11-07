@@ -3,9 +3,10 @@
     width: 148mm; height: 210mm; background-color: var(--color-bg-card);
     box-sizing: border-box; padding: 0; margin: 0 auto; box-shadow: 0 4px 12px rgba(0,0,0,0.08);
     display: flex;
-    page-break-after: always;
+    overflow: hidden;
+    break-after: page;
 }
-/* MODIFIÉ : Styles ajustés pour les noms complets */
+.card:last-child { break-after: auto; }
 .category-sidebar {
     flex: 0 0 12mm;
     writing-mode: vertical-rl; text-orientation: mixed;
@@ -36,6 +37,7 @@
 .category-sidebar[data-category="Intelligence-Artificielle"] { background-color: var(--color-intelligence-artificielle); }
 .category-sidebar[data-category="Cybersécurité"] { background-color: var(--color-cybersecurite); }
 .category-sidebar[data-category="Langage-de-programmation"] { background-color: var(--color-langage-de-programmation); }
+.category-sidebar[data-category="Systèmes-et-logiciels"] { background-color: var(--color-systemes-et-logiciels); }
 
 .card-header { padding: 8mm 10mm; flex-shrink: 0; text-align: center; }
 .title { font-size: 24pt; font-weight: 900; margin: 0; }

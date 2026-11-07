@@ -24,7 +24,8 @@
 }
 .sub-period-block.active { background-color: #e9ecef; }
 .sub-period-label {
-    white-space: normal; word-break: break-word;
+    /* Coupure seulement entre les mots (ou après un trait d'union), jamais au milieu d'un mot */
+    white-space: normal; word-break: normal; overflow-wrap: normal; hyphens: manual;
     text-align: center; line-height: 1.1;
     font-size: 7pt; font-weight: 700;
     color: var(--color-text-light);
@@ -50,6 +51,7 @@
 .event-point[data-category="Intelligence-Artificielle"] { background-color: var(--color-intelligence-artificielle); }
 .event-point[data-category="Cybersécurité"] { background-color: var(--color-cybersecurite); }
 .event-point[data-category="Langage-de-programmation"] { background-color: var(--color-langage-de-programmation); }
+.event-point[data-category="Systèmes-et-logiciels"] { background-color: var(--color-systemes-et-logiciels); }
 
 .current-event-marker { position: absolute; bottom: -18px; height: 15px; z-index: 3; }
 .current-event-marker::before {

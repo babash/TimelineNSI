@@ -1,16 +1,26 @@
 /* styles/_content.css */
-.card-content { flex-grow: 1; display: flex; flex-direction: column; overflow: hidden; padding-bottom: 8mm; }
+.card-content { flex-grow: 1; display: flex; flex-direction: column; overflow: hidden; padding-bottom: 6mm; min-height: 0; }
+/* La zone d'image prend la place que le texte laisse libre (au moins 22 mm) :
+   le texte n'est jamais coupé, l'image s'adapte. */
 .card-image-container {
-    width: 100%; height: 42%;
-    text-align: center; flex-shrink: 0; position: relative;
+    width: 100%; flex: 1 1 0; min-height: 22mm;
+    text-align: center; position: relative;
     display: flex; align-items: center; justify-content: center;
 }
 .banner-bg { position: absolute; top: 0; left: 0; width: 100%; height: 100%; background-size: cover; background-position: center; opacity: 0.15; z-index: 1; }
-.main-image { position: absolute; z-index: 2; max-width: 90%; max-height: 90%; object-fit: contain; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)); }
+.main-image { position: absolute; z-index: 2; max-width: 90%; max-height: 84%; object-fit: contain; filter: drop-shadow(0 4px 8px rgba(0,0,0,0.3)); }
+/* Image qui ne se charge pas : masquée avec son crédit, le bandeau reste */
+.card-image-container.sans-image .main-image,
+.card-image-container.sans-image .image-credit { display: none; }
+.image-credit {
+    position: absolute; z-index: 3; bottom: 1mm; right: 2mm; left: 2mm; margin: 0;
+    text-align: right; font-size: 6pt; line-height: 1.2; color: var(--color-text-light);
+}
+.image-credit a, .source a { color: inherit; text-decoration: none; }
 
 .description-and-note {
-    flex-grow: 1; display: flex; flex-direction: column;
-    padding: 6mm 10mm 0 10mm;
+    flex: 0 0 auto; display: flex; flex-direction: column;
+    padding: 5mm 10mm 0 10mm;
 }
 .description-text {
     font-size: 11pt; line-height: 1.6;
@@ -22,7 +32,7 @@
 .long-description::before { content: " "; }
 
 .note-box {
-    margin-top: auto; padding: 8px 12px;
+    margin-top: 4mm; padding: 8px 12px;
     border-radius: 6px; flex-shrink: 0;
 }
 .note-header {
@@ -49,7 +59,10 @@
 .card[data-category="Intelligence-Artificielle"] .keyword { color: var(--color-intelligence-artificielle); }
 .card[data-category="Cybersécurité"] .keyword { color: var(--color-cybersecurite); }
 .card[data-category="Langage-de-programmation"] .keyword { color: var(--color-langage-de-programmation); }
+.card[data-category="Systèmes-et-logiciels"] .keyword { color: var(--color-systemes-et-logiciels); }
 
-.card-footer { padding: 4mm 10mm; border-top: 1px solid var(--color-border); flex-shrink: 0; display: flex; justify-content: space-between; align-items: center; }
-.cc-icon { font-size: 12pt; color: var(--color-text-light); }
-.source { font-size: 7pt; color: var(--color-text-light); font-style: italic; }
+.card-footer { padding: 4mm 10mm; border-top: 1px solid var(--color-border); flex-shrink: 0; display: flex; justify-content: space-between; align-items: center; gap: 4mm; }
+.licence { display: flex; align-items: center; gap: 2mm; flex-shrink: 0; }
+.cc-icon { font-size: 11pt; color: var(--color-text-light); display: inline-flex; gap: 1mm; }
+.licence-text { font-size: 7pt; color: var(--color-text-light); }
+.source { font-size: 7pt; color: var(--color-text-light); font-style: italic; text-align: right; min-width: 0; }

@@ -1,27 +1,77 @@
-// src/htmlGenerator.js (version 27 - Hiérarchie Finale)
+// src/htmlGenerator.js : HTML d'une carte A5 et du document complet
+
+const { escapeHtml, formatYear, sourceLabel } = require('./format');
 
 const parseDate = (dateStr) => parseInt(dateStr, 10);
+const safeName = (text) => String(text || '').replace(/\s+/g, '-');
 
-function getDomainFromUrl(url) {
-    if (!url) return '';
-    try {
-        const firstUrl = url.split(',')[0].trim();
-        const domain = new URL(firstUrl).hostname;
-        return domain.replace(/^www\./, '');
-    } catch (error) {
-        return url.split('/')[0];
-    }
-}
-
+/** Mots entre **…** : mots-clés colorés (après échappement du texte). */
 function convertKeywords(text) {
     if (!text) return '';
-    return text.replace(/\*\*(.*?)\*\*/g, '<span class="keyword">$1</span>');
+    return escapeHtml(text).replace(/\*\*(.*?)\*\*/g, '<span class="keyword">$1</span>');
+}
+
+/**
+ * Échelle de la frise d'une période. Chaque sous-période occupe au moins `minShare`
+ * de la largeur, pour que son étiquette reste lisible (la Première révolution mécanique
+ * ne fait que 6 % de la période des Prémices). À l'intérieur d'une sous-période, l'échelle
+ * reste proportionnelle aux années.
+ */
+function buildScale(period, minShare = 0.2) {
+    const sps = period.subPeriods;
+    const n = sps.length;
+    const min = Math.min(minShare, 1 / Math.max(n, 1));
+    const span = sps.map(sp => Math.max(sp.end - sp.start, 1));
+    const fixed = new Array(n).fill(false);
+    let shares = [];
+    for (let iteration = 0; iteration <= n; iteration++) {
+        const freeTotal = span.reduce((acc, s, i) => (fixed[i] ? acc : acc + s), 0);
+        const fixedTotal = fixed.filter(Boolean).length * min;
+        shares = span.map((s, i) => (fixed[i] ? min : (1 - fixedTotal) * s / freeTotal));
+        let changed = false;
+        shares.forEach((s, i) => { if (!fixed[i] && s < min) { fixed[i] = true; changed = true; } });
+        if (!changed) break;
+    }
+    let cursor = 0;
+    const segments = sps.map((sp, i) => {
+        const seg = { sp, from: cursor * 100, to: (cursor + shares[i]) * 100 };
+        cursor += shares[i];
+        return seg;
+    });
+    function position(year, subPeriodName) {
+        let seg = segments.find(s => s.sp.name === subPeriodName && year >= s.sp.start && year <= s.sp.end)
+            || segments.find(s => year >= s.sp.start && year <= s.sp.end);
+        if (!seg) return ((year - period.start) / (period.end - period.start)) * 100;
+        const ratio = (year - seg.sp.start) / Math.max(seg.sp.end - seg.sp.start, 1);
+        return seg.from + ratio * (seg.to - seg.from);
+    }
+    return { segments, position };
+}
+
+function imageHtml(currentEvent, images) {
+    const file = images.files.get(currentEvent.num);
+    if (!file) return '';
+    const credit = images.credits.get(currentEvent.num);
+    const alt = credit?.description || currentEvent.Titre;
+    let creditHtml = '';
+    if (credit && (credit.auteur || credit.licence)) {
+        const author = credit.page_commons
+            ? `<a href="${escapeHtml(credit.page_commons)}">${escapeHtml(credit.auteur || 'Wikimedia Commons')}</a>`
+            : escapeHtml(credit.auteur || '');
+        const licence = credit.url_licence
+            ? `<a href="${escapeHtml(credit.url_licence)}">${escapeHtml(credit.licence || 'licence')}</a>`
+            : escapeHtml(credit.licence || '');
+        creditHtml = `<p class="image-credit">Image : ${[author, licence].filter(Boolean).join(', ')}</p>`;
+    }
+    // Chemin relatif à la racine du dépôt (voir la balise <base> du document).
+    const src = file.relative.split('/').map(encodeURIComponent).join('/');
+    return `<img src="${src}" class="main-image" alt="${escapeHtml(alt)}" onerror="this.closest('.card-image-container').classList.add('sans-image')">${creditHtml}`;
 }
 
 function createCardHtml(currentEvent, allEvents, periodsList, config) {
-    const { categories } = config;
+    const images = config.images || { files: new Map(), credits: new Map() };
     const categoryName = currentEvent.Catégorie || 'Non définie';
-    const safeCategory = categoryName.replace(/\s+/g, '-');
+    const safeCategory = safeName(categoryName);
     const mainPeriodName = currentEvent.Période;
     const currentSubPeriodName = currentEvent['Sous-période'];
 
@@ -29,95 +79,76 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
     const periodInfo = periodsList[periodIndex];
 
     let subPeriodsHtml = '', eventsHtml = '', currentEventMarkerHtml = '';
-    
+
     if (periodInfo) {
-        const periodStart = periodInfo.start;
-        const periodEnd = periodInfo.end;
-        const periodDuration = periodEnd - periodStart;
+        const scale = buildScale(periodInfo);
 
-        // Logique de texte finale pour les sous-périodes
-        subPeriodsHtml = periodInfo.subPeriods.map(sp => {
-            const position = ((sp.start - periodStart) / periodDuration) * 100;
-            const width = ((sp.end - sp.start) / periodDuration) * 100;
+        subPeriodsHtml = scale.segments.map(({ sp, from, to }) => {
             const isActive = sp.name === currentSubPeriodName;
-            
-            let labelText = sp.name; // On utilise le nom complet par défaut
-            // Si ce n'est PAS la sous-période active ET que son nom est trop long, on abrège.
-            if (!isActive && sp.name.length > config.SUB_PERIOD_NAME_MAX_LENGTH) {
-                labelText = sp.abbr;
-            }
-
-            return `<div class="sub-period-block ${isActive ? 'active' : ''}" style="left: ${position}%; width: ${width}%;"><span class="sub-period-label">${labelText}</span></div>`;
+            // Nom complet pour la sous-période de l'événement, abréviation pour les autres noms longs.
+            const labelText = (!isActive && sp.name.length > config.SUB_PERIOD_NAME_MAX_LENGTH) ? sp.abbr : sp.name;
+            return `<div class="sub-period-block ${isActive ? 'active' : ''}" style="left: ${from}%; width: ${to - from}%;"><span class="sub-period-label">${escapeHtml(labelText)}</span></div>`;
         }).join('');
-        
+
         const eventsInPeriod = allEvents.filter(e => e.Période === mainPeriodName);
         eventsHtml = eventsInPeriod.map(event => {
-            const eventCategory = event.Catégorie || 'Non définie';
-            const position = ((parseDate(event.Date) - periodStart) / periodDuration) * 100;
-            const isCurrent = event.Titre === currentEvent.Titre;
+            const position = scale.position(parseDate(event.Date), event['Sous-période']);
+            const isCurrent = event.num === currentEvent.num;
             const pointClass = isCurrent ? 'event-point current' : 'event-point';
-            const eventSafeCategory = eventCategory.replace(/\s+/g, '-');
             if (position >= 0 && position <= 100) {
-                 return `<div class="${pointClass}" style="left: ${position}%;" data-category="${eventSafeCategory}" title="${event.Titre} (${event.Date})"></div>`;
+                return `<div class="${pointClass}" style="left: ${position}%;" data-category="${escapeHtml(safeName(event.Catégorie))}" title="${escapeHtml(event.Titre)} (${formatYear(event.Date)})"></div>`;
             }
             return '';
         }).join('');
-        
-        const currentEventPosition = ((parseDate(currentEvent.Date) - periodStart) / periodDuration) * 100;
-        currentEventMarkerHtml = `<div class="current-event-marker" style="left: ${currentEventPosition}%;"><div class="marker-date">${currentEvent.Date}</div></div>`;
-    }
-    
-    // Logique de texte finale pour les périodes adjacentes
-    const prevPeriod = periodsList[periodIndex - 1];
-    const nextPeriod = periodsList[periodIndex + 1];
 
-    let prevPeriodText = prevPeriod ? prevPeriod.name : '';
-    if (prevPeriod && prevPeriod.name.length > config.SUB_PERIOD_NAME_MAX_LENGTH) {
-        prevPeriodText = prevPeriod.abbr;
+        const currentEventPosition = scale.position(parseDate(currentEvent.Date), currentSubPeriodName);
+        currentEventMarkerHtml = `<div class="current-event-marker" style="left: ${currentEventPosition}%;"><div class="marker-date">${formatYear(currentEvent.Date)}</div></div>`;
     }
 
-    let nextPeriodText = nextPeriod ? nextPeriod.name : '';
-    if (nextPeriod && nextPeriod.name.length > config.SUB_PERIOD_NAME_MAX_LENGTH) {
-        nextPeriodText = nextPeriod.abbr;
-    }
-    
-    const categoryIconClass = config.categoryIcons[categoryName] || 'fa-solid fa-question-circle';
-    const categorySideBarHtml = `<div class="category-sidebar" data-category="${safeCategory}"><div class="category-sidebar-content"><i class="${categoryIconClass}"></i><span>${categoryName}</span></div></div>`;
-    
+    // Périodes voisines : nom complet, ou abréviation si le nom est long
+    const prevPeriod = periodIndex > 0 ? periodsList[periodIndex - 1] : null;
+    const nextPeriod = periodIndex >= 0 ? periodsList[periodIndex + 1] : null;
+    const shortName = p => (p.name.length > config.SUB_PERIOD_NAME_MAX_LENGTH ? p.abbr : p.name);
+    const prevPeriodText = prevPeriod ? shortName(prevPeriod) : '';
+    const nextPeriodText = nextPeriod ? shortName(nextPeriod) : '';
+
+    const categoryIconClass = config.categoryIcons[categoryName] || 'fa-solid fa-circle-question';
+    const categorySideBarHtml = `<div class="category-sidebar" data-category="${escapeHtml(safeCategory)}"><div class="category-sidebar-content"><i class="${categoryIconClass}"></i><span>${escapeHtml(categoryName)}</span></div></div>`;
+
     const noteType = currentEvent['Note Type'] || '';
     const noteText = convertKeywords(currentEvent.Note || '');
     const noteIconClass = config.noteTypeIcons[noteType] || '';
-    const safeNoteType = noteType.replace(/\s+/g, '-');
     let noteHtml = '';
     if (noteText && noteType) {
         noteHtml = `
-            <div class="note-box" data-note-type="${safeNoteType}">
-                <div class="note-header"><i class="${noteIconClass}"></i><span>${noteType}</span></div>
+            <div class="note-box" data-note-type="${escapeHtml(safeName(noteType))}">
+                <div class="note-header"><i class="${noteIconClass}"></i><span>${escapeHtml(noteType)}</span></div>
                 <p class="note-content">${noteText}</p>
             </div>
         `;
     }
-    
+
     const bannerUrl = config.categoryBanners[categoryName] || '';
-    const bannerHtml = bannerUrl ? `<div class="banner-bg" style="background-image: url('${bannerUrl}')"></div>` : '';
-    
-    const imageUrl = (currentEvent['Lien image libre de droit'] || '').split(',')[0].trim().replace(/ /g, '%20');
-    
+    const bannerHtml = bannerUrl ? `<div class="banner-bg" style="background-image: url('${escapeHtml(bannerUrl)}')"></div>` : '';
+
     const shortDescriptionHtml = convertKeywords(currentEvent['Description courte'] || '');
-    const longDescriptionHtml = convertKeywords(currentEvent['Description'] || '');
-    
-    const sourceDomain = getDomainFromUrl(currentEvent.Source);
+    const longDescriptionHtml = convertKeywords(currentEvent.Description || '');
+
+    const source = sourceLabel(currentEvent.Source);
+    const sourceHtml = source
+        ? `<span class="source">Source&nbsp;: <a href="${escapeHtml(currentEvent.Source.split(',')[0].trim())}">${escapeHtml(source)}</a></span>`
+        : '';
 
     return `
-    <div class="card" data-category="${safeCategory}">
+    <div class="card" data-category="${escapeHtml(safeCategory)}" data-num="${currentEvent.num}">
         ${categorySideBarHtml}
         <div class="main-column">
             <header class="card-header">
                 <div class="proportional-timeline-wrapper">
                     <div class="main-period-layer">
-                        <span class="adjacent-period prev">${prevPeriodText ? `&larr; ${prevPeriodText}` : ''}</span>
-                        <span class="main-period-title">${periodInfo?.name || ''}</span>
-                        <span class="adjacent-period next">${nextPeriodText ? `&rarr; ${nextPeriodText}` : ''}</span>
+                        <span class="adjacent-period prev">${prevPeriodText ? `&larr; ${escapeHtml(prevPeriodText)}` : ''}</span>
+                        <span class="main-period-title">${escapeHtml(periodInfo?.name || '')}</span>
+                        <span class="adjacent-period next">${nextPeriodText ? `${escapeHtml(nextPeriodText)} &rarr;` : ''}</span>
                     </div>
                     <div class="timeline-track">
                         <div class="sub-periods-layer">${subPeriodsHtml}</div>
@@ -125,16 +156,15 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
                         ${currentEventMarkerHtml}
                     </div>
                     <div class="timeline-axis-labels">
-                        <span class="axis-label start">${periodInfo?.start || ''}</span>
-                        <span class="axis-label end">${periodInfo?.end || ''}</span>
+                        <span class="axis-label start">${periodInfo ? formatYear(periodInfo.start) : ''}</span>
+                        <span class="axis-label end">${periodInfo ? formatYear(periodInfo.end) : ''}</span>
                     </div>
                 </div>
-                <h1 class="title">${currentEvent.Titre}</h1>
-                <p class="date">${currentEvent.Date}</p>
+                <h1 class="title">${escapeHtml(currentEvent.Titre)}</h1>
+                <p class="date">${formatYear(currentEvent.Date)}</p>
             </header>
             <main class="card-content">
-                <div class="card-image-container">${bannerHtml}<img src="${imageUrl}" class="main-image" alt="${currentEvent.Titre}"></div>
-                
+                <div class="card-image-container">${bannerHtml}${imageHtml(currentEvent, images)}</div>
                 <div class="description-and-note">
                     <p class="description-text">
                         <span class="short-description">${shortDescriptionHtml}</span>
@@ -144,26 +174,40 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
                 </div>
             </main>
             <footer class="card-footer">
-                <div class="cc-icon" title="Contenu CC0"><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-zero"></i></div>
-                <span class="source">Source: ${sourceDomain}</span>
+                <div class="licence">
+                    <span class="cc-icon" title="Licence CC BY-SA 4.0"><i class="fa-brands fa-creative-commons"></i><i class="fa-brands fa-creative-commons-by"></i><i class="fa-brands fa-creative-commons-sa"></i></span>
+                    <span class="licence-text">CC BY-SA 4.0 · Babash - NSI Tani Malandi</span>
+                </div>
+                ${sourceHtml}
             </footer>
         </div>
     </div>
     `;
 }
 
-function generateFullHtmlDocument(allCardsHtml, cssPath) {
-    return `
-        <!DOCTYPE html><html lang="fr"><head>
-            <meta charset="UTF-8"><title>Fresque Temporelle</title>
-            <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-            <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&family=Merriweather:wght@400;700;900&display=swap" rel="stylesheet">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
-            <link rel="stylesheet" href="${cssPath}">
-        </head><body>
+/**
+ * Document HTML complet. `rootHref` est le chemin relatif du dossier du fichier HTML
+ * vers la racine du dépôt (par exemple « ../../ » pour output/cards/1.html) : la feuille de
+ * style, les polices (node_modules) et les images sont ensuite données depuis la racine.
+ */
+function generateFullHtmlDocument(allCardsHtml, rootHref) {
+    const fonts = [300, 400, 700, 900]
+        .map(w => `<link rel="stylesheet" href="node_modules/@fontsource/lato/${w}.css">`).join('\n            ');
+    return `<!DOCTYPE html>
+<html lang="fr">
+    <head>
+            <meta charset="UTF-8">
+            <base href="${rootHref}">
+            <title>Timeline – Histoire de l’informatique : cartes</title>
+            ${fonts}
+            <link rel="stylesheet" href="node_modules/@fortawesome/fontawesome-free/css/all.min.css">
+            <link rel="stylesheet" href="styles/main.css">
+    </head>
+    <body>
             ${allCardsHtml.join('\n')}
-        </body></html>
-    `;
+    </body>
+</html>
+`;
 }
 
-module.exports = { createCardHtml, generateFullHtmlDocument };
+module.exports = { createCardHtml, generateFullHtmlDocument, buildScale };

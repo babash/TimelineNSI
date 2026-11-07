@@ -16,6 +16,8 @@ if [ -d images ]; then cp -r images _site/; fi
 if [ ! -f data/images.csv ]; then
   echo "carte,fichier,page_commons,auteur,licence,url_licence,description" > _site/data/images.csv
 fi
+# Taille de chaque image (colonnes largeur et hauteur) : le site réserve sa place avant le chargement
+node scripts/dimensions-images.js _site
 
 # Cartes : seulement les PDF (les pages HTML intermédiaires ne sont pas publiées)
 cp output/fresque_temporelle.pdf _site/output/

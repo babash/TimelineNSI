@@ -173,7 +173,8 @@ def main():
             taille = Image.open(cible).size
             poids = cible.stat().st_size
         else:
-            if mime == "image/svg+xml" or L < w:
+            # SVG, PDF, DjVu : on télécharge la page rendue par Commons (le fichier lui-même n'est pas une image).
+            if mime in ("image/svg+xml", "application/pdf", "image/vnd.djvu") or L < w:
                 pages2, _ = C.api(dict(C.props(L), titles=titre, redirects="1"))
                 url = next(iter(pages2.values()))["imageinfo"][0]["thumburl"]
             else:

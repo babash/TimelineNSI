@@ -1,6 +1,6 @@
 {
  "_aide": "Par carte : titres exacts (File:...) et recherches Commons (espace Fichier). limite = résultats par recherche. _cartes : cartes à chercher (toutes si absent).",
- "_actif": true,
+ "_actif": false,
  "_cartes": [
   "76",
   "77",

@@ -619,7 +619,7 @@
     catégories licence : CC-BY-SA-3.0
 
 [63] OJ L 119 of 2016 - FR French.pdf
-    original 1239x1752 application/pdf ; sortie 848x1200 340 ko
+    original 1239x1752 application/pdf ; sortie 960x910 344 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : Office des publications de l'Union européenne
     Credit : EUR-Lex ([1], [2])
@@ -718,4 +718,4 @@
     description API : Spanning tree protocol at work. Figure 6.
     catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
 
-TOTAL : 72 images, 11117 ko
+TOTAL : 72 images, 11120 ko

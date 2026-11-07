@@ -1,0 +1,137 @@
+# carte 44 requêtes ed0bb221d832
+{"titres": ["File:Communication shannon-weaver2.svg", "File:Shannon communication system.svg"], "recherches": ["Shannon communication diagram", "Mathematical Theory of Communication Shannon", "Shannon Weaver model"]}
+
+[1] File:Communication shannon-weaver2.svg
+    taille 744x375 image/svg+xml 66 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Einar Faanes
+    crédit : Travail personnel
+    description : Ilustración gráfica de un modelo de desarrollo del modelo de comunicación realizados por Claude Elwood Shannon y Warren Weaver en 1949. El modelo tiene los siguientes elementos: Una fuente de información, un codificador de enviar el mensaje a través de un medio o canal, que podrá ser interrumpida o distorsionada por el ruido, a un decodificador y un receptor. El receptor puede dar retroalimentació
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Shannon-Weaver communication model; Unspec New SVG created with Inkscape; Unspec SVG created with Inkscape
+
+[2] File:Shannon communication system.svg
+    taille 456x208 image/svg+xml 5 ko
+    licence : Public domain | pd |  -> OK
+    auteur : en:User:Wanderingstan, User:Stannered
+    crédit : Travail personnel basé sur : Shannon communication system.png
+    description : Shannon's diagram of a general communication system.
+    catégories licence : PD-user
+    catégories : Created with Inkscape-categ:SVG; English-language SVG diagrams; Scientific modeling; Shannon-Weaver communication model
+
+[3] File:Shannon communication system-ar.svg
+    taille 456x208 image/svg+xml 147 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : Shannon communication system.svg
+    description : Shannon's diagram of a general communication system.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computer science charts and diagrams Lab-ar; Derivative versions; SVG retouched pictures; Shannon-Weaver communication model; Works by Michel Bakni
+
+[4] File:Shannon communication system-es.svg
+    taille 457x215 image/svg+xml 11 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Albertojuanse
+    crédit : Travail personnel
+    description : Shannon's diagram of a general communication system.
+    catégories licence : PD-user
+    catégories : Derivative versions; Scientific modeling; Shannon-Weaver communication model; Spanish-language SVG diagrams
+
+[5] File:Shannon communication system fr.svg
+    taille 457x215 image/svg+xml 11 ko
+    licence : Public domain | pd |  -> OK
+    auteur : en:User:Wanderingstan, User:Stannered
+    crédit : File:Shannon_communication_system.svg
+    description : Chaîne de transmission de Shannon.
+    catégories licence : PD-user
+    catégories : Created with Inkscape-categ:SVG; French-language diagrams; Scientific modeling; Shannon-Weaver communication model
+
+[6] File:Shannon-Weaver model of communication.svg
+    taille 456x208 image/svg+xml 4 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : User:Phlsph7
+    crédit : Travail personnel basé sur : Shannon communication system.svg by https://en.wikipedia.org/wiki/User:Wanderingstan and https://commons.wikimedia.org/wiki/User:Stannered
+    description : Shannon-Weaver model of communication
+    catégories licence : CC-Zero
+    catégories : Communication diagrams; Communication studies; Communication theory; English-language diagrams; Unidentified communication
+
+[7] File:Shannon-Weaver model of communication vi.svg
+    taille 456x208 image/svg+xml 4 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Thuyhung2112
+    crédit : Travail personnel, dịch từ bản gốc của Phlsph7
+    description : Mô hình truyền thông Shannon-Weaver
+    catégories licence : CC-Zero; Self-published work
+    catégories : Communication diagrams; Communication studies; Communication theory
+
+[8] File:The Mathematical Theory Of Communication title page.jpg
+    taille 1400x2000 image/jpeg 195 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Claude E. Shannon and Warren Weaver
+    crédit : https://archive.org/details/in.ernet.dli.2015.503815/page/n5/mode/2up
+    description : Title page of the 1949 book The Mathematical Theory Of Communication
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : 1949 books about technology; Claude Shannon
+
+[9] File:Communication Theory.pdf
+    taille 1239x1752 application/pdf 1243 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : in alphabetical order: Adrignola sur Wikibooks anglais Aero13792468 sur Wikibooks anglais Albertin sur Wikibooks anglais Ashley_Anker sur Wikibooks anglais Avicennasis sur Wikibooks anglais B9_humming
+    crédit : Communication Theory Wikibook
+    description : A PDF version of the Communication Theory Wikibook.
+    catégories licence : CC-BY-SA-3.0-migrated; English Wikibooks PDF; GFDL; License migration completed
+    catégories : Books about communication; Carl Grünberg; Jacques Ellul; Unidentified communication
+
+[10] File:Communication Theory printable version.pdf
+    taille 1275x1650 application/pdf 1213 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : CC-BY-SA-3.0-migrated; English Wikibooks PDF; GFDL; License migration completed
+    catégories : Edward Bernays; Files with no machine-readable author; Files with no machine-readable source; Media missing infobox template
+
+[11] File:Communication theory aspects of television bandwidth conservation (IA communicationthe25coom).pdf
+    taille 1160x1541 application/pdf 1726 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Coombs, William C.
+    crédit : Internet Archive identifier: communicationthe25coom https://archive.org/download/communicationthe25coom/communicationthe25coom.pdf
+    description : Subjects: Television frequency allocation.
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Shannon-Weaver model.png
+    taille 787x792 image/png 138 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OTA
+    crédit : Global communications: opportunities for trade and aid
+    description : The Shannon-Weaver model as characterized by the US Office of Technology Assessment
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : English text; Shannon-Weaver communication model
+
+[13] File:Shannon Weaver - Modelo de Comunicação.png
+    taille 1904x895 image/png 49 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Msilvax2
+    crédit : Travail personnel
+    description : Diagrama de Shannon e Weaver da Teoria Matemática da Comunicação (pt-br)
+    catégories licence : CC-Zero; Self-published work
+    catégories : Shannon-Weaver communication model
+
+[14] File:Shannon-weaver.jpg
+    taille 654x366 image/jpeg 28 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Razzairpina
+    crédit : Travail personnel
+    description : 
+    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Media lacking a description; Shannon-Weaver communication model
+
+[15] File:Sender-Empfänger-Modell nach Shannon und Weaver.jpg
+    taille 540x238 image/jpeg 21 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Abby M.
+    crédit : Travail personnel
+    description : Sender-Empfänger Modell nach Shannon und Weaver mit sieben Kommunikationselementen
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Psychological diagrams; Shannon-Weaver communication model

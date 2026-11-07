@@ -1,0 +1,146 @@
+# carte 19 requêtes 06100cff4b6d
+{"titres": ["File:First Computer Bug, 1947.jpg"], "recherches": ["first computer bug Harvard Mark II log", "UNIVAC A-0 compiler", "Harvard Mark I"]}
+
+[1] File:First Computer Bug, 1947.jpg
+    taille 2889x2285 image/jpeg 5476 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Courtesy of the Naval Surface Warfare Center, Dahlgren, VA., 1988.
+    crédit : U.S. Naval Historical Center Online Library Photograph NH 96566-KN The above link is no longer valid on 13.04.2017, the image available here.
+    description : The First "Computer Bug" Moth found trapped between points at Relay # 70, Panel F, of the Mark II Aiken Relay Calculator while it was being tested at Harvard University, 9 September 1947. The operators affixed the moth to the computer log, with the entry: "First actual case of bug being found". (The term "debugging" already existed; thus, finding an actual bug was an amusing occurrence.) In 1988, 
+    catégories licence : CC-PD-Mark; PD US Navy
+    catégories : 1947-09-09; Biofouling; Computer bugs; Computing in the 1940s; Featured pictures on Wikipedia, Arabic; Featured pictures on Wikipedia, Chinese; Files with Assessments template missing SDC Commons no value quality assessment; Grace Hopper; History of Harvard University; Software quality assurance; Unidentified Lepidoptera of the United States
+
+[2] File:2022-04 Rough Deck Log Vol. No. 112, April 2022.pdf
+    taille 1062x1512 application/pdf 14271 ko
+    licence : Public domain | pd |  -> OK
+    auteur : https://navy.mil.ph/downloads/1659685907-RDL%20APRIL%202022-FINAL.pdf
+    crédit : Philippine Navy (PN)
+    description : The Official Gazette of the Philippine Navy (PN), the "Rough Deck Log" Volume Number 112, April 2022 Among the Articles are: - "MPAC MKIII Spike-ER successfully hit ex-PC-111", p. 14-15 - "Sailing through the PN's Quest to revitalize its Shipbuilding Capability", p. 25-27
+    catégories licence : PD-PhilippinesGov
+    catégories : Rough Deck Log
+
+[3] File:Computer Gaming World issue 4.2.pdf
+    taille 1227x1631 application/pdf 18156 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Golden Empire Publications
+    crédit : Computer Gaming World Museum
+    description : An early issue of Computer Gaming World
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : Computer Gaming World issues; Images with extracted images; Magazines of the United States, 1984
+
+[4] File:Computer security- selected articles (IA computersecurit4545swan 0).pdf
+    taille 1191x1604 application/pdf 3867 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Swanson, Marianne Lennon, Elizabeth B.
+    crédit : Internet Archive identifier: computersecurit4545swan_0 https://archive.org/download/computersecurit4545swan_0/computersecurit4545swan_0.pdf
+    description : Subjects: Computer security
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; NIST Reports (NISTIR series); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:Federal Trade Commission v. Facebook initial filing.pdf
+    taille 1275x1650 application/pdf 1362 ko
+    licence : Public domain | pd |  -> OK
+    auteur : United States Federal Trade Commission
+    crédit : https://www.ftc.gov/news-events/press-releases/2020/12/ftc-sues-facebook-illegal-monopolization
+    description : Federal Trade Commission v. Facebook initial filing
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Federal Trade Commission; Lawsuits; Legal documents of the United States; Meta Platforms, Inc.
+
+[6] File:Analytical hazard representation for use in reliability, mortality, and simulation studies (IA analyticalhazard00gave).pdf
+    taille 1177x1658 application/pdf 2166 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Gaver, Donald Paul.Acar, Mustafa.
+    crédit : https://archive.org/details/analyticalhazard00gave https://archive.org/download/analyticalhazard00gave/analyticalhazard00gave.pdf
+    description : Title from cover "NPS55-78-017"--Cover "August 1978"--Cover "Prepared for: Chief of Naval Research, Arlington, Va. 22217." Includes bibliographical references (p. 27) Technical report; 1978 A simple parametric model is proposed to represent data of non-standard distributional form. An example is the 'bath tub' hazard of reliability. The application of the approach to simulation and to data analysi
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Reports from the Naval Postgraduate School
+
+[7] File:Cobol Compiler for Univac on a magnetic tape.jpg
+    taille 932x915 image/jpeg 130 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Chirags
+    crédit : Travail personnel
+    description : UNIVAC Magnetic tape containing COBOL compiler. Housed and Displayed at Smithsonian.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation; Magnetic tapes
+
+[8] File:Naval Tactical Data System Unit Computer (a.k.a. UNIVAC CP-642, UNIVAC 1206, and AN USQ-20) Remington-Rand Univac Division - Computer History Museum (2007-11-10 23.12.24 by Carlo Nardone).jpg
+    taille 1704x2272 image/jpeg 938 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Carlo Nardone from Roma, Italy
+    crédit : Computer Museum: Sperry Univac Tactical Navy Computer
+    description : Naval Tactical Data System (NTDS) Unit Computer (a.k.a. UNIVAC CP-642, UNIVAC 1206, and AN/USQ-20) by Remington-Rand Univac Division - Computer History Museum (2007-11-10 23.12.24 by Carlo Nardone) NTDS UNIT COMPUTER (a.k.a. UNIVAC CP-642, UNIVAC 1206, and AN/USQ-20) Remington-Rand Univac Division Word Length: 30 bits Speed: 9.6 microseconds add time. Primary Memory: 32,768 words core memory (3.6 
+    catégories licence : CC-BY-SA-2.0
+    catégories : 1950s computers; 1958 introductions; Computers in the Computer History Museum; Files from Carlo Nardone Flickr stream; Flickr images reviewed by FlickreviewR 2; Naval Tactical Data System; UNIVAC
+
+[9] File:RUN WILD, for the UNIVAC 1100 series - implementation and maintenance (IA CAT79716606).pdf
+    taille 1195x1612 application/pdf 1951 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: CAT79716606 https://archive.org/download/CAT79716606/CAT79716606.pdf
+    description : Issued October 1978 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:Steps toward a revised compiler-monitor system II (CMS-2) (IA stepstowardrevis00seca).pdf
+    taille 1147x1604 application/pdf 10906 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Secades, Vincent Cecil.;Rummler, David Clark.
+    crédit : Internet Archive identifier: stepstowardrevis00seca https://archive.org/download/stepstowardrevis00seca/stepstowardrevis00seca.pdf
+    description : ADA764504 Bibliography: l. 220 Thesis (M.S. in Comp. Sci.)--Naval Postgraduate School, 1973 Subjects: Computer science
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:A set of debugging and monitoring facilities to improve the diagnostic capabilities of a compiler (IA setofdebuggingmo763fong).pdf
+    taille 941x1243 application/pdf 1113 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Fong, Elizabeth.
+    crédit : Internet Archive identifier: setofdebuggingmo763fong https://archive.org/download/setofdebuggingmo763fong/setofdebuggingmo763fong.pdf
+    description : Subjects: Debugging in computer science.; Compiling (Electronic computers)
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; NIST Technical Notes; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:The design and implementation of a compiler for the object-oriented data definition language (IA thedesignndimple1094535183).pdf
+    taille 1275x1650 application/pdf 3531 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Ramirez, Luis M. Tan, Recep.
+    crédit : Internet Archive identifier: thedesignndimple1094535183 https://archive.org/download/thedesignndimple1094535183/thedesignndimple1094535183.pdf
+    description : Classic data models such as the Relational and Hierarchical do not have capabilities to handle both of the object-oriented relationships, inheritance and covering. Therefore, the problem addressed by this work is to design and implement a completely new data model that embodies the object-oriented paradigm. With such an object-oriented data model (O-ODM), the direct modelling of a variety of datab
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:Harvard Mark I Computer - Left Segment.jpg
+    taille 2560x1718 image/jpeg 1003 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Original uploader was Daderot at en.wikipedia
+    crédit : Originally from en.wikipedia; description page is/was here.
+    description : Harvard-IBM Mark I Computer, left side of the computer. This machine is in the Cabot Science Building, Harvard University, Cambridge, Massachusetts. Photograph taken by me, July 2005.
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Harvard Mark I
+
+[14] File:Aiken-IBM Automatic Sequence Controlled Calculator.jpg
+    taille 4032x3024 image/jpeg 2317 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Capvideo
+    crédit : Travail personnel
+    description : The Harvard Mark I, or Aiken-IBM Automatic Sequence Controlled Calculator, on display in Harvard University’s Science Center.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Harvard Mark I; Information field template with formatting
+
+[15] File:IBM Automatic Sequence Controlled Calculator Sequence Indicators.jpg
+    taille 5184x3456 image/jpeg 983 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Rocky Acosta
+    crédit : Travail personnel
+    description : IBM Automatic Sequence Controlled Calculator (ASCC) - Harvard Mark I Computer - as seen in Science Building at Harvard University
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Harvard Mark I; Taken with Canon EOS 60D
+
+[16] File:IBM Automatic Sequence Controlled Calculator Detail1.jpg
+    taille 5184x3456 image/jpeg 767 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Rocky Acosta
+    crédit : Travail personnel
+    description : IBM Automatic Sequence Controlled Calculator (ASCC) - Harvard Mark I Computer - as seen in Science Building at Harvard University
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Harvard Mark I; Harvard University; Taken with Canon EOS 60D

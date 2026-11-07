@@ -1,0 +1,146 @@
+# carte 4 requêtes 139443edc875
+{"titres": ["File:Caesar3.svg"], "recherches": ["Caesar cipher", "Caesar cipher wheel", "chiffre de César"]}
+
+[1] File:Caesar3.svg
+    taille 856x361 image/svg+xml 40 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Cepheus
+    crédit : Travail personnel
+    description : Chiffre de César avec une clé de 3.
+    catégories licence : PD-self; Self-published work
+    catégories : Caesar ciphers; SVG cryptography diagrams; Valid SVG created with Inkscape:Diagrams
+
+[2] File:Caesar cipher left shift of 3.svg
+    taille 856x361 image/svg+xml 34 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Matt_Crypto
+    crédit : Travail personnel basé sur : Caesar3.svg de Cepheus
+    description : Chiffre de César avec un décalage de trois lettres vers la gauche.
+    catégories licence : PD-author
+    catégories : Caesar ciphers; Files uploaded with For the Common Good; Valid SVG created with Inkscape
+
+[3] File:Caesar Shift Cipher Wheel.png
+    taille 427x500 image/png 34 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Armchair
+    crédit : Travail personnel
+    description : An example of a fixed substitution cipher, where the entire set is shifted by the same amount. Such ciphers give little or no security but are the forerunners of others, such as the Vigenere cipher, that improve on fixed substitution.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Caesar ciphers; Ciphers
+
+[4] File:Caesar-cipher-template.svg
+    taille 744x1052 image/svg+xml 47 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : openclipart.org user Clon
+    crédit : Travail personnel avec : https://openclipart.org/detail/298847/ceasar-cipher-tepmlate
+    description : Caesar Cipher Template
+    catégories licence : CC-Zero
+    catégories : Caesar ciphers; Ciphers; SVG created with Inkscape:Important; Valid SVG created with Inkscape:Diagrams
+
+[5] File:Caesar shift cryptography.png
+    taille 1920x810 image/png 126 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Don't know
+    crédit : https://en.wikipedia.org/wiki/Caesar_cipher#/media/File:Caesar_cipher_left_shift_of_3.svg
+    description : Shifting by -3
+    catégories licence : CC-BY-SA-4.0
+    catégories : Caesar ciphers
+
+[6] File:ROT13 table.svg
+    taille 475x162 image/svg+xml 51 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Benjamin D. Esham (bdesham)
+    crédit : Based upon ROT13.png by en:User:Matt Crypto. This version created by bdesham in Inkscape. Cette image vectorielle SVG non W3C-spécifiée a été créée avec Inkscape .
+    description : A table of the substitutions achieved with the ROT-13 cipher with the Latin alphabet.
+    catégories licence : PD ineligible
+    catégories : ROT13; SVG cryptography diagrams; Unspec New SVG created with Inkscape; Unspec SVG created with Inkscape
+
+[7] File:The cipher found (IA cipherfound00augu).pdf
+    taille 858x1395 application/pdf 3337 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Augustus, Charles W. [from old catalog]
+    crédit : Internet Archive identifier: cipherfound00augu https://archive.org/download/cipherfound00augu/cipherfound00augu.pdf
+    description : Subjects: Shakespeare, William, 1564-1616; Bacon, Francis, 1561-1626
+    catégories licence : PD-US missing SDC copyright status; PD US expired
+    catégories : Books in the Library of Congress; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[8] File:The history of the decline and fall of the Roman Empire (IA 1827declinero07gibbuoft).pdf
+    taille 866x1522 application/pdf 26876 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Gibbon, Edward, 1737-1794
+    crédit : Internet Archive identifier: 1827declinero07gibbuoft https://archive.org/download/1827declinero07gibbuoft/1827declinero07gibbuoft.pdf IA contributor: Robarts - University of Toronto IA digitizing spon
+    description : 26 Subjects: Byzantine Empire; Rome -- History Empire, 30 B.C.-476 A.D
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; Books without Wikidata item; IA uploads needing categories; Scans from University of Toronto; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[9] File:The dictionary of science and technical terms used in philosophy, literature, professions, commerce, arts, and trades (IA dictionaryofscie00buchuoft).pdf
+    taille 683x1102 application/pdf 62793 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Buchanan, W. M
+    crédit : Internet Archive identifier: dictionaryofscie00buchuoft https://archive.org/download/dictionaryofscie00buchuoft/dictionaryofscie00buchuoft.pdf
+    description : 14 Subjects: Science; Technology
+    catégories licence : Books with Wikidata item missing accession number; PD US expired
+    catégories : Artworks digital representation of unclassified work; Books from the Biodiversity Heritage Library; Books published in London; Books uploaded by Fæ; Books with Wikidata item; Files from the Biodiversity Heritage Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:A fool of nature (a novel) (IA foolofnatureanov00hawtiala).pdf
+    taille 487x789 application/pdf 16103 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hawthorne, Julian, 1846-1934
+    crédit : Internet Archive identifier: foolofnatureanov00hawtiala https://archive.org/download/foolofnatureanov00hawtiala/foolofnatureanov00hawtiala.pdf
+    description : Subjects:
+    catégories licence : PD US expired
+    catégories : Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; Novels in the California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:Poems (IA wendoliverpoems00holmrich).pdf
+    taille 608x1006 application/pdf 6736 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Holmes, Oliver Wendell, 1809-1894 Hearst, William Randolph, 1863-1951
+    crédit : Internet Archive identifier: wendoliverpoems00holmrich https://archive.org/download/wendoliverpoems00holmrich/wendoliverpoems00holmrich.pdf
+    description : Subjects:
+    catégories licence : PD US expired
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Poetical works of Oliver Wendell Holmes, Sr.; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:LL-Q150 (fra)-Ltrlg-chiffre de César.wav
+    taille 0x0 audio/wav 130 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Locuteur : Ltrlg Enregistreur : Ltrlg
+    crédit : Travail personnel (Lingua Libre)
+    description : Fichier audio de prononciation du projet Lingua Libre
+    catégories licence : CC-BY-SA-4.0
+    catégories : Lingua Libre pronunciation-fra; Lingua Libre pronunciation by Ltrlg
+
+[13] File:LL-Q150 (fra)-WikiLucas00-chiffre de César.wav
+    taille 0x0 audio/wav 154 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Locuteur : WikiLucas00 Enregistreur : WikiLucas00
+    crédit : Travail personnel (Lingua Libre)
+    description : Fichier audio de prononciation du projet Lingua Libre
+    catégories licence : CC-BY-SA-4.0
+    catégories : Lingua Libre pronunciation-fra; Lingua Libre pronunciation by WikiLucas00
+
+[14] File:L'Assassinat de César, ODUT1826(2).jpg
+    taille 3106x2370 image/jpeg 594 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Vachette, Adrien-Jean, orfèvre
+    crédit : https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-assassinat-de-cesar#infos-principales
+    description : Auteur(s): Vachette, Adrien-Jean, orfèvre Bernardi, Giovanni (vers 1494 — 1496 - Faenza, 22–05–1553 — 1553), graveur Date de production: Entre 1798 et 1809 Datation en siècle: 1er quart du 19e siècle Type(s) d'objet(s): Arts décoratifs, Orfèvrerie, argenterie, Lapidaire Dénomination(s): Tabatière Matériaux et techniques: Or, Pierre précieuse et pierre fine, Cristal de roche Dimensions - Oeuvre: Ha
+    catégories licence : CC-Zero
+    catégories : Decorative arts in the Musée des beaux-arts de la ville de Paris; Images from Paris Musées
+
+[15] File:L'Assassinat de César, ODUT1826(1).jpg
+    taille 3192x2244 image/jpeg 881 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Vachette, Adrien-Jean, orfèvre
+    crédit : https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/l-assassinat-de-cesar#infos-principales
+    description : Auteur(s): Vachette, Adrien-Jean, orfèvre Bernardi, Giovanni (vers 1494 — 1496 - Faenza, 22–05–1553 — 1553), graveur Date de production: Entre 1798 et 1809 Datation en siècle: 1er quart du 19e siècle Type(s) d'objet(s): Arts décoratifs, Orfèvrerie, argenterie, Lapidaire Dénomination(s): Tabatière Matériaux et techniques: Or, Pierre précieuse et pierre fine, Cristal de roche Dimensions - Oeuvre: Ha
+    catégories licence : CC-Zero
+    catégories : Decorative arts in the Musée des beaux-arts de la ville de Paris; Images from Paris Musées
+
+[16] File:Reliure au chiffre d'Arnay-Le-Duc - btv1b10661210p.jpg
+    taille 4571x4895 image/jpeg 2820 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Montpellier Méditerranée Métropole - Médiathèque centrale Emile Zola, 60891RES
+    description : Donateur : Pellechet, Marie (1840-1900). Donateur Sur : César, Jules. - C. Julii Caesaris rerum ab se gestarum commentarii, ex vetustissimorum codicum accurata collatione recogniti, .... - Lugduni : sumpt. viduae Antonii de Harsy, 1616. Appartient à l’ensemble documentaire : 3M000 Appartient à l’ensemble documentaire : 3M020
+    catégories licence : CC-PD-Mark; PD-US missing SDC copyright status; PD-old missing SDC copyright status; PD France; PD Old (assumed); PD US expired
+    catégories : 17th-century bookbinding from France; 17th-century bookbindings from Gallica; Artworks without Wikidata item; Bookbindings in the Médiathèque Émile-Zola (Montpellier); Files from Gallica; Files with no machine-readable author; Marie Pellechet; Objects from Gallica (Bibliothèque nationale de France) uploaded by Gzen92Bot

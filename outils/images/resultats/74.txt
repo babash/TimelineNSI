@@ -1,0 +1,110 @@
+# carte 74 requêtes e9a3616ec328
+{"recherches": ["spanning tree protocol", "Spanning Tree Protocol diagram", "Algorhyme Perlman", "spanning tree network bridges"]}
+
+[1] File:Spanning tree protocol at work 1.svg
+    taille 591x591 image/svg+xml 35 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP1.jpg
+    description : Spanning tree protocol at work. Figure 1.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[2] File:Spanning tree protocol at work 4.svg
+    taille 591x591 image/svg+xml 63 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP4.jpg
+    description : Spanning tree protocol at work. Figure 4.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[3] File:Spanning tree protocol at work 6.svg
+    taille 591x591 image/svg+xml 83 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP5.jpg
+    description : Spanning tree protocol at work. Figure 6.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[4] File:Spanning tree protocol at work 2.svg
+    taille 591x591 image/svg+xml 47 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP2.jpg
+    description : Spanning tree protocol at work. Figure 2.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[5] File:Spanning tree protocol at work 5.svg
+    taille 591x591 image/svg+xml 85 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP5.jpg
+    description : Spanning tree protocol at work. Figure 5.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[6] File:Spanning tree protocol at work 3.svg
+    taille 591x591 image/svg+xml 63 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : GhosT
+    crédit : self-made, based on en:User:Ngriffeth's en:Image:STP3.jpg
+    description : Spanning tree protocol at work. Figure 3.
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Spanning tree protocol
+
+[7] File:Spanning tree topology.png
+    taille 739x763 image/png 35 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Original téléversé par ReneOFD sur Wikipédia allemand.
+    crédit : Transféré de de.wikipedia à Commons par Jutta234 utilisant CommonsHelper.
+    description : Ein Beispiel für Spanning-Tree in einem geswitchten Ethernet
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Diagram images that should use vector graphics; PNG that should use vector graphics; Spanning tree protocol
+
+[8] File:Spanning trees.png
+    taille 285x579 image/png 11 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Nico Van Dessel
+    crédit : Travail personnel
+    description : voorbeeld van verzendingen tussen meerdere zenders en ontvangers
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Internet diagrams; Spanning tree protocol
+
+[9] File:CVS-EEP protocol for recording vegetation- Level 3-5 plot sampling only - USACE-p16021coll11-6845.pdf
+    taille 1275x1650 application/pdf 1336 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : https://usace.contentdm.oclc.org/digital/collection/p16021coll11/id/6845
+    description : 
+    catégories licence : PD US Army USACE
+    catégories : Books without Wikidata item; Files with no machine-readable author; Images from USACE, Booklets, Manuals & Guides collection; Images from USACE to check; Uploaded with OpenRefine
+
+[10] File:Simulation and performance analysis of the Zone Routing Protocol for tactical mobile AD HOC networks. (IA simulationperfor00shea).pdf
+    taille 1216x1602 application/pdf 4130 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Shea, Kevin M.
+    crédit : Internet Archive identifier: simulationperfor00shea https://archive.org/download/simulationperfor00shea/simulationperfor00shea.pdf
+    description : Thesis advisor(s): Tummala, Murali Thesis (M.S. in Electrical Engineering) Naval Postgraduate School, Sept. 2000 Includes bibliographical references (p. 49) This thesis presents a simulation and analysis of the Zone Routing Protocol (ZRP) for mobile ad hoc network (MANET) environments using the OPNET simulation tool. ZRP is being suggested for possible implementation in the Joint Tactical Radio Sy
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:A pro-active routing protocol for configuration of signaling channels in Server and Agent-based Active network Management (SAAM) (IA proactiverouting00akko).pdf
+    taille 1252x1610 application/pdf 10155 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Akkoc, Hasan.
+    crédit : Internet Archive identifier: proactiverouting00akko https://archive.org/download/proactiverouting00akko/proactiverouting00akko.pdf
+    description : Thesis advisor: Xie, Geoffrey "June 2000." Thesis (M.S. in Computer Science)--Naval Postgraduate School, June 2000 Includes bibliographical references (p. 223-224) As networks are upgraded to provide services for streaming applications, the current way of routing is not satisfactory. Server and Agent based Active network Management (SAAM) introduces a novel network architecture that provides guara
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:A development and simulation of Synergistically Integrated Reliability (SIR)-for an ultra-reliable fault tolerance computer under communication software protocol for the growth algorithm. (IA developmentsimul00sudh).pdf
+    taille 1216x1612 application/pdf 5179 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Sudhamasapa, Nophadol.
+    crédit : Internet Archive identifier: developmentsimul00sudh https://archive.org/download/developmentsimul00sudh/developmentsimul00sudh.pdf
+    description : Available from National Technical Information Service, Springfield, Va ADA176186 Thesis (M.S. in E.E.) Naval Postgraduate School, September 1986 Includes bibliographical references c.1 - 220859, c.2 - 220860 Subjects: Electrical and computer engineering
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

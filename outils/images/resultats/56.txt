@@ -1,0 +1,137 @@
+# carte 56 requêtes 18c8b163979d
+{"recherches": ["Windows 1.0", "Windows 1.0 logo", "Microsoft Windows 1985"]}
+
+[1] File:Santorin (GR), Fira -- 2017 -- 2624.jpg
+    taille 3648x5472 image/jpeg 10760 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dietmar Rabich
+    crédit : Travail personnel
+    description : Fenêtre à Fira, Santorin, Grèce
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2017 in Santorini; Buildings in Greece photographed in 2017; Closed windows in Greece; Clouds and blue sky in Greece; Clouds in Santorini; Clouds in the Northern Hemisphere in September 2017; Exposure time 1/160 sec; F-number f/10; Featured pictures of Fira; Featured pictures of buildings; Featured pictures of reflections; Featured pictures of windows; Featured pictures on Wikimedia Commons; Fira;
+
+[2] File:Window in a cafe in San Gimignano (02182)2.jpg
+    taille 3167x3892 image/jpeg 6605 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Rhododendrites
+    crédit : Travail personnel
+    description : Window in a cafe in San Gimignano, Italy.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Featured pictures by Rhododendrites; Featured pictures of Tuscany; Featured pictures of landscapes; Featured pictures of windows; Featured pictures on Wikimedia Commons; Files by Rhododendrites - 2023-10; Files uploaded by Rhododendrites (all); Files with coordinates missing SDC location of creation; Flowerpots in Italy; Open windows in Italy; Photographs taken by Rhododendrites - Italy; Pictures 
+
+[3] File:Wooden house (window shutters), Riga.jpg
+    taille 4078x3599 image/jpeg 14487 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Photographie : Radomianin
+    crédit : Travail personnel
+    description : Close-up of weathered shutters on a historic wooden house at 1 Elias Street (formerly St. John's Street), Riga. Built in 1813 as part of the building plan for the Jesus Church Quarter, the house is located in the Latgale neighborhood.
+    catégories licence : CC-BY-SA-4.0; PD-RusEmpire; Self-published work
+    catégories : 1810s architecture in Latvia; Brown window shutters; Built in 1813; Closed window shutters; Cultural heritage monuments in Latvia with unknown IDs; Derelict houses in Latvia; Elijas iela; Featured pictures by Radomianin; Featured pictures of Riga; Featured pictures of windows; Featured pictures on Wikimedia Commons; Greek key in Latvia; Information field template with formatting; July 2024 in Latv
+
+[4] File:Fischerkirche (window), Born a. Darß.jpg
+    taille 6000x3922 image/jpeg 18210 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Radomianin
+    crédit : Travail personnel
+    description : Window in the west facade of the Lutheran Fishermen's Church in Born auf dem Darß, Germany
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2023 photographs of Landkreis Vorpommern-Rügen; Brown and red buildings; Churches in Germany photographed in 2023; Featured pictures by Radomianin; Featured pictures from Wiki Loves Monuments Germany 2023; Featured pictures of Mecklenburg-Vorpommern; Featured pictures of churches in Germany; Featured pictures of reflections; Featured pictures of windows; Featured pictures on Wikimedia Commons; Fis
+
+[5] File:Restaurant Amigos de Acapulco (window), Chico.jpg
+    taille 4880x3149 image/jpeg 17621 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Photographie : Radomianin
+    crédit : Travail personnel
+    description : Window of the Mexican restaurant Amigos de Acapulco, Oroville Avenue, Chico, California
+    catégories licence : CC-BY-SA-4.0; PD US architecture; Self-published work
+    catégories : Bicolor facades; Black, red, yellow; Black, vermilion, yellow; Buildings in Chico, California; Coca-Cola signs in California; Drinking cups in white; Facades in California; Featured pictures by Radomianin; Featured pictures of California; Featured pictures of buildings; Featured pictures of reflections; Featured pictures of walls; Featured pictures of windows; Featured pictures on Wikimedia Common
+
+[6] File:View of a frosty evening through a window on a Scottish farm.jpg
+    taille 4232x3020 image/jpeg 9147 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Michal Klajban
+    crédit : Travail personnel
+    description : Paysage hivernal vu à travers la fenêtre d'une ferme de Trossachs (Écosse).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : December 2018 in Scotland; Farms in Scotland; Featured pictures by User:Podzemnik; Featured pictures of Scotland; Featured pictures of Scotland by User:Podzemnik; Featured pictures on Wikimedia Commons; Files with coordinates missing SDC location of creation; Frost in the United Kingdom; Golden hour landscapes; Images by User:Podzemnik; Images by User:Podzemnik (supported by Wikimedia Germany); Im
+
+[7] File:Windows Logo (1992-2001).svg
+    taille 1080x934 image/svg+xml 6 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Microsoft
+    crédit : Microsoft
+    description : Old Microsoft Windows logo, first used on Windows 3.1 packaging.
+    catégories licence : PD textlogo
+    catégories : 1990s logos; 1995 logos; Blue, green, red, yellow; SVG text logos; Valid SVG created with Inkscape-hand:Text logos; Valid SVG created with Text Editor; Windows 95 icons; Windows logos without wordmark; With trademark
+
+[8] File:Windows logo - 2021 (Black).svg
+    taille 512x512 image/svg+xml 0 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Original work: Microsoft (may be obtained from https://answers.microsoft.com/static/resourceimages/categories/windows.svg) File:Windows 11 Logo.svg: Multiple editors; see image description page This w
+    crédit : Windows 11
+    description : This is a black version of the logo of the Microsoft Windows OS.
+    catégories licence : PD textlogo
+    catégories : Grid logos; SVG logos of operating systems; SVG logos with transparent background; SVG text logos; Valid SVG created with Inkscape:Logos; Windows logos without wordmark; With trademark
+
+[9] File:Windows logo and wordmark - (1985-1989).svg
+    taille 733x117 image/svg+xml 26 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Original work: Microsoft
+    crédit : Original work: Moreau, Sam (17 February 2012). Redesigning the Windows Logo. Blogging Windows. Microsoft. Retrieved on 15 February 2013. This work: http://www.brandsoftheworld.com/
+    description : Logo of Microsoft Windows 1.x, 2.x and 3.0
+    catégories licence : PD textlogo
+    catégories : Blue Microsoft logos; SVG logos of operating systems; SVG text logos; Valid SVG created with Inkscape:Text logos; Windows 1.01-2.03 logos; Windows logos with wordmarks; With trademark
+
+[10] File:Windows logo - 1985-1989.svg
+    taille 169x116 image/svg+xml 0 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Microsoft
+    crédit : Cette image a été extraite d'un autre fichier
+    description : This image is of the Windows logo was used for Windows 1.0, Windows 2.0 and Windows 2.10. It was first introduced with Windows 1.0 in 1985. Microsoft stopped using this logo in 1989 with the introduction of Windows 2.11.
+    catégories licence : PD shape
+    catégories : Blue Microsoft logos; Extracted images; Valid SVG extracted with Inkscape:Logos; Windows 1.01-2.03 logos; Windows 1.0 logos; Windows logos without wordmark; With trademark
+
+[11] File:Windows 8 logo and wordmark.svg
+    taille 608x116 image/svg+xml 8 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Microsoft Corporation
+    crédit : Microsoft Corporation
+    description : Le logo de Windows 8
+    catégories licence : PD textlogo
+    catégories : Blue Microsoft logos; SVG text logos; Valid SVG created with Other tools; Windows 8 logos; Windows logos with wordmarks; With trademark
+
+[12] File:Windows Neptune logo.png
+    taille 1595x260 image/png 39 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Microsoft
+    crédit : Travail personnel
+    description : Logotipo do Microsoft Neptune, uma verão de desenvolvimento do sistema operacional Windows.
+    catégories licence : CC-Zero; Self-published work
+    catégories : 1999 logos; Windows Neptune; Windows logos with wordmarks
+
+[13] File:Windows 1.0 Beta Release REVERSI.png
+    taille 310x320 image/png 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Windows Screenshots: PantheraLeo1359531 😺 (d)
+    crédit : Windows 1.0 Beta Release
+    description : Symbol of REVERSI.EXE in Windows 1.0 Beta Release
+    catégories licence : PD-shape missing SDC copyright status; PD shape
+    catégories : Files uploaded by PantheraLeo1359531; Microsoft Windows 1.0 Beta Release; Microsoft Windows symbols; Symbols uploaded by PantheraLeo1359531; Windows Reversi
+
+[14] File:About box Windows 1.01 Reversi (EN).png
+    taille 298x123 image/png 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Microsoft Windows
+    crédit : Windows 1.01
+    description : About box von Reversi unter Windows 1.01.
+    catégories licence : PD shape
+    catégories : Files uploaded by PantheraLeo1359531; Microsoft Windows About boxes; Screenshots by PantheraLeo1359531 in 2024; Windows 1.0 screenshots; Windows Reversi
+
+[15] File:Reversi 1.0.png
+    taille 200x207 image/png 4 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Visnalize
+    crédit : Travail personnel
+    description : Reversi icon on Windows 1.01
+    catégories licence : PD shape
+    catégories : Microsoft Windows 1.0; Microsoft Windows symbols; Other images that should use vector graphics; PNG that should use vector graphics; Windows Reversi

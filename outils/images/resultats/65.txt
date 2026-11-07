@@ -1,0 +1,146 @@
+# carte 65 requêtes fade949c49f4
+{"recherches": ["Wikipedia 2001 home page", "Wikipedia screenshot 2001", "Wikipedia logo", "Nupedia"]}
+
+[1] File:English Wikipedia HomePage 2001-12-20.png
+    taille 1600x2638 image/png 501 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wikipedia users; resurrected by Meow
+    crédit : Dump of English Wikipedia on December 20, 2001, then self-hosted
+    description : HomePage of English Wikipedia on December 20, 2001, powered by UseModWiki. Nostalgia Wikipedia also uses the dump on the same day but converts to MediaWiki.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : 2001-12-20; English Wikipedia main page screenshots; English Wikipedia screenshots; UseModWiki
+
+[2] File:HomePage of WikiPedia on 3 March 2001.png
+    taille 1125x1079 image/png 198 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Wikipedia users; see history of Main Page at Wikipedia:Main Page history
+    crédit : Wayback Machine
+    description : Screenshot of the HomePage of WikiPedia on 3 March 2001, as captured by the Wayback Machine
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : English Wikipedia main page screenshots; UseModWiki
+
+[3] File:Chinese Wikipedia HomePage 2001-07-24.png
+    taille 1920x889 image/png 122 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Chinese Wikipedia
+    crédit : Chinese Wikipedia
+    description : HomePage of Chinese Wikipedia on july 24, 2001, powered by UseModWiki.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : Chinese Wikipedia main page screenshots; Chinese Wikipedia screenshots; UseModWiki
+
+[4] File:English Wikipedia HomePage 2001-02-19.png
+    taille 1600x2042 image/png 425 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wikipedia users; resurrected by Meow
+    crédit : Dump of English Wikipedia on February 19, 2001, then self-hosted
+    description : HomePage of English Wikipedia on February 19, 2001, powered by UseModWiki.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : English Wikipedia main page screenshots; English Wikipedia screenshots; UseModWiki
+
+[5] File:German Wikipedia MainPage (2001-11-29).png
+    taille 711x518 image/png 37 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Various authors, screenshot taken by Kh80 (d · contributions)
+    crédit : https://web.archive.org/web/20011129091125/http://de.wikipedia.com/
+    description : German Wikipedia HomePage (2001-11-29)
+    catégories licence : CC-BY-SA-3.0; CC-BY-SA-3.0-migrated; GFDL; GPL; German Wikipedia screenshots containing works copyrighted by Wikimedia; License migration completed
+    catégories : Free screenshots; German Wikipedia screenshots; Screenshots of Wikipedia's main page; Trademarks and logos of Wikimedia
+
+[6] File:HomePage of WikiPedia on 3 March 2001.jpg
+    taille 1125x1079 image/jpeg 651 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Wikipedia users; see history of Main Page at Wikipedia:Main Page history
+    crédit : Wayback Machine
+    description : Screenshot of the HomePage of WikiPedia on 3 March 2001, as captured by the Wayback Machine
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : English Wikipedia main page screenshots; UseModWiki
+
+[7] File:Wikipedia Screenshot 2001-12-17.png
+    taille 1115x1207 image/png 137 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Agon S. Buchholz (asb)
+    crédit : Screenshot angefertigt von Agon S. Buchholz (asb)
+    description : Screenshot der englischen Wikipedia Hauptseite über archive.org
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : English Wikipedia main page screenshots; UseModWiki
+
+[8] File:Portada wikipedia 6 junio 2001- wayback machine.png
+    taille 1586x1366 image/png 186 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Basquetteur
+    crédit : Travail personnel
+    description : Wikipedia in Spanish Main page on June 6th 2001
+    catégories licence : CC-BY-SA-3.0; CC-BY-SA-4.0; GFDL; GPL; License migration redundant; Self-published work
+    catégories : Free screenshots; Spanish Wikipedia main page screenshots; Spanish Wikipedia screenshots; Trademarks and logos of Wikimedia; Vietnamese Wikipedia screenshots; Wikimedia screenshots
+
+[9] File:English Wikipedia main page 20011217.jpg
+    taille 554x600 image/jpeg 71 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wikipedia Autoren
+    crédit : Screenshot
+    description : Die Wikipedia am 17.12.2001
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : English Wikipedia main page screenshots; UseModWiki
+
+[10] File:Mug Wikipedia Malayalam.jpg
+    taille 1300x1132 image/jpeg 177 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Ranjithsiji
+    crédit : Travail personnel
+    description : A Mug Embossed with wikipedia emblem
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Featured pictures on Wikipedia, Malayalam; Files with Assessments template missing SDC Commons no value quality assessment; Malayalam Wikimeetup 4 - Kannur 11Jun2011; Malayalam Wikipedia logo variants; Taken with Olive Pad V-T100; Trademarks and logos of Wikimedia; Wikipedia mugs
+
+[11] File:Wikipedia-logo-v2-mai.svg
+    taille 135x155 image/svg+xml 235 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Bijay chaurasia
+    crédit : Wikimedia Foundation
+    description : Wikipedia-logo-v2-mai
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Maithili Wikipedia logos; Photos by Bijay chaurasia; Quality images; Quality images by Bijay Chaurasia; Quality images missing SDC source of file; SVG Localized Wikipedia globe logos (2010); Trademarks and logos of Wikimedia
+
+[12] File:Wikipedia-logo-v2-dty.svg
+    taille 135x155 image/svg+xml 239 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Bijay chaurasia
+    crédit : Wikimedia Foundation
+    description : Wikipedia-logo-v2-dty
+    catégories licence : CC-BY-SA-3.0
+    catégories : Doteli Wikipedia logo; Photos by Bijay chaurasia; Quality images; Quality images by Bijay Chaurasia; Quality images missing SDC source of file; SVG Localized Wikipedia globe logos (2010); Trademarks and logos of Wikimedia
+
+[13] File:Wikipedia, Linz (P1130921).jpg
+    taille 2008x2677 image/jpeg 3234 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0/deed.fr -> OK
+    auteur : Matti Blume
+    crédit : Travail personnel
+    description : Wikipedia backdrop for portrait photographs at WikiCon 2023, Linz
+    catégories licence : CC-BY-SA-2.0+; GFDL; License migration redundant; Self-published work
+    catégories : F-number f/2.8; Files with coordinates missing SDC location of creation; Lens focal length 12 mm; Lighting; Linz photographs taken on 2023-09-29; Night in Linz; Quality images; Quality images by MB-one; Taken with Panasonic Lumix DMC-G5 and Panasonic Leica DG Vario-Elmarit 12-60mm F2.8-4.0; Trademarks and logos of Wikimedia; Uploaded with LrMediaWiki; User MB-one supported by Wikimedia Deutschland
+
+[14] File:Wikipedia logo puzzle globe spins horizontally and vertically, revealing the contents of all of its puzzle pieces (4K resolution) (VP9).webm
+    taille 2160x2160 video/webm 13114 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : David Richfield (User:Slashme) Github profile (blender file), User:Psiĥedelisto (this rendered version)
+    crédit : Blender file: [1] The Blender file WikipediaGlobeFront.blend was edited slightly in two respects: (1) the lighting was changed so that it would render appropriately on a black background (2) keyframes
+    description : Aujourd'hui, Wikipédia fête ses 20 ans.
+    catégories licence : CC-BY-SA-3.0
+    catégories : 3D computer animations of Wikipedia globe logos (2010); Blender animations; Media of the day; Quality images; Quality images missing SDC creator; Quality images missing SDC source of file; Trademarks and logos of Wikimedia; Videos of rotation; WebM videos
+
+[15] File:Wikipedia Rangoli (3).jpg
+    taille 2757x2757 image/jpeg 4827 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Suyash Dwivedi
+    crédit : Travail personnel
+    description : Wikipedia Rangoli by User:Shreya.Bhopal
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Images by User:Suyash.dwivedi; Quality images; Quality images by User:Suyash.dwivedi; Rangoli; Wikipedia logos
+
+[16] File:Nupedia 20030808 screenshot.png
+    taille 1491x857 image/png 261 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Software: Wikimedia Foundation and contributors logo by Sally Milo/Milo Design Screenshot: VulcanSphere
+    crédit : Self-taken; derivative work
+    description : Screenshot of Nupedia as of 8 August 2003 via Internet Archive
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : All Wikimedia screenshots; Nupedia; Screenshots of websites; Screenshots taken by VulcanSphere

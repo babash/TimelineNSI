@@ -1,0 +1,146 @@
+# carte 18 requêtes 7a4dd5b9db76
+{"recherches": ["COBOL report 1960", "COBOL punched card", "COBOL source code", "COBOL"]}
+
+[1] File:COBOL Report Apr60.djvu
+    taille 2368x3108 image/vnd.djvu 1821 ko
+    licence : Public domain | pd |  -> OK
+    auteur : CODASYL
+    crédit : https://ia801604.us.archive.org/3/items/bitsavers_codasylCOB_6843924/COBOL_Report_Apr60.djvu
+    description : The government report which introduced COBOL, one of the world's most-used programming languages.
+    catégories licence : PD-scan (PD-US-no notice); PD US no notice
+    catégories : Books without Wikidata item; COBOL; DjVu files in English
+
+[2] File:CODASYL COBOL JoD 1968.djvu
+    taille 2995x3859 image/vnd.djvu 13503 ko
+    licence : Public domain | pd |  -> OK
+    auteur : CODASYL
+    crédit : Internet Archive identifier: codasylcoboljour00conf
+    description : 31
+    catégories licence : PD-US missing SDC copyright status; PD-scan (PD-US-no notice); PD US no notice
+    catégories : 1969 books; Books without Wikidata item; COBOL; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[3] File:Proposed revision of American National Standard COBOL (IA proposedrevision7448amer).pdf
+    taille 1110x1593 application/pdf 31766 ko
+    licence : Public domain | pd |  -> OK
+    auteur : American National Standards Institute Committee X3J4
+    crédit : Internet Archive identifier: proposedrevision7448amer https://archive.org/download/proposedrevision7448amer/proposedrevision7448amer.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; COBOL; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:CODASYL COBOL journal of development 1968 (IA codasylcoboljour106unse).pdf
+    taille 1256x1587 application/pdf 19603 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: codasylcoboljour106unse https://archive.org/download/codasylcoboljour106unse/codasylcoboljour106unse.pdf
+    description : Subjects: COBOL (Computer program language)
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:Federal Information Processing Standards Publication- federal standard COBOL pocket guide (IA federalinformati47nati).pdf
+    taille 741x1800 application/pdf 1635 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Bureau of Standards
+    crédit : Internet Archive identifier: federalinformati47nati https://archive.org/download/federalinformati47nati/federalinformati47nati.pdf
+    description : Subjects: Public administration -- Data processing; Electronic data processing -- Public administration
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Federal (text); Federal Information Processing Standards Publication; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:Banking 1960-10- Vol 53 Iss 4 (IA sim american-bankers-association-aba-banking-journal 1960-10 53 4).pdf
+    taille 1077x1550 application/pdf 12654 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: sim_american-bankers-association-aba-banking-journal_1960-10_53_4 https://archive.org/download/sim_american-bankers-association-aba-banking-journal_1960-10_53_4/sim_americ
+    description : Banking 1960-10: Volume 53, Issue 4. Digitized from IA1591531-06. Previous issue: sim_american-bankers-association-aba-banking-journal_1960-09_53_3. Next issue: sim_american-bankers-association-aba-banking-journal_1960-11_53_5. Subjects: Business And Economics--Banking And Finance; Scholarly Journals; microfilm
+    catégories licence : PD US not renewed
+    catégories : American Bankers Association journal, 1960; American Bankers Association journal, vol. 53; Books uploaded by Fæ; Books without Wikidata item; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:Punch-card-cobol.jpg
+    taille 1388x645 image/jpeg 590 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Rainer Gerhards
+    crédit : own work (own card, own photo)
+    description : An actual punch card with a line of COBOL programming on it.
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Punch cards; UNIVAC
+
+[8] File:Punch card with Fortran - 20091211.jpg
+    taille 4416x3312 image/jpeg 2445 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Tangopaso.
+    crédit : Travail personnel
+    description : Cartes perforées Fortran.
+    catégories licence : PD-user
+    catégories : Fortran punch cards; Taken with Canon PowerShot G10
+
+[9] File:Federal Information Processing Standards Publication- optical character recognition (OCR) character positioning (IA federalinformati8919nati).pdf
+    taille 1268x1622 application/pdf 1043 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Bureau of Standards
+    crédit : Internet Archive identifier: federalinformati8919nati https://archive.org/download/federalinformati8919nati/federalinformati8919nati.pdf
+    description : Subjects: Public administration -- Data processing; Electronic data processing -- Public administration
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Federal Information Processing Standards Publication; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:A review of Shipboard Uniform Automated Data Processing System (SUADPS) as a financial information and control system for OPTAR funds. (IA reviewofshipboar00worl).pdf
+    taille 1189x1562 application/pdf 10056 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Worley, Randy A.
+    crédit : Internet Archive identifier: reviewofshipboar00worl https://archive.org/download/reviewofshipboar00worl/reviewofshipboar00worl.pdf
+    description : Thesis (M.S. in Management)--Naval Postgraduate School, 1983 Includes bibliographical references Subjects: Management
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:The local digital message exchange- a description and analysis. (IA localdigitalmess00pric).pdf
+    taille 1116x1595 application/pdf 3119 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Price, John David.
+    crédit : Internet Archive identifier: localdigitalmess00pric https://archive.org/download/localdigitalmess00pric/localdigitalmess00pric.pdf
+    description : ADA764492 Thesis (M.S. in Management)--Naval Postgraduate School, 1973 Bibliography: l. 58-59 Subjects: Management
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Analysis of traffic flow within a naval communication station. (IA analysisoftraffi00bivi).pdf
+    taille 1233x1672 application/pdf 3706 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Bivins, Rita Heustis
+    crédit : https://archive.org/details/analysisoftraffi00bivi https://archive.org/download/analysisoftraffi00bivi/analysisoftraffi00bivi.pdf
+    description : ADA013626 Thesis (M.S. in Management)--Naval Postgraduate School, 1975 Bibliography: l. 61 Subjects: Management
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library
+
+[13] File:COBOL Mine.svg
+    taille 744x1052 image/svg+xml 20 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : EdwardH
+    crédit : Travail personnel with cartoon bomb from Openclipart.
+    description : This source code demonstrates how a mine might occur in a COBOL program. Suppose the screen is invalid. Then after the first perform statement, control will go to the fix-error section. This requires the screen to be updated and will trigger the mine at the end of the update-screen section. Control could either return to the first perform statement or to the end of fix-error, where control will "f
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : COBOL; Translation possible - SVG; Valid SVG created with Inkscape; Valid SVG created with Inkscape-hand; Valid SVG created with Text Editor
+
+[14] File:Federal Information Processing Standards Publication- COBOL coding form (IA federalinformati44nati).pdf
+    taille 1247x1595 application/pdf 434 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Bureau of Standards
+    crédit : Internet Archive identifier: federalinformati44nati https://archive.org/download/federalinformati44nati/federalinformati44nati.pdf
+    description : Subjects: Public administration -- Data processing; Electronic data processing -- Public administration
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; COBOL; Coding forms; Federal Information Processing Standards Publication; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:OpenCobolIDE 4.7.6 screenshot.png
+    taille 1613x1023 image/png 93 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Cody Logan
+    crédit : Travail personnel
+    description : OpenCobolIDE 4.7.6 on Ubuntu 18.04. The program is displaying a "Hello, World!" program written in COBOL.
+    catégories licence : CC-BY-SA-4.0; GPL; Self-published work
+    catégories : COBOL; English-language screenshots of Ubuntu; Files by User:Clpo13; Free screenshots; Hello World source code; Linux integrated development environments; Ubuntu 18.04
+
+[16] File:Federal Information Processing Standards Publication- COBOL (IA federalinformati2131nati).pdf
+    taille 1233x1589 application/pdf 541 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Bureau of Standards
+    crédit : Internet Archive identifier: federalinformati2131nati https://archive.org/download/federalinformati2131nati/federalinformati2131nati.pdf
+    description : Subjects: Public administration -- Data processing; Electronic data processing -- Public administration
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Federal Information Processing Standards Publication- COBOL; Scans from the Internet Archive; Scans from the Internet Archive/unverified

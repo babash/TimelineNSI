@@ -1,0 +1,110 @@
+# carte 31 requêtes 0168b5b0b235
+{"titres": ["File:Altair Computer Ad May 1975.jpg"], "recherches": ["Altair 8800", "Altair 8800 computer", "MITS Altair 8800 front panel"]}
+
+[1] File:Altair Computer Ad May 1975.jpg
+    taille 1650x2200 image/jpeg 650 ko
+    licence : Public domain | pd |  -> OK
+    auteur : MITS staff
+    crédit : Scanned from the May 1975 Radio-Electronics magazine by Michael Holley Swtpc6800
+    description : The MITS Altair 8800 computer was the first commercially successful home computer. Paul Allen and Bill Gates started Microsoft to write software for the Altair. This advertisement appeared in Radio-Electronics, Popular Electronics and other magazines in May 1975.
+    catégories licence : PD US no notice
+    catégories : 1975 advertisements in the United States; Altair 8800; Micro Instrumentation and Telemetry Systems; Radio-Electronics, 1975; Scans by User:Swtpc6800
+
+[2] File:Altair 8800 and Model 33 ASR Teletype.jpg
+    taille 4032x3024 image/jpeg 783 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Tim Colegrove
+    crédit : Travail personnel
+    description : An original kit-built 1975 Altair 8800 computer with the popular Model 33 ASR (Automatic Send and Receive) Teletype as terminal. This particular unit is Altair serial #220040K, one of the first hundred sold. It was originally purchased by Dr. John Bahr of Milwaukee General Hospital for research on the use of respirators in the neonatal intensive care unit. (Image courtesy of Boston-based collector
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : ASR-33; Altair 8800; Altair 8800, home computer, microcomputer, S-100 bus, Microsoft BASIC, Altair; Files with coordinates missing SDC location of creation
+
+[3] File:2019-08-04 Altair 8800 Computer.jpg
+    taille 4182x2025 image/jpeg 4644 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Maksym Kozlenko
+    crédit : Travail personnel
+    description : Altair 8800 Computer
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Altair 8800; Computers in the Deutsches Museum; Files with coordinates missing SDC location of creation (48° N, 11° E)
+
+[4] File:2019-08-04 Altair 8800 computer.jpg
+    taille 4182x2025 image/jpeg 4644 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Maksym Kozlenko
+    crédit : Travail personnel
+    description : Altair 8800 computer
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Altair 8800; Computers in the Deutsches Museum; Files with coordinates missing SDC location of creation (48° N, 11° E)
+
+[5] File:CPU Altair 8800.jpg
+    taille 1120x486 image/jpeg 77 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Altair 8800; Files with no machine-readable author; Files with no machine-readable source; Media missing infobox template
+
+[6] File:Altair 8800-Computer.jpg
+    taille 2132x1908 image/jpeg 2014 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dr. Bernd Gross
+    crédit : Travail personnel
+    description : Altair 8800 Computer, seit 1975, USA; Exponat Technisches Museum Wien
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Altair 8800; Technisches Museum Wien - Computers
+
+[7] File:HomeComputerMuseum - MITS Altair 8800.jpg
+    taille 640x480 image/jpeg 720 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Sandra Fauconnier
+    crédit : Travail personnel
+    description : HomeComputerMuseum - MITS Altair 8800
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : 2024 at the HomeComputerMuseum; Altair 8800
+
+[8] File:Altair 8800 computer in Intel Museum.jpg
+    taille 4032x3024 image/jpeg 2269 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : David290
+    crédit : Travail personnel
+    description : Altair 8800 computer in Intel Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Altair 8800; Files with coordinates missing SDC location of creation; Intel Museum
+
+[9] File:MITS Altair 8800 Front Panel.jpg
+    taille 5130x2177 image/jpeg 1006 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Cromemco
+    crédit : Travail personnel
+    description : Front panel of MITS Altair 8800 Computer. This machine was introduced on the front cover of the January 1975 issue of Popular Electronics magazine.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Altair 8800; Popular Electronics
+
+[10] File:Altair Computer Front Panel.jpg
+    taille 1238x570 image/jpeg 179 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Swtpc6800 en:User:Swtpc6800 Michael Holley
+    crédit : Travail personnel
+    description : The MITS Altair 8800b was introduced in mid 1976 as the successor to the original Altair 8800 that appeared on the cover of Popular Electronics in January 1975. It had an improved front panel, larger power supply, an 18 slot mother board. The price was $840 for a kit and $1100 for an assembled unit. A typical hobbyist system with 16K of memory, a video display, a cassette tape data storage, and BA
+    catégories licence : PD-self; Self-published work
+    catégories : Altair 8800; Computers in the Computer History Museum; Photographs by User:Swtpc6800; Taken with Canon PowerShot A630
+
+[11] File:Altair 8800b Computer Front.jpg
+    taille 1200x938 image/jpeg 205 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Swtpc6800 en:User:Swtpc6800 Michael Holley
+    crédit : Travail personnel
+    description : The MITS Altair 8800b was introduced in mid 1976 as the successor to the original Altair 8800 that appeared on the cover of Popular Electronics in January 1975. It had an improved front panel, larger power supply, an 18 slot mother board. The price was $840 for a kit and $1100 for an assembled unit. A typical hobbyist system with 16K of memory, a video display, a cassette tape data storage, and BA
+    catégories licence : PD-self; Self-published work
+    catégories : Altair 8800b; Computers in the Computer History Museum; Photographs by User:Swtpc6800; Taken with Canon PowerShot A630
+
+[12] File:Altair 8800b Computer.jpg
+    taille 1275x1050 image/jpeg 280 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Swtpc6800 en:User:Swtpc6800 Michael Holley
+    crédit : Travail personnel
+    description : The MITS Altair 8800b was introduced in mid 1976 as the successor to the original Altair 8800 that appeared on the cover of Popular Electronics in January 1975. It had an improved front panel, larger power supply, an 18 slot mother board. The price was $840 for a kit and $1100 for an assembled unit. A typical hobbyist system with 16K of memory, a video display, a cassette tape data storage, and BA
+    catégories licence : PD-self; Self-published work
+    catégories : Altair 8800b; Computers in the Computer History Museum; Photographs by User:Swtpc6800; Taken with Canon PowerShot A630

@@ -1,0 +1,146 @@
+# carte 69 requêtes cc335db7438b
+{"recherches": ["Enigma machine", "Enigma M4 naval", "Hut 8 Bletchley Park", "Enigma machine rotors"]}
+
+[1] File:Enigma rotor exploded view.png
+    taille 1200x1428 image/png 111 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Created by Wapcaplet in Blender.
+    crédit : Uploaded by Wapcaplet to the English Wikipedia
+    description : Exploded view of an Enigma machine rotor. Labeled components are as follows: Notched ring, used to "carry" the rotation of one rotor to another via a ratchet mechanism Dot marking the position of the "A" contact, for use by the operator in assembling the rotor Alphabet "tyre" or ring; some rings had a sequence of numerals instead of letters Electrical contact surfaces Wire connections joining the 
+    catégories licence : CC-BY-SA-2.0; CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Enigma machine wheels; Exploded views; Featured diagrams; Featured pictures on Wikipedia, Arabic; Featured pictures on Wikipedia, English; Featured pictures on Wikipedia, Romanian; Featured pictures on Wikipedia, Turkish; Files with Assessments template missing SDC Commons no value quality assessment; Images with opaque backgrounds; Language-neutral diagrams; Technological diagrams
+
+[2] File:Enigma-IMG 0487-black.jpg
+    taille 5616x3744 image/jpeg 5848 ko
+    licence : CC BY-SA 2.0 fr | cc-by-sa-2.0-fr | https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en -> OK
+    auteur : Rama
+    crédit : Travail personnel
+    description : Machine Enigma-K de l'armée suisse. Collection de cryptographie du Quartier général de l'Armée suisse. La réalisation de ce document a été parrainée par Wikimédia Suisse. (Proposez un projet !) Pour voir tous les fichiers concernés, consultez la catégorie Supported by Wikimedia CH. العربية ∙ বাংলা ∙ čeština ∙ Deutsch ∙ English ∙ Esperanto ∙ español ∙ français ∙ galego ∙ हिन्दी ∙ magyar ∙ italiano 
+    catégories licence : CC-BY-SA-2.0-FR; Self-published work
+    catégories : All media supported by Wikimedia CH; CeCILL; Cryptography collection of the Swiss Army headquarters; Cryptography collection of the Swiss Army headquarters (2011) - Supported by Wikimedia CH; Photographs taken on 2011-10-27; Quality Images of computers by Rama; Quality images; Quality images of computer hardware; Quality images supported by Wikimedia CH; Swiss-K Enigma; Taken with Canon EOS 5D Mar
+
+[3] File:Enigma Machine at NSA.jpg
+    taille 450x600 image/jpeg 88 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : User:Jszigetvari
+    description : Enigma Machine at NSA Case Cover -- Maintenance The German under the case cover translates: To Observe! Observe the manual for the Encryptionmachine (H. Dv. g. 13) 1. To clean the roller contacts, turn all rolls several times backwards and forwards. 2. To clean the key contacts, press all keys down strongly before turning on power several times and let them pop back up while one key remains presse
+    catégories licence : PD US NSA
+    catégories : Enigma I; Enigma machines in the National Cryptologic Museum; Files with no machine-readable author; Media lacking author information; Photographs taken on 2003-11-17
+
+[4] File:Enigma Machine A16672 open.agr.jpg
+    taille 3024x4032 image/jpeg 7030 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Enigma Machine A16672. Item on display at the MIT Flea Market, held monthly from April to October on the MIT campus.
+    catégories licence : CC-BY-SA-4.0; Enigma machine A16672 at the MIT Flea Market; Self-published work
+    catégories : Enigma I; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[5] File:Enigma Machine A16672 open rt.agr.jpg
+    taille 2353x3868 image/jpeg 5174 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Enigma Machine A16672. Item on display at the MIT Flea Market, held monthly from April to October on the MIT campus.
+    catégories licence : CC-BY-SA-4.0; Enigma machine A16672 at the MIT Flea Market; Self-published work
+    catégories : Enigma I; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[6] File:Enigma Machine A16672 open close.agr.jpg
+    taille 2806x3024 image/jpeg 5315 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Enigma Machine A16672. Item on display at the MIT Flea Market, held monthly from April to October on the MIT campus.
+    catégories licence : CC-BY-SA-4.0; Enigma machine A16672 at the MIT Flea Market; Self-published work
+    catégories : Enigma I; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[7] File:U-505 M4 Naval Enigma with printer.agr.jpg
+    taille 4032x3024 image/jpeg 6992 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Printing M4 Enigma cipher machine in the Museum of Science and Industry (Chicago). The Navel Enigmas had four rotors, instead of three, making them much more difficult to crack.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Enigma machine in the Museum of Science and Industry (Chicago); Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[8] File:U-505 M4 Naval Enigma with printer rear.agr.jpg
+    taille 3024x4032 image/jpeg 6708 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Rear of printing Enigma cipher machine in the Museum of Science and Industry (Chicago)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Enigma machine in the Museum of Science and Industry (Chicago); Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[9] File:M4 Enigma machine, 2 of 2, U-505 - Museum of Science and Industry (Chicago) - DSC06769.JPG
+    taille 3594x4935 image/jpeg 10206 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Daderot
+    crédit : Travail personnel
+    description : Four-rotor Naval Enigma with printer. Exhibit in the Museum of Science and Industry, Chicago, Illinois, USA. Photography was permitted in the museum without restriction.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Enigma M4; Enigma machine in the Museum of Science and Industry (Chicago); Files uploaded by Daderot; Printer to Enigma machine; Taken with Sony DSC-RX100 III
+
+[10] File:M4 Enigma machine, 1 of 2, U-505 - Museum of Science and Industry (Chicago) - DSC06773.JPG
+    taille 3648x5472 image/jpeg 10172 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Daderot
+    crédit : Travail personnel
+    description : Four-rotor Naval Enigma with remote display. Exhibit in the Museum of Science and Industry, Chicago, Illinois, USA. Photography was permitted in the museum without restriction.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Enigma M4; Enigma machine in the Museum of Science and Industry (Chicago); Files uploaded by Daderot; Taken with Sony DSC-RX100 III
+
+[11] File:Naval ENIGMA machine (3317898024).jpg
+    taille 1087x1892 image/jpeg 807 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : brewbooks from near Seattle, USA
+    crédit : Naval ENIGMA machine
+    description : Die Kriegsmarine (Navy) With a naval force small in numbers, but technically advanced, the German Naval High Command, in order to offset Allied Naval superiority, adopted a strategy designed to conceal as much as possible the location, intention and movement of its forces. Forced by its nature to rely on radio communications, the German Navy issued to each vessel from battleship to harbor defense 
+    catégories licence : CC-BY-SA-2.0
+    catégories : Enigma M4; Enigma machines in the National Cryptologic Museum; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR
+
+[12] File:Bletchley Park Naval Enigma IMG 3604.JPG
+    taille 1704x2272 image/jpeg 1780 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Magnus Manske
+    crédit : Created by Magnus Manske.
+    description : Four rotor German naval Enigma on display at Bletchley Park.
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Enigma M4; Enigma machines at Bletchley Park; Photographs taken on 2005-10-21; Taken with Canon PowerShot S40
+
+[13] File:Hut 8, Bletchley Park - geograph.org.uk - 956566.jpg
+    taille 640x480 image/jpeg 53 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : M J Richardson
+    crédit : From geograph.org.uk
+    description : Hut 8, Bletchley Park One of the historic buildings at the National Codes Centre Museum near Milton Keynes, where Alan Turing worked, and now a special exhibitions area. .mw-parser-output .messagebox{margin:4px 0;width:auto;border-collapse:collapse;border:2px solid var(--border-color-progressive,#6485d1);background-color:var(--background-color-neutral-subtle,#fbfcff);color:var(--color-base,#202122
+    catégories licence : CC-BY-SA-2.0
+    catégories : Hut 8; Images by M J Richardson; Images from Geograph Britain and Ireland; Information field template with formatting; Listed buildings in England with known IDs
+
+[14] File:Bletchley Park Entrance to Hut 8.jpg
+    taille 2592x1944 image/jpeg 1909 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Vintage Fan 5678
+    crédit : Travail personnel
+    description : Bletchley Park Entrance to Hut 8
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Bletchley Park; Hut 8
+
+[15] File:Bletchley Park Entrance to Hut 8. Image 2.jpg
+    taille 2592x1944 image/jpeg 2129 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Vintage Fan 5678
+    crédit : Travail personnel
+    description : Bletchley Park Entrance to Hut 8
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Bletchley Park; Hut 8
+
+[16] File:"Hut 8", Bletchley Park - geograph.org.uk - 1592862.jpg
+    taille 640x491 image/jpeg 65 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Ian Petticrew
+    crédit : Geograph Britain and Ireland
+    description : "Hut 8", Bletchley Park. Originally the home of the financier and Liberal MP, Sir Herbert Samuel Leon (1850-1926), the Bletchley Park estate passed out of the Leon family in 1937. During World War II the estate became the site of the UK's main decryption effort, becoming known as Station X. It was here that the codes and ciphers of several Axis countries were decrypted, most important being the ci
+    catégories licence : CC-BY-SA-2.0
+    catégories : Hut 8; Images by Ian Petticrew; Images from Geograph Britain and Ireland; Images from Geograph Britain and Ireland missing SDC coordinates of the point of view; Listed buildings in England with known IDs

@@ -1,0 +1,128 @@
+# carte 8 requêtes 69c740aeb58f
+{"titres": ["File:Pascaline calculator.jpg", "File:Arts et Metiers Pascaline dsc03869.jpg"], "recherches": ["Pascaline Arts et Métiers", "Pascaline machine arithmétique", "Pascal calculator"]}
+
+[1] File:Arts et Metiers Pascaline dsc03869.jpg
+    taille 2042x1119 image/jpeg 1180 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : David.Monniaux
+    crédit : Travail personnel
+    description : A Pascaline, an early calculator. (Machine à calculer de Blaise Pascal sans sous ni deniers, signed by Pascal 1642).
+    catégories licence : CC-BY-SA-2.0; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-migrated; GFDL; License migration completed; Self-published work
+    catégories : Artworks without Wikidata item; Files with coordinates missing SDC location of creation (48° N, 2° E); Pascaline - CnAM 823-1
+
+[2] File:Pascaline calculator.jpg
+    taille 1375x734 image/jpeg 643 ko
+    licence : Public domain | pd |  -> OK
+    auteur : J. A. V. Turck
+    crédit : Downloaded 2008-1-9 from J. A. V. Turck (1921) Origin of Modern Calculating Machines, Western Society of Engineers, Chicago, USA, p.10, fig.2 from Google Books
+    description : Photo of a 'Pascaline', the mechanical calculator invented and manufactured by French scientist Blaise Pascal around 1642. From the accompanying text: "The machine has been reversed, and the bottom of the casing, which is hinged, thrown back, showing the numeral wheels and gearing of the different orders, and the transfer levers for the carry of the tens." The gearing worked similarly to a car's o
+    catégories licence : PD-US missing SDC copyright status; PD US
+    catégories : Artworks without Wikidata item; History of computing hardware; Pascal's calculator; Pascaline - CnAM 823-3
+
+[3] File:Pascaline Clermont-Ferrand 2023.ogv
+    taille 1920x1080 application/ogg 9569 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Clermont Auvergne Métropole/Pierre Tribhou
+    crédit : Clermont Auvergne Métropole
+    description : Démonstration du fonctionnement de la machine arithmétique de Blaise Pascal par Nathalie Vidal (Clermont Auvergne Métropole / Muséum Henri-Lecoq)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : History of sciences and techniques in the Muséum d'histoire naturelle Henri-Lecoq; Pascaline; Uploaded with video2commons
+
+[4] File:Pascaline-CnAM 823-1-IMG 1506-black.jpg
+    taille 4500x3000 image/jpeg 4271 ko
+    licence : CC BY-SA 3.0 fr | cc-by-sa-3.0-fr | https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en -> OK
+    auteur : Rama
+    crédit : Travail personnel
+    description : 
+    catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-FR; Self-published work
+    catégories : Artworks with Wikidata item; Artworks with Wikidata item missing genre; CeCILL; Pages with complex technique templates; Paris photographs taken on 2016-11-13; Pascaline - CnAM 823-1
+
+[5] File:Musée des Arts et Métiers - Machine artithmétique de Pascal (23713845928).jpg
+    taille 4912x3264 image/jpeg 6046 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Frédéric BISSON from Rouen, France
+    crédit : Machine artithmétique de Pascal
+    description : Machine arithmétique de Pascal à six chiffres plus sous et deniers, XVIIe siècle, Musée des Arts et Métiers, rue Réaumur à Paris
+    catégories licence : CC-BY-2.0
+    catégories : Files from Frédéric Bisson Flickr stream; Files with coordinates missing SDC location of creation (48° N, 2° E); Flickr images reviewed by FlickreviewR; Paris photographs taken on 2017-10-07; Pascaline - CnAM 823-3
+
+[6] File:Pascaline-CnAM 823-2-IMG 1510-white.jpg
+    taille 4500x3000 image/jpeg 3064 ko
+    licence : CC BY-SA 3.0 fr | cc-by-sa-3.0-fr | https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en -> OK
+    auteur : Rama
+    crédit : Travail personnel
+    description : 
+    catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-FR; Self-published work
+    catégories : Artworks with Wikidata item; Artworks with Wikidata item missing genre; CeCILL; Pages with complex technique templates; Paris photographs taken on 2016-11-13; Pascaline - CnAM 823-2
+
+[7] File:Pascaline-CnAM 823-2-IMG 1510-black.jpg
+    taille 4500x3000 image/jpeg 3058 ko
+    licence : CC BY-SA 3.0 fr | cc-by-sa-3.0-fr | https://creativecommons.org/licenses/by-sa/3.0/fr/deed.en -> OK
+    auteur : Rama
+    crédit : Travail personnel
+    description : 
+    catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-2.0-FR; CC-BY-SA-3.0-FR; Self-published work
+    catégories : Artworks with Wikidata item; Artworks with Wikidata item missing genre; CeCILL; Pages with complex technique templates; Paris photographs taken on 2016-11-13; Pascaline - CnAM 823-2
+
+[8] File:Pascaline - Machine arithmétique du chevalier Durant-Pascal (Muséum Henri Lecoq 985.23.1).jpg
+    taille 1280x853 image/jpeg 115 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Pierre Tribhou
+    crédit : Travail personnel
+    description : Pascaline - Machine arithmétique du chevalier Durant-Pascal
+    catégories licence : Artworks with accession number from Wikidata; Artworks with known accession number; CC-BY-SA-3.0
+    catégories : Artworks with Wikidata item; Artworks with Wikidata item missing genre; Les mystères de Pascal (Musée d'Art Roger-Quilliot); Pages with complex technique templates; Pascaline - Machine du chevalier Durant-Pascal; Photographs taken on 2023-07-01
+
+[9] File:Machine arithmétique de Pascal, 1645.jpg
+    taille 4747x1963 image/jpeg 3237 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Miniwark
+    crédit : Travail personnel
+    description : Machine arithmétique de Pascal, 1645
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Pascaline - CnAM 823-3
+
+[10] File:Machine arithmétique de Pascal, 1642.jpg
+    taille 4158x2029 image/jpeg 2810 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Miniwark
+    crédit : Travail personnel
+    description : Machine arithmétique de Pascal, 1642
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Pascaline - CnAM 823-1
+
+[11] File:Armoiries Pascal sur la machine arithmétique du chevalier Durant-Pascal (Muséum Henri Lecoq 985.23.1).jpg
+    taille 1280x853 image/jpeg 119 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Clermont Auvergne Métropole
+    crédit : Travail personnel
+    description : Armoiries Pascal sur la machine arithmétique du chevalier Durant-Pascal
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Les mystères de Pascal (Musée d'Art Roger-Quilliot); Pascaline - Machine du chevalier Durant-Pascal
+
+[12] File:Mechanical calculator (ten places), Blaise Pascal, France, c. 1650 - Mathematisch-Physikalischer Salon, Dresden - DSC07976.JPG
+    taille 5279x1967 image/jpeg 2527 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Daderot
+    crédit : Travail personnel
+    description : Exhibit in the Mathematisch-Physikalischer Salon (Zwinger), Dresden, Germany. This artwork is old enough so that it is in the public domain. Photography was permitted in the museum without restriction.
+    catégories licence : Author died more than 70 years ago public domain images; CC-PD-Mark; CC-Zero; Self-published work
+    catégories : Dresden photographs taken on 2013-12-08; Files uploaded by Daderot; Mechanical calculators in Mathematisch-Physikalischer Salon (Zwinger, Dresden); Pascaline
+
+[13] File:Pascaline - top view and mechanism.jpg
+    taille 2461x2061 image/jpeg 2854 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : Oeuvres de Blaise Pascal, Chez Detune, La Haye
+    description : Drawing of the top view of the Pascaline and overview its mechanism
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark; PD-old missing SDC copyright status
+    catégories : Pascaline; Template Unknown (author)
+
+[14] File:Pascaline calculator front.png
+    taille 1319x527 image/png 891 ko
+    licence : Public domain | pd |  -> OK
+    auteur : J. A. V. Turck
+    crédit : Downloaded 2008-1-9 from J. A. V. Turck (1921) Origin of Modern Calculating Machines, Western Society of Engineers, Chicago, USA, p.10, fig.1 from Google Books
+    description : Photo of a 'Pascaline', the mechanical calculator invented and manufactured by French scientist Blaise Pascal between 1642 and 1652.
+    catégories licence : PD-US missing SDC copyright status; PD US
+    catégories : Artworks without Wikidata item; Pascaline - CnAM 823-3

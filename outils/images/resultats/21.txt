@@ -1,0 +1,146 @@
+# carte 21 requêtes 3482fdd6e746
+{"recherches": ["Java virtual machine diagram", "Java bytecode compilation", "Duke Java mascot", "Java programming language"]}
+
+[1] File:Java virtual machine architecture.svg
+    taille 566x921 image/svg+xml 138 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Dcoetzee (File:Computer-blue.svg by OpenClipart, File:Phone-blackberry-bold.svg by User:Techtoucian)
+    crédit : Travail personnel
+    description : Diagram of the Java virtual machine (JVM) architecture. Source files in various languages are compiled into Java bytecode using compilers such as Javac and Jython. Any platform with a JVM can run the bytecode, by first passing it through a bytecode verifier and then either interpreting or compiling it to that platform's machine code on-the-fly with a JIT compiler. The Java APIs together with the J
+    catégories licence : CC-Zero; Self-published work
+    catégories : Compiling and linking; Computer science diagrams; English-language SVG diagrams; Java Virtual Machine
+
+[2] File:Java虚拟机架构.svg
+    taille 512x833 image/svg+xml 58 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Dcoetzee (File:Computer-blue.svg by OpenClipart, File:Phone-blackberry-bold.svg by User:Techtoucian), Simplified Chinese translation and minor changes by 佛壁灯
+    crédit : Java virtual machine architecture
+    description : Simplified Chinese version of Java_virtual_machine_architecture.svg
+    catégories licence : CC-Zero
+    catégories : Chinese-language SVG diagrams; Compiling and linking; Computer science diagrams; Java Virtual Machine
+
+[3] File:JvmSpec7.png
+    taille 1152x698 image/png 27 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Michelle Ridomi
+    crédit : Travail personnel
+    description : Java Virtual Machine Java 7 Specification base
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Diagram images that should use vector graphics; Java Virtual Machine; PNG that should use vector graphics
+
+[4] File:Java-jvm.png
+    taille 502x362 image/png 14 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Baptiste MATHUS
+    crédit : Travail personnel
+    description : Schema of the general architecture of a program running in a Java Virtual Machine
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Diagram images that should use vector graphics; Java Virtual Machine; PNG that should use vector graphics
+
+[5] File:Virtual reality transfer protocol (VRTP) - implementing a monitor application for the Real-time Transport Protocol (RTP) using the Java Media Framework (JMF) (IA virtualrealitytr00afon).pdf
+    taille 1166x1600 application/pdf 9983 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Afonso, Francisco Carlos.
+    crédit : Internet Archive identifier: virtualrealitytr00afon https://archive.org/download/virtualrealitytr00afon/virtualrealitytr00afon.pdf
+    description : "September 1999" Thesis advisor(s): Don Brutzman Thesis (M.S. Computer Science) Naval Postgraduate School, September 1999 Includes bibliographical references (p. 213-215) The Real-time Transport Protocol (RTP) supports the transmission of time-based media, such as audio and video, over wide-area networks (WANs), by adding synchronization and quality-of-service (QoS) feedback capabilities to the ex
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:Clandestine message passing in virtual environments (IA clandestinemessa109453967).pdf
+    taille 1275x1650 application/pdf 357 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Rippeon, Ryan.
+    crédit : Internet Archive identifier: clandestinemessa109453967 https://archive.org/download/clandestinemessa109453967/clandestinemessa109453967.pdf
+    description : Virtual Environments (VEs) present a new challenge for government officials attempting to monitor computer networks for terrorist communication. VEs bring new dimensions to online communication through visual appearance and state maintaining servers. In this thesis, various VEs will be explored to study what current abilities and usage patterns exist. Once characteristics of the VEs are establishe
+    catégories licence : CC-PD-Mark; IA books copyright review automatically suggested; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:Java compilation and execution process.png
+    taille 616x1439 image/png 65 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Larry Huang TW
+    crédit : Travail personnel
+    description : Java compilation, Java Bytecode, Java Archive File, JAR, Java Runtime Environment, JRE, Java Virtual Machine, JVM
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Java (programming language)
+
+[8] File:Java compilation and execution process.svg
+    taille 631x1393 image/svg+xml 21 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Larry Huang TW
+    crédit : Travail personnel
+    description : Java compilation, Java Bytecode, Java Archive File, JAR, Java Runtime Environment, JRE, Java Virtual Machine, JVM
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Java (programming language)
+
+[9] File:Programmation Java-fr.pdf
+    taille 1239x1752 application/pdf 1997 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : JackPotte
+    crédit : Travail personnel
+    description : Wikilivre PDF Java en français
+    catégories licence : CC-BY-SA-3.0; French Wikibooks PDF; Self-published work
+    catégories : Java (programming language)
+
+[10] File:HotSpot Just In Time Compilation JCrete 2014.pdf
+    taille 1654x1239 application/pdf 921 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Chris Newland
+    crédit : Travail personnel
+    description : Slides from my Open Spaces session on JIT compilation at the JCrete 2014 unconference.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : JCrete; Just In Time Compilation
+
+[11] File:Understanding HotSpot Logs.pdf
+    taille 1654x1239 application/pdf 373 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Chris Newland
+    crédit : Travail personnel
+    description : Understanding the log files produced by the Java Virtual Machine HotSpot compiler
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Java (programming language)
+
+[12] File:Patti – Compiling Unification-Based Finite-State Automata into Machine Instructions for a Superscalar Pipelined RISC Processor.pdf
+    taille 1239x1754 application/pdf 1345 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Sascha
+    crédit : Travail personnel
+    description : This thesis is about a method for speeding up natural-language analysis using a novel compilation technique. As its input, the compiler takes a unification-based linguistic formalism (non-deterministic finite-state automata, where transitions are labeled by attribute-value matrices according to a finite type logic with a simple-inheritance type hierarchy). As its output, the compiler generates mac
+    catégories licence : CC-Zero; Self-published work
+    catégories : Finite state machine
+
+[13] File:Duke3D.png
+    taille 708x749 image/png 360 ko
+    licence : BSD |  | http://opensource.org/licenses/bsd-license.php -> ?
+    auteur : Joe Palrang
+    crédit : https://duke.dev.java.net/
+    description : Duke: The Java Mascot
+    catégories licence : 3-clause BSD License
+    catégories : Duke (mascot)
+
+[14] File:Duke (Java mascot) waving.svg
+    taille 226x407 image/svg+xml 3 ko
+    licence : BSD |  | http://opensource.org/licenses/bsd-license.php -> ?
+    auteur : sbmehta
+    crédit : Travail personnel basé sur : Duke Images: wave. duke.kenai.com. Archived from the original on 2015-09-08. Retrieved on 2015-09-08.
+    description : Duke, the Java Mascot, in the waving pose. Converted to SVG from Sun Microsystems AI version Duke images are now Free Graphics see duke:Project Home Page for more details.
+    catégories licence : 3-clause BSD License
+    catégories : Duke (mascot); Valid SVG created with Adobe Illustrator
+
+[15] File:Duke-Guitar.png
+    taille 2099x1792 image/png 2360 ko
+    licence : BSD |  | http://opensource.org/licenses/bsd-license.php -> ?
+    auteur : 
+    crédit : https://duke.dev.java.net/
+    description : Duke, the Java mascot, with a guitar.
+    catégories licence : 3-clause BSD License
+    catégories : Duke (mascot); Files with no machine-readable author; Guitar icons; Media lacking author information
+
+[16] File:OSCG DUKE.jpg
+    taille 449x526 image/jpeg 45 ko
+    licence : BSD |  | http://opensource.org/licenses/bsd-license.php -> ?
+    auteur : https://duke.dev.java.net/
+    crédit : https://duke.dev.java.net/
+    description : Java Duke mascot drinking a Belgian Beer
+    catégories licence : 3-clause BSD License
+    catégories : Duke (mascot)

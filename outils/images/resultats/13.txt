@@ -1,0 +1,74 @@
+# carte 13 requêtes 11f8069b7f2d
+{"titres": ["File:Diagram for the computation of Bernoulli numbers.jpg"], "recherches": ["Lovelace note G Bernoulli", "Sketch of the Analytical Engine Menabrea"]}
+
+[1] File:Diagram for the computation of Bernoulli numbers.jpg
+    taille 2000x1400 image/jpeg 726 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Ada Lovelace
+    crédit : http://www.sophiararebooks.com/pictures/3544a.jpg
+    description : Diagram of an algorithm for the Analytical Engine for the computation of Bernoulli numbers, from Sketch of The Analytical Engine Invented by Charles Babbage by Luigi Menabrea with notes by Ada Lovelace
+    catégories licence : Author died more than 100 years ago public domain images; CC-PD-Mark
+    catégories : Ada Lovelace; Bernoulli numbers; Computing in the 1840s; Numerical software
+
+[2] File:The Rhododendron (serial) (IA rhododendronseri1976appa).pdf
+    taille 910x1272 application/pdf 41212 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Appalachian State University
+    crédit : Internet Archive identifier: rhododendronseri1976appa https://archive.org/download/rhododendronseri1976appa/rhododendronseri1976appa.pdf
+    description : Subjects:
+    catégories licence : PD-US missing SDC copyright status; PD US expired
+    catégories : Appalachian State University; Books uploaded by Fæ; Books without Wikidata item; Rhododendron; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Scans from the University of North Carolina at Chapel Hill
+
+[3] File:A new and general biographical dictionary; containing an historical and critical account of the lives and writings of the most eminent persons in every nation v1.djvu
+    taille 2044x3377 image/vnd.djvu 21560 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: newgeneralbiogra01lond2
+    description : Ford Collection
+    catégories licence : CC-PD-Mark; PD-scan (PD-old-70); PD Old
+    catégories : 1784 books; Books published in London; Books without Wikidata item; DjVu files in English; Files with no machine-readable author; Gregorio Leti; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Uploaded with IA Upload
+
+[4] File:Houghton AC85.Su662.Zz843m.jpg
+    taille 1147x1920 image/jpeg 813 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Charles Sumner
+    crédit : Houghton Library
+    description : Includes "Article XXIX", translated, with notes, by Ada Lovelace, from Sketch of the analytical engine invented by Charles Babbage, Esq. Published: London: Taylor and Francis, 1843. Scanned from the personal copy owned by Charles Sumner. *AC85.Su662.Zz843m, Houghton Library, Harvard University
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Ada Lovelace; Charles Sumner; Luigi Federico Menabrea; Media in the Houghton Library, Harvard University
+
+[5] File:The American journal of science (IA mobot31753002152251).pdf
+    taille 4097x7027 application/pdf 68633 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: mobot31753002152251 https://archive.org/download/mobot31753002152251/mobot31753002152251.pdf
+    description : Included in American Periodical Series Vol. 258-A: The Bradley volume. A special volume in appreciation of Wilmot Hyde Bradley on his sixty-first birthday Vol. 1, 2d edition. Imprint reads: New-York, J. Eastham and co.; New-Haven, Howe and Spalding. 1819 Vols. 1-49, 1818-46, issued as v. 50. Vols. 231-236, 1936-38, with v. 236. Vols. 237-245, 1939-1947. 1 v. Vols. 246-250, and Bowen Volume. 1948-1
+    catégories licence : PD US expired
+    catégories : American Journal of Science (1844); Biodiversity Heritage Library American Journal of Science collection; Books uploaded by Fæ; Books without Wikidata item; Botanicus; Files from the Biodiversity Heritage Library; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:Scientific Memoirs; Selected from the Transactions of Foreign Academies of Science and Learned Societies and from Foreign Journals, Vol. III (IA dli.granth.53369).pdf
+    taille 722x1250 application/pdf 42440 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Taylor, Richard (Ed.)
+    crédit : Internet Archive identifier: dli.granth.53369 https://archive.org/download/dli.granth.53369/53369.pdf
+    description : Source: Asiatic Society of Mumbai Identifier: BK_00051938 Digitization Sponsor: Government of Maharashtra Original Source: <a href="https://granthsanjeevani.com/jspui/handle/123456789/53369" rel="nofollow">Item 53369</a> Subjects: Book; Science; Granth Sanjeevani
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Bharat Ek Khoj; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:Houghton AC85.Su662.Zz843m - inscription.jpg
+    taille 1280x1548 image/jpeg 539 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Charles Sumner
+    crédit : Houghton Library
+    description : Inscription from the personal copy owned by Charles Sumner of Sketch of the analytical engine invented by Charles Babbage, Esq. Published: London: Taylor and Francis, 1843. Includes "Article XXIX", translated, with notes, by Ada Lovelace. *AC85.Su662.Zz843m, Houghton Library, Harvard University
+    catégories licence : CC-PD-Mark; PD Old
+    catégories : Ada Lovelace; Charles Sumner; Media in the Houghton Library, Harvard University
+
+[8] File:The American journal of science and arts (IA americanjournalo461844newh).pdf
+    taille 712x1270 application/pdf 26212 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: americanjournalo461844newh https://archive.org/download/americanjournalo461844newh/americanjournalo461844newh.pdf
+    description : Description based on: Vol. 2, no. 2 (Nov. 1820) Vols. 51-100 also numbered ser. 2, v. 1-50; v. 101-150 as ser. 3, v. 1-50 Vols. 1 (1818)-49 (1846) issued as v. 50 (Includes indexes to the earlier title) Beginning with v. 51 (1846) every tenth volume includes a general index for the preceding ten volumes Vols. for <18 -> include: Proceedings of the Boston Society of Natural History, later issued se
+    catégories licence : PD US expired
+    catégories : American Journal of Science (1844); Biodiversity Heritage Library American Journal of Science collection; Books uploaded by Fæ; Books without Wikidata item; Files from the Biodiversity Heritage Library; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified

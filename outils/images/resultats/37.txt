@@ -1,0 +1,146 @@
+# carte 37 requêtes 4c5095f6d29a
+{"recherches": ["Kilby integrated circuit", "first integrated circuit", "Fairchild integrated circuit planar", "integrated circuit chip"]}
+
+[1] File:Replica IC.png
+    taille 5425x3713 image/png 44628 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Florian Schäffer
+    crédit : Travail personnel
+    description : Replica of first integrated circuit by Jack Kilby. Nixdorf-Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Collections of the Heinz Nixdorf MuseumsForum; Files with coordinates missing SDC location of creation (51° N, 8° E); Integrated circuits; Jack Kilby; Replicas; Texas Instruments integrated circuits
+
+[2] File:Сравнение ИС Джонсона 1953 и Килби 1958.png
+    taille 1531x629 image/png 145 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Retired electrician based on US patents 2816228 and 3138743
+    crédit : Travail personnel
+    description : Сравнение схем генератора по патенту Джонсона 2816228 (заявка 21 мая 1953) и по патенту Килби 3138743 (заявка 6 февраля 1959) Comparison of oscillator ICs patented by Harwick Johnson (filed May 21, 1953) and Jack Kilby (filed Feb 6, 1959).
+    catégories licence : PD ineligible
+    catégories : Diagram images that should use vector graphics; Line drawings of integrated circuits; PNG that should use vector graphics
+
+[3] File:RIT NandE Vol18Num4 1986 Oct23 Complete.pdf
+    taille 1650x2550 application/pdf 10333 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Rochester Institute of Technology
+    crédit : News & Events 1986 at the RIT Digital Archive
+    description : From News and Events, a newsletter published by the Rochester Institute of Technology (RIT)
+    catégories licence : 1986 RIT Tigers men's soccer team; PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : 1986-10-23; Alfonse D'Amato; Bausch & Lomb Center; Bruce Davidson (photographer); Bruno Weinschel; Gillian Wachsman; Harold Hayes; Hiro (photographer); Images with extracted images; Jack Kilby; Ken Olsen; M. Richard Rose in 1986; Matthew Carter; October 1986 in New York (state); RIT News and Events, 1986; RIT Tigers women's track and field; RITchie; Radar speed guns; Richard A. Kenyon; Thomas R. P
+
+[4] File:1958 Events montage 16-grid version.jpg
+    taille 4096x3713 image/jpeg 2985 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : From a variety of images credited above.
+    crédit : Cette image contient des éléments de :
+    description : 16 major events of 1958. From top to bottom, left to right: May 1958 crisis in France Munich air disaster Tennis for Two Expo 58 Instant noodles / Momofuku Ando 14 July Revolution 1958 Lebanon crisis 1958 Lituya Bay earthquake and megatsunami Typhoon Ida (1958) United Arab Republic 1958 FIFA World Cup Jack Kilby / Integrated circuit Second Taiwan Strait Crisis Great Leap Forward / Great Chinese Fa
+    catégories licence : CC-BY-4.0
+    catégories : 1958 events; Annual review collages; Attributed work; Files with broken file links
+
+[5] File:Highlights in Semiconductor Device Development (IA jresv86n6p565 A1b).pdf
+    taille 1035x1368 application/pdf 480 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Esaki, L.
+    crédit : Internet Archive identifier: jresv86n6p565_A1b https://archive.org/download/jresv86n6p565_A1b/jresv86n6p565_A1b.pdf
+    description : Journal of Research of the National Bureau of Standards Subjects: diode; field-effect transitor; IMPATT diode; integrated circuit; LASER; LED; photocell; solar cell; solid state; transitor; tunnel diode; III-V compounds.
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Bipolar junction transistors; Books uploaded by Fæ; Books without Wikidata item; Journal of Research of the National Bureau of Standards; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:RIT NandE Vol18Num3 1986 Oct9 Complete.pdf
+    taille 1650x2550 application/pdf 5889 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Rochester Institute of Technology
+    crédit : News & Events 1986 at the RIT Digital Archive
+    description : From News and Events, a newsletter published by the Rochester Institute of Technology (RIT)
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : 1986-10-09; Bruce Davidson (photographer); Frederic W. Goudy Award; Genesee River; Hiro (photographer); Images with extracted images; John Hromi; Matthew Carter; October 1986 in New York (state); RIT News and Events, 1986
+
+[7] File:R12-2 germanium integrated circuit structure, 1961-1962 RUS.svg
+    taille 1100x1500 image/svg+xml 46 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Retired electrician
+    crédit : Travail personnel based on drawings in https://www.electronics.ru/files/article_pdf/0/article_436_763.pdf
+    description : P12-2, the first Soviet production monolithic IC - a germanium 2NAND gate. Exactly who, when and how invented it remains a controversy. The first substantial batch was built at the Riga fab (later known as Alfa) in the end of 1961. Two, three or four such circuits were packaged into Kvant series micromodules that were used by Gnome airporne digital computers. All sizes in millimeters.
+    catégories licence : CC-Zero; Self-published work
+    catégories : R12-2; SVG electronics
+
+[8] File:Moore's Law Transistor Count 1970-2020.png
+    taille 3133x2318 image/png 540 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Max Roser, Hannah Ritchie
+    crédit : https://ourworldindata.org/uploads/2020/11/Transistor-Count-over-time.png
+    description : A logarithmic graph showing the timeline of how transistor counts in microchips are almost doubling every two years from 1970 to 2020; Moore's law.
+    catégories licence : CC-BY-4.0
+    catégories : Charts showing data through 2020; English-language charts; English-language statistical charts; Graph images that should use vector graphics; Moore's law charts; Our World in Data science and technological change charts; PNG that should use vector graphics
+
+[9] File:Lei de moore 2006.png
+    taille 1060x742 image/png 113 ko
+    licence : Public domain | pd |  -> OK
+    auteur : José Maria Silveira Neto
+    crédit : Created in Inkscape based on http://fr.wikipedia.org/wiki/Image:Loi_de_Moore.png but with a better desing and colors and in portuguese.
+    description : Graphic of Moore's Law, the graphic show the evolution of the number of transitors nos microchips Intel over the time.
+    catégories licence : PD-self; Self-published work
+    catégories : Graph images that should use vector graphics; Microprocessors diagrams; Moore's law charts; PNG that should use vector graphics; Portuguese text
+
+[10] File:Loi de Moore.png
+    taille 900x625 image/png 26 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Original téléversé par QcRef87 sur Wikipédia français.
+    crédit : Transféré de fr.wikipedia à Commons par Bloody-libu utilisant CommonsHelper.
+    description : Graphique (en ordonnées logarithmiques) illustrant la loi de Moore par rapport à l'évolution réelle du nombre de transistors dans les microprocesseurs Intel; en pointillés verts au-dessus, représentation de l'hypothèse selon laquelle ce nombre doublerait tous les 18 mois. Catégorie:Schémas
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : French-language charts; Intel; Moore's law charts
+
+[11] File:Ley de Moore.png
+    taille 800x556 image/png 21 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Seofilo
+    crédit : http://seofilo.com/que-es-la-ley-de-moore/
+    description : Ley de Moore
+    catégories licence : CC-BY-SA-4.0
+    catégories : Moore's law charts; Spanish-language charts
+
+[12] File:Transistor Count and Moore's Law - 2011 Estonian.png
+    taille 667x599 image/png 54 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Erkiv
+    crédit : Travail personnel
+    description : Edited the original file to have text in Estonian language.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Estonian text; Moore's law charts; Transistor diagrams
+
+[13] File:Fairchild uA791KC.jpg
+    taille 3000x2400 image/jpeg 8264 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Decapped integrated circuits; Fairchild integrated circuits; Focus stacking images of electronic components; Integrated circuit dies; Metal can integrated circuit packages; Photos by User:Mister rf; Wire bonding
+
+[14] File:ΜA791KC die.jpg
+    taille 2219x2812 image/jpeg 3709 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : μA791KC die The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Fairchild integrated circuits; Integrated circuit dies; Operational amplifier integrated circuits; Photos by User:Mister rf; Quality images; Wire bonding
+
+[15] File:UA791KC wire bonding.jpg
+    taille 3000x2400 image/jpeg 9002 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : The μA791 is a high performance monolithic Operational Amplifier constructed using the Fairchild Planar Epitaxial process, with input characteristics similar to the μA741 operational amplifier, and 1A available output current. It is intended for use in a wide variety of applications including audio amplifiers, servo amplifiers, and power supplies.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Fairchild integrated circuits; Focus stacking images of electronic components; Integrated circuit dies; Operational amplifier integrated circuits; Photos by User:Mister rf; Wire bonding
+
+[16] File:A study of transient radiation effects on the response of standard and radiation-hardened integrated-circuit operational amplifiers in an electron beam. (IA studyoftransient00enri).pdf
+    taille 1475x1927 application/pdf 3081 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Enright, Patric Stam
+    crédit : Internet Archive identifier: studyoftransient00enri https://archive.org/download/studyoftransient00enri/studyoftransient00enri.pdf
+    description : Bibliography: p. 50 ADA708393 Thesis (M.S. in E.E.)--Naval Postgraduate School, 1969 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

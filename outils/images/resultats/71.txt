@@ -1,0 +1,146 @@
+# carte 71 requêtes 12f8ed2176a7
+{"titres": ["File:Capsule, Mercury, MA-6.jpg"], "recherches": ["Friendship 7 capsule", "Friendship 7 Mercury", "IBM 7090"]}
+
+[1] File:Capsule, Mercury, MA-6.jpg
+    taille 5784x7543 image/jpeg 40340 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Smithsonian Institution
+    crédit : This file is part of the Smithsonian Institution's Open Access collection. Their website states: "We have released these images and data into the Public Domain as Creative Commons Zero (CC0), meaning 
+    description : Mercury Capsule, MA-6, Friendship 7 (A19670176000) on exhibit in Milestones of Flight Hall (Gallery 100), Smithsonian National Air and Space Museum, Washington, DC. June 17, 2016. Photo by Eric Long. [3T8A3715][NASM2016-02692]
+    catégories licence : CC-Zero; Images from the Smithsonian Institution
+    catégories : Friendship 7 at the National Air and Space Museum; United States photographs taken on 2016-06-17
+
+[2] File:John Glenn enters his Friendship 7 capsule - GPN-2006-000027.jpg
+    taille 1536x1084 image/jpeg 160 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA
+    crédit : Great Images in NASA Description
+    description : Project Mercury astronaut John H. Glenn, Jr. enters his Mercury Friendship 7 capsule before launch on February 20, 1962. At 9:47 a.m. (EST), hisAtlas launch vehicle lifted him into orbit for his flight lasting 4 hours, 55 minutes and 23 seconds. Onboard Friendship 7, Glenn became the first American to orbit the Earth, and the third American to fly in space. A faulty signal indicating a problem w
+    catégories licence : PD NASA
+    catégories : 1962 black and white photographs of people; Black and white photographs of Florida in the 1960s; Black and white photographs of men at work; Files from NASA with known IDs; Friendship 7; Great Images in NASA; Images from NASA with known IDs and broken source; John Glenn in 1962; Male people with headsets; Men at work in Florida; Men at work in the 1960s; Mercury-Atlas 6; United States photographs 
+
+[3] File:USS Noa (DD-841) hoists Friendship 7 capsule aboard 1962.jpg
+    taille 1367x667 image/jpeg 635 ko
+    licence : Public domain | pd |  -> OK
+    auteur : USN
+    crédit : U.S. Navy Naval Aviation News/[1] April 1962, p. 7.
+    description : The U.S. Navy destroyer USS Noa (DD-841) recovers the "Friendship 7" space capsule north of Haiti in the Atlantic Ocean on 20 February 1962.
+    catégories licence : CC-PD-Mark; PD US Navy
+    catégories : Files with coordinates missing SDC location of creation; Friendship 7; Photographs taken on 1962-02-20; Recovery of Mercury-Atlas 6; USS Noa (DD-841)
+
+[4] File:John Glenn's Mercury Capsule Friendship 7; 2-20-1962 (10437058365).jpg
+    taille 2592x3888 image/jpeg 1680 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Gary Todd from Xinzheng, China
+    crédit : John Glenn's Mercury Capsule Friendship 7; 2-20-1962
+    description : Air and Space Museum, Smithsonian Institution, Washington, D.C. Complete indexed photo collection at WorldHistoryPics.com.
+    catégories licence : CC-Zero
+    catégories : Files uploaded by Orizan; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2; Friendship 7 at the National Air and Space Museum; Photographs by Gary Lee Todd; Taken with Canon EOS 400D
+
+[5] File:John Glenn's Mercury Capsule Friendship 7; 2-20-1962 Flight (10437376455).jpg
+    taille 1591x1105 image/jpeg 346 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Gary Todd from Xinzheng, China
+    crédit : John Glenn's Mercury Capsule Friendship 7; 2-20-1962 Flight
+    description : Air and Space Museum, Smithsonian Institution, Washington, D.C. 1978 photo. Complete indexed photo collection at WorldHistoryPics.com.
+    catégories licence : CC-Zero
+    catégories : Files uploaded by Orizan; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2; Friendship 7 at the National Air and Space Museum; Photographs by Gary Lee Todd; Taken with Canon EOS 400D
+
+[6] File:John Glenn's Mercury Capsule Friendship 7; 2-20-1962 Flight (10437380775).jpg
+    taille 1600x1103 image/jpeg 351 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Gary Todd from Xinzheng, China
+    crédit : John Glenn's Mercury Capsule Friendship 7; 2-20-1962 Flight
+    description : Air and Space Museum, Smithsonian Institution, Washington, D.C. 1978 photo. Complete indexed photo collection at WorldHistoryPics.com.
+    catégories licence : CC-Zero
+    catégories : Files uploaded by Orizan; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2; Friendship 7 at the National Air and Space Museum; Photographs by Gary Lee Todd; Taken with Canon EOS 400D
+
+[7] File:View of Friendship 7 capsule on top of booster rocket (s62-00380).jpg
+    taille 2765x3744 image/jpeg 1172 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA Johnson Space Center
+    crédit : Cette image ou vidéo a été cataloguée par le Johnson Space Center de la National Aeronautics and Space Administration (NASA) des États-Unis sous Photo ID : s62-00380.
+    description : S62-00380 (20 Feb. 1962) --- Close-up view of the Mercury Atlas 6 (MA-6) Friendship 7 capsule on top of its booster rocket with catwalk still attached. Photo credit: NASA
+    catégories licence : PD NASA
+    catégories : Files from NASA with known IDs; Mercury-Atlas 6; NASA Library files uploaded by OptimusPrimeBot; United States photographs taken on 1962-02-20
+
+[8] File:Mercury "Friendship 7" Spacecraft (17874024464).jpg
+    taille 3000x2338 image/jpeg 978 ko
+    licence : No restrictions |  | https://www.flickr.com/commons/usage/ -> ?
+    auteur : NASA on The Commons
+    crédit : Mercury "Friendship 7" Spacecraft
+    description : (February 20, 1962) Astronaut John Glenn, first American to orbit the Earth, enters the Mercury "Friendship 7" Spacecraft during prelaunch preparations. Image # : S62-00371
+    catégories licence : 
+    catégories : 1962 black and white photographs of people; Black and white photographs of Florida in the 1960s; Files from Flickr's 'The Commons'; Files from NASA on The Commons Flickr stream; Files from NASA with known IDs; Flickr images reviewed by FlickreviewR; Friendship 7; John Glenn in 1962; Men wearing helmets in Florida; Mercury-Atlas 6; Mercury space suit; United States photographs taken on 1962-02-20
+
+[9] File:Friendship 7 insignia.jpg
+    taille 488x388 image/jpeg 19 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Painted by Cece Bibby while under contract with NASA
+    crédit : NASA
+    description : Mercury-Atlas 6 logo for John Glenn's Friendship 7 mission
+    catégories licence : PD NASA
+    catégories : Friendship (text); Friendship 7; Logo of Mercury-Atlas 6
+
+[10] File:John Glenn's Mercury-Atlas 6 Mission, 'Friendship 7' Pr2IsapvdaY.webm
+    taille 1280x720 video/webm 278017 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASAKennedy
+    crédit : YouTube : John Glenn's Mercury-Atlas 6 Mission, 'Friendship 7' – Voir/enregistrer des versions archivées sur archive.org
+    description : On Feb. 20. 1962, millions of Americans watched via television as astronaut John Glenn, strapped inside the spacecraft he named Friendship 7, lifted off from Cape Canaveral Air Force Station’s Launch Complex 14 on the Mercury Atlas-6 mission. During the four-hour, 55-minute flight, Glenn became the first American to orbit Earth.
+    catégories licence : License reviewed by YouTubeReviewBot; PD NASA
+    catégories : Media from YouTube; Mercury-Atlas 6; NASA videos in 2016; Videos from the NASAKennedy YouTube channel
+
+[11] File:Mercury 6, John H Glenn Jr.jpg
+    taille 4776x7376 image/jpeg 5033 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA Glenn Research Center (NASA-GRC)
+    crédit : Downloaded from the NASA NiX Digital Image Collection: ID: C-1999-00429
+    description : Astronaut John H. Glenn Jr. in his Mercury spacesuit. Image ID: S87-41328
+    catégories licence : PD NASA
+    catégories : 1962 portrait photographs of men; Files from NASA with known IDs; John Glenn in 1962; Male people with helmets; Men looking at viewer; Mercury-Atlas 6; Mercury space suit; Official portrait photographs of NASA
+
+[12] File:Mercury-Atlas 6 (Friendship 7) Flown One Dollar Bill.jpg
+    taille 3000x1360 image/jpeg 1207 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Bureau of Engraving and Printing
+    crédit : Heritage Auctions Lot 52024, 12 November 2014
+    description : Mercury-Atlas 6 (Friendship 7) Flown One Dollar Bill (6129-52024)
+    catégories licence : CC-BY-4.0; PD US money
+    catégories : 1 dollar Silver Certificates; 2015 User:Godot13; All Images by User:Godot13; HA uploaded by User:Godot13; Items with VRTS permission confirmed; Mercury-Atlas 6; Signatures on United States Banknotes
+
+[13] File:Friendship 7 (big).jpg
+    taille 3000x2077 image/jpeg 984 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA
+    crédit : http://mix.msfc.nasa.gov/abstracts.php?p=3077.
+    description : Astronaut John Glenn enters the Mercury spacecraft, Friendship 7, prior to the launch of MA-6 on February 20, 1962 and became the first American who orbited the Earth. The MA-6 mission was the first manned orbital flight boosted by the Mercury-Atlas vehicle, a modified Atlas ICBM (Intercontinental Ballistic Missile), lasted for five hours, and orbited the Earth three times.
+    catégories licence : PD NASA
+    catégories : Files from NASA with known IDs; Friendship 7; John Glenn in 1962; Men at work in Florida; Men at work in the 1960s; Mercury-Atlas 6; Mercury space suit; United States photographs taken on 1962-02-20
+
+[14] File:IBM 7090 computer.jpg
+    taille 2566x2009 image/jpeg 2907 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA Ames Research Center / Emerson Shaw
+    crédit : Cette image ou vidéo a été cataloguée par l'Ames Research Center de la National Aeronautics and Space Administration (NASA) des États-Unis sous Photo ID : ARC-1961-A-28284.
+    description : IBM 7090 computer and personnel: L-R: R Smith, IBM; Smith DeFrance, Ames; H Funk, IBM; Marcie Chartz Smith, Ames; D Swartz, IBM; discuss installation of computer at Ames.
+    catégories licence : PD NASA; Smith DeFrance
+    catégories : 1961 in California; Ames Research Center; Files from NASA with known IDs; Half inch tape drives; IBM 7090; IBM 729; NASA Library files uploaded by OptimusPrimeBot; People using computers in the 1960s; Photographs taken on 1961-09-06; Photographs taken on 1961-09-20; September 1961 in the United States
+
+[15] File:IBM 7094 console2.agr.JPG
+    taille 3264x2448 image/jpeg 1901 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Operator's console for an IBM 7094 computer at the w:Computer History Museum in w:Mountain View, California
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Computer consoles; Computers in the Computer History Museum; Files with coordinates missing SDC location of creation; IBM 7090; Images by Arnold Reinhold; Taken with iPhone 4S
+
+[16] File:IBM 7094 console3.agr.jpg
+    taille 4032x3024 image/jpeg 6850 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : IBM 7094 operators console, circa 1962. Box on top adds displays for additional index registers. The 36 poker switches along the front represent one 36-bit word. The six gray rockers above them and to the right were called sense switces and could be interrogated by user programs, including in Fortran. There are four sense lights near the emergency off switch that were also controllable by software
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Collections of the Computer History Museum; Files with coordinates missing SDC location of creation; IBM 7090; Images by Arnold Reinhold

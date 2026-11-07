@@ -1,0 +1,92 @@
+# carte 58 requêtes f3623e2075cb
+{"titres": ["File:Deep Blue.jpg"], "recherches": ["Deep Blue IBM chess computer", "Deep Blue Kasparov 1997 game", "Deep Blue computer"]}
+
+[1] File:Deep Blue.jpg
+    taille 400x601 image/jpeg 94 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : James the photographer
+    crédit : https://www.flickr.com/photos/22453761@N00/592436598/
+    description : Deep Blue, a computer similar to this one defeated chess world champion Garry Kasparov in May 1997. It is the first computer to win a match against a world champion. Photo taken at the Computer History Museum.
+    catégories licence : CC-BY-2.0
+    catégories : Computers in the Computer History Museum; Deep Blue; Flickr images reviewed by trusted users; History of robotics; Taken with Canon EOS 300D
+
+[2] File:Say hello to Deep Blue (2586059148).jpg
+    taille 2112x2816 image/jpeg 3575 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Erik Pitti from San Diego, CA, USA
+    crédit : Say hello to Deep Blue
+    description : <a href="http://en.wikipedia.org/wiki/IBM_Deep_Blue">Deep Blue</a> is the computer that in 1997 bested <a href="http://en.wikipedia.org/wiki/Garry_Kasparov">Garry Kasparov</a> at chess.
+    catégories licence : CC-BY-2.0
+    catégories : Computers in the Computer History Museum; Deep Blue; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2
+
+[3] File:Deep Blue versus Kasparov, 1997, Game 6.gif
+    taille 800x800 image/gif 1980 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Morn
+    crédit : Travail personnel
+    description : Animation of Deep Blue versus Kasparov
+    catégories licence : CC-Zero; Self-published work
+    catégories : Animated GIF files; Animated GIF files of chess diagrams; Deep Blue; Garry Kasparov; PNG created with Python code
+
+[4] File:One of Deep Blue's processors (2586060990).jpg
+    taille 2067x2756 image/jpeg 653 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Erik Pitti from San Diego, CA, USA
+    crédit : One of Deep Blue's processors
+    description : <a href="http://en.wikipedia.org/wiki/IBM_Deep_Blue">Deep Blue</a> is the computer that in 1997 bested <a href="http://en.wikipedia.org/wiki/Garry_Kasparov">Garry Kasparov</a> at chess.
+    catégories licence : CC-BY-2.0
+    catégories : Computers in the Computer History Museum; Deep Blue; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2
+
+[5] File:Deep Blue versus Kasparov, 1996, Game 1.gif
+    taille 800x800 image/gif 3476 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Morn
+    crédit : Travail personnel
+    description : Animation of Deep Blue versus Kasparov
+    catégories licence : CC-Zero; Self-published work
+    catégories : Animated GIF files; Animated GIF files of chess diagrams; Deep Blue; Garry Kasparov; PNG created with Python code
+
+[6] File:IBM Deep Blue at Computer History Museum (9361685537).jpg
+    taille 1067x1600 image/jpeg 435 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Anton Chiang from Cupertino, CA, USA
+    crédit : Computer History Museum
+    description : Computer History Museum
+    catégories licence : CC-BY-2.0
+    catégories : Computers in the Computer History Museum; Deep Blue; Flickr images reviewed by FlickreviewR 2
+
+[7] File:Garri kasparow 20070318.jpg
+    taille 1000x999 image/jpeg 361 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Elke Wetzig (Elya)
+    crédit : Travail personnel
+    description : Garry Kasparov, russian chess grandmaster and politician, in Cologne, Germany
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Black and white portrait photographs of men; Cologne photographs taken on 2007-03-18; Garry Kasparov in 2007; Lit.Cologne 2007; Personality rights warning
+
+[8] File:Geschichte des PCs 1969-2021 001 20210828.webm
+    taille 7680x4320 video/webm 439642 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : PantheraLeo1359531 😺 (d) / Andere: File:Gigabyte GeForce RTX 3090 Eagle OC 24G, 24576 MiB GDDR6X Front Transparent 20201116.png, File:Gigabyte_GeForce_RTX_3090_Eagle_OC_24G,_24576_MiB_GDDR6X_Front_Tra
+    crédit : Travail personnel/Andere: File:Gigabyte GeForce RTX 3090 Eagle OC 24G, 24576 MiB GDDR6X Front Transparent 20201116.png, File:Gigabyte_GeForce_RTX_3090_Eagle_OC_24G,_24576_MiB_GDDR6X_Front_Transparent_
+    description : Teil 1 von "Geschichte des PCs 1969-2021".
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Science and technology timelines; Uploaded with video2commons; Videos created by PantheraLeo1359531; Videos of history of computing
+
+[9] File:Preparing for the Future of Artificial Intelligence.pdf
+    taille 1275x1650 application/pdf 1192 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Executive Office of the President, Office of Science and Technology Policy
+    crédit : https://obamawhitehouse.archives.gov/sites/default/files/whitehouse_files/microsites/ostp/NSTC/preparing_for_the_future_of_ai.pdf
+    description : 2016 report by the White House
+    catégories licence : CC-Zero; Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license; English-language PDF files; PD-USGov missing SDC copyright status
+    catégories : 2016-10-12; 2016 works in the United States; Artificial intelligence in the United States; Executive Office of the President files; Office of Science and Technology Policy
+
+[10] File:06December2006.pdf
+    taille 1275x1650 application/pdf 139 ko
+    licence : CC BY 2.5 | cc-by-2.5 | https://creativecommons.org/licenses/by/2.5 -> OK
+    auteur : Wikinews contributors
+    crédit : Wikinews
+    description : Wikinews Print Edition
+    catégories licence : CC-BY-2.5; CC-BY-SA-3.0; Copyright by Wikimedia; Licensing templates based on Mbox; Print Edition (PDF)
+    catégories : December 2006; Printedition; Trademarks and logos of Wikimedia

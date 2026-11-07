@@ -1,0 +1,146 @@
+# carte 75 requêtes 8d3dfbab3ceb
+{"recherches": ["Gender Shades", "facial recognition bias", "algorithmic bias", "facial recognition system"]}
+
+[1] File:Female lions dozing.jpg
+    taille 4032x3024 image/jpeg 1416 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : TrudiJ
+    crédit : Travail personnel
+    description : Lions at the Rhino & Lion Nature Reserve, Kromdraai, Krugersdorp, South Africa
+    catégories licence : CC-Zero; Self-published work
+    catégories : 3 Panthera leo; Animals lying in tree shades; Lying Panthera leo; Panthera leo (families, captive); Rhino and Lion Nature Reserve; Taken with iPhone 7 (main camera); White lions in zoos
+
+[2] File:Unsafe areas for women in india.png
+    taille 1000x1167 image/png 158 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Genetics4good
+    crédit : Travail personnel
+    description : Map showing the safety for women in various states in India, as well as the safety ranking for the largest agglomorations. The map was made based on the Female Safety Index (FSI) in the Well_Being Index India Report 2013 made by Tata Strategic Management Group.[1] States: light green: greatest safety yellow: medium safety light red: least safety I should be noted that the color patterns (light red
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Crimes against women; Feminism and health; Gender-based violence; Maps of states of India; Violence against women; Violence maps; Women of India
+
+[3] File:French genders, rules and exceptions; (IA frenchgendersrul00grim).pdf
+    taille 581x904 application/pdf 2233 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Grimshaw, Robert, [from old catalog] Comp
+    crédit : Internet Archive identifier: frenchgendersrul00grim https://archive.org/download/frenchgendersrul00grim/frenchgendersrul00grim.pdf
+    description : Subjects: French language
+    catégories licence : PD US expired
+    catégories : Books from New York (state); Books in the Library of Congress; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:Pride flag Serbia basic.png
+    taille 5400x3600 image/png 563 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ImStevan
+    crédit : Travail personnel
+    description : The coat of arms of Serbia overlaid onto the pride flag, where colors have been altered to resemble the shades used on the Serbian flag
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Flags of Serbia; LGBTQ in Serbia; LGBT pride flags of Serbia; LGBT symbols status
+
+[5] File:Corrélation taxon genre.png
+    taille 638x436 image/png 18 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : LoCap
+    crédit : Travail personnel
+    description : Schéma montrant les corrélations existant entre les variables taille et longueur des cheveux, au sein des groupes (ou de l'échantillon entier). Source: Black and White or Shades of Gray: Are Gender Differences Categorical or Dimensional? Harry T. Reis and Bobbi J. Carothers; 2014.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Taxon genre
+
+[6] File:Portal Transgender.svg
+    taille 136x117 image/svg+xml 13 ko
+    licence : CC BY-SA 2.5 | cc-by-sa-2.5 | https://creativecommons.org/licenses/by-sa/2.5 -> OK
+    auteur : File:Portal LGBT.svg: Grzegorz Wysocki
+    crédit : File:Portal LGBT.svg
+    description : A portal icon for en:Portal:Transgender, based on File:Portal LGBT.svg. Gradient from pink (feminine) to blue (masculine) (and shades in-between) to represent the spectrum of gender identity.
+    catégories licence : CC-BY-SA-2.5; Self-published work
+    catégories : Transgender symbols; Uploaded with derivativeFX; Valid SVG created with CorelDRAW:Icons; WikiProject LGBT artwork; Wikipedia portals; Wikipedia puzzle piece icons
+
+[7] File:Two sources of bias explain errors in facial age estimation.pdf
+    taille 1085x1575 application/pdf 680 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Clifford, Colin W. G.; Watson, Tamara L.; White, David
+    crédit : https://doi.org/10.1098/rsos.180841 via PubMed Central FTP
+    description : Clifford, Colin W. G.; Watson, Tamara L.; White, David (2018). "Two sources of bias explain errors in facial age estimation". Royal Society Open Science. 5 (10): 180841. doi:10.1098/rsos.180841. ISSN 2054-5703. PMC 6227935. PMID 30473833. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 10; Uploaded by DaxBot needing category review
+
+[8] File:Are affective factors related to individual differences in facial expression recognition?.pdf
+    taille 1085x1575 application/pdf 569 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Alharbi, Sarah A. H.; Button, Katherine; Zhang, Lingshan; O'Shea, Kieran J.; Fasolt, Vanessa; Lee, Anthony J.; DeBruine, Lisa M.; Jones, Benedict C.
+    crédit : https://doi.org/10.1098/rsos.190699 via PubMed Central FTP
+    description : Alharbi, Sarah A. H.; Button, Katherine; Zhang, Lingshan; O'Shea, Kieran J.; Fasolt, Vanessa; Lee, Anthony J.; DeBruine, Lisa M.; Jones, Benedict C. (2020). "Are affective factors related to individual differences in facial expression recognition?". Royal Society Open Science. 7 (9): 190699. doi:10.1098/rsos.190699. ISSN 2054-5703. PMC 7540805. PMID 33047005. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 9; Uploaded by DaxBot needing category review
+
+[9] File:Chimpanzee fathers bias their behaviour towards their offspring.pdf
+    taille 1085x1575 application/pdf 473 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Murray, Carson M.; Stanton, Margaret A.; Lonsdorf, Elizabeth V.; Wroblewski, Emily E.; Pusey, Anne E.
+    crédit : https://doi.org/10.1098/rsos.160441 via PubMed Central FTP
+    description : Murray, Carson M.; Stanton, Margaret A.; Lonsdorf, Elizabeth V.; Wroblewski, Emily E.; Pusey, Anne E. (2016). "Chimpanzee fathers bias their behaviour towards their offspring". Royal Society Open Science. 3 (11): 160441. doi:10.1098/rsos.160441. ISSN 2054-5703. PMC 5180124. PMID 28018626. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Intrasexual competition; Research articles about Pan troglodytes; Royal Society Open Science Journal Volume 3 Issue 11; Uploaded by DaxBot needing category review
+
+[10] File:Goats prefer positive human emotional facial expressions.pdf
+    taille 1085x1575 application/pdf 460 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Nawroth, Christian; Albuquerque, Natalia; Savalli, Carine; Single, Marie-Sophie; McElligott, Alan G.
+    crédit : https://doi.org/10.1098/rsos.180491 via PubMed Central FTP
+    description : Nawroth, Christian; Albuquerque, Natalia; Savalli, Carine; Single, Marie-Sophie; McElligott, Alan G. (2018). "Goats prefer positive human emotional facial expressions". Royal Society Open Science. 5 (8): 180491. doi:10.1098/rsos.180491. ISSN 2054-5703. PMC 6124102. PMID 30225038. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 8; Uploaded by DaxBot needing category review
+
+[11] File:Older adults detect happy facial expressions less rapidly.pdf
+    taille 1085x1575 application/pdf 542 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Saito, Akie; Sato, Wataru; Yoshikawa, Sakiko
+    crédit : https://doi.org/10.1098/rsos.191715 via PubMed Central FTP
+    description : Saito, Akie; Sato, Wataru; Yoshikawa, Sakiko (2020). "Older adults detect happy facial expressions less rapidly". Royal Society Open Science. 7 (3): 191715. doi:10.1098/rsos.191715. ISSN 2054-5703. PMC 7137944. PMID 32269799. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 3; Uploaded by DaxBot needing category review
+
+[12] File:Tasman-PCR - a genetic diagnostic assay for Tasmanian devil facial tumour diseases.pdf
+    taille 1085x1575 application/pdf 1032 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Kwon, Young Mi; Stammnitz, Maximilian R.; Wang, Jinhong; Swift, Kate; Knowles, Graeme W.; Pye, Ruth J.; Kreiss, Alexandre; Peck, Sarah; Fox, Samantha; Pemberton, David; Jones, Menna E.; Hamede, Rodrig
+    crédit : https://doi.org/10.1098/rsos.180870 via PubMed Central FTP
+    description : Kwon, Young Mi; Stammnitz, Maximilian R.; Wang, Jinhong; Swift, Kate; Knowles, Graeme W.; Pye, Ruth J.; Kreiss, Alexandre; Peck, Sarah; Fox, Samantha; Pemberton, David; Jones, Menna E.; Hamede, Rodrigo; Murchison, Elizabeth P. (2018). "Tasman-PCR: a genetic diagnostic assay for Tasmanian devil facial tumour diseases". Royal Society Open Science. 5 (10): 180870. doi:10.1098/rsos.180870. ISSN 2054-5
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 5 Issue 10; Uploaded by DaxBot needing category review
+
+[13] File:Ethics of Open Sharing icon - Algorithmic bias.svg
+    taille 512x512 image/svg+xml 2 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Julius Uusikylä // KRUT Collective
+    crédit : Ethics of Open Sharing
+    description : Ethics of Open Sharing icon - Algorithmic bias
+    catégories licence : CC-Zero
+    catégories : Ethics of Open Sharing playing cards
+
+[14] File:The vicious cycle of bias across society, data, algorithms, and healthcare.png
+    taille 685x682 image/png 268 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Chakradeo, K., Huynh, I., Balaganeshan, S.B. et al. Navigating fairness aspects of clinical prediction models. BMC Med 23, 567 (2025). https://doi.org/10.1186/s12916-025-04340-3
+    crédit : Navigating fairness aspects of clinical prediction models - https://doi.org/10.1186/s12916-025-04340-3
+    description : The vicious cycle of bias across society, data, algorithms, and healthcare
+    catégories licence : CC-BY-4.0
+    catégories : WikiProject Hearing Health
+
+[15] File:Neutral bots probe political bias on social media.pdf
+    taille 1239x1629 application/pdf 1850 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Wen Chen, Diogo Pacheco, Kai-Cheng Yang & Filippo Menczer
+    crédit : https://www.nature.com/articles/s41467-021-25738-6
+    description : Social media platforms attempting to curb abuse and misinformation have been accused of political bias. We deploy neutral social bots who start following different news sources on Twitter, and track them to probe distinct biases emerging from platform mechanisms versus user interactions. We find no strong or consistent evidence of political bias in the news feed. Despite this, the news and informa
+    catégories licence : CC-BY-4.0; English-language PDF files
+    catégories : 2021-09-22; Bias; Criticism of Twitter; Nature (2021)
+
+[16] File:Wikipedia - Confirmation bias (spoken by AI voice).mp3
+    taille 0x0 audio/mpeg 51504 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Authors of the Wikipedia article (also the AI tools - see SoniTranslate readme)
+    crédit : The Wikipedia article narrated by SoniTranslate tools as described in Help:Spoken Wikipedia using AI; voice en-US-BrianMultilingualNeural
+    description : Confirmation bias narrated by AI-generated voice using SoniTranslate as described here
+    catégories licence : CC-BY-SA-4.0; PD-algorithm
+    catégories : AI-generated voice; Audio versions of Wikipedia articles from 2024; Cognitive biases; Spoken Wikipedia articles using English-language speech synthesis

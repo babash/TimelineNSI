@@ -1,0 +1,146 @@
+# carte 59 requêtes 216677802eaf
+{"recherches": ["AlphaGo Lee Sedol game", "Lee Sedol AlphaGo game 4", "AlphaGo", "Go board game"]}
+
+[1] File:Lee Sedol (W) vs AlphaGo (B) - Game 2.svg
+    taille 341x375 image/svg+xml 523 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (W) vs AlphaGo (B) - Game 2 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: Black wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[2] File:Lee Sedol (B) vs AlphaGo (W) - Game 1.svg
+    taille 341x357 image/svg+xml 446 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[3] File:Lee Sedol (B) vs AlphaGo (W) - Game 4.jpg
+    taille 568x625 image/jpeg 279 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 4 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[4] File:Lee Sedol (B) vs AlphaGo (W) - Game 5.svg
+    taille 426x491 image/svg+xml 892 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 5 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[5] File:Lee Sedol (B) vs AlphaGo (W) - Game 5 - BW.svg
+    taille 418x483 image/svg+xml 890 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 5 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[6] File:Lee Sedol (B) vs AlphaGo (W) - Game 4 - BW.svg
+    taille 418x461 image/svg+xml 542 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[7] File:Lee Sedol (W) vs AlphaGo (B) - Game 4.svg
+    taille 426x469 image/svg+xml 543 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wesalius
+    crédit : Travail personnel
+    description : Lee Sedol (B) vs AlphaGo (W) - Game 1 Komi: 7.50 Time: 2h0min 3x1min byo-yomi Result: White wins by resignation Rules: Chinese
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Lee Sedol's games
+
+[8] File:AlphaGo computer rack.jpg
+    taille 4080x3072 image/jpeg 6744 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Immigrant laborer
+    crédit : Travail personnel
+    description : Decommissioned AlphaGo backend rack
+    catégories licence : CC-Zero; Self-published work
+    catégories : AlphaGo; Computers; Files with coordinates missing SDC location of creation
+
+[9] File:AlphaGo.svg
+    taille 820x215 image/svg+xml 6 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : englische Wikipedia
+    description : Logo von AlphaGo
+    catégories licence : PD textlogo
+    catégories : AlphaGo; Invalid SVG created with Inkscape:Text logos; SVG text logos; Template Unknown (author); With trademark
+
+[10] File:Alphago logo Original.svg
+    taille 820x215 image/svg+xml 3 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Google DeepMind
+    crédit : Google DeepMind AlphaGo Logo
+    description : Vector tracing of Google DeepMind's AlphaGo project. Consists of a swirl surrounded by twelve alternating black and white circular stones arranged in a circular array. Swirl dimensions are set so that central circle is the same diameter as one stone and the outer circle diameter is three stones. Swirl "arms" are semicircular with diameter is two stones. Text logo is set in Open Sans with custom ke
+    catégories licence : PD textlogo
+    catégories : AlphaGo; Files with derivative versions; Logos of Google products; SVG logos of Google; SVG text logos
+
+[11] File:Alphago logo Reversed.svg
+    taille 820x215 image/svg+xml 3 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Google DeepMind
+    crédit : Google DeepMind AlphaGo Logo
+    description : Vector tracing of Google DeepMind's AlphaGo project. Consists of a swirl surrounded by twelve alternating black and white circular stones arranged in a circular array. Swirl dimensions are set so that central circle is the same diameter as one stone and the outer circle diameter is three stones. Swirl "arms" are semicircular with diameter is two stones. Text logo is set in Open Sans with custom ke
+    catégories licence : PD textlogo
+    catégories : AlphaGo; Derivative versions; Files with derivative versions; Logos of Google products; SVG logos of Google; SVG text logos
+
+[12] File:Alphago logo Outlines.svg
+    taille 820x215 image/svg+xml 6 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Google DeepMind
+    crédit : Google DeepMind AlphaGo Logo
+    description : Vector tracing of Google DeepMind's AlphaGo project. Consists of a swirl surrounded by twelve alternating black and white circular stones arranged in a circular array. Swirl dimensions are set so that central circle is the same diameter as one stone and the outer circle diameter is three stones. Swirl "arms" are semicircular with diameter is two stones. Text logo is set in Open Sans with custom ke
+    catégories licence : PD textlogo
+    catégories : AlphaGo; Derivative versions; Files with derivative versions; Logos of Google products; SVG logos of Google; SVG text logos
+
+[13] File:AlphaGo Fan Huiren aurka.png
+    taille 381x381 image/png 21 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Xabi22
+    crédit : Travail personnel
+    description : AlphaGo adimen artifizialeko programak Fan Hui Go jokalariaren aurka egin zuen 4. partiduaren (2015eko urriaren 8an) 2. zatia.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : AlphaGo's games; Game artificial intelligence
+
+[14] File:Go game board.jpg
+    taille 5184x2920 image/jpeg 6109 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Culture Japon
+    crédit : Travail personnel
+    description : Plateau de go, lors d'un tournoi à Toulouse, France, 5 novembre 2022
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : F-number f/2.8; Go (game); Lens focal length 35 mm; Taken with Panasonic Lumix DC-GH5
+
+[15] File:Go board diagram image.png
+    taille 20x20 image/png 0 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Botessa
+    crédit : Travail personnel
+    description : Ponnuki
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Go (game)
+
+[16] File:Go board.jpg
+    taille 600x317 image/jpeg 103 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Donarreiskoffer
+    crédit : Photographie personnelle
+    description : Go board, at a Go-weekend, Hoge Rielen, Belgium
+    catégories licence : CC-BY-SA-3.0-migrated-with-disclaimers; GFDL-en; License migration completed
+    catégories : Goban; Images with extracted images

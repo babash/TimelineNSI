@@ -1,0 +1,146 @@
+# carte 25 requêtes 0b43c11c3acf
+{"recherches": ["AES SubBytes", "AES ShiftRows MixColumns", "AES encryption diagram", "Rijndael"]}
+
+[1] File:AES-SubBytes-ar.svg
+    taille 810x420 image/svg+xml 111 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : AES-SubBytes.svg
+    description : SubBytes operation for AES
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Computer science charts and diagrams Lab-ar; Derivative versions; SVG retouched pictures; Works by Michel Bakni
+
+[2] File:AES-SubBytes.svg
+    taille 810x420 image/svg+xml 68 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Matt Crypto
+    crédit : Travail personnel
+    description : SubBytes operation for AES
+    catégories licence : PD-self; Self-published work
+    catégories : Advanced Encryption Standard; Translation possible - SVG; Valid SVG created with Inkscape
+
+[3] File:AES (Rijndael) Round Function.png
+    taille 640x960 image/png 9 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : John Savard
+    crédit : https://www.eng.tau.ac.il/~yash/crypto-netsec/rijndael.htm
+    description : Each regular round involves four steps. First is the Byte Sub step, where each byte of the block is replaced by its substitute in an S-box. Next is the Shift Row step, followed by the Mix Column step. Matrix multiplication is performed. The final step is Add Round Key. This simply XORs in the subkey for the current round.
+    catégories licence : CC-Zero
+    catégories : Advanced Encryption Standard; PNG that should use vector graphics; Technology images that should use vector graphics
+
+[4] File:Computational algebraic attacks on the Advanced Encryption Standard (AES) (IA computationallge109454546).pdf
+    taille 1275x1650 application/pdf 654 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Mantzouris, Panteleimon
+    crédit : Internet Archive identifier: computationallge109454546 https://archive.org/download/computationallge109454546/computationallge109454546.pdf
+    description : This thesis examines the vulnerability of the Advanced Encryption Standard (AES) to algebraic attacks. It will explore how strong the Rijndael algorithm must be in order to secure important federal information. There are several algebraic methods of attack that can be used to break a specific cipher, such as Buchburger's and Faugere's F4 and F5 methods. The method to be used and evaluated in this 
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; IA books copyright review automatically suggested; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:Roman military diploma160.jpg
+    taille 1434x1710 image/jpeg 799 ko
+    licence : Public domain | pd |  -> OK
+    auteur : אור_פ - אור פ sur Wikipédia hébreu
+    crédit : Taken by אור פ sur Wikipédia hébreu
+    description : דיפלומה צבאית רומית משנת 160 לספירה מהפרובינקיה סוריה-פלסטינה, הדיפלומה שייכת לחייל ביחידות העזר שהתגייס 25 שנה לפני כן, בשנת 135 לספירה, בסוף מרד בר כוכבא. הדיפלומה הזו ועוד 3 דיפלומות נוספות משנת 160, מצביעות על אבידות כבדות לצבא הרומאי בזמן מרד בר כוכבא. הדיפלומה עצמה נמצאת במוזיאון הכט, ותפורסם על ידי וורנר אק וחנה כותן
+    catégories licence : PD-user
+    catégories : Military diploma issued to Galata Tatae filius; Taken with Sony Ericsson C902
+
+[6] File:Roman military diploma- 90 - judaea.jpg
+    taille 1822x1176 image/jpeg 273 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : אור פ - אור פ sur Wikipédia hébreu.
+    crédit : Taken by אור פ sur Wikipédia hébreu.
+    description : דיפלומה צבאית רומית משנת 90 לספירה מהפרובינקיה יהודה בזמן שלטונו של הנציב טיטוס פומפוניוס באסוס. הדיפלומה שייכת לחייל ביחידות העזר שהתגייס 25 שנה לפני כן, בשנת 65 לספירה. הדיפלומה הזו ועוד 6 דיפלומות נוספות מהשנים 86 - 87, מהוות את מקור המידע ליחידות העזר בפרובינקית יהודה במאה הראשונה לספירה. הדיפלומה עצמה נמצאת במוזיאון ישראל
+    catégories licence : CC-BY-SA-3.0
+    catégories : 90; 90s bronzes; Ancient Roman bronzes in Israel; Ancient Roman inscriptions in Israel; RMD 5, 00332; Second Temple period in Israel Museum
+
+[7] File:Report on the development of the Advanced Encryption Standard (AES) (IA jresv106n3p511).pdf
+    taille 1200x1650 application/pdf 1726 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Nechvatal, J. Barker, E. Foti, J. Bassham, L. Burr, W. Dworkin, M.
+    crédit : Internet Archive identifier: jresv106n3p511 https://archive.org/download/jresv106n3p511/jresv106n3p511_A1b.pdf
+    description : Journal of Research of the National Institute of Standards and Technology Subjects: cryptographic algorithms; Advanced Encryption Standard (AES); cryptography; cryptanalysis
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Journal of Research of the National Institute of Standards and Technology; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[8] File:Conference Report- FIRST ADVANCED ENCRYPTION STANDARD (AES) CANDIDATE CONFERENCE, Ventura, CA, August 20-22, 1998 (IA jresv104n1p97).pdf
+    taille 1200x1575 application/pdf 300 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Roback, Edward Dworkin, Morris
+    crédit : Internet Archive identifier: jresv104n1p97 https://archive.org/download/jresv104n1p97/jresv104n1p97_A1b.pdf
+    description : Journal of Research of the National Institute of Standards and Technology Subjects: Conference Report
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Journal of Research of the National Institute of Standards and Technology; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[9] File:Solving multi-variate polynomial equations in a finite field (IA solvingmultivari1094534756).pdf
+    taille 1275x1650 application/pdf 3193 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Vanatta, Natalie
+    crédit : Internet Archive identifier: solvingmultivari1094534756 https://archive.org/download/solvingmultivari1094534756/solvingmultivari1094534756.pdf
+    description : Solving large systems of multivariate polynomial equations is an active area of mathematical research, as these polynomials are used in many fields of science. The objective of this research is to advance the development of algebraic methods to attack the mathematical foundations of modern-day encryption methods, which can be modeled as a system of multivariate polynomial equations over a finite f
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:বাংলাদেশ গেজেট, সাপ্তাহিক, ১ম সপ্তাহ, মার্চ ২০১৯ - খণ্ড ৪ (পেটেন্ট অফিসের প্রজ্ঞাপন).pdf
+    taille 1275x2100 application/pdf 484 ko
+    licence : EdictGov-Bangladesh |  |  -> ?
+    auteur : Government of Bangladesh
+    crédit : dpp.gov.bd (archive)
+    description : Notifications etc., issued by the Patent office other than those included in part-I.
+    catégories licence : 
+    catégories : Bangladesh Weekly Gazette 2019 - Patent office notifications; Uploaded with pypan
+
+[11] File:AES-ShiftRows-ar.svg
+    taille 810x300 image/svg+xml 181 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : AES-ShiftRows.svg
+    description : ShiftRows operation for AES.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Computer science charts and diagrams Lab-ar; Derivative versions; SVG retouched pictures; Works by Michel Bakni
+
+[12] File:AES-MixColumns-ar.svg
+    taille 810x430 image/svg+xml 104 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : AES-MixColumns.svg
+    description : MixColumns operation for AES
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Computer science charts and diagrams Lab-ar; Derivative versions; SVG retouched pictures; Works by Michel Bakni
+
+[13] File:Advanced Encryption Standard InfoBox Diagram.png
+    taille 800x388 image/png 95 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : PD-user
+    catégories : Advanced Encryption Standard; Files with no machine-readable author; Files with no machine-readable source; Media missing infobox template
+
+[14] File:AES (Rijndael) Round Function-ar.png
+    taille 734x909 image/png 38 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : AES (Rijndael) Round Function.png
+    description : مخطط يشرح خطوات معيار التعمية المتقدم
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Computer science charts and diagrams Lab-ar; Derivative versions; Retouched pictures; Works by Michel Bakni
+
+[15] File:CCMP Encryption Working Block Diagram.pdf
+    taille 2156x1237 application/pdf 74 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Cipher swami
+    crédit : Travail personnel
+    description : Working of Counter Mode CBC MAC Protocol Block Diagram
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Network security
+
+[16] File:GCMP Encryption Working Block Diagram.pdf
+    taille 1947x1220 application/pdf 70 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Cipher swami
+    crédit : Travail personnel
+    description : Working of Galois Counter Mode Protocol Block Diagram
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Advanced Encryption Standard; Network security

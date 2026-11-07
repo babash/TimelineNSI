@@ -1,0 +1,146 @@
+# carte 72 requêtes 61c84476594a
+{"recherches": ["tf-idf", "inverse document frequency", "Karen Spärck Jones", "search engine index"]}
+
+[1] File:Tf-idf of some words in some articles.jpg
+    taille 2710x1467 image/jpeg 101 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Ladsgroup
+    crédit : Travail personnel
+    description : Suming over w:tf-idf of 66 words in articles of Persian Wikipedia that has at least one of these words. the 66 words are words like 'his majesty' that can show unbalanced point of view.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Persian Wikipedia statistics
+
+[2] File:Tf-idf.jpg
+    taille 575x222 image/jpeg 17 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Ferran.gonzalo.sergio
+    crédit : Travail personnel
+    description : gràfic tf-idf
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Computational linguistics; Files using the Catalan language
+
+[3] File:Blog fingerprinting identifying anonymous posts written by an author of interest using word and character frequency analysis (IA blogfingerprinti109454522).pdf
+    taille 1275x1650 application/pdf 448 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Dreier, David J.
+    crédit : Internet Archive identifier: blogfingerprinti109454522 https://archive.org/download/blogfingerprinti109454522/blogfingerprinti109454522.pdf
+    description : Internet blogs are an easily accessible means of global communications. Monitoring blogs for criminal and terrorist activity is a serious challenge, due to blogs' anonymous nature and the sheer volume of data. The intelligence community is often faced with more information than it can process. The need exists to develop methods for processing the massive amounts of data this media presents, withou
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:Dichterstimmen der Gegenwart - Eine Sammlung vom Felde der deutsche Lyrik seit 1850 (IA bub gb tfEOAAAAIAAJ).pdf
+    taille 433x625 application/pdf 17958 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Weller, Karl
+    crédit : Internet Archive identifier: bub_gb_tfEOAAAAIAAJ https://archive.org/download/bub_gb_tfEOAAAAIAAJ/bub_gb_tfEOAAAAIAAJ.pdf IA contributor: unknown library IA digitizing sponsor: Google
+    description : Subjects: bub_upload
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:A Framework for Generating Extractive Summary from Multiple Malayalam Documents.pdf
+    taille 1239x1752 application/pdf 553 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : K. Manju, S. David Peter and Sumam Mary Idicula
+    crédit : https://mdpi-res.com/d_attachment/information/information-12-00041/article_deploy/information-12-00041.pdf?version=1610977715 https://www.mdpi.com/2078-2489/12/1/41
+    description : Scholarly article "A Framework for Generating Extractive Summary from Multiple Malayalam Documents" on MDPI journal information
+    catégories licence : CC-BY-4.0
+    catégories : 2023 scientific journals; Scholarly articles about the Malayalam language
+
+[6] File:Sloan SDAW Final Grant Report 2023.pdf
+    taille 1275x1650 application/pdf 9553 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : CBogen (WMF)
+    crédit : Travail personnel
+    description : Structured Data Across Wikimedia: Final Report for the Sloan Foundation
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Alfred P. Sloan Foundation; Structured Data Across Wikimedia; Structured Data on Commons; Wikimedia Foundation documents
+
+[7] File:Comparison of the step frequency radar with the conventional constant frequency radars (IA comparisonofstep1094531981).pdf
+    taille 1275x1650 application/pdf 1965 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Geladakis, Dimitrios N.
+    crédit : Internet Archive identifier: comparisonofstep1094531981 https://archive.org/download/comparisonofstep1094531981/comparisonofstep1094531981.pdf
+    description : In this thesis, the Step Frequency radar system is compared with the conventional Constant Frequency. radar system. The two radar systems are separately analyzed and their analyses are followed by a comparison which is mainly based upon their effectiveness to detect moving targets in clutter. The step frequency waveform consists of a series of pulses whose pulse width is constant and whose carrier
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books about radar; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[8] File:Application of Multi-Frequency Modulation (MFM) for high-speed data communications to a voice frequency channel (IA applicationofmul1094534823).pdf
+    taille 1275x1650 application/pdf 3366 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Salsman, Charles P.
+    crédit : Internet Archive identifier: applicationofmul1094534823 https://archive.org/download/applicationofmul1094534823/applicationofmul1094534823.pdf
+    description : Multi-Frequency Modulation (MFM) has been developed at NPS using both differential quadrature-phase-shift-keying (DQPSK) and differential-quadrature- amplitude-modulation (DQAM) encoding formats. Previous applications of these encoding formats were on industry standard computers (PC) over a 16-20 kHz channel. This report discusses the implementation of MFM to a voice frequency channel of 200-3400 
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[9] File:Radar target imaging by time-domain inverse scattering. (IA radartargetimagi00mora).pdf
+    taille 1131x1608 application/pdf 4841 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Morag, Meir
+    crédit : Internet Archive identifier: radartargetimagi00mora https://archive.org/download/radartargetimagi00mora/radartargetimagi00mora.pdf
+    description : ADA102660 Bibliography: l. 138-139 Thesis (M.S. in E.E.)--Naval Postgraduate School, 1981 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:The measurement of frequency and frequency stability of precision oscillators (IA measurementoffre669alla).pdf
+    taille 1110x1487 application/pdf 1676 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Allan, David W.
+    crédit : Internet Archive identifier: measurementoffre669alla https://archive.org/download/measurementoffre669alla/measurementoffre669alla.pdf
+    description : Subjects: Frequency stability.; Frequencies of oscillating systems.
+    catégories licence : CC-PD-Mark; PD-USGov missing SDC copyright status; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:Karen Spärck.jpg
+    taille 576x768 image/jpeg 61 ko
+    licence : CC BY 2.5 | cc-by-2.5 | https://creativecommons.org/licenses/by/2.5 -> OK
+    auteur : en:user:Markus Kuhn
+    crédit : http://en.wikipedia.org/wiki/Image:Karen_Sp%C3%A4rck_Jones.jpg
+    description : Prof. Karen Spärck Jones, photographed in summer 2002 in front of the University of Cambridge Computer Laboratory
+    catégories licence : CC-BY-2.5
+    catégories : Karen Spärck Jones; Personality rights warning
+
+[12] File:The thirteenth text REtrieval conference, TREC 2004 (IA thirteenthtextre5002voor).pdf
+    taille 1222x1614 application/pdf 7913 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Voorhes, Ellen M. Buckland, Lori P.
+    crédit : Internet Archive identifier: thirteenthtextre5002voor https://archive.org/download/thirteenthtextre5002voor/thirteenthtextre5002voor.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:On the Dangers of Stochastic Parrots Can Language Models Be Too Big.pdf
+    taille 1275x1650 application/pdf 297 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Emily M. Bender, Timnit Gebru, Angelina McMillan-Major, Shmargaret Shmitchell
+    crédit : https://dl.acm.org/doi/abs/10.1145/3442188.3445922 https://doi.org/10.1145/3442188
+    description : The past 3 years of work in NLP have been characterized by the development and deployment of ever larger language models, especially for English. BERT, its variants, GPT-2/3, and others, most recently Switch-C, have pushed the boundaries of the possible both through architectural innovations and through sheer size. Using these pretrained models and the methodology of fine-tuning them for specific 
+    catégories licence : CC-BY-4.0
+    catégories : Machine learning research
+
+[14] File:The fourth text REtrieval conference (IA fourthtextretrie5002harm).pdf
+    taille 1254x1637 application/pdf 44373 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Harman, D.K.
+    crédit : Internet Archive identifier: fourthtextretrie5002harm https://archive.org/download/fourthtextretrie5002harm/fourthtextretrie5002harm.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; National Institute of Standards and Technology Special Publications; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:The eleventh text REtrieval conference, TREC 2002 (IA eleventhtextretr5002voor).pdf
+    taille 1260x1654 application/pdf 81011 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Voorhees, Ellen M. Buckland, Lori P.
+    crédit : Internet Archive identifier: eleventhtextretr5002voor https://archive.org/download/eleventhtextretr5002voor/eleventhtextretr5002voor.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[16] File:The first text REtrieval conference (TREC-1) (IA firsttextretriev5002harm).pdf
+    taille 1254x1631 application/pdf 29517 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Harman, D.K.
+    crédit : Internet Archive identifier: firsttextretriev5002harm https://archive.org/download/firsttextretriev5002harm/firsttextretriev5002harm.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; National Institute of Standards and Technology Special Publications; Scans from the Internet Archive; Scans from the Internet Archive/unverified

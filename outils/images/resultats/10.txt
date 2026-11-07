@@ -1,0 +1,101 @@
+# carte 10 requêtes 063bebcfdc21
+{"recherches": ["Jacquard loom punched cards", "métier Jacquard cartes perforées", "Jacquard loom museum"]}
+
+[1] File:A Jacquard loom showing information punchcards, National Museum of Scotland.jpg
+    taille 3088x2056 image/jpeg 3651 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Stephencdickson
+    crédit : Travail personnel
+    description : A Jacquard loom showing information punchcards, National Museum of Scotland
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Jacquard looms; Punched cards of Jacquard looms
+
+[2] File:Jacquard loom in Varanasi.jpg
+    taille 686x1024 image/jpeg 403 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Ramón from Llanera, España
+    crédit : Barrio musulmán de Varanasi 014
+    description : Jacquard loom in Varanasi
+    catégories licence : CC-BY-SA-2.0
+    catégories : Economy of Varanasi; Files with coordinates missing SDC location of creation; Flickr images reviewed by trusted users; Handlooms in India; Jacquard looms; Punched cards of Jacquard looms
+
+[3] File:Jacquard loom, 6 of 6.jpg
+    taille 480x640 image/jpeg 123 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : GeorgeOnline
+    crédit : Travail personnel
+    description : Picture of a Jacquard loom on display at the Museum of Science and Industry in Manchester, England.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation (53° N, 3° W); Jacquard looms; Punched cards of Jacquard looms; Taken with Olympus C-830L / D-340R; Textile machines in the Museum of Science and Industry in Manchester
+
+[4] File:NMS Jacquard loom 2.JPG
+    taille 2736x3648 image/jpeg 4754 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Ad Meskens
+    crédit : Travail personnel
+    description : Jacquard loom in the National Museum of Scotland, Edinburgh.
+    catégories licence : Attribution only license; CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Files with coordinates missing SDC location of creation (55° N, 4° W); Jacquard looms; Punched cards of Jacquard looms; Renaissance to Modern objects in the National Museum of Scotland; Taken with Panasonic Lumix DMC-FZ50; Technology in the National Museum of Scotland
+
+[5] File:Van Phuc loom punch cards 02.jpg
+    taille 1536x2048 image/jpeg 1409 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dragfyre
+    crédit : Travail personnel
+    description : Punch cards used in a Jacquard silk loom at a workshop in Van Phuc silk village, Hanoi, Vietnam.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Files with coordinates missing SDC location of creation; Jacquard looms; Photos of Hanoi by Dragfyre; Punch cards; Punched cards of Jacquard looms; Silk weaving in Vietnam; Taken with iPhone 3GS; Vạn Phúc Village
+
+[6] File:Hand-driven-jacquard-loom.jpg
+    taille 1500x2000 image/jpeg 3802 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Edal Anton Lefterov
+    crédit : Travail personnel
+    description : Austrian hand-driven Jacquard loom, end of 19th century, now in the National Museum of the Textile Industry, Sliven, Bulgaria
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Human-powered looms; Jacquard looms; Museum of textile industry, Sliven; Punched cards of Jacquard looms
+
+[7] File:Joseph Marie Jacquard (LYON )1752-1834 (39835548410).jpg
+    taille 3461x4543 image/jpeg 5008 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Sylvie burr
+    crédit : Joseph Marie Jacquard (LYON )1752-1834
+    description : Fils d'un maître-fabricant en soie, il exerce de nombreuses professions dont certaines sont liées à la soie, mais également à l'imprimerie. Ayant étudié seul la mécanique, il met au point, en 1801, le métier à tisser Jacquard, dit métier Jacquard[1]. Dans la continuité des travaux de Jacques de Vaucanson, il équipe son métier d'un mécanisme sélectionnant les fils de chaîne à l'aide d'un programme 
+    catégories licence : CC-Zero
+    catégories : Birds on sculptures; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2; Statue of Joseph Marie Jacquard (Lyon)
+
+[8] File:Punched cards J1.jpg
+    taille 5132x3384 image/jpeg 17154 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Jamain
+    crédit : Travail personnel
+    description : Cartes perforées pour métier à tisser, dans l’ancienne usine textile (tissus d’ameublement) Vanoutryve, rue du phénix à Mouscron, Belgique. À l’époque de la photo, magasin d’usine.
+    catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Industrial heritage in Mouscron; Punched cards of Jacquard looms; Textile industry in Belgium
+
+[9] File:The Bridewell Museum - Jacquard weaving loom - geograph.org.uk - 5864904.jpg
+    taille 800x600 image/jpeg 127 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Evelyn Simak
+    crédit : Geograph Britain and Ireland
+    description : The Bridewell Museum - Jacquard weaving loom
+    catégories licence : CC-BY-SA-2.0
+    catégories : Images from Geograph Britain and Ireland; Jacquard loom at the Museum of Norwich at the Bridewell
+
+[10] File:Jacquard-Webstuhl Museum Tuch und Technik.jpg
+    taille 6000x8000 image/jpeg 11220 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sn KGS
+    crédit : Travail personnel
+    description : Ein Jacquard-Webstuhl. Links im Bild sind die aufgereihten Lochkarten zu sehen, in denen das Webmuster codiert ist, im Vordergrund der gewebte Stoff.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Jacquard looms; Looms in Germany; Neumünster
+
+[11] File:Jacquard loom exhibited at La Fonderie, Brussels Museum of Industry and Labour.JPG
+    taille 1688x3008 image/jpeg 1143 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : NearEMPTiness
+    crédit : Travail personnel
+    description : Jacquard loom exhibited at La Fonderie, Brussels Museum of Industry and Labour
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Jacquard looms; La Fonderie

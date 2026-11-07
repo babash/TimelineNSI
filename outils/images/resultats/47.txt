@@ -1,0 +1,128 @@
+# carte 47 requêtes 436b127c7b9c
+{"titres": ["File:Ethernet RJ45 connector p1160054.jpg"], "recherches": ["Ethernet Metcalfe sketch", "10BASE5 thick Ethernet transceiver", "Ethernet cable RJ45", "Ethernet"]}
+
+[1] File:Ethernet RJ45 connector p1160054.jpg
+    taille 1540x1193 image/jpeg 176 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : David.Monniaux (étant donné la revendication de droit d’auteur).
+    crédit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
+    description : 'RJ45' 8P8C connector and category-5 wire Copyright © 2007 David Monniaux
+    catégories licence : CC-BY-SA-2.0-FR; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Assumed own work; Category 5 cables; Files with no machine-readable source; Photographs taken on 2007-01-21; U/UTP
+
+[2] File:State of the MEL computing and networking infrastructure (IA stateofmelcomput5956fowl).pdf
+    taille 1239x1639 application/pdf 2510 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Fowler, Deborah Nickerson
+    crédit : Internet Archive identifier: stateofmelcomput5956fowl https://archive.org/download/stateofmelcomput5956fowl/stateofmelcomput5956fowl.pdf
+    description : Subjects: Manufacturing Engineering Laboratory (U.S.); Manufacturing Engineering Laboratory (U.S.)--Computer systems--Evaluation
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[3] File:Analysis of the Naval Postgraduate School computer network architecture (IA analysisofnavalp1094530582).pdf
+    taille 1275x1650 application/pdf 9135 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Wiedenhoeft, Paul Eric
+    crédit : Internet Archive identifier: analysisofnavalp1094530582 https://archive.org/download/analysisofnavalp1094530582/analysisofnavalp1094530582.pdf
+    description : The computer network on the Naval Postgraduate School campus has become an integral part of the operations of the Naval Postgraduate School organization. An analysis of the network architecture will help formulate strategic plans that will support the network and the Naval Postgraduate School to the end of the century. This study describes the Naval Postgraduate School computer network architectur
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:RJ45 Ethernet Cable.jpg
+    taille 1024x768 image/jpeg 307 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Khairil Yusof from Malaysia
+    crédit : RJ45 Ethernet Cable
+    description : RJ45 Ethernet Cable
+    catégories licence : CC-BY-2.0
+    catégories : Flickr images reviewed by FlickreviewR; Twisted-pair ethernet cables
+
+[5] File:Assemblaggio cavo RJ45 passo 3.jpg
+    taille 3000x4000 image/jpeg 297 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Giacomo Alessandroni
+    crédit : Travail personnel
+    description : Assemblaggio cavo RJ45 passo 3
+    catégories licence : CC-BY-SA-4.0; Self-published work; WMIT Wiki-imparare ITIS Urbino Foto; WMIT Wiki-imparare ITIS Urbino by 2020
+    catégories : Crimping of electrical connections; Ethernet; Files with coordinates missing SDC location of creation; Images by User:Galessandroni; RJ-45 using a keyed 8P8C connector; Twisted-pair ethernet cables
+
+[6] File:Assemblaggio cavo RJ45 passo 14.jpg
+    taille 3000x4000 image/jpeg 370 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Giacomo Alessandroni
+    crédit : Travail personnel
+    description : Assemblaggio cavo RJ45 passo 14
+    catégories licence : CC-BY-SA-4.0; Self-published work; WMIT Wiki-imparare ITIS Urbino Foto; WMIT Wiki-imparare ITIS Urbino by 2020
+    catégories : Crimping of electrical connections; Ethernet; Files with coordinates missing SDC location of creation; Images by User:Galessandroni; RJ-45 using a keyed 8P8C connector; Twisted-pair ethernet cables
+
+[7] File:Assemblaggio cavo RJ45 passo 11.jpg
+    taille 3000x4000 image/jpeg 270 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Giacomo Alessandroni
+    crédit : Travail personnel
+    description : Assemblaggio cavo RJ45 passo 11
+    catégories licence : CC-BY-SA-4.0; Self-published work; WMIT Wiki-imparare ITIS Urbino Foto; WMIT Wiki-imparare ITIS Urbino by 2020
+    catégories : Crimping of electrical connections; Ethernet; Files with coordinates missing SDC location of creation; Images by User:Galessandroni; RJ-45 using a keyed 8P8C connector; Twisted-pair ethernet cables
+
+[8] File:Assemblaggio cavo RJ45 passo 2.jpg
+    taille 3000x4000 image/jpeg 270 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Giacomo Alessandroni
+    crédit : Travail personnel
+    description : Assemblaggio cavo RJ45 passo 2
+    catégories licence : CC-BY-SA-4.0; Self-published work; WMIT Wiki-imparare ITIS Urbino Foto; WMIT Wiki-imparare ITIS Urbino by 2020
+    catégories : Crimping of electrical connections; Ethernet; Files with coordinates missing SDC location of creation; Images by User:Galessandroni; RJ-45 using a keyed 8P8C connector; Twisted-pair ethernet cables
+
+[9] File:Patch cable with RJ45 connector.jpg
+    taille 3024x4032 image/jpeg 4090 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : www.heimnetzwerke.net
+    crédit : https://www.heimnetzwerke.net/heimnetzwerk-mediathek/
+    description : Patch cable with RJ45 connector
+    catégories licence : CC-BY-4.0
+    catégories : Items with VRTS permission confirmed; Modular connector 8P8C ("RJ-45") shielded; Twisted-pair ethernet cables
+
+[10] File:RJ-45 Ethernet socket on Lenovo T410 Laptop (cropped).jpg
+    taille 1778x1088 image/jpeg 371 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Pittigrilli
+    crédit : Travail personnel
+    description : Ethernet RJ-45 socket (center) on left side of Lenovo Thinkpad T410 Laptop from year 2010. To the left a small part of the VGA port with fastening screw hole, to the right (upper) the display port connector, to the right (lower) a USB 2.0 port.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computer interfaces; Detailed views of Lenovo ThinkPad T410; Ethernet socket outlets; Extracted images; Interface icons; Location withheld; RJ-45 using a keyed 8P8C connector; Taken with iPhone 6S; ThinkPad Interfaces
+
+[11] File:Ethernet Connection.jpg
+    taille 2592x1944 image/jpeg 1816 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Someone's Moving Castle
+    crédit : Template:Revathi
+    description : A laptop with Ethernet connection
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Ethernet Powerlink; Modular connectors; Taken with Nikon Coolpix S620; U/UTP
+
+[12] File:Ethernet connector.webp
+    taille 3227x1885 image/webp 814 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Wikideas1
+    crédit : Travail personnel
+    description : Ethernet connector
+    catégories licence : CC-Zero; Self-published work
+    catégories : Close-up photographs; Ethernet cables; U/UTP
+
+[13] File:Ethernet port inside wall installation.jpg
+    taille 3120x4160 image/jpeg 1979 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sonny doe
+    crédit : Travail personnel
+    description : Probably used for internet/phone connection inside a room.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Ethernet; Files with coordinates missing SDC location of creation
+
+[14] File:M12X vs 8P8C ethernet connectors.webp
+    taille 934x1632 image/webp 62 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Anordal
+    crédit : Travail personnel
+    description : Two ends of a 10 gigabit Cat.6 ethernet cable with different connectors: Screw connector: M12 X-coded (aka. M12X) is a 12mm hollow metal screw containing a metal tube divided into a cross. The tube and the cross shields one pair of pins in each quadrant. A square peg (visible in the nearest quadrant) ensures correct orientation. The connector type is mechanically stronger than the 8P8C modular con
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Ethernet cables; IEC metric screw sized connectors

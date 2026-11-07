@@ -1,0 +1,146 @@
+# carte 12 requêtes 883598900199
+{"recherches": ["Laws of Thought Boole 1854", "logic gates AND OR NOT", "Boolean algebra truth table", "Boole Investigation of the Laws of Thought"]}
+
+[1] File:An investigation of the laws of thought (microform) - on which are founded the mathematical theories of logic and probabilities (IA investigationofl00boolrich).pdf
+    taille 785x1256 application/pdf 28975 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Boole, George, 1815-1864
+    crédit : Internet Archive identifier: investigationofl00boolrich https://archive.org/download/investigationofl00boolrich/investigationofl00boolrich.pdf
+    description : Microfiche Subjects: Logic, Symbolic and mathematical; Thought and thinking; Probabilities
+    catégories licence : Books with Wikidata item missing accession number; PD US expired
+    catégories : Artworks digital representation of unclassified work; Books published in London; Books uploaded by Fæ; Books with Wikidata item; California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[2] File:Boole Laws of Thought 1854.png
+    taille 539x895 image/png 12 ko
+    licence : Public domain | pd |  -> OK
+    auteur : George Boole (1815-1864)
+    crédit : Google books: https://www.google.cat/books?id=SWgLVT0otY8C
+    description : Front cover of the first edition of Laws of Thought by Georege Boole (1854)
+    catégories licence : Author died more than 100 years ago public domain images; Author died more than 70 years ago public domain images; CC-PD-Mark; PD-old missing SDC copyright status
+    catégories : An Investigation of the Laws of Thought (1854)
+
+[3] File:An Investigation of the Laws of Thought (1854, Boole, investigationofl00boolrich).djvu
+    taille 2620x4190 image/vnd.djvu 15698 ko
+    licence : Public domain | pd |  -> OK
+    auteur : George Boole (1815–1864)
+    crédit : Internet Archive identifier: investigationofl00boolrich
+    description : Mathematical foundations of Logic
+    catégories licence : CC-PD-Mark; PD-old-100-expired
+    catégories : An Investigation of the Laws of Thought (1854); Books without Wikidata item; DjVu files in English; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:An Investigation of the Laws of thought, on which are Founded the Mathematical Theories of Logic and Probabilities (IA dli.granth.53518).pdf
+    taille 750x1154 application/pdf 17141 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Boole, George
+    crédit : Internet Archive identifier: dli.granth.53518 https://archive.org/download/dli.granth.53518/53518.pdf
+    description : Source: Asiatic Society of Mumbai Identifier: BK_00069764 Digitization Sponsor: Government of Maharashtra Original Source: <a href="https://granthsanjeevani.com/jspui/handle/123456789/53518" rel="nofollow">Item 53518</a> Subjects: Book; Mathematics; Granth Sanjeevani
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Bharat Ek Khoj; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:An investigation of the laws of thought, on which are founded the mathematical theories of logic and probabilities (IA bub gb SWgLVT0otY8C).pdf
+    taille 625x1029 application/pdf 35653 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Boole, George, 1815-1864
+    crédit : Internet Archive identifier: bub_gb_SWgLVT0otY8C https://archive.org/download/bub_gb_SWgLVT0otY8C/bub_gb_SWgLVT0otY8C.pdf IA contributor: Harvard University IA digitizing sponsor: Google
+    description : Subjects: bub_upload; Logic, Symbolic and mathematical; Thought and thinking; Probabilities
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:An Investigation Of The Laws Of Thought On Which Are Founded The Mathematical Theories Of Logic and Probabilities (IA dli.ernet.176726).pdf
+    taille 739x1172 application/pdf 41867 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: dli.ernet.176726 https://archive.org/download/dli.ernet.176726/176726-An%20Investigation%20Of%20The%20Laws%20Of%20Thought%20On%20Which%20Are%20Founded%20The%20Mathematical
+    description : Source: Digital Library of IndiaScanning Centre: IIAp, Bangalore Source Library: Indian Institute Of Asrophysics Date Accessioned: 7/7/2015 6:58 The Digital Library of India was a project under the auspices of the Government of India. Subjects: IIAp, Bangalore; DLI Top-Up
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Bharat Ek Khoj; Books uploaded by Fæ; Books without Wikidata item; Files with no machine-readable author; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:SF Golden Gate Bridge splash CA.jpg
+    taille 1606x3024 image/jpeg 1476 ko
+    licence : CC BY-SA 2.5 | cc-by-sa-2.5 | https://creativecommons.org/licenses/by-sa/2.5 -> OK
+    auteur : Daniel Schwen
+    crédit : Travail personnel
+    description : Le pont du Golden Gate vu de Fort Point par brouillard.
+    catégories licence : CC-BY-SA-2.5
+    catégories : Featured pictures by User:Dschwen; Featured pictures of the Golden Gate Bridge; Featured pictures on Wikimedia Commons; Files by User:Dschwen; Files with coordinates missing SDC location of creation; Golden Gate Bridge from Fort Point; Golden Gate Bridge in fog; Pictures of the Year (2006); Pictures of the Year (candidate); Pictures of the day (2006); Splashing water waves; United States photograp
+
+[8] File:Golden Gate bridge 3.jpg
+    taille 3072x4608 image/jpeg 2971 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sebring12Hrs
+    crédit : Travail personnel
+    description : Le pont du Golden Gate dans le brouillard, sur lequel circule voitures et piétons, vu depuis Vista Point, San Fransisco, États-Unis.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : August 2013 in San Francisco; Automobiles in San Francisco; California Historical Landmarks with known IDs; Clouds and blue sky in San Francisco; Featured pictures of the Golden Gate Bridge; Featured pictures on Wikimedia Commons; Files with coordinates missing SDC location of creation; Fog in San Francisco; Golden Gate Bridge from Vista Point; Golden Gate Bridge in 2013; Pedestrians in California
+
+[9] File:Golden Gate Bridge as seen from Marshall’s Beach, March 2018.jpg
+    taille 4861x2734 image/jpeg 10956 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Frank Schulenburg
+    crédit : Travail personnel
+    description : Golden Gate Bridge as seen from Marshall’s Beach, Presidio of San Francisco, in March 2018
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Exposure time 30 sec; Featured pictures by Frank Schulenburg; Featured pictures of the Golden Gate Bridge; Featured pictures on Wikimedia Commons; Files with coordinates missing SDC location of creation; Golden Gate Bridge from Marshall's Beach; Golden Gate Bridge in 2018; Information field template with formatting; Long exposures (clouds); Long exposures (water reflections); March 2018 in San Fra
+
+[10] File:Golden Gate Bridge at sunset 1.jpg
+    taille 2222x1481 image/jpeg 1405 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Brocken Inaglory
+    crédit : Travail personnel
+    description : Le Golden Gate Bridge, à San Francisco, en Californie (États-Unis), au coucher du soleil.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Commons featured widescreen desktop backgrounds; Featured pictures of the Golden Gate Bridge; Featured pictures on Wikimedia Commons; Golden Gate Bridge at sunset; Golden Gate Bridge in fog; Pictures of the Year/2010 (finalist); Pictures of the Year (2010); Pictures of the Year (candidate); Pictures of the Year (finalist); Pictures of the day (2012); Quality images; Quality images missing SDC crea
+
+[11] File:Brandenburg Gate Quadriga at Night.jpg
+    taille 3032x2274 image/jpeg 1587 ko
+    licence : CC BY-SA 2.5 | cc-by-sa-2.5 | https://creativecommons.org/licenses/by-sa/2.5 -> OK
+    auteur : א (Aleph) Creator: Johann Gottfried Schadow
+    crédit : Travail personnel
+    description : Gros plan nocturne sur le quadrige surmontant la porte de Brandebourg à Berlin (Allemagne). Cette oeuvre a été sculptée par Johann Gottfried Schadow en 1793.
+    catégories licence : CC-BY-SA-2.5
+    catégories : Brandenburg Gate at night; Brandenburg Gate in October 2006; Commons featured desktop backgrounds; Featured pictures of Berlin; Featured pictures of horses; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, English; Featured pictures on Wikipedia, German; Featured pictures on Wikipedia, Turkish; Files with coordinates missing SDC location of creation; Pictures of the Year (20
+
+[12] File:Online Logic Gates Simulator And Gate Truthtabletools com.png
+    taille 1322x903 image/png 90 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : LearnToRaise
+    crédit : Travail personnel
+    description : Online Logic Gates Simulator created using https://truthtabletools.com/gates/expression-simulator/
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Boolean algebra; Logic gates
+
+[13] File:On partitioning an arbitrarily given set of elements of a finite Boolean algebra into the minimum number of sets of compatible elements. (IA onpartitioningar00colw).pdf
+    taille 1216x1622 application/pdf 3180 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Colwell, Samuel C.
+    crédit : Internet Archive identifier: onpartitioningar00colw https://archive.org/download/onpartitioningar00colw/onpartitioningar00colw.pdf
+    description : ADA481271 Thesis (M.S. with major in Mathematics)--U.S. Naval Postgraduate School, 1964 Bibliography: p. 29-30 Subjects: Mathematics
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[14] File:3-ary noble Boolean functions.svg
+    taille 290x120 image/svg+xml 2 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Watchduck You can name the author as "T. Piesk", "Tilman Piesk" or "Watchduck".
+    crédit : Travail personnel
+    description : Walsh matrix The 16 fixed points in Zhegalkin permutation Ж3 (row 3 of A197819), which has length 256 (compare File:Zhegalkin 256; fixed.svg) Corresponding integers: 0, 30, 40, 54, 72, 86, 96, 126, 128, 158, 168, 182, 200, 214, 224, 254 The columns of the 8×16 matrix are the fixed points. The rows are Walsh functions, which can also be found in the Walsh matrix shown on the right. The 8×4 matrix o
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 3-ary noble Boolean functions; 8×16 matrices; 8×4 matrices; Pages using multiple image with auto scaled images; Selected columns of 8×256 Zhegalkin matrix; Valid SVG created with bin2svg
+
+[15] File:A set of five postulates for Boolean algebras in terms of the operation "exception" .. (IA setoffivepostula00tayl).pdf
+    taille 1012x1595 application/pdf 774 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Taylor, James Sturdevant, 1895-
+    crédit : Internet Archive identifier: setoffivepostula00tayl https://archive.org/download/setoffivepostula00tayl/setoffivepostula00tayl.pdf
+    description : Cover-title Thesis (Ph. D.)--University of California, 1918 University of California publications in mathematics, v. 1, no. 12, April 12, 1920, with special thesis t.-p. attached to cover-title Subjects: Logic, Symbolic and mathematical; Algebra
+    catégories licence : PD US expired
+    catégories : Books in the Library of Congress; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[16] File:Kurali bicim dogruluk tablosu tr.svg
+    taille 600x475 image/svg+xml 21 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Oğuz Ergin
+    crédit : Travail personnel
+    description : Truth table of F(x, y, z) = Σm(1, 2, 6, 7) and its two canonical forms, the sum of minterms and the product of maxterms (Turkish labels).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Boolean algebra; Turkish-language diagrams

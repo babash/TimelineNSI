@@ -1,0 +1,101 @@
+# carte 32 requêtes db00d647f46e
+{"titres": ["File:IBM PC 5150.jpg"], "recherches": ["IBM 5150 personal computer", "IBM PC 5150", "IBM Personal Computer 1981"]}
+
+[1] File:IBM PC 5150.jpg
+    taille 962x708 image/jpeg 397 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : CC-BY-SA-1.0; CC-BY-SA-3.0-migrated; Files tagged CC-by-sa-old; GFDL; License migration completed
+    catégories : Black display screens; Desktop computers with white background; Files with no machine-readable author; Files with no machine-readable source; IBM PC; MS-DOS; Media missing infobox template; Monochrome CRT monitors
+
+[2] File:IBM PC-IMG 7271.jpg
+    taille 5616x3744 image/jpeg 1071 ko
+    licence : CC BY-SA 2.0 fr | cc-by-sa-2.0-fr | https://creativecommons.org/licenses/by-sa/2.0/fr/deed.en -> OK
+    auteur : Rama & Musée Bolo
+    crédit : Travail personnel
+    description : IBM PC Exposé au Musée Bolo, EPFL, Lausanne.
+    catégories licence : CC-BY-SA-2.0-FR; Self-published work
+    catégories : All media supported by Wikimedia CH; CeCILL; Desktop computers with white background; IBM PC; Musée Bolo; Musée Bolo (2013) - Supported by Wikimedia CH; Quality Images of computers by Rama; Quality images; Quality images missing SDC creator; Quality images missing SDC depicts; Quality images missing SDC inception; Quality images of computer hardware; Quality images supported by Wikimedia CH; Taken
+
+[3] File:IBM 5150 Motherboard.svg
+    taille 512x363 image/svg+xml 6929 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Daniel Balsom
+    crédit : Travail personnel
+    description : A vector illustration of a reproduction IBM 5150 motherboard. Each chip has a text label with a brief description of the chip's function. The illustration depicts an 8087 FPU installed in the FPU socket and a full 256K of RAM. The motherboard depicted is a reproduction IBM 5150 motherboard designed by MTM Scientific, Inc. It is equivalent to a late-model IBM 5150 64K-256K motherboard, including th
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : IBM Personal Computer; Personal computer diagrams
+
+[4] File:Ibm pc 5150.jpg
+    taille 1920x1784 image/jpeg 436 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Ruben de Rijcke
+    crédit : Travail personnel
+    description : IBM Personal Computer model 5150 with monochrome phosphor monitor (model number 5151) and IBM PC keyboard.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Desktop computers with white background; IBM PC
+
+[5] File:IBM PC 5150 no monitor.jpg
+    taille 1280x960 image/jpeg 405 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Marcin Wichary
+    crédit : Flickr
+    description : The original IBM PC (IBM 5150). IBM PC 5150
+    catégories licence : CC-BY-2.0
+    catégories : Flickr images uploaded by Flickr upload bot; IBM PC; Information field template with formatting; Photographs by Marcin Wichary
+
+[6] File:IBM PC, 1981, Computer History Museum.jpg
+    taille 4729x2956 image/jpeg 3725 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : The wub
+    crédit : Travail personnel
+    description : IBM PC, 1981, Computer History Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computers in the Computer History Museum; IBM PC; Photographs by the wub; United States photographs taken on 2023-07-15
+
+[7] File:IBM PC-5150.JPG
+    taille 2048x1536 image/jpeg 1444 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Jordiferrer
+    crédit : Travail personnel
+    description : IBM PC-5150
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Computers in the National Museum of Science and Technology of Catalonia; IBM PC; Taken with Panasonic Lumix DMC-FX01
+
+[8] File:IBM PC 5150 (1).jpg
+    taille 4403x3158 image/jpeg 8367 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : edwardhblake
+    crédit : https://www.flickr.com/photos/eblake/24340135911/
+    description : Silicon City: Computer History Made in New York
+    catégories licence : CC-BY-2.0
+    catégories : Files from edwardhblake Flickr stream; Flickr images reviewed by FlickreviewR 2; IBM PC
+
+[9] File:IBM Personal Computer (1981).jpg
+    taille 3447x2585 image/jpeg 1602 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Federigo Federighi
+    crédit : Travail personnel
+    description : IBM Personal Computer del 1981 del Museo degli strumenti per il calcolo di Pisa ed esposto nella mostra Hello World! (2019-2020).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Exhibition Hello World!; IBM PC
+
+[10] File:IBM personal computer, 1981.jpg
+    taille 2982x3324 image/jpeg 4461 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Sailko
+    crédit : Travail personnel
+    description : Computers in the Museum of Computing Instruments of Pisa
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : All media supported by Wikimedia CH; Computers in the Museum of Computing Instruments of Pisa; IBM PC; Images by Sailko - Supported by Wikimedia CH; Photographs by User:Sailko; Photographs of decorative arts by User:Sailko - Computers
+
+[11] File:IBM Personal Computer badge recreation.svg
+    taille 141x141 image/svg+xml 22 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Own work (based on graphics by International Business Machines Corporation)
+    crédit : Own work, derived from various photographs of IBM PCs
+    description : Vector recreation of badge found on the front of IBM Personal Computers
+    catégories licence : PD textlogo
+    catégories : IBM PC; SVG logos of IBM; SVG text logos; With trademark

@@ -1,0 +1,92 @@
+# carte 62 requêtes 19875d9f1c02
+{"recherches": ["WannaCry", "Wana Decrypt0r screenshot", "WannaCry ransomware"]}
+
+[1] File:Countries initially affected in WannaCry ransomware attack.svg
+    taille 1104x566 image/svg+xml 1494 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : This SVG version is by TheAwesomeHwyh, original PNG version by User:Roke
+    crédit : Travail personnel
+    description : A SVG version of https://commons.wikimedia.org/wiki/File:Countries_initially_affected_in_WannaCry_ransomware_attack.png.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : WannaCry ransomware attack
+
+[2] File:Anthony Chang VOA.jpg
+    taille 854x480 image/jpeg 74 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Voice of America
+    crédit : https://www.voachinese.com/a/voaconnect-20170516-wannacry-virus/3853191.html
+    description : Chinese dissident Anthony Chang talked about WannaCry ransomware attack on Voice of America.
+    catégories licence : CC-PD-Mark; PD VOA
+    catégories : Tony Chang; WannaCry ransomware attack
+
+[3] File:WannaCry Virus Lock Logo.png
+    taille 136x135 image/png 17 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : The exact origin of this image is unknown. It is from the WannaCry Virus that spread in May, 2017. The image was extracted from a screenshot of the message that said virus produced.
+    description : This is the lock image from the iconic WannaCry virus that spread in May 2017. The virus generated a pop-up that included this image. On 12th of May 2017, the giant cyberattack with WannaCry took place. Over 230,000 Computers in 150 countries have been attacked by this virus. To this day it remains as one of the most damaging cyberattacks in history.
+    catégories licence : PD-US missing SDC copyright status; PD US
+    catégories : Computer viruses; Files with no machine-readable author; Media lacking author information; Padlocks in logos; Template Unknown (author)
+
+[4] File:Artur Sharifov WannaCry Explanation of buffer overflow.png
+    taille 1437x1211 image/png 1678 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Cardinalartur
+    crédit : Travail personnel
+    description : Artur Sharifov explains buffer overflow
+    catégories licence : CC-Zero; Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license; Self-published work; Self-published work missing SDC copyright license
+    catégories : Artur Sharifov
+
+[5] File:Briefing on the Attribution of the WannaCry Malware Attack to North Korea.webm
+    taille 1280x720 video/webm 169272 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Trump White House Archived
+    crédit : YouTube : Briefing on the Attribution of the WannaCry Malware Attack to North Korea – Voir/enregistrer des versions archivées sur archive.org
+    description : The White House
+    catégories licence : PD-USGov missing SDC copyright status
+    catégories : Executive Office of the President files; Files with closed captioning in English; Opus videos; Uploaded with video2commons; VP9 videos; Video display resolution 1920 x 1080; Videos by The White House posted on YouTube (Donald Trump, 2017-2021); Videos from YouTube; Videos in American English; Videos of 2017; Videos taken on 2017-12-19; Videos with English subtitles; WebM videos
+
+[6] File:2017-05-14 München, DB Automat WannaCry Hbf (freddy2001).jpg
+    taille 5701x3801 image/jpeg 16246 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : User:Freddy2001
+    crédit : Travail personnel
+    description : Ein Ticketautomat der Deutschen Bahn, aufgrund der WannaCry Attacke derzeit außer Betrieb.
+    catégories licence : CC-BY-SA-3.0; Files by Freddy2001 using Adobe CC software scholarship (supported by Wikimedia Deutschland); Self-published work
+    catégories : Images by Freddy2001; JWPCon 2017; May 2017 in Munich; München Hauptbahnhof (Schalterhalle vor dem Abbruch); Supported by Wikimedia Deutschland; Taken with Canon EOS 5D Mark III and Canon EF 24-105mm F4L IS USM; Ticket machines of Deutsche Bahn in Bavaria; Unassessed QI candidates; Uploaded with VicuñaUploader
+
+[7] File:An economic analysis of ransomware and its welfare consequences.pdf
+    taille 1085x1575 application/pdf 902 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Hernandez-Castro, J.; Cartwright, A.; Cartwright, E.
+    crédit : https://doi.org/10.1098/rsos.190023 via PubMed Central FTP
+    description : Hernandez-Castro, J.; Cartwright, A.; Cartwright, E. (2020). "An economic analysis of ransomware and its welfare consequences". Royal Society Open Science. 7 (3): 190023. doi:10.1098/rsos.190023. ISSN 2054-5703. PMC 7137935. PMID 32269778. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 3; Uploaded by DaxBot needing category review
+
+[8] File:DETECTING RANSOMWARE THROUGH POWER ANALYSIS (IA detectingransomw1094559721).pdf
+    taille 1275x1650 application/pdf 2439 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Melton, Jacob D.
+    crédit : Internet Archive identifier: detectingransomw1094559721 https://archive.org/download/detectingransomw1094559721/detectingransomw1094559721.pdf
+    description : Cyber criminals are increasingly using malicious programs to take control of and exploit individuals’, businesses’, and governments’ data. A large portion of malware is a type called ransomware, which finds a way to restrict the infected user’s access to data until a payment is obtained. Current detection solutions include programs that analyze file system changes and registry events, employ honey
+    catégories licence : CC-PD-Mark; IA books copyright review automatically suggested; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[9] File:Wannacry.png
+    taille 1425x625 image/png 18 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Razorfist
+    crédit : Travail personnel
+    description : الدول المصابة بفيروس واناكراي
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Uncategorized media with description in Arabic language
+
+[10] File:Countries initially affected in WannaCry ransomware attack.png
+    taille 1425x625 image/png 28 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : User:Roke
+    crédit : BlankMap-World-v2.png
+    description : Countries initially affected in WannaCry ransomware attack. The source says: "...countries affected in the first few hours of the cyber-attack..."
+    catégories licence : CC-BY-SA-3.0
+    catégories : Files uploaded by Anna Frodesiak; Internet-related maps of the world; Maps of the world without Antarctica; Vector version available; WannaCry ransomware attack

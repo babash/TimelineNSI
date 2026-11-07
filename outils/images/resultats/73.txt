@@ -1,0 +1,119 @@
+# carte 73 requêtes d15b9b01567c
+{"recherches": ["CLU programming language", "Barbara Liskov CLU", "abstract data type", "CLU Liskov"]}
+
+[1] File:Clu Gulager Marianna Hill The Tall Man.JPG
+    taille 898x1154 image/jpeg 282 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NBC Television
+    crédit : eBay item photo front photo back
+    description : Photo of Clu Gulager as Billy the Kid and Marianna Hill as his sweetheart, Rita, from the television program The Tall Man.
+    catégories licence : PD-US missing SDC copyright status; PD US no notice
+    catégories : Clu Gulager; Drama television series from the United States; Marianna Hill; Westerns
+
+[2] File:Clu Gulager (cropped) (cropped).jpg
+    taille 270x185 image/jpeg 10 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Michael Bugard from Ferndale, MI, United States
+    crédit : Motor City Nightmares Weekend 2015
+    description : Clu Gulager of "Return of the Living Dead" with John Russo of "Night of the Living Dead" in the background.
+    catégories licence : CC-BY-2.0
+    catégories : Black and white photographs of actors; Clu Gulager; Extracted images; Return of the Living Dead
+
+[3] File:Clu Gulager (cropped).jpg
+    taille 338x486 image/jpeg 29 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Michael Bugard from Ferndale, MI, United States
+    crédit : Motor City Nightmares Weekend 2015
+    description : Clu Gulager of "Return of the Living Dead" with John Russo of "Night of the Living Dead" in the background.
+    catégories licence : CC-BY-2.0
+    catégories : Black and white photographs of actors; Clu Gulager; Extracted images; Flickr images reviewed by FlickreviewR; Images with extracted images; Return of the Living Dead
+
+[4] File:Clu Gulager, circa 1962.png
+    taille 373x412 image/png 275 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : The Round Up, 1962, p. 25
+    description : Clu Gulager, pictured circa 1962
+    catégories licence : PD-US missing SDC copyright status; PD US no notice
+    catégories : Clu Gulager; Template Unknown (author); The Round Up (1962)
+
+[5] File:Federal Information Processing Standards Publication- reference manual for the ADA programming language (IA federalinformati119nati).pdf
+    taille 1247x1620 application/pdf 18704 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Bureau of Standards
+    crédit : Internet Archive identifier: federalinformati119nati https://archive.org/download/federalinformati119nati/federalinformati119nati.pdf
+    description : Subjects: Public administration -- Data processing; Electronic data processing -- Public administration
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Ada (programming language); Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:German Army EuroSpike MELLS CLU SPIKE LR at OpenDay Holzdorf 2024.jpg
+    taille 768x1024 image/jpeg 489 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Boevaya mashina
+    crédit : Travail personnel
+    description : German Army EuroSpike MELLS integrated command and launch unit for SPIKE LR anti-tank guided missile on display at the German Military Day at Holzdorf Air Base 2024
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Spike LR; Spike iCLU (Integrated Control Launch Unit); Spike missiles in German service; Tag der Bundeswehr 2024 (Holzdorf)
+
+[7] File:UML deque.svg
+    taille 161x183 image/svg+xml 3 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Frap
+    crédit : Travail personnel
+    description : It uses generics to specify the data type of which type of data to contain.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Abstract data types; Class diagrams; Double-ended queue; UML
+
+[8] File:AssociativeArray.tif
+    taille 572x208 image/tiff 42 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Strahil.ahilov
+    crédit : Travail personnel
+    description : Класическа подредба на ключ (име) и стойност (телефон).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Abstract data types
+
+[9] File:Abstract Data tool - function detail.png
+    taille 2880x2300 image/png 439 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : DSantamaria-WMF
+    crédit : Travail personnel
+    description : Screenshot of the Abstract Data tool (https://abstract-data.toolforge.org), a Wikimedia Toolforge tool that reports Wikifunctions and Abstract Wikipedia coverage: which abstract articles render in which languages, and what missing labels, lexemes, configurations and implementations are blocking the rest. This screenshot shows the detail page for one Wikifunctions function (Z26039): usage count, im
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Abstract Data tool
+
+[10] File:Abstract Data tool - language detail.png
+    taille 2880x1800 image/png 356 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : DSantamaria-WMF
+    crédit : Travail personnel
+    description : Screenshot of the Abstract Data tool (https://abstract-data.toolforge.org), a Wikimedia Toolforge tool that reports Wikifunctions and Abstract Wikipedia coverage: which abstract articles render in which languages, and what missing labels, lexemes, configurations and implementations are blocking the rest. This screenshot shows the detail page for a single language (Spanish): articles that render in
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Abstract Data tool
+
+[11] File:Data Queue-ar.svg
+    taille 384x176 image/svg+xml 71 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : Data Queue.svg
+    description : Diagram representing Data Queues
+    catégories licence : 
+    catégories : Computer science charts and diagrams Lab-ar; Derivative versions; Queue data structure; SVG retouched pictures; Works by Michel Bakni
+
+[12] File:Data Queue.svg
+    taille 405x265 image/svg+xml 6 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : This Image was created by User:Vegpuff. If you are using the image under the creative commons share alike license please credit the photo Vegpuff/Wikipedia and include a link to this page. No explicit
+    crédit : Travail personnel
+    description : Diagram representing Data Queues
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Multilingual SVG with up to 3 languages; Queue data structure; Translation possible - SVG; Vegpuff Gallery
+
+[13] File:Data abstraction, databases, and conceptual modelling (IA dataabstractiond5005brod).pdf
+    taille 1106x1545 application/pdf 5687 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Brodie, Michael L.
+    crédit : Internet Archive identifier: dataabstractiond5005brod https://archive.org/download/dataabstractiond5005brod/dataabstractiond5005brod.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

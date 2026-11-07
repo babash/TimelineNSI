@@ -1,0 +1,146 @@
+# carte 23 requêtes 2dcd5343653a
+{"recherches": ["public key encryption diagram", "RSA encryption", "asymmetric cryptography diagram", "public key cryptography"]}
+
+[1] File:Public key encryption-no.svg
+    taille 525x513 image/svg+xml 20 ko
+    licence : Public domain | pd |  -> OK
+    auteur : User:Davidgothberg and User:Stigmj
+    crédit : Image:Public_key_encryption.svg with translations
+    description : Public key encryption, translated to norwegian
+    catégories licence : PD-self; Self-published work
+    catégories : Norwegian-language SVG diagrams; Public-key cryptography
+
+[2] File:Symmetric key encryption-ar.svg
+    taille 505x413 image/svg+xml 125 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : Symmetric key encryption.svg
+    description : Diagram of symmetric/private key encryption
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computer science charts and diagrams Lab-ar; Derivative versions; SVG retouched pictures; Symmetric-key algorithms; Works by Michel Bakni
+
+[3] File:Public key encryption es.svg
+    taille 525x513 image/svg+xml 19 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Damian Finol
+    crédit : Traducción de Public_key_encryption.
+    description : Criptografía Asimétrica.
+    catégories licence : PD-self; Self-published work
+    catégories : Public-key cryptography; Spanish-language SVG diagrams; Valid SVG created with Inkscape:Diagrams
+
+[4] File:Public key encryption-tr.svg
+    taille 512x500 image/svg+xml 7 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Jelican9
+    crédit : Travail personnel
+    description : Public key encryption-tr
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Public-key cryptography; SVG cryptography diagrams; Turkish-language SVG diagrams
+
+[5] File:Public key encryption-ar.svg
+    taille 485x440 image/svg+xml 155 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Michel Bakni
+    crédit : Ce fichier est dérivé de : Public key encryption.svg
+    description : مثال عن التعمية بالمفتاح العام
+    catégories licence : CC-BY-4.0
+    catégories : Computer science charts and diagrams Lab-ar; Derivative versions; Public-key cryptography; SVG cryptography diagrams; SVG retouched pictures; Works by Michel Bakni
+
+[6] File:Public key encryption, transmission and decryption light-ru-rendered.svg
+    taille 500x150 image/svg+xml 111 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Vlsergey
+    crédit : Travail personnel
+    description : Public key encryption, transmission and decryption light (rendered)
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Public-key cryptography; Russian-language SVG diagrams; SVG cryptography diagrams
+
+[7] File:Public key encryption for rsa only key.jpg
+    taille 976x423 image/jpeg 40 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Shadowmasternew
+    crédit : Travail personnel
+    description : Схема для шифрования сеансового ключа
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Cryptography; RSA Security
+
+[8] File:Signify key2010.jpg
+    taille 3240x1380 image/jpeg 432 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Secretlondon
+    crédit : Travail personnel
+    description : A signify key which provides a changing number used for secure access to computer networks.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : RSA SecurID; Taken with Canon PowerShot A480
+
+[9] File:Shifrovannyi-tonnel-dlya-obsheniya-cherez-VK-(RSA--GreaseMonkey)-2-ukr.jpg
+    taille 719x445 image/jpeg 75 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Shifrovannyi-tonnel-dlya-obsheniya-cherez-VK-(RSA--GreaseMonkey)-2.jpg: Егор КС11 derivative work: Kirsim
+    crédit : Shifrovannyi-tonnel-dlya-obsheniya-cherez-VK-(RSA--GreaseMonkey)-2.jpg
+    description : How RSA encryption works (in Ukrainian).
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Files with broken file links; RSA Security
+
+[10] File:RSA Crypto Pad Demo.webm
+    taille 640x360 video/webm 1687 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Zgnf53r
+    crédit : Travail personnel
+    description : Showing how SSL encryption works over the internet.
+    catégories licence : CC-Zero; Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license; Self-published work; Self-published work missing SDC copyright license
+    catégories : Cryptography; Data security
+
+[11] File:Encryption spectrogram.png
+    taille 787x282 image/png 111 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Meghanriegel
+    crédit : Travail personnel
+    description : A spectrogram of a trace containing RSA encryption and decryption. Encryption and decryption are occurring at the dark purple lines in the graph.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Side-channel attack
+
+[12] File:RSA - Nombroteorio kaj kriptologio.pdf
+    taille 1275x1650 application/pdf 357 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Mia Nordentoft
+    crédit : https://miestasmia.com/b/rsa.pdf
+    description : RSA: Nombroteorio kaj kriptologio
+    catégories licence : CC-BY-4.0; Esperanto-language PDF files
+    catégories : Discrete mathematics; Mia Nordentoft
+
+[13] File:Asymmetric Cryptography.svg
+    taille 980x185 image/svg+xml 70 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Fleshgrinder and The People from The Tango! Desktop Project.
+    crédit : Travail personnel Tango! Desktop Project Dialog Warning Tango! Desktop Project Applications Internet Tango! Desktop Project File X-Generic Tango! Desktop Project System Lock Screen (only the padlock)
+    description : Simplified illustration of asymmetric/public key encryption. Font is Ubuntu Light and Bold
+    catégories licence : PD-user
+    catégories : Cryptography diagrams; Public-key cryptography; Valid SVG created with Other tools:Diagrams
+
+[14] File:Asymmetric signature algorithms.svg
+    taille 248x125 image/svg+xml 25 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sn KGS
+    crédit : Travail personnel
+    description : A cryptographic signature method uses three algorithms: G to generate a pair of secret and public key, S to sign a message with the secret key, and V to verify a signature with the public key.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Commons:Maint:Igen:T; Cryptographic algorithms; Digital signature; Public-key algorithms; Public-key cryptography; Valid SVG created with LaTeX code
+
+[15] File:Asymmetric encryption scheme.png
+    taille 1372x643 image/png 33 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : MarcT0K (icons by JGraph)
+    crédit : Travail personnel
+    description : Diagram presenting the encryption and the decryption of a document using asymmetric cryptography.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : Asymmetric key algorithms
+
+[16] File:Asymmetric encryption.png
+    taille 318x159 image/png 6 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Munkhzaya Ganbold
+    crédit : Travail personnel
+    description : Асемметрик түлхүүрийн шифрлэлт
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Cryptography diagrams; Symmetric-key algorithms

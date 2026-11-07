@@ -1,0 +1,146 @@
+# carte 20 requêtes 2026b855d4cb
+{"recherches": ["C programming language hello world", "Hello World Brian Kernighan", "PDP-11/20", "C programming language"]}
+
+[1] File:Hello World Brian Kernighan 1978.jpg
+    taille 3004x3293 image/jpeg 1100 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Brian Kernighan
+    crédit : https://www.artsy.net/artwork/brian-kernighan-hello-world
+    description : Un programme en langage C affichant « hello, world », suivi d'un retour à la ligne (\n), écrit et signé par Brian Kernighan en 1974.
+    catégories licence : CC-BY-SA-3.0
+    catégories : 1974 in information technology; Brian Kernighan; C programming; Hello World source code; Items with VRTS permission confirmed
+
+[2] File:C Hello World Program.png
+    taille 789x655 image/png 15 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Esquivalience
+    crédit : Travail personnel
+    description : Programme « Hello World » écrit en langage C.
+    catégories licence : CC-Zero; Self-published work
+    catégories : C (programming language)
+
+[3] File:Hello world c.svg
+    taille 805x201 image/svg+xml 21 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Shaddim
+    crédit : Travail personnel
+    description : Hello world source code example form 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version of hello world
+    catégories licence : CC-Zero; PD text; Self-published work
+    catégories : C (programming language); Hello World source code
+
+[4] File:Geany-example C++ program with output.png
+    taille 1361x687 image/png 82 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Path slopu
+    crédit : Travail personnel, screenshot of Geany software.
+    description : This is an example c++ program written using Geany IDE.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : C++; Free screenshots; Hello World!; Programming languages; Screenshots of Geany
+
+[5] File:Fr-Helloworld (C Sharp).svg
+    taille 1400x800 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Based on the Tacsipacsi's version and edited by Sylv1_Durif.
+    crédit : Af-Helloworld (C Sharp).svg or Af-Helloworld_(C_Sharp).svg
+    description : Exemple de C# avec un programme Hello World.
+    catégories licence : PD ineligible
+    catégories : French language; Hello World source code; Images with C sharp source code
+
+[6] File:Hello-world quine.png
+    taille 640x437 image/png 12 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : XCandela
+    crédit : Travail personnel
+    description : DOS-Assembly program that prints out itself together with "Hello, world"
+    catégories licence : CC-Zero; Self-published work
+    catégories : DOSBox; Hello World!
+
+[7] File:تعلم لغة غو بسهولة.pdf
+    taille 1239x1752 application/pdf 17174 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : وادي التقنية، آلان دونوفان، بريان كيرنيغان
+    crédit : https://itwadi.com/learn-go-easily
+    description : Traduction libre en arabe par Wadi Al-Tiqniyah, du langage de programmation Go par Alan Donovan & Brian Kernighan, supervision générale et révision par Fahad bin Amer Al-Saeedi. La couverture est dérivée de celle d'Eric Zelia pour Go Bootcamp.
+    catégories licence : Arabic-language PDF files; CC-BY-4.0
+    catégories : Computer programming; Go (programming language); Programming books in Arabic
+
+[8] File:AWK Language Programming.pdf
+    taille 1275x1650 application/pdf 1325 ko
+    licence : Old FSF Documentation License |  | https://fedoraproject.org/wiki/Licensing:OldFSFDocLicense?rd=Licensing/OldFSFDocLicense -> ?
+    auteur : Arnold D. Robbins
+    crédit : https://blyx.com/public/docs/programacion/Awk_Language_Programming.pdf
+    description : Manuel d'utilisation de GNU AWK, par Arnold D. Robbins
+    catégories licence : 
+    catégories : AWK; Arnold D. Robbins; GNU Awk; OFSFDL
+
+[9] File:PureBasic v1.1.pdf
+    taille 1239x1752 application/pdf 490 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dirk Hünniger
+    crédit : Travail personnel Diese PDF-Version wurde von Dirk Hünniger erstellt, basierend auf den Beiträgen der Wikibooks-Nutzer und Redakteure.
+    description : Wikibooks:PDF-Katalog: Aktualisierte PDF, mit Bildern und neu eingefügten Abschnitten. PureBasic.
+    catégories licence : CC-BY-SA-3.0; GFDL; German Wikibooks PDF; License migration redundant; Self-published work
+    catégories : 
+
+[10] File:CProgrammierung.pdf
+    taille 1239x1752 application/pdf 1808 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Dirk Hünniger
+    crédit : Travail personnel Diese PDF-Version wurde von Dirk Hünniger erstellt, basierend auf den Beiträgen der Wikibooks-Nutzer und Redakteure.
+    description : C-Programmierung
+    catégories licence : CC-BY-SA-3.0; GFDL; German Wikibooks PDF; License migration redundant; Self-published work
+    catégories : 
+
+[11] File:Three different (coloured) minicomputers from DEC (late 1960s to early 1970s) in a museum - a PDP-11, a PDP-8e, and a PDP-12.jpg
+    taille 3140x2524 image/jpeg 4073 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Wolfgang Stief
+    crédit : https://www.flickr.com/photos/stiefkind/16756515218/
+    description : A row of various DEC PDP minicomputers. From left: A PDP-11 (pink/red), a PDP-8e (yellow/orange), and a PDP-12 (green).
+    catégories licence : CC-BY-2.0; PDP-11; PDP-12; PDP-8/E
+    catégories : Computermuseum der Stuttgarter Informatik; Files with coordinates missing SDC location of creation (48° N, 9° E); Flickr images reviewed by FlickreviewR 2; Images with annotations; Programmed Data Processor
+
+[12] File:DEC PDP-11-40 Minicomputer, 1973, Technisches Museum Wien (edited, white background).jpg
+    taille 1873x2760 image/jpeg 864 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Jeff Keyzer
+    crédit : https://www.flickr.com/photos/mightyohm/3859667225/
+    description : DEC PDP-11/40 Minicomputer, 1973, in the Technisches Museum Wien, Austria. The height is 72 inches (183 cm).
+    catégories licence : CC-BY-SA-2.0; DEC PDP series minicomputers on single-coloured background; PDP-11
+    catégories : Extracted images; Images edited with GIMP and IrfanView; Retouched pictures
+
+[13] File:DEC PDP-11 20 ー Computer History Museum (25320142649).jpg
+    taille 4608x3456 image/jpeg 6760 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Ik T from Kanagawa, Japan
+    crédit : DEC PDP-11/20 ー Computer History Museum
+    description : <a href="http://www.computerhistory.org/revolution/minicomputers/11/366" rel="nofollow">www.computerhistory.org/revolution/minicomputers/11/366</a>
+    catégories licence : CC-BY-2.0; PDP-11/20
+    catégories : Computers in the Computer History Museum; Flickr images reviewed by FlickreviewR 2
+
+[14] File:DEC PDP-11 20 computer at the Computer History Museum.jpg
+    taille 3648x2736 image/jpeg 2782 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Don DeBold
+    crédit : Flickr: DEC PDP11/20 Computer
+    description : DEC PDP-11 20 computer at the Computer History Museum
+    catégories licence : CC-BY-2.0; PDP-11/20
+    catégories : Computers in the Computer History Museum; Files from Don DeBold Flickr stream; Files with coordinates missing SDC location of creation; Flickr images uploaded by Flickr upload bot; Taken with Canon PowerShot S95
+
+[15] File:DEC PDP 11 Repair - 48930054901.jpg
+    taille 5472x3072 image/jpeg 5077 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : stiefkind
+    crédit : https://www.flickr.com/photos/52924836@N00/48930054901/
+    description : DEC PDP/11 undergoing repair at VCFB 2019
+    catégories licence : CC-Zero; Detailed views of disassembled DEC PDP-11 minicomputers
+    catégories : Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR 2; VCFB 2019
+
+[16] File:PDP-1120 Rocker Switches.jpg
+    taille 3099x2324 image/jpeg 1583 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Don DeBold
+    crédit : Flickr: PDP11/20 Rocker Switches
+    description : PDP-11/20 Rocker Switches
+    catégories licence : CC-BY-2.0; PDP-11
+    catégories : Computers in the Computer History Museum; Files from Don DeBold Flickr stream; Files with coordinates missing SDC location of creation; Flickr images uploaded by Flickr upload bot; Taken with Canon PowerShot S95

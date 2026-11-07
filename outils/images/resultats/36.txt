@@ -1,0 +1,146 @@
+# carte 36 requêtes 4435fd29f306
+{"titres": ["File:Replica-of-first-transistor.jpg"], "recherches": ["point-contact transistor replica", "first transistor Bell Labs", "point contact transistor", "transistors"]}
+
+[1] File:Replica-of-first-transistor.jpg
+    taille 500x448 image/jpeg 38 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Federal employee
+    crédit : https://clintonwhitehouse4.archives.gov/Initiatives/Millennium/capsule/mayo.html
+    description : In 1997 Lucent Technologies created this replica to commemorate the 50th anniversary of the invention of the point-contact transistor at Bell Labs in December 1947.
+    catégories licence : 
+    catégories : 1947 in physics; Bell Labs Murray Hill; Executive Office of the President files; Germanium point-contact transistors; Images with annotations; Lucent Technologies
+
+[2] File:Point-contact transistor patent US2524035.pdf
+    taille 1158x1702 application/pdf 2017 ko
+    licence : Public domain | pd |  -> OK
+    auteur : John Bardeen, Walter H. Brattain; Bell Telephone Laboratories, Incorporated
+    crédit : https://patents.google.com/patent/US2524035A
+    description : United States patent 2,524,035, describing the point-contact transistor. The world's first working transistor, it sparked such a transistor revolution that, by 1997, annual sales of electronics exceeded $1 trillion (Riordan 1997).
+    catégories licence : PD images from US patents
+    catégories : 1950 patents; Electronics patents; Germanium point-contact transistors
+
+[3] File:A replica of the first working transistor 02.jpg
+    taille 1600x1850 image/jpeg 1174 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : A replica of the first working transistor compared to a 2N43 transistor
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Bell Labs; Germanium point-contact transistors; Images with annotations; Photos by User:Mister rf; Transistor devices
+
+[4] File:A replica of the first working transistor.jpg
+    taille 1400x2350 image/jpeg 1185 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : A replica of the first working transistor
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Germanium point-contact transistors; Images with annotations; Photos by User:Mister rf; Transistor devices
+
+[5] File:Replica Transistor.png
+    taille 2444x2253 image/png 11519 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Florian Schäffer
+    crédit : Travail personnel
+    description : Nachbau des ersten bipolar Transistors. Nixdorf-Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Bell Labs; Collections of the Heinz Nixdorf MuseumsForum; Files with coordinates missing SDC location of creation (51° N, 8° E); Germanium point-contact transistors; Images with annotations; Replicas
+
+[6] File:Replica of first transistor.jpg
+    taille 750x672 image/jpeg 20 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Revol Web
+    crédit : https://www.flickr.com/photos/38671911@N08/3984348493
+    description : Replica of the first transistor.
+    catégories licence : CC-BY-SA-2.0; Items with disputed copyright information
+    catégories : Flickr images uploaded by Flickr upload bot; Germanium point-contact transistors; Images deleted from Flickr; Images with annotations
+
+[7] File:The First Transistor ever made, built in 1947 - Bell Labs.jpg
+    taille 2048x1535 image/jpeg 898 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Windell Oskay from Sunnyvale, CA, USA
+    crédit : Bell Labs 004
+    description : The first transistor
+    catégories licence : CC-BY-2.0
+    catégories : Bell Labs; Files uploaded from Flickr by Jacopo Werther; Flickr images reviewed by FlickreviewR; Germanium point-contact transistors; Images with annotations; Photographs by Windell H. Oskay; Taken with Canon Digital IXUS 80 IS
+
+[8] File:Nachbau des ersten Transistors.jpg
+    taille 380x441 image/jpeg 164 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Original téléversé par Stahlkocher sur Wikipédia allemand.
+    crédit : Transféré de de.wikipedia à Commons.
+    description : Replica of the first bipolar Transistor. This replica was photographed at the Heinz Nixdorf MuseumsForum, Paderborn, Germany.
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Bell Labs; Germanium point-contact transistors; Images with annotations; Replicas
+
+[9] File:Bell telephone magazine (1922) (14755881622).jpg
+    taille 2072x1642 image/jpeg 1300 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Internet Archive Book Images
+    crédit : https://www.flickr.com/photos/internetarchivebookimages/14755881622/ Source book page: https://archive.org/stream/belltelephonevol3132mag00amerrich/belltelephonevol3132mag00amerrich#page/n370/mode/1up
+    description : Identifier: belltelephonevol3132mag00amerrich (find matches) Title: Bell telephone magazine Year (corrected): 1948 Authors: American Telephone and Telegraph Company American Telephone and Telegraph Company. Information Dept Subjects: Telephone Publisher: (New York, American Telephone and Telegraph Co., etc.) Contributing Library: Prelinger Library Digitizing Sponsor: Internet Archive View Book Pag
+    catégories licence : PD US no notice
+    catégories : Bell Labs Murray Hill; Bell Telephone Magazine, 1953; Files from Flickr's 'The Commons'; Files from Internet Archive Book Images Flickr stream; Flickr images reviewed by FlickreviewR; Germanium point-contact transistors; Group photographs of physicists; Internet Archive document belltelephonevol3132mag00amerrich; John Bardeen; Photos uploaded from Flickr by Fæ using a script; Walter Houser Brattai
+
+[10] File:Bell telephone magazine (1922) (14753848794).jpg
+    taille 1338x1204 image/jpeg 606 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Internet Archive Book Images
+    crédit : https://www.flickr.com/photos/internetarchivebookimages/14753848794/ Source book page: https://archive.org/stream/belltelephonevol3132mag00amerrich/belltelephonevol3132mag00amerrich#page/n376/mode/1up
+    description : Gordon K. Teal(left) and Morgan Sparks, creators of early metallurgical processes for semiconductor industry. Teal grew the first germanium monocrystals (1948), Sparks used Teal's foundation to create layered PNP structures (1950). Identifier: belltelephonevol3132mag00amerrich (find matches) Title: Bell telephone magazine Year: 1953 Authors: American Telephone and Telegraph Company American Teleph
+    catégories licence : PD US no notice
+    catégories : Bell Labs Murray Hill; Bell Telephone Magazine, 1953; Engineers from the United States; Files from Flickr's 'The Commons'; Files from Internet Archive Book Images Flickr stream; Flickr images reviewed by FlickreviewR; Group photographs of scientists; Internet Archive document belltelephonevol3132mag00amerrich; Photos uploaded from Flickr by Fæ using a script
+
+[11] File:Point-contact transistor-tr.svg
+    taille 512x512 image/svg+xml 29 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Point-contact transistor.svg: 忍者猫 derivative work: VectorVoyager
+    crédit : Ce fichier est dérivé de : Point-contact transistor.svg:
+    description : The gold foil is split into two parts at the vertex of the plastic wedge, and forms two separate contacts with the p-type upper layer of the germanium substrate when the wedge is pressed against it by the spring. The two pieces of gold foil form the collector and emitter, and a metal electrode attached to the other side of the semiconductor forms the base electrode.
+    catégories licence : CC-Zero
+    catégories : Derivative versions; Germanium point-contact transistors; Transistor diagrams
+
+[12] File:Point-contact transistor-es.svg
+    taille 512x512 image/svg+xml 30 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : User:忍者猫
+    crédit : Translated from, Image:Point-contact_transistor.svg to spanish
+    description : DIagrama de un transistor de contacto. La lámina de oro esta separada en dos en el punto de contacto con el germanio, creando dos electrodos distintos
+    catégories licence : CC-Zero
+    catégories : Germanium point-contact transistors; Transistor diagrams
+
+[13] File:Point-contact transistor.svg
+    taille 512x512 image/svg+xml 24 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : 忍者猫
+    crédit : Travail personnel
+    description : The gold foil is split into two parts at the vertex of the plastic wedge, and forms two separate contacts with the p-type upper layer of the germanium substrate when the wedge is pressed against it by the spring. The two pieces of gold foil form the collector and emitter, and a metal electrode attached to the other side of the semiconductor forms the base electrode.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Germanium point-contact transistors; Images with annotations; Transistor diagrams
+
+[14] File:Point-contact transistor ru.svg
+    taille 512x512 image/svg+xml 30 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : 忍者猫 (original), Vladimir Solovjev (translate)
+    crédit : Cette image vectorielle contient des éléments, éventuellement modifiés, qui ont été extraits de :
+    description : Point-contact transistor. The gold foil is split into two parts at the vertex of the plastic wedge, and forms two separate contacts with the p-type upper layer of the germanium substrate when the wedge is pressed against it by the spring. The two pieces of gold foil form the collector and emitter, and a metal electrode attached to the other side of the semiconductor forms the base electrode.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Deprecated template usage: AttribSVG; Derivative versions; Germanium point-contact transistors; Transistor diagrams; Vector images using elements from other vector images
+
+[15] File:Point-contact transistor DE.svg
+    taille 200x150 image/svg+xml 14 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Spitzentransistor.png: NorbertR. derivative work: Cepheiden (talk)
+    crédit : Spitzentransistor.png
+    description : schematic of a point-contact transistor
+    catégories licence : PD-self; Self-published work
+    catégories : Germanium point-contact transistors; SVG retouched pictures from raster; Uploaded with derivativeFX
+
+[16] File:2N1307 transistor die with bond wires attached.jpg
+    taille 6300x4070 image/jpeg 14168 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mister rf
+    crédit : Travail personnel
+    description : Made by General Electric PNP germanium alloy transistor for universal purpose / fast switch. Pc: 0.15 W, Vce: 15 V, Ic max: 0.3 A, ft: 8 MHz
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2N1307; General Electric transistors; Photos by User:Mister rf; Quality images; Transistor dies

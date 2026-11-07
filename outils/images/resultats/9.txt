@@ -1,0 +1,110 @@
+# carte 9 requêtes 3134e2858702
+{"titres": ["File:Leibniz Stepped Reckoner.png"], "recherches": ["Leibniz stepped reckoner", "Leibniz Rechenmaschine", "Staffelwalze Leibniz"]}
+
+[1] File:Leibniz Stepped Reckoner.png
+    taille 1235x803 image/png 212 ko
+    licence : Public domain | pd |  -> OK
+    auteur : J. A. V. Turck
+    crédit : Downloaded on 2008-1-14 from J. A. V. Turck (1921) Origin of Modern Calculating Machines, The Western Society of Engineers, Chicago, USA, p.133 on Google Books.
+    description : Photo of the Staffelwalze (English: 'Stepped Reckoner'), a prototype mechanical calculator invented by German mathematician Gottfried Wilhelm Leibniz in 1674 and completed in 1694. About 67 cm (26 in.) long. This was the first calculator able to do all four arithmetic operations: addition, subtraction, multiplication, and division. Only two Stepped Reckoners were built. This one was found by workm
+    catégories licence : PD US
+    catégories : Leibniz calculator
+
+[2] File:Leibniz Stepped Reckoner mechanism.png
+    taille 775x293 image/png 93 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Wilhelm Franz Meyer
+    crédit : Downloaded 2008-1-16 from Wilhelm Franz Meyer (1904) Encyklopädie der Mathematischen Wissenschaften mit Einschluss ihrer Anwendungen, Vol. 2 Arithmetic und Algebra, Druck und Verlag von E. G. Teubner,
+    description : Photo of the mechanism of the 'Stepped Reckoner' a prototype mechanical calculator invented by German mathematician Gottfried Wilhelm Leibniz in 1671 and completed in 1694. About 67 cm (26 in.) long. This was the first calculator able to perform all the elementary operations: addition, subtraction, multiplication, and division. The housing is removed to show the mechanism.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Leibniz calculator
+
+[3] File:Leibniz Stepped Reckoner drawing.png
+    taille 600x440 image/png 123 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hermann Julius Meyer
+    crédit : Downloaded 2008-1-16 from Leibniz's Calculator, Rechnerlexikon which states it is from Hermann Julius Meyer, ed. (1893-1897) Meyers Konversationslexicon, 5th Ed., Bibliographischen Institut, Leipzig, 
+    description : Drawing of the 'Stepped Reckoner', a mechanical calculator invented by German mathematician Gottfried Wilhelm Leibniz in 1674 and completed in 1694. About 67 cm (23 inches) long. In the upper view the top plate is removed to show the works. This was the first calculating machine able to do all four arithmetic operations: addition, subtraction, multiplication, and division.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD Old
+    catégories : Leibniz calculator
+
+[4] File:Stepped drum mechanism.gif
+    taille 3840x2160 image/gif 63609 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Staecker
+    crédit : Travail personnel
+    description : Animated 3D model of the stepped reckoner mechanism, showing a counter wheel registering different values in two different positions.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Adding machines; Calculation; Leibniz calculator
+
+[5] File:Stepped drum mechanism scaled.gif
+    taille 720x405 image/gif 2856 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Staecker
+    crédit : Travail personnel
+    description : Animated 3D model of the stepped reckoner mechanism, showing a counter wheel registering different values in two different positions. This is a rescale of File:Stepped drum mechanism.gif.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Adding machines; Calculation; Leibniz calculator
+
+[6] File:Leibniz-Rechenmaschine hg.jpg
+    taille 4063x1229 image/jpeg 751 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Hannes Grobe
+    crédit : Travail personnel
+    description : Calculator constructed by Gottfried Wilhelm Leibniz. (Exhibition of University Hannover) Leibnizsche Vier-Spezies-Rechenmaschine (Hannoversches Modell 2005): Das Modell mit 6 Eingabe- und 12 Resultatstellen sowie 1 Zählwerkstelle ist so weit wie möglich authentisch in Bezug auf die einzige erhaltene, große Leibnizsche Rechenmaschine, deren Bau kurz vor 1700 begann und die Verbesserungen bis kurz v
+    catégories licence : CC-BY-3.0
+    catégories : 2010 in Hannover; Leibniz calculator; Taken with Nikon D700
+
+[7] File:Leibniz Rechenmaschine (1690).jpg
+    taille 4533x2817 image/jpeg 8251 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : uploader was Hajotthu at de.wikipedia
+    crédit : Museum Herrenhausen Palace
+    description : Leibniz' Vier-Spezies-Rechenmaschine - Original, um 1690
+    catégories licence : CC-BY-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Gottfried Wilhelm Leibniz Bibliothek Niedersächsische Landesbibliothek; Leibniz calculator; Museum in the Herrenhausen Palace; Taken with Olympus E-PL5
+
+[8] File:Leibniz-Rechenmaschine TSD (04).JPG
+    taille 4000x2248 image/jpeg 4093 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dr. Bernd Gross
+    crédit : Travail personnel
+    description : Leibniz-Rechenmaschine, Mainz, um 1670; (Nachbau von N. Lehmann an der TU Dresden), Exponat in den Technischen Sammlungen Dresden
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Dresden photographs taken on 2016-03-05; Leibniz calculator at Technische Sammlungen Dresden; Supported by Wikimedia Deutschland 2016; WikiTech-Tage Dresden 2016
+
+[9] File:Leibniz-Rechenmaschine TSD (07).JPG
+    taille 4000x2248 image/jpeg 4012 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dr. Bernd Gross
+    crédit : Travail personnel
+    description : Leibniz-Rechenmaschine, Mainz, um 1670; (Nachbau von N. Lehmann an der TU Dresden), Exponat in den Technischen Sammlungen Dresden
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Dresden photographs taken on 2016-03-05; Leibniz calculator at Technische Sammlungen Dresden; Supported by Wikimedia Deutschland; WikiTech-Tage Dresden 2016
+
+[10] File:Leibniz-Rechenmaschine TSD (09).JPG
+    taille 4000x2248 image/jpeg 4140 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dr. Bernd Gross
+    crédit : Travail personnel
+    description : Leibniz-Rechenmaschine, Mainz, um 1670; (Nachbau von N. Lehmann an der TU Dresden), Exponat in den Technischen Sammlungen Dresden
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Leibniz calculator at Technische Sammlungen Dresden; Supported by Wikimedia Deutschland 2016; WikiTech-Tage Dresden 2016; WikiTech-Tage Dresden 2016 – Making of
+
+[11] File:Leibniz-Rechenmaschine TSD (06).JPG
+    taille 4000x2248 image/jpeg 3960 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Dr. Bernd Gross
+    crédit : Travail personnel
+    description : Leibniz-Rechenmaschine, Mainz, um 1670; (Nachbau von N. Lehmann an der TU Dresden), Exponat in den Technischen Sammlungen Dresden
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Dresden photographs taken on 2016-03-05; Leibniz calculator at Technische Sammlungen Dresden; Supported by Wikimedia Deutschland; WikiTech-Tage Dresden 2016
+
+[12] File:Leibnitzrechenmaschine.jpg
+    taille 2048x1536 image/jpeg 1332 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : User:Kolossos
+    crédit : recorded by me in de:Technische Sammlungen der Stadt Dresden (with photo permission)
+    description : The Staffelwalze, or Stepped Reckoner, a digital calculating machine invented by Gottfried Wilhelm Leibniz around 1672 and built around 1700, on display in the Technische Sammlungen museum in Dresden, Germany. It was the first known calculator that could perform all four arithmetic operations; addition, subtraction, multiplication and division. 67 cm (26 inches) long. The cover plate of the rear s
+    catégories licence : CC-BY-SA-2.5,2.0,1.0; CC-BY-SA-3.0-migrated; GFDL; License migration redundant; Self-published work
+    catégories : Leibniz calculator at Technische Sammlungen Dresden; Leibnizhaus (Hannover)

@@ -1,0 +1,146 @@
+# carte 15 requêtes 1a2b2ebe7563
+{"recherches": ["Apollo DSKY", "Apollo Guidance Computer DSKY", "Apollo guidance computer source code", "Apollo guidance computer"]}
+
+[1] File:Apollo DSKY interface.svg
+    taille 786x556 image/svg+xml 185 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Oona Räisänen & NASA
+    crédit : Self-made in Inkscape; based on the Apollo Operations Handbook (DSKYS interface.jpg, by NASA) and a NASA photo from http://www.nasa.gov/centers/dryden/about/Organizations/Technology/Facts/TF-2001-02-D
+    description : The Apollo Guidance Computer DSKY (display & keyboard) user interface unit.
+    catégories licence : PD-self; PD NASA; Self-published work
+    catégories : Apollo Guidance Computer; Translation possible - SVG; Valid SVG created with Inkscape
+
+[2] File:Apollo DSKY CHM.agr.jpg
+    taille 2458x2733 image/jpeg 3112 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Apollo Display and Keyboard (DSKY) at the Computer History Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Apollo Guidance Computer; Computers in the Computer History Museum; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold
+
+[3] File:Apollo CM DSKY at Draper Hack the Moon exhibit.jpg
+    taille 2644x2431 image/jpeg 2579 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Apollo program related object on display at the Draper Labs 2019 "Hack the Moon" exhibit, held in Cambridge, Massachusetts, in honor of the 50th anniversary of the Apollo 11 moon landing.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Apollo Guidance Computer; Draper Hack the Moon exhibit; Images by Arnold Reinhold
+
+[4] File:Apollo DSKY from CM Simulator (6378253427).jpg
+    taille 2048x1907 image/jpeg 1478 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Jurvetson from Los Altos, USA
+    crédit : Apollo DSKY from CM Simulator
+    description : This is a very special artifact, the original Apollo Guidance computer display and keyboard (DSKY) unit removed from the primary Command Module simulator at the Johnson Space Center. Neil Armstrong and every Apollo astronaut used this DSKY in training for their mission. This is the user interface to the Apollo Guidance Computer. Two-digit verb-noun pairs were entered in succession to control the c
+    catégories licence : CC-BY-2.0
+    catégories : Flickr images reviewed by FlickreviewR 2; Workstations
+
+[5] File:Apollo DSKY simulator at Draper Hack the Moon exhibit.agr.jpg
+    taille 2741x2935 image/jpeg 4294 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Apollo program related object on display at the Draper Labs 2019 "Hack the Moon" exhibit, held in Cambridge, Massachusetts, in honor of the 50th anniversary of the Apollo 11 moon landing.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Draper Hack the Moon exhibit; Images by Arnold Reinhold
+
+[6] File:Apollo display and keyboard unit (DSKY) used on F-8 DFBW DVIDS683588.jpg
+    taille 3030x2376 image/jpeg 6326 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA/Dennis Taylor
+    crédit : https://www.dfrc.nasa.gov/Gallery/Photo/F-8DFBW/HTML/EC96-43408-1.html; see also https://www.dvidshub.net/image/683588
+    description : The display and keyboard (DSKY) unit used on the F-8 Digital Fly-By-Wire (DFBW) aircraft during Phase I of the fly-by-wire program. Warning lights are in the upper left section, displays in the upper right, and the keyboard is in the lower section. The Apollo flight-control system used in Phase I of the DFBW program had been used previously on the Lunar Module and was incredibly reliable. The DSKY
+    catégories licence : PD NASA
+    catégories : Apollo Guidance Computer; Computer consoles; F-8 Digital Fly-By-Wire; Files from NASA with known IDs; Images from DoD uploaded by Fæ; United States photographs taken on 1996-02-05
+
+[7] File:Apollo Guidance Computer (NASM).JPG
+    taille 3888x2592 image/jpeg 3798 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Tamorlan
+    crédit : Travail personnel
+    description : DSKY unit of the Apollo Guidance Computer in the National Air and Space Museum (NASM) Smithsonian Institution in Washington, D.C., United States
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Apollo Guidance Computer; Files by User:Tamorlan; Taken with Canon EOS 400D
+
+[8] File:LM guidance computer control panel.svg
+    taille 683x785 image/svg+xml 154 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Aeronautics and Space Administration (pl. Narodowa Agencja Aeronautyki i Przestrzeni Kosmicznej)
+    crédit : http://history.nasa.gov/alsj/LM10HandbookVol1.pdf
+    description : Lunar module guidance computer control panel (DSKY - display and keybord)
+    catégories licence : PD NASA
+    catégories : Apollo Guidance Computer; Computer control panels
+
+[9] File:DSKY at CHM.agr.jpg
+    taille 2448x3264 image/jpeg 2573 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : Display and Keyboard (DSKY) used with the w:Apollo Guidance Computer, on display at the w:Computer History Museum.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Apollo Guidance Computer; Collections of the Computer History Museum; Computer consoles; Computer control panels; Computer displays; Computers in the Computer History Museum; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold; Keypads
+
+[10] File:Apollo Guidance Computer (AGC).jpg
+    taille 3800x3044 image/jpeg 2378 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Jurvetson
+    crédit : https://www.flickr.com/photos/jurvetson/48877874981/
+    description : Apollo Guidance Computer (AGC) and Navigation System from the second Lunar Module, LM-2 with the IMU ball, cooling system and all of the interconnect. UPDATE: the CollectSpace community is just incredible. Overnight, they identified the Apollo Guidance Computer. Amazingly, it comes from the second Lunar Module, LM-2.... the one that is in the Smithsonian! Documentation of its history starts in 196
+    catégories licence : CC-BY-2.0
+    catégories : Apollo Guidance Computer; Flickr images reviewed by FlickreviewR 2; Photographs by Steve Jurvetson
+
+[11] File:Apollo Command Module Computer Alarm Code Placard from the KSC Simulator (50209065857).jpg
+    taille 5109x2835 image/jpeg 3132 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : jurvetson
+    crédit : Apollo Command Module Computer Alarm Code Placard from the KSC Simulator
+    description : Mounted on the Apollo Guidance and Navigation System Eyepiece Stowage Case — look at all the unusual things that could go wrong. V05N09 Alarm Code examples: 00613 Reentry Angle Out of Limits 01427 IMU Polarity Reversed (FDAI operation inverted) 20430 Orbital Integration Stopped (to avoid ♾ loop) 21302 Square Root of Negative Number On the inside are recessed areas for the eyepieces used for guidan
+    catégories licence : CC-BY-2.0
+    catégories : Apollo Command and Service Modules; Apollo program hardware; Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2; Photographs by Steve Jurvetson; Photographs taken on 2020-05-13; Spacemedia Individuals Flickr files uploaded by OptimusPrimeBot
+
+[12] File:Margaret Hamilton - restoration.jpg
+    taille 2294x2853 image/jpeg 3158 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Adam Cuerden
+    crédit : Cette image a été retouchée, ce qui signifie qu'elle a été modifiée par ordinateur et est différente de l'image d'origine. Liste des modifications : dust and scratches removed; curves tweaked to bring
+    description : Margaret Hamilton se tenant auprès des listages du logiciel qu'elle et son équipe ont produit pour le programme Apollo.
+    catégories licence : Featured photographs in the public domain; PD US no notice
+    catégories : 1969 black and white portrait photographs of women; 20th-century black and white portrait photographs of standing women at full length; Adam Cuerden's restorations; Apollo Guidance Computer; Black and white photographs of standing women in the United States; Featured pictures of people of the United States; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, English; Featured p
+
+[13] File:Margaret Hamilton.gif
+    taille 2294x2856 image/gif 5969 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Draper Laboratory
+    crédit : Draper Laboratory
+    description : Margaret Hamilton se tenant auprès du code du logiciel de navigation qu'elle et son équipe ont produit pour le programme Apollo.
+    catégories licence : PD US no notice
+    catégories : 1969 black and white portrait photographs of women; 20th-century black and white portrait photographs of standing women at full length; Apollo Guidance Computer; Black and white photographs of standing women in the United States; Black and white photographs of women wearing glasses; Featured pictures on Wikipedia, Hebrew; Featured pictures on Wikipedia, Persian; Formerly featured pictures on Wikim
+
+[14] File:Computer Entertainer 6-2.pdf
+    taille 1275x1650 application/pdf 16039 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Computer Entertainer (Marylou Badeaux and Celeste Dolan)
+    crédit : https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9?sortField=date&sortDir=asc&page=1
+    description : An issue of Computer Entertainer
+    catégories licence : CC-BY-4.0
+    catégories : Computer Entertainer; De minimis
+
+[15] File:Apollo Guidance Computer block diagram.png
+    taille 852x602 image/png 116 ko
+    licence : Public domain | pd |  -> OK
+    auteur : NASA
+    crédit : https://ntrs.nasa.gov/archive/nasa/casi.ntrs.nasa.gov/19760016247.pdf
+    description : Block diagram of the Apollo Guidance Computer
+    catégories licence : PD NASA
+    catégories : Apollo Guidance Computer
+
+[16] File:Apollo Guidance Computer (c.1965) & Apollo Guidance Computer Software (c.1961-1971) by MIT & Raytheon - Computer History Museum (2007-11-10 23.04.42 by Carlo Nardone).jpg
+    taille 2272x1704 image/jpeg 968 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Carlo Nardone from Roma, Italy
+    crédit : Computer Museum: NASA Apollo Computer cards
+    description : Apollo Guidance Computer (c.1965) & Apollo Guidance Computer Software (c.1961-1971) by MIT & Raytheon - Computer History Museum (2007-11-10 23.04.42 by Carlo Nardone)
+    catégories licence : CC-BY-SA-2.0
+    catégories : Apollo Guidance Computer; Computers in the Computer History Museum; Files from Carlo Nardone Flickr stream; Flickr images reviewed by FlickreviewR 2

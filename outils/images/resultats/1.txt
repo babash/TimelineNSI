@@ -1,0 +1,146 @@
+# carte 1 requêtes 0d6176a4602a
+{"titres": ["File:Word Aamu in two Egyptian scripts circa 1900 BCE.jpg"], "recherches": ["Khnumhotep II tomb inscription hieroglyphs", "Beni Hasan tomb 3 inscription", "hieroglyphs inscription Middle Kingdom stela"]}
+
+[1] File:Word Aamu in two Egyptian scripts circa 1900 BCE.jpg
+    taille 824x701 image/jpeg 589 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Macquarie University
+    crédit : Cette image a été extraite d'un autre fichier
+    description : Word Aamu in two Egyptian scripts circa 1900 BCE
+    catégories licence : CC-PD-Mark; PD-Art (PD-old-100-expired); PD-Art missing SDC copyright status; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Aamu; Extracted images; Tomb of Khnumhotep II (BH3)
+
+[2] File:Season's work at Ahnas and Beni Hasan - (IA seasonsworkatahn00egyp).pdf
+    taille 997x1506 application/pdf 2841 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Egypt Exploration Society
+    crédit : Internet Archive identifier: seasonsworkatahn00egyp https://archive.org/download/seasonsworkatahn00egyp/seasonsworkatahn00egyp.pdf
+    description : At head of title: Special extra report Subjects:
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Egypt Exploration Society; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[3] File:The season's work at Ahnas and Beni Hasan, 1890-1891 (IA cu31924028669970).pdf
+    taille 1131x1512 application/pdf 1301 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Egypt Exploration Society Naville, Edouard, 1844-1926 Newberry, Percy E. (Percy Edward), 1869-1949 Fraser, G. Willoughby (George Willoughby)
+    crédit : Internet Archive identifier: cu31924028669970 https://archive.org/download/cu31924028669970/cu31924028669970.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. At head of title: Special extra r
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Egypt Exploration Society; Henri Édouard Naville; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:Out of Egypt (IA outofegypt00crou).pdf
+    taille 727x1091 application/pdf 12720 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Crouse, M. Elizabeth (Mary Elizabeth), b. 1873
+    crédit : Internet Archive identifier: outofegypt00crou https://archive.org/download/outofegypt00crou/outofegypt00crou.pdf
+    description : Subjects:
+    catégories licence : Books from the United States PDF files; PD US expired
+    catégories : Books in the Library of Congress; Books published in Boston; Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[5] File:Hutchinsons Story of Nation.djvu
+    taille 2398x3210 image/vnd.djvu 44467 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: hutchinsonsstory00londuoft
+    description : 26
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD-scan (PD-old-70); PD Old
+    catégories : Books published in London; Books without Wikidata item; Files with no machine-readable author; Hutchinson's story of the nations; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[6] File:Egypt (IA egypt00wate).pdf
+    taille 750x1156 application/pdf 39855 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Waters, Clara Erskine Clement, 1834-1916
+    crédit : Internet Archive identifier: egypt00wate https://archive.org/download/egypt00wate/egypt00wate.pdf
+    description : Subjects:
+    catégories licence : Books from the United States PDF files; PD-US missing SDC copyright status; PD US expired
+    catégories : Books about Egypt; Books in the Library of Congress; Books published in Boston; Books uploaded by Fæ; Books without Wikidata item; Clara Erskine Clement; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[7] File:The tomb of Nakht at Thebes.djvu
+    taille 1081x1500 image/vnd.djvu 14883 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Norman de Garis Davies
+    crédit : Internet Archive identifier: p15324coll10_174796
+    description : PUBLICATIONS OF THE METROPOLITAN MUSEUM OF ART EGYPTIAN EXPEDITION EDITED BY ALBERT M. LYTHGOE CURATOR OF THE DEPARTMENT OF EGYPTIAN ART
+    catégories licence : CC-PD-Mark; PD-scan (PD-old-70); PD Old
+    catégories : 1917 books; Books without Wikidata item; DjVu files in English; N. de Garis Davies; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Uploaded with IA Upload
+
+[8] File:The rock tombs of El Amarna .. (IA cu31924020525360).pdf
+    taille 1306x1756 application/pdf 6834 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Davies, Norman de Garis, 1865-1941 Ricci, Seymour de, 1881-1942
+    crédit : Internet Archive identifier: cu31924020525360 https://archive.org/download/cu31924020525360/cu31924020525360.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. pt. I. The tomb of Meryra.--pt. I
+    catégories licence : PD US expired
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified; The rock tombs of El Amarna (1903)
+
+[9] File:The rock tombs of El Amarna .. (IA cu31924020525378).pdf
+    taille 1185x1785 application/pdf 6880 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Davies, Norman de Garis, 1865-1941 Ricci, Seymour de, 1881-1942
+    crédit : Internet Archive identifier: cu31924020525378 https://archive.org/download/cu31924020525378/cu31924020525378.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. pt. I. The tomb of Meryra.--pt. I
+    catégories licence : PD US expired
+    catégories : Books published in London; Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified; The rock tombs of El Amarna (1903)
+
+[10] File:The rock tombs of Deir el Gebrâwi.djvu
+    taille 5841x7301 image/vnd.djvu 6652 ko
+    licence : Public domain | pd |  -> OK
+    auteur : George Albert Boulenger, Walter Ewing Crum, Norman de Garis Davies
+    crédit : Internet Archive identifier: rocktombsdeirel00boulgoog Internet Archive source: Google Books
+    description : Book digitized by Google from the library of New York Public Library and uploaded to the Internet Archive by user tpb.
+    catégories licence : CC-PD-Mark; PD-old missing SDC copyright status; PD-scan (PD-old-70); PD Old
+    catégories : Books without Wikidata item; DjVu files in English; Scans from Google Books; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Uploaded with IA Upload
+
+[11] File:Stela of Ramses 1 and 9.JPG
+    taille 2232x2930 image/jpeg 2892 ko
+    licence : Public domain | pd |  -> OK
+    auteur : McLeod
+    crédit : self-made @ National Museum, Copenhagen
+    description : Stela bearing the name of Ramses I vertically in the middle; later (c 1120 BC) Ramses IX added his own. granite, egyptian New Kingdom, c. 1305 BC. (An actual "cartouche" hieroglyph is above the swallow, and owl in the same column 2.)
+    catégories licence : PD-self; Self-published work
+    catégories : 12th-century BC inscriptions; Ancient Egyptian granite steles; Egyptian antiquities in Nationalmuseet, Copenhagen; Egyptian cartouches; Head of leopard (hieroglyph); Ramses I; Ramses IX; Steles of the Egyptian 20th dynasty; Taken with Canon Digital IXUS 850 IS
+
+[12] File:The stela of Sebek-khu, the earliest record of an Egyptian campaign in Asia (IA stelaofsebekkhue00peet).pdf
+    taille 1020x1427 application/pdf 1725 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Peet, T. Eric (Thomas Eric), 1882-1934
+    crédit : Internet Archive identifier: stelaofsebekkhue00peet https://archive.org/download/stelaofsebekkhue00peet/stelaofsebekkhue00peet.pdf
+    description : "Bibliography of the stela": p. 22 Subjects: Inscriptions, Egyptian; Egyptians -- Asia; Stele (Archaeology); Egypt -- History To 332 B.C
+    catégories licence : PD US expired
+    catégories : Books about Egyptology; Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:GD-EG-Alex-MuséeNat057.JPG
+    taille 1061x1442 image/jpeg 205 ko
+    licence : CC BY-SA 2.5 | cc-by-sa-2.5 | https://creativecommons.org/licenses/by-sa/2.5 -> OK
+    auteur : Néfermaât
+    crédit : Travail personnel
+    description : Stèle de Nemtyemhat et sa femme (trouvée à Abydos), Musée national, Alexandrie, Égypte).
+    catégories licence : CC-BY-SA-2.5; Self-published work
+    catégories : Ancient Egyptian art from Abydos; Ancient Egyptian art from Mortuary Temple of Mentuhotep II; Ancient Egyptian funerary steles; Ancient Egyptian limestone steles; Egypt files by Néfermaât; Egyptian antiquities in the Alexandria National Museum; Frog (hieroglyph); House and offerings (hieroglyph); Ibis (hieroglyph); Necropolis (hieroglyph); Nemty (hieroglyph); Pages using the WikiHiero extension; S
+
+[14] File:Ancient Egypt - her monuments, hieroglyphics, history and archæology, and other subjects connected with hieroglyphical literature (IA ancientegyptherm00glid).pdf
+    taille 1314x1702 application/pdf 9761 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Gliddon, George R. (George Robins), 1809-1857
+    crédit : Internet Archive identifier: ancientegyptherm00glid https://archive.org/download/ancientegyptherm00glid/ancientegyptherm00glid.pdf IA contributor: Princeton Theological Seminary Library
+    description : Cover title Subjects: Hieroglyphics, Egyptian
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; IA uploads needing categories; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[15] File:Ancient Egypt, her testimony to the truth of the Bible - being an interpretation of the inscriptions and pictures which remain upon her tombs and temp (IA ancientegypthert00osbu).pdf
+    taille 802x1262 application/pdf 11206 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Osburn, William, jr
+    crédit : Internet Archive identifier: ancientegypthert00osbu https://archive.org/download/ancientegypthert00osbu/ancientegypthert00osbu.pdf IA contributor: Princeton Theological Seminary Library
+    description : x, 242 p. ; 23 cm Subjects: Bible
+    catégories licence : CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; Books without Wikidata item; IA uploads needing categories; Old books from American Libraries; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[16] File:A Glimpse at Guatemala.pdf
+    taille 1216x1727 application/pdf 23307 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Anne Cary Maudslay (1846-1926) with Alfred Percival Maudslay (1850-1931)
+    crédit : archive.org
+    description : A Glimpse at Guatemala by Anne Cary Maudslay and Alfred Percival Maudslay, published in 1899.
+    catégories licence : CC-PD-Mark; PD-old-80-expired; PD-scan (PD-old-auto-expired); PDF books in English
+    catégories : A Glimpse at Guatemala, Maudslay; Books about Guatemala; Books about the Maya; Books from the United Kingdom in English; Books without Wikidata item

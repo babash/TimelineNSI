@@ -1,0 +1,101 @@
+# carte 39 requêtes b072340d2592
+{"recherches": ["Moore's law transistor count", "Moore's Law", "transistor count chart"]}
+
+[1] File:Moore's Law – chart of transistor count of microchips.png
+    taille 3133x2355 image/png 486 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ourworldindata.org
+    crédit : https://ourworldindata.org/moores-law#moore-s-law-has-held-true-for-more-than-half-a-century Original text : Data source: https://en.wikipedia.org/wiki/Transistor_count URL: https://ourworldindata.org
+    description : Moore's Law Transistor Count
+    catégories licence : CC-BY-SA-4.0; Files from external sources with reviewed licenses
+    catégories : Charts showing data through 2019; English-language statistical charts; Moore's law charts; Our World in Data science and technological change charts
+
+[2] File:Transistor Count and Moore's Law - 2011 Estonian.png
+    taille 667x599 image/png 54 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Erkiv
+    crédit : Travail personnel
+    description : Edited the original file to have text in Estonian language.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Estonian text; Moore's law charts; Transistor diagrams
+
+[3] File:Moore's Law Transistor Count 1971-2018.png
+    taille 6529x4716 image/png 954 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Max Roser
+    crédit : https://ourworldindata.org/uploads/2019/05/Transistor-Count-over-time-to-2018.png
+    description : Data source: https://en.wikipedia.org/wiki/Transistor_count Author: Max Roser URL: https://ourworldindata.org/uploads/2019/05/Transistor-Count-over-time-to-2018.png
+    catégories licence : CC-BY-4.0
+    catégories : Charts showing data through 2018; English-language statistical charts; Moore's law charts; Our World in Data science and technological change charts
+
+[4] File:Transistor Count and Moore's Law - 2011.svg
+    taille 800x719 image/svg+xml 162 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Wgsimon
+    crédit : Travail personnel
+    description : Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's law - the doubling of transistor counts every two years. The y-axis is logarithmic, so the line corresponds to exponential growth.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : English-language SVG; Moore's law charts; SVG created with Inkscape and Adobe Illustrator; Translation possible - SVG; Valid SVG created with Adobe Illustrator
+
+[5] File:Transistor Count and Moore's Law - 2008.png
+    taille 3343x3042 image/png 191 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Wgsimon
+    crédit : Travail personnel
+    description : Transistor counts for integrated circuits plotted against their dates of introduction. Curve shows Moore's law - the doubling of transistor counts every two years.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : English text; Moore's law charts
+
+[6] File:Transistor Count and Moore's Law - 2008.svg
+    taille 800x702 image/svg+xml 278 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Wgsimon
+    crédit : Travail personnel
+    description : Transistor counts for integrated circuits plotted against their dates of introduction. The curve shows Moore's law - the doubling of transistor counts every two years.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : English-language SVG; Moore's law charts
+
+[7] File:Moore's Law Transistor Count 1970-2020.png
+    taille 3133x2318 image/png 540 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Max Roser, Hannah Ritchie
+    crédit : https://ourworldindata.org/uploads/2020/11/Transistor-Count-over-time.png
+    description : A logarithmic graph showing the timeline of how transistor counts in microchips are almost doubling every two years from 1970 to 2020; Moore's law.
+    catégories licence : CC-BY-4.0
+    catégories : Charts showing data through 2020; English-language charts; English-language statistical charts; Graph images that should use vector graphics; Moore's law charts; Our World in Data science and technological change charts; PNG that should use vector graphics
+
+[8] File:Transistor teller en Moore's Law - 2009.svg
+    taille 800x702 image/svg+xml 228 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Edwtie
+    crédit : Travail personnel
+    description : Dutch version of transistors count and Moore's wet
+    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Dutch-language SVG charts; Moore's law charts
+
+[9] File:Lei de moore 2006.png
+    taille 1060x742 image/png 113 ko
+    licence : Public domain | pd |  -> OK
+    auteur : José Maria Silveira Neto
+    crédit : Created in Inkscape based on http://fr.wikipedia.org/wiki/Image:Loi_de_Moore.png but with a better desing and colors and in portuguese.
+    description : Graphic of Moore's Law, the graphic show the evolution of the number of transitors nos microchips Intel over the time.
+    catégories licence : PD-self; Self-published work
+    catégories : Graph images that should use vector graphics; Microprocessors diagrams; Moore's law charts; PNG that should use vector graphics; Portuguese text
+
+[10] File:Ley de Moore.png
+    taille 800x556 image/png 21 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Seofilo
+    crédit : http://seofilo.com/que-es-la-ley-de-moore/
+    description : Ley de Moore
+    catégories licence : CC-BY-SA-4.0
+    catégories : Moore's law charts; Spanish-language charts
+
+[11] File:Loi de Moore.png
+    taille 900x625 image/png 26 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Original téléversé par QcRef87 sur Wikipédia français.
+    crédit : Transféré de fr.wikipedia à Commons par Bloody-libu utilisant CommonsHelper.
+    description : Graphique (en ordonnées logarithmiques) illustrant la loi de Moore par rapport à l'évolution réelle du nombre de transistors dans les microprocesseurs Intel; en pointillés verts au-dessus, représentation de l'hypothèse selon laquelle ce nombre doublerait tous les 18 mois. Catégorie:Schémas
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : French-language charts; Intel; Moore's law charts

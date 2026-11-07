@@ -1,0 +1,65 @@
+# carte 63 requêtes b2399b3b0885
+{"recherches": ["General Data Protection Regulation", "GDPR", "RGPD", "règlement général sur la protection des données"]}
+
+[1] File:Internet privacy Index.jpg
+    taille 1414x1746 image/jpeg 343 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Maps.interlude
+    crédit : Travail personnel
+    description : Best and Worst countries for internet Privacy
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : General Data Protection Regulation; Internet privacy; Maps by Maps.interlude; Maps of the world showing ratings by an index
+
+[2] File:Gdpr-Regulation-Laptop.jpg
+    taille 960x640 image/jpeg 96 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : TheDigitalArtist
+    crédit : https://pixabay.com/photos/laptop-gdpr-privacy-protection-3233780/
+    description : Protection Privacy Gdpr Regulation Laptop
+    catégories licence : CC-Zero
+    catégories : Custom Computer keyboard keycaps; General Data Protection Regulation
+
+[3] File:MediaWiki and data protection - where do we stand regarding GDPR.webm
+    taille 1280x720 video/webm 152694 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Wikimedia Foundation (unless otherwise noted)
+    crédit : YouTube : https://www.youtube.com/watch?v=uxTIpr4Ybcg – Voir/enregistrer des versions archivées sur archive.org
+    description : MediaWiki and data protection- where do we stand regarding GDPR by Markus Glaser. "On May 25th, 2018, the new European data protection regulation GDPR will become effective. It also has several requirements for software collecting any kind of personal data. MediaWiki collects this kind of data in user tables, edit history and action logs. In this workshop, we will go through the requirements of GD
+    catégories licence : CC-BY-SA-3.0
+    catégories : Files uploaded by Wikimedia Foundation staff; General Data Protection Regulation; Markus Glaser; Media from YouTube; Uploaded with videoconvert; Wikimedia Hackathon Barcelona 2018 recorded sessions
+
+[4] File:Gdpr Europe.jpg
+    taille 6000x4000 image/jpeg 1274 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Dooffy
+    crédit : https://pixabay.com/illustrations/gdpr-castle-protection-privacy-3285252/
+    description : Symbol for General Data Protection Regulation (GDPR) in Europe.
+    catégories licence : CC-Zero
+    catégories : Europe in art; General Data Protection Regulation; Images from Pixabay
+
+[5] File:EU-UK GDPR divergence.webm
+    taille 1920x1080 video/webm 77926 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Open Rights Group
+    crédit : Supplied directly; version also at https://www.youtube.com/watch?v=efz4utnzjjI with some royalty free and fair use footage; this can be confirmed by email request to info@openrightsgroup.org
+    description : Explanation of the possible results from UK's divergence from the European GDPR, especially on digital trade.
+    catégories licence : CC-BY-SA-4.0
+    catégories : Data protection; Photographs by Simon Dawson; Videos about data protection
+
+[6] File:GDPR p1.svg
+    taille 677x958 image/svg+xml 1924 ko
+    licence : Public domain | pd |  -> OK
+    auteur : The European Parliament and The Council (Union européenne)
+    crédit : Official Journal of the European Union
+    description : The first page of the General Data Protection Regulation
+    catégories licence : Attribution only license; European Union license; PD-EUGov
+    catégories : General Data Protection Regulation; Official Journal of the European Union 2016, L Series; Valid SVG created with CorelDRAW
+
+[7] File:Meri Grigoryan 2008 11 20 olympiade dresden.jpeg
+    taille 1377x1634 image/jpeg 1589 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Frank Hoppe
+    crédit : Travail personnel
+    description : WFM Meri Grigoryan (England) bei der 38. Schacholympiade in Dresden 2008
+    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : 1977 births; Chess Olympiad 2008; Dresden photographs taken on 2008-11-20; Meri Grigoryan; Photographs by Frank Hoppe; Taken with Fujifilm FinePix S8000fd

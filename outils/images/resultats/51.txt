@@ -1,0 +1,146 @@
+# carte 51 requêtes 7e9c9fcece34
+{"recherches": ["PDP-7 computer", "Unix history", "Unix terminal screenshot", "Version 7 Unix"]}
+
+[1] File:DEC PDP-1 Minicomputer (1959) in Computer History Museum.jpg
+    taille 2900x4000 image/jpeg 3490 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Marcin Wichary from San Francisco, Calif.
+    crédit : Flickr
+    description : Computer History Museum.
+    catégories licence : CC-BY-2.0; DEC PDP series minicomputers on single-coloured background; PDP-1
+    catégories : Computers in the Computer History Museum; Digitally manipulated photographs; Extracted images; Images edited with GIMP and IrfanView; Images with extracted images; Photographs by Marcin Wichary; Retouched pictures
+
+[2] File:Pdp-7-oslo-2004.jpeg
+    taille 2272x1704 image/jpeg 346 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : Matiashf (étant donné la revendication de droit d’auteur).
+    crédit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
+    description : A modified PDP-7 under restoration in Oslo, Norway Photo taken by me, Matias Fjeld (matiashf), on 2004-12-09.
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration redundant; PDP-7; Self-published work
+    catégories : Assumed own work; DECtape; Files with no machine-readable source; Old oscilloscopes with round CRT screens; Oscilloscopes built into computers; Punched tapes
+
+[3] File:DEC PDP-11 20 computer at the Computer History Museum.jpg
+    taille 3648x2736 image/jpeg 2782 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Don DeBold
+    crédit : Flickr: DEC PDP11/20 Computer
+    description : DEC PDP-11 20 computer at the Computer History Museum
+    catégories licence : CC-BY-2.0; PDP-11/20
+    catégories : Computers in the Computer History Museum; Files from Don DeBold Flickr stream; Files with coordinates missing SDC location of creation; Flickr images uploaded by Flickr upload bot; Taken with Canon PowerShot S95
+
+[4] File:DEC PDP-7.jpg
+    taille 1080x1080 image/jpeg 434 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : ComputerGeek7066
+    crédit : Travail personnel
+    description : DEC PDP-7 living computer museum
+    catégories licence : CC-BY-SA-4.0; PDP-7; Self-published work
+    catégories : ASR-33; Computers in the Living Computer Museum; Files with coordinates missing SDC location of creation; Oscilloscopes built into computers
+
+[5] File:PDP-8 at the Computer History Museum.jpg
+    taille 4372x2906 image/jpeg 3565 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Todd Dailey
+    crédit : Flickr: PDP-8
+    description : PDP-8 at the Computer History Museum
+    catégories licence : CC-BY-SA-2.0; PDP-8
+    catégories : Computers in the Computer History Museum; Flickr images uploaded by Flickr upload bot; Taken with Canon EOS 5D
+
+[6] File:PDP-11 at the Computer History Museum.jpg
+    taille 4187x2783 image/jpeg 2971 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Todd Dailey
+    crédit : Flickr: PDP-11
+    description : PDP-11 at the Computer History Museum
+    catégories licence : CC-BY-SA-2.0; Detailed views of disassembled DEC PDP-11 minicomputers
+    catégories : Computers in the Computer History Museum; Flickr images uploaded by Flickr upload bot; Taken with Canon EOS 5D
+
+[7] File:Unix history-simple.svg
+    taille 1920x1080 image/svg+xml 136 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Eraserhead1, Infinity0, Sav_vas
+    crédit : Travail personnel avec : Levenez Unix History Diagram, Information on the history of IBM's AIX on ibm.com
+    description : A diagram showing the key Unix and Unix-like operating systems
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : English-language SVG diagrams; Images with annotations; Invalid SVG created with Inkscape:Diagrams; The Open Group; Translation possible - SVG; Unix timelines
+
+[8] File:Unix history-simple-fi.svg
+    taille 1960x1358 image/svg+xml 77 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : User:Ipr1
+    crédit : File:Unix_history-simple.svg
+    description : A diagram showing the key Unix and Unix-like operating systems
+    catégories licence : CC-BY-SA-3.0
+    catégories : Unix timelines
+
+[9] File:Unix history-simple es.svg
+    taille 1962x1282 image/svg+xml 766 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : VARGUX
+    crédit : Cette image vectorielle contient des éléments, éventuellement modifiés, qui ont été extraits de :
+    description : This is a diagram of the main Unix and Unix-like operating systems (in spanish)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Deprecated template usage: AttribSVG; Files with derivative versions; Spanish-language SVG diagrams; Unix timelines; Vector images using elements from other vector images
+
+[10] File:Unix timeline.de.svg
+    taille 655x558 image/svg+xml 52 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Guillem, Wereon, Hotmocha (copied from old version's history) Christoph S. (redrew the image with Inkscape) Ysangkok (touched up the redrawn image) syrcro (Translation)
+    crédit : Original image: Image:Unix.png and Image:Unix history.svg
+    description : This picture shows the relations between several Unix systems in German
+    catégories licence : PD-self; Self-published work
+    catégories : Unix timelines
+
+[11] File:Unix timeline.sl.svg
+    taille 655x568 image/svg+xml 76 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Guillem, Wereon, Hotmocha (copied from old version's history) Christoph S. (redrew the image with Inkscape) Ysangkok (touched up the redrawn image) xJaM (Slovene translation)
+    crédit : Original image: Image:Unix.png, Image:Unix history.svg
+    description : Cette image montre les relations entre plusieurs systèmes Unix
+    catégories licence : PD-self; Self-published work
+    catégories : Slovene-language SVG diagrams; Translation possible - SVG; Unix timelines
+
+[12] File:Unix history-simple.fr.svg
+    taille 1920x1080 image/svg+xml 136 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Unix_history-simple.svg: Eraserhead1, Infinity0, Sav_vas derivative work: Joe le Kiffeur (talk)
+    crédit : Unix_history-simple.svg
+    description : A diagram showing the key Unix and Unix-like operating systems (French translation)
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Files with derivative versions; French-language SVG diagrams; SVG retouched pictures; Unix timelines; Uploaded with derivativeFX
+
+[13] File:Unix talk screenshot 01.png
+    taille 1024x726 image/png 27 ko
+    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : GPL
+    catégories : Files with no machine-readable author; Files with no machine-readable source; Free screenshots; IRC clients; Media missing infobox template; Spanish-language screenshots of Debian; Spanish-language screenshots of GNOME Terminal
+
+[14] File:Screenshot-htop.png
+    taille 569x452 image/png 61 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Chomwitt
+    crédit : htop
+    description : Εικόνα από το πρόγραμμα διαχείρισης διεργασιών htop
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Screenshots of Htop; Terminal emulators; Unix software
+
+[15] File:Unix manual.png
+    taille 706x686 image/png 93 ko
+    licence : GPL |  | http://www.gnu.org/licenses/gpl.html -> ?
+    auteur : Kamran Mackey
+    crédit : Arch Linux using the Cinnamon display manager.
+    description : unix man page on man (of the man-db flavor); running in mate-terminal.
+    catégories licence : GPL
+    catégories : English-language screenshots of GNOME Terminal; English-language screenshots of Ubuntu; Free screenshots; Man page; Screenshots of Linux software; Ubuntu 5.10
+
+[16] File:Pg (Unix)-screenshot.png
+    taille 491x342 image/png 11 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : ZyMOS
+    crédit : Travail personnel
+    description : a screenshot of the unix terminal pager pg (Unix) in xterm
+    catégories licence : CC-BY-SA-3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Free screenshots; Plain text file viewers; Screenshots of Xterm; Screenshots of free software

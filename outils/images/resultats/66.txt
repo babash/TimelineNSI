@@ -1,0 +1,146 @@
+# carte 66 requêtes e96bae35fe10
+{"recherches": ["Facebook logo", "Facebook headquarters sign", "Facebook 2004 thefacebook", "Facebook"]}
+
+[1] File:Facebook f logo (2019).svg
+    taille 1280x1280 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook, Inc.
+    crédit : https://en.facebookbrand.com
+    description : The "f" logo from Facebook, introduced in May 2019.
+    catégories licence : PD textlogo
+    catégories : 2019 SVG logos; Blue and white logos with transparent background; Facebook f logos; SVG logos of Facebook; SVG text logos; Valid SVG created with CorelDRAW:Text logos; White letter F; White letter logos with blue background; With trademark
+
+[2] File:Facebook icon 2013.svg
+    taille 300x300 image/svg+xml 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook, Inc. (original logo). Gabriel dos Santos (SVG version).
+    crédit : facebook
+    description : The icon used by Facebook social network.
+    catégories licence : PD shape
+    catégories : Blue and white SVG icons; Facebook f logos; Files by User:Gabriel dos Santos; Plain blue SVG letter F icons; SVG logos of Facebook; Valid SVG created with Other tools:Icons; With trademark
+
+[3] File:2019 Facebook Logo variants.png
+    taille 1600x1000 image/png 23 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook Inc.
+    crédit : https://newsroom.fb.com/news/2019/11/introducing-our-new-company-brand/
+    description : Corporate logo of the company Facebook since 2019 in their different variants (Facebook, WhatsApp and Instagram)
+    catégories licence : PD textlogo
+    catégories : Logos of Facebook; Text logos; With trademark
+
+[4] File:Logo Facebook Blanco.png
+    taille 900x900 image/png 22 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Stebanpq7
+    crédit : Travail personnel
+    description : Icono de Facebook en blanco
+    catégories licence : CC-Zero; Self-published work
+    catégories : Logos of Facebook
+
+[5] File:Screen of Facebook (2).PNG
+    taille 1600x859 image/png 43 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook
+    crédit : www.facebook.com
+    description : Экран вэб-сайта «Facebook».
+    catégories licence : PD other reasons; PD other reasons old
+    catégories : Files with broken file links; Screenshots of Facebook; With trademark
+
+[6] File:Facebook Logo (2015) light.svg
+    taille 512x99 image/svg+xml 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Facebook Inc.
+    crédit : Investor Relations webpage of Facebook Inc., Annual Report 2017
+    description : The Facebook Alfa wordmark logo design released since 2015, extracted from its official 2017 Annual Report PDF file. This version of the logo is obsolete, and no longer in use.
+    catégories licence : PD textlogo
+    catégories : 2015 SVG logos; Obsolete logos of the United States; SVG logos of Facebook; SVG text logos; Valid SVG created with Adobe Illustrator:Text logos; With trademark
+
+[7] File:Reverse side of Facebook thumbs up sign.jpg
+    taille 4080x3072 image/jpeg 4736 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mliu92
+    crédit : Travail personnel
+    description : Near intersection of Bayfront Expy and Willow Rd, Menlo Park, California
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Facebook's Menlo Park Headquarters; Files with coordinates missing SDC location of creation; United States photographs taken on 2024-05-27; Uploaded with Mobile/Android
+
+[8] File:Meta Headquarters Sign.jpg
+    taille 1080x810 image/jpeg 172 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Nokia621
+    crédit : Travail personnel
+    description : Entrance sign at Meta's headquarters complex in Menlo Park, California
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Facebook's Menlo Park Headquarters
+
+[9] File:Visit to Facebook headquarters.jpg
+    taille 1200x1600 image/jpeg 660 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Department of the Treasury
+    crédit : https://www.flickr.com/photos/ustreasury/9579233446/
+    description : August 22, 2013 - Secretary Lew signs the wall at Facebook headquarters in Menlo Park, CA, during a visit where he participated in a roundtable with local business leaders.
+    catégories licence : PD US Treasury
+    catégories : Events in Menlo Park, California; Facebook's Menlo Park Headquarters; Files from the U.S. Department of the Treasury Flickr stream; Files with coordinates missing SDC location of creation; Flickr images missing SDC creator; Flickr images reviewed by FlickreviewR; Jacob Lew in 2013; Taken with iPhone 5; United States photographs taken on 2013-08-22
+
+[10] File:Facebook HQ swag store.jpg
+    taille 4160x3120 image/jpeg 2599 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Shreyas Minocha
+    crédit : Travail personnel
+    description : A sign at the FB HQ that says "Swag store".
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Facebook's Menlo Park Headquarters; Promotional items
+
+[11] File:Facebook Like sign.jpg
+    taille 612x612 image/jpeg 88 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Kevin Krejci from Near the Pacific Ocean, DSA
+    crédit : Like Facebook Headquarters Thumb
+    description : I offered Facebook $101B, but they turned me down...
+    catégories licence : CC-BY-2.0
+    catégories : 1601 (house number); Facebook Like button; Flickr images reviewed by FlickreviewR
+
+[12] File:Secretary Kerry Signs a Message on Facebook's Wall at Their New Headquarters in Menlo Park (27862586365).jpg
+    taille 4282x2854 image/jpeg 2490 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Department of State from United States
+    crédit : Secretary Kerry Signs a Message on Facebook's Wall at Their New Headquarters in Menlo Park
+    description : U.S. Secretary of State John Kerry signs a message on the Facebook wall at their new headquarters in Menlo Park, California, before meeting with CEO Mark Zuckerberg on June 23, 2016. Earlier, Secretary Kerry delivered remarks at the Opening Plenary of the 2016 Global Entrepreneurship Summit and toured the Innovation Marketplace on the campus of Stanford University. [State Department photo/ Public 
+    catégories licence : PD US DOS
+    catégories : Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR; John Kerry visits Facebook's Menlo Park Headquarters; Menlo Park, California, photographs taken on 2016-06-23; Photographs by the U.S. Department of State; Taken with Nikon D4S
+
+[13] File:Facebook-IU.png
+    taille 2560x612 image/png 225 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : DeanMalova
+    crédit : Travail personnel
+    description : Facebook (Inuktitut)
+    catégories licence : CC-Zero; Self-published work
+    catégories : Facebook; Social networks
+
+[14] File:Popularity of Facebook August 2019.png
+    taille 6460x3480 image/png 1319 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Toomson
+    crédit : Travail personnel
+    description : Popularity of Facebook according to Alexa Rank in August 2019
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2019 maps of the world; Facebook; Internet-related maps of the world; Mapchart.net
+
+[15] File:Facebook Whistleblower Frances Haugen discusses her concerns.webm
+    taille 640x360 video/webm 363115 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : DavidMCEddy
+    crédit : Travail personnel
+    description : Facebook Whistleblower Frances Haugen interviewed 2024-08-29 by Spencer Graves about concerns with how Facebook executives seemed to have prioritized profits over the public good leading to increases in political polarization and violence including increases in teen suicides and the genocide of Rohingyan Muslims in Myanmar.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Digital Services Act; Facebook; Frances Haugen; Political violence; Rohingya persecution in Myanmar (2016–present); Videos in English
+
+[16] File:Facebook App on Mobile Phone (46848249812).jpg
+    taille 7952x5304 image/jpeg 41595 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Tony Webster from Minneapolis, Minnesota, United States
+    crédit : Facebook App on Mobile Phone
+    description : The Facebook mobile app on an Android smartphone
+    catégories licence : CC-BY-2.0
+    catégories : Facebook; Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2; Photographs by Tony Webster

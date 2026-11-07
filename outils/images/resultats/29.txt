@@ -1,0 +1,137 @@
+# carte 29 requêtes 42b622226784
+{"recherches": ["UNIVAC I computer", "UNIVAC I console", "UNIVAC I museum", "UNIVAC"]}
+
+[1] File:Grace Hopper and UNIVAC.jpg
+    taille 513x450 image/jpeg 172 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : Flickr: Grace Hopper and UNIVAC
+    description : SI Neg. 83-14878. Date: June, 1957. Grace Murray Hopper at the UNIVAC keyboard, June 1957. Grace Brewster Murray: American mathematician and rear admiral in the U.S. Navy who was a pioneer in developing computer technology, helping to devise UNIVAC I. the first commercial electronic computer, and naval applications for COBOL (common-business-oriented language). In the photo, left to right: Donald 
+    catégories licence : CC-BY-2.0; Smithsonian Institution
+    catégories : Featured pictures on Wikipedia, Hebrew; Files with Assessments template missing SDC Commons no value quality assessment; Flickr images uploaded by Flickr upload bot; Grace Hopper; Image overwrites by Jan Arkesteijn for independent review; Images with annotations; People using computers in the 1950s; Template Unknown (author); UNIVAC I; Women using computers
+
+[2] File:UNIVAC I console, 1951, Computer History Museum.jpg
+    taille 4566x3044 image/jpeg 5482 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : The wub
+    crédit : Travail personnel
+    description : UNIVAC I console, 1951, Computer History Museum
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computers in the Computer History Museum; Photographs by the wub; UNIVAC I; United States photographs taken on 2023-07-15
+
+[3] File:UNIVAC 1 Recirculation Chassis Board (1951).jpg
+    taille 3867x1667 image/jpeg 1813 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Mark Greenia
+    crédit : Travail personnel
+    description : A Recirculation Chassis vacuum tube board from a UNIVAC 1. Length: 24 inches. Manufactured by Remington Rand UNIVAC, 1951.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : UNIVAC I; Vacuum tube computers
+
+[4] File:Univac I at CHM.agr.jpg
+    taille 4032x3024 image/jpeg 7955 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : ArnoldReinhold
+    crédit : Travail personnel
+    description : UNIVAC I control station on display at the w:Computer History Museum.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Computer consoles; Computers in the Computer History Museum; Files with coordinates missing SDC location of creation; Images by Arnold Reinhold; UNIVAC I
+
+[5] File:UNIVAC-I-BRL61-0977.jpg
+    taille 826x448 image/jpeg 137 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Franklin Life Insurance Company
+    crédit : Department of the Army, Ballistic Research Laboratories - Maryland, A third survey of domestic electronic digital computing systems, Report No 1115, 1961, The UNIVAC II
+    description : This picture is the Univac I installation at the Franklin Institute in Philadelphia, PA., not an insurance company in Illinois. The operator in the photo is Art Bidwell, the lady is Lynn Murray and the man standing is me, Larry McGinn. This photo was taken in the late fifties or early sixties.
+    catégories licence : PD US Army
+    catégories : People using computers in the 1960s; UNIVAC I
+
+[6] File:UNIVAC I Factronic.jpg
+    taille 500x667 image/jpeg 72 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Matthias.Kirschner sur Wikipédia allemand
+    crédit : Travail personnel Originally from de.wikipedia; description page is/was here.
+    description : Rechenanlage UNIVAC I Factronic, Remington Rand Inc., ausgestellt im Deutschen Museum in München. Im Sommer 1956 wurde dieser Univac-Rechner Nr. 35 zerlegt und mit Konsole, Drucker und Bandlaufwerken in zwei Transportflugzeuge geladen. Von der Ostküste der USA ging es nach Frankfurt am Main. Der Röhrenrechner stand im Europäischen Rechenzentrum, das räumlich zum Frankfurter Battelle-Institut gehör
+    catégories licence : PD-user
+    catégories : Computers in the Deutsches Museum; UNIVAC I
+
+[7] File:Univac I Supervisory Control Console at CHM.jpg
+    taille 2232x1676 image/jpeg 649 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Tomwsulcer
+    crédit : Travail personnel
+    description : Univac I Supervisory Control Console, Remington Rand, U.S., 1951, on display at the Computer History Museum, a museum established in 1996 in Mountain View, California, USA, dedicated to preserving and presenting the stories and artifacts of the information age, and exploring the computing revolution and its impact on society.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Computer consoles; Computers in the Computer History Museum; UNIVAC I
+
+[8] File:Control Console of Univac 1830 Computer.jpg
+    taille 613x537 image/jpeg 115 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : LaserSam
+    crédit : Travail personnel
+    description : This is the "user interface" to the Univac 1830 / CP-823/U computer. It provides the ability ot monitor and change all the major registers as well as to run programs from them.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : UNIVAC
+
+[9] File:UNIVAC I supervisory control console ー Computer History Museum (30861730716).jpg
+    taille 4608x3456 image/jpeg 6666 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Ik T from Kanagawa, Japan
+    crédit : UNIVAC I supervisory control console ー Computer History Museum
+    description : <a href="http://www.computerhistory.org/revolution/early-computer-companies/5/100/1483" rel="nofollow">www.computerhistory.org/revolution/early-computer-compani...</a>
+    catégories licence : CC-BY-2.0
+    catégories : Computers in the Computer History Museum; Flickr images reviewed by FlickreviewR 2; UNIVAC I
+
+[10] File:Univac 1830 (CP-823U) Operator's Console.jpg
+    taille 1496x1000 image/jpeg 1434 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : LaserSam
+    crédit : Travail personnel
+    description : Control Console of Univac 1830 / CP-823/U Computer. This is from the system in the photo, above.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : All media needing categories as of 2025; Media needing categories as of 8 May 2025
+
+[11] File:Univac I vignette in the Milestones of a Revolution Exhibit, The Computer Museum, Boston 1991.jpg
+    taille 2100x1397 image/jpeg 778 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : FayFoto
+    crédit : FayFoto
+    description : Vignette exemplifying the birth of commercial computing in the Milestones of a Revolution exhibit at The Computer Museum, Boston
+    catégories licence : CC-Zero
+    catégories : Computers in Museum of Science, Boston; Items with VRTS permission confirmed; UNIVAC I
+
+[12] File:Univac I Census dedication.jpg
+    taille 3748x2728 image/jpeg 1145 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Census Bureau employees
+    crédit : https://www.census.gov/history/
+    description : On June 14, 1951, we dedicated UNIVAC I, the nation's first commercial computer built for a civilian government agency at the Eckert-Mauchly Laboratory in Philadelphia, PA.
+    catégories licence : PD US Census
+    catégories : Files by JayCubby; People using computers in the 1950s; UNIVAC I; United States Census Bureau computers
+
+[13] File:Univac 1108 Census Bureau.jpg
+    taille 1799x1172 image/jpeg 337 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Census Bureau employees
+    crédit : https://www.census.gov/history/
+    description : A Census Bureau employee operates one of the agency’s UNIVAC 1100 series computers. We purchased five 1105s between 1958 and 1962 to process data from the economic censuses and 1960 Census of Population and Housing. We replaced the 1105s with UNIVAC 1107, 1108, 1106, and IBM 1401 computers for the 1970 Census.
+    catégories licence : PD US Census
+    catégories : UNIVAC 1108; United States Census Bureau computers
+
+[14] File:Naval Digital Computer Newsletter UNIVAC Magnetic Computer.png
+    taille 832x512 image/png 406 ko
+    licence : Public domain | pd |  -> OK
+    auteur : US Air Force
+    crédit : Digital Computer Newsletter -- Office of Naval Research Volume 8. No. 3 July 1956 Page: 6
+    description : Designed for USAF -- later used as basis for Solid State machine.
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : UNIVAC
+
+[15] File:UNIVAC-FILE-COMPUTER-BRL61-0944.jpg
+    taille 841x501 image/jpeg 87 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. Marine Corps Supply Center Barstow
+    crédit : "A Third Survey of Domestic Electronic Digital Computing Systems" Report No. 1115, March 1961 by Martin H. Weik, published by Ballistic Research Laboratories, Aberdeen Proving Ground, Maryland https:/
+    description : Image contained in 1961 BRL report, taken by USMC.
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Historical computers; Mainframe computers; UNIVAC; United States Marine Corps

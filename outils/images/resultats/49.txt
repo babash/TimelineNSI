@@ -1,0 +1,146 @@
+# carte 49 requêtes 4a80009a1dbe
+{"recherches": ["NCSA Mosaic", "Mosaic web browser screenshot", "Mosaic browser 1993"]}
+
+[1] File:NCSA Mosaic Browser Screenshot.png
+    taille 772x668 image/png 221 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Charles Severance
+    crédit : Screenshot
+    description : NCSA Mosaic for X Screenshot
+    catégories licence : CC-Zero
+    catégories : Mosaic (web browser); Screenshots of web browsers
+
+[2] File:Baptistry of Neon ceiling mosaic (Ravenna).jpg
+    taille 3072x3042 image/jpeg 5273 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Petar Milošević
+    crédit : Travail personnel
+    description : The ceiling mosaic in the Baptistry of Neon. Ravenna, Italy. Built around 6th century A.D. UNESCO World heritage site.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Baptistry of Neon - Apostles mosaic; Baptistry of Neon - Baptism of Christ mosaic; Featured photos of PetarM; Featured pictures of Christian mosaics; Featured pictures of ceilings; Featured pictures of churches in Ravenna; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, Hebrew; Pictures of the day (2026); Quality images; Taken with Olympus E-P5
+
+[3] File:Apse mosaic - Basilica of San Vitale (Ravenna).jpg
+    taille 4545x2638 image/jpeg 14351 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Petar Milošević
+    crédit : Travail personnel
+    description : Apse mosaic in basilica of San Vitale, Ravenna, Italy. Built 547. A.D. UNESCO World heritage site. On mosaic from left side: St. Vitalis, archangel, Jesus Christ, second archangel and Bishop of Ravenna Ecclesius.
+    catégories licence : CC-BY-SA-4.0; Ecclesius (bishop); Self-published work
+    catégories : Assessment tagged valued image pages missing scope; Featured photos of PetarM; Featured pictures of Christian mosaics; Featured pictures of ceilings; Featured pictures of churches in Ravenna; Featured pictures on Wikimedia Commons; Featured pictures on Wikipedia, Vietnamese; Files with coordinates missing SDC location of creation; Images with annotations; Mosaics of Jesus Christ in Italy; Quality 
+
+[4] File:Neptune Amphitrite mosaic Herculaneum.jpg
+    taille 4502x3056 image/jpeg 16245 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Jebulon
+    crédit : Travail personnel
+    description : Mosaïque de Neptune et Amphitrite à Herculanum, Italie.
+    catégories licence : CC-Zero; Featured pictures in the public domain; Self-published work
+    catégories : Featured pictures by Jebulon; Featured pictures by others nominated by Yann Forget; Featured pictures of Campania; Featured pictures of mosaics; Featured pictures on Wikimedia Commons; Italy photographs taken on 2015-07-23; July 2015 in Campania; Mosaic of Neptune and Amphitrite (Herculaneum); Quality images; Quality images by Jebulon; Quality images of Herculaneum; Quality images of mosaics in It
+
+[5] File:Centaur mosaic - Google Art Project retouched.jpeg
+    taille 27974x18078 image/jpeg 606881 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Unknown Détails concernant l’artiste sur Google Art Project
+    crédit : SwHAQhNGz6l7_Q sur l’Institut culturel Google niveau de zoom scaled down from maximum resolution
+    description : The centaur mosaic was found in the 18th century on the site of the sprawling, luxurious villa complex near Tivoli that once belonged to the Roman emperor Hadrian. The mosaic was found in situ along with other smaller ones that bore depictions of landscapes, animals and masks. The relatively small central panel (emblema) formed part of the floor decoration for the dining room (triclinium) in the m
+    catégories licence : Artworks with known accession number; CC-PD-Mark; PD-Art (PD-old-100-expired); PD-old-100-expired
+    catégories : 2nd-century mosaics in Germany; Ancient Roman mosaics of Villa Adriana; Artworks digital representation of unknown type of work; Artworks with Wikidata item; Artworks with Wikidata item missing date; Artworks with Wikidata item missing genre; Artworks with Wikidata item missing medium; Centaur mosaic Antikensammlung Berlin; Centaurs on ancient Roman mosaics; Featured pictures on Wikipedia, Persian
+
+[6] File:Arian Baptistry ceiling mosaic - Ravenna.jpg
+    taille 3046x2997 image/jpeg 14078 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Petar Milošević
+    crédit : Travail personnel
+    description : Ceiling mosaic of Arian Baptistry. Built in 5-6 century A.D. by Ostrogothic King Theodoric the Great in Ravenna, Italy. Mosaics are depicting the baptism of Jesus by Saint John the Baptist with procession of the Apostles around. UNESCO World heritage site.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Arian Baptistry (Ravenna) - Baptism of Christ mosaic; Assessment tagged valued image pages missing scope; Featured photos of PetarM; Featured pictures of Christian mosaics; Featured pictures of ceilings; Featured pictures of churches in Ravenna; Featured pictures on Wikimedia Commons; Quality images; Taken with Olympus E-P5; Valued images
+
+[7] File:Print dialog - print with no references and no backgrounds.pdf
+    taille 1239x1752 application/pdf 151 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : User:TheDJ
+    crédit : English Wikipedia
+    description : Example printout using the tool Print dialog. This shows the result of printing with no references and no backgrounds.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : English Wikipedia screenshots; Print dialog
+
+[8] File:Print dialog - print in black with no images.pdf
+    taille 1239x1752 application/pdf 145 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : User:TheDJ
+    crédit : English Wikipedia
+    description : Example printout using the tool Print dialog. This shows the result of printing with all text forced to black and disabling the printing of images.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : English Wikipedia screenshots; Print dialog
+
+[9] File:Print dialog - print with interface.pdf
+    taille 1239x1752 application/pdf 358 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : User:TheDJ
+    crédit : English Wikipedia
+    description : Example printout using the tool Print dialog. This shows the result of printing in "screen" mode.
+    catégories licence : CC-BY-SA-4.0; GFDL; License migration redundant
+    catégories : English Wikipedia screenshots; Print dialog
+
+[10] File:Size Comparison of the Universe 2021 - Musik - Quellen.webm
+    taille 3840x2160 video/webm 1753130 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Times Infinity
+    crédit : YouTube : Size Comparison of the Universe 2021 – Voir/enregistrer des versions archivées sur archive.org
+    description : Size comparison of the universe. Sources of derivative Works are deeper here. From the Planck scale to the cosmic scale, the size comparison of the universe will show you just how large our universe is! This is an update to my previous size comparison video published on the same date in 2019.
+    catégories licence : CC-BY-3.0; License reviewed by YouTubeReviewBot; PD NASA
+    catégories : Bow shocks; Media from YouTube; NASA videos in 2021; Size comparisons of the universe; Uploaded with video2commons/Server-side uploads; Videos from the NASA Goddard YouTube channel; Videos of cosmology; Videos uploaded by PantheraLeo1359531; Videos with text in English; WebM videos; Zoom
+
+[11] File:BOU ELEC 4616 - Electronic Commerce - Module 03 - Infrastructure for Electronic Commerce - E-Service Implementation and Support.pdf
+    taille 1275x1650 application/pdf 683 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Martin Barnett
+    crédit : Bangladesh Open University OER Repository, item hdl:7777/662, original file Module-3.pdf
+    description : Electronic Commerce (ELEC 4616). Module 03 - Infrastructure for Electronic Commerce - E-Service Implementation and Support. Course material published by Bangladesh Open University. Programme: Commonwealth Executive MBA/MPA (CEMBA/CEMPA). School: School of Business (SoB).
+    catégories licence : CC-BY-4.0; Creative Commons Attribution 4.0 missing SDC copyright license; Creative Commons Attribution missing SDC copyright status
+    catégories : BOU ELEC 4616 Electronic Commerce; Uploaded with pypan
+
+[12] File:Layout engine usage share-2009-01-07.svg
+    taille 520x273 image/svg+xml 36 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Layout_engine_usage_share.svg jars99 derivative work: Jars99 (talk)
+    crédit : Layout_engine_usage_share.svg
+    description : Vector version of Image:Layout_engine_usage.png on English Wikipedia. Original description: Comparison of layout engine/web browser usage share (market share) over time. Data is based on usage share of web browsers. Note that the values may contain errors. Existing problems in the current data: Data for the early part of the (first) browser wars could use some refinement. Extremely scant data prio
+    catégories licence : PD-self; Self-published work
+    catégories : Area charts; Area charts of web browser statistics; Data graphics about Mozilla Firefox; Internet Explorer diagrams; Mosaic (web browser); Netscape (web browser); Opera diagrams; Pages using deprecated enclose attributes; SVG retouched pictures; Uploaded with derivativeFX; Web browser statistics before 2009
+
+[13] File:World wide web and mosaic- user's guide (IA worldwidewebmosa5453schl).pdf
+    taille 1295x1697 application/pdf 842 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Schlenoff, Craig I.
+    crédit : Internet Archive identifier: worldwidewebmosa5453schl https://archive.org/download/worldwidewebmosa5453schl/worldwidewebmosa5453schl.pdf
+    description : Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[14] File:Low grade mosaic for a complex supernumerary ring chromosome 18.pdf
+    taille 1239x1652 application/pdf 2599 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : see page 1
+    crédit : See page 1
+    description : ring chromosome 18
+    catégories licence : CC-BY-2.0
+    catégories : Ring 18 syndrome
+
+[15] File:The forest resources of the Hiawatha National Forest, 1993 (microform) (IA forestresourceso163schm).pdf
+    taille 1229x1575 application/pdf 2259 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Schmidt, Thomas Lanasa, Mike North Central Forest Experiment Station (Saint Paul, Minn.)
+    crédit : Internet Archive identifier: forestresourceso163schm https://archive.org/download/forestresourceso163schm/forestresourceso163schm.pdf
+    description : Distributed to depository libraries in microfiche Shipping list no.: 96-0070-M Includes bibliographical references (p. 19-20) Microfiche Subjects: Forests and forestry Michigan Hiawatha National Forest Statistics; Forest surveys Michigan Hiawatha National Forest; Timber Michigan Hiawatha National Forest Statistics
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Hiawatha National Forest; Internet Archive (redundant cover page removed); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[16] File:Layout engine usage share.svg
+    taille 646x376 image/svg+xml 32 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : PD-self; Self-published work
+    catégories : Area charts of web browser statistics; Files with derivative versions; Files with no machine-readable author; Files with no machine-readable source; Invalid SVG created with Inkscape:Charts; Media missing infobox template; Pages using deprecated enclose attributes; SVG created with Inkscape:Important; Translation possible - SVG; Web browser statistics before 2009

@@ -1,0 +1,92 @@
+# carte 34 requêtes cef08b782500
+{"recherches": ["Zuse Z1 replica", "Z1 Konrad Zuse Deutsches Technikmuseum", "Zuse Z1"]}
+
+[1] File:Zuse Z1 Replica, Berlin - Flickr - AlexJLowry.jpg
+    taille 3072x2048 image/jpeg 2555 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Alex J. Lowry from Scotland
+    crédit : Zuse Z1 Replica, Berlin
+    description : The Z1 was the first programmable computer built by German computing pioneer Konrad Zuse in 1938. Zuse's first 3 computers were tragically destroyed by WW2 bombing raids, but he was able to construct replicas of the Z3 in 1961 and the Z1 in 1989. This is the Z1 replica, which currently resides in the Deutsches Technikmuseum Berlin. Pictured here is the tape punch, used to punch program data onto a
+    catégories licence : CC-Zero
+    catégories : Files with coordinates missing SDC location of creation; Flickr files uploaded by Red panda bot; Flickr images reviewed by FlickreviewR 2; Photographs taken on 2024-10-11; Photos in Flickr Explore; Zuse Z1
+
+[2] File:German Museum of Technology, Berlin 2017 024.jpg
+    taille 5184x3456 image/jpeg 11667 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Photograph by Mike Peel (www.mikepeel.net).
+    crédit : Travail personnel
+    description : German Museum of Technology, Berlin, Germany.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Computers – German Museum of Technology Berlin; Photos by Mike Peel using a Canon EOS 60D; Zuse Z1
+
+[3] File:Epoca 1886-12-14, nr. 318.pdf
+    taille 2214x3275 application/pdf 4006 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Epoca staff; scan by Biblioteca Metropolitană București
+    crédit : Dacoromanica, Biblioteca Digitală a României
+    description : Epoca, no. 318, year 2
+    catégories licence : PD-Romania
+    catégories : 1886-12-14; Epoca December 1886
+
+[4] File:A comunicação no setor público e suas intersecções com as mídias.pdf
+    taille 872x1239 application/pdf 15538 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Edgard Luiz Bernardes Valderramas
+    crédit : https://www.editorafi.org/ebook/694-comunicacao-setor-publico
+    description : Esta pesquisa buscou examinar qual o atual estágio das intersecções da comunicação no setor público com os novos paradigmas da mídias tecnológicas, analisando os aspectos fundamentais das novas Tecnologias Digitais da Informação e Comunicação frente aos modelos de Dados e Governos abertos. Percorre-se historicamente as tecnologias, o modo como o ser humano a adota no seu dia a dia e como esse entr
+    catégories licence : CC-BY-SA-4.0; PDF books in Portuguese
+    catégories : 2023 books from Brazil; Books published by Editora Fi; Sustainable Development Goals in Brazil
+
+[5] File:Zuse Z1.jpg
+    taille 837x494 image/jpeg 79 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Stahlkocher
+    crédit : de.wikipedia.org: 13:18, 15. Feb 2004 . . Stahlkocher (Diskussion) . . 837 x 494 (81433 Byte) (Nachbau des Z1 im deutschen Technik Museum in Berlin, eigenes Bild, GNU-FDL)
+    description : Nachbau des Z1 im deutschen Technik Museum in Berlin
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Computers – German Museum of Technology Berlin; Trebbiner Straße 9; Zuse Z1
+
+[6] File:Zuse Patent 907948 vector.svg
+    taille 794x1123 image/svg+xml 92 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Original: Konrad Zuse Vector: VectorVoyager
+    crédit : Vector remake of patent 907948
+    description : Diagrams from Zuse's May 1936 patent for a binary switching element using a mechanism of flat sliding rods. The Z1 was based on such elements.
+    catégories licence : PD ineligible
+    catégories : Zuse KG; Zuse Z1
+
+[7] File:Zuse Z1 Nachbau, Deutsches Technikmuseum Berlin, 1.jpg
+    taille 4608x3456 image/jpeg 2968 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Morn
+    crédit : Travail personnel
+    description : 1989 reconstruction of the Zuse Z1 at the German Museum of Technology
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Computers – German Museum of Technology Berlin; Taken with Casio Exilim EX-N5; Zuse Z1
+
+[8] File:Zuse Z1-2.jpg
+    taille 1037x778 image/jpeg 89 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : ComputerGeek
+    crédit : de.wikipedia.org: 22:33, 27. Dez 2005 . . ComputerGeek (Diskussion) . . 1037 x 778 (91664 Byte)
+    description : Nachbau des Z1 im deutschen Technikmuseum in Berlin
+    catégories licence : CC-BY-SA-3.0-migrated; GFDL; License migration completed
+    catégories : Computers – German Museum of Technology Berlin; Taken with Sony DSC-P93; Vikidia picture use; Zuse Z1
+
+[9] File:Zuse Z1 - Flickr - KlausNahr (3).jpg
+    taille 3072x2304 image/jpeg 1786 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Klaus Nahr from Germany
+    crédit : Zuse Z1
+    description : Zuse Z1
+    catégories licence : CC-BY-SA-2.0
+    catégories : Computers – German Museum of Technology Berlin; Files uploaded by Kobac; Flickr images reviewed by FlickreviewR; Photographs by Klaus Nahr; Zuse Z1
+
+[10] File:Konrad Zuse Z1.png
+    taille 2304x3072 image/png 8569 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Ricardo Reis
+    crédit : Flickr: Konrad Zuse Z1
+    description : Konrad Zuse Z1
+    catégories licence : CC-BY-SA-2.0
+    catégories : Computers – German Museum of Technology Berlin; Files from Ricardo Reis Flickr stream; Flickr images uploaded by Flickr upload bot; Zuse Z1

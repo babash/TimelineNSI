@@ -1,0 +1,146 @@
+# carte 53 requêtes 6126dfe30560
+{"recherches": ["MS-DOS", "MS-DOS screenshot", "MS-DOS floppy disk", "MS-DOS command prompt"]}
+
+[1] File:StartingMsdos.png
+    taille 178x66 image/png 0 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Original téléversé par Andrewpmk sur Wikipédia anglais.
+    crédit : Transféré de en.wikipedia à Commons par Codename Lisa.
+    description : MS-DOS 6.22 booting, from QEMU. Image created by Mike Swanson. MS-DOS © 1994 Microsoft.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : 1981 in computing; Command shells; MS-DOS; Screenshots
+
+[2] File:MS-DOS 6.22.jpg
+    taille 1441x797 image/jpeg 138 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Gvtyhbiju
+    crédit : Travail personnel
+    description : Screenshot of MS-DOS 6.22
+    catégories licence : CC-Zero; Self-published work
+    catégories : MS-DOS; Microsoft
+
+[3] File:Kuku virus for MS-DOS.png
+    taille 632x393 image/png 18 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Kerostera
+    crédit : Travail personnel
+    description : The picture is a screenshot of the KUKU virus, which has been run on Dosbox under standard settings. Keyboard layout is German. Underlying OS is Linux. Source of the executable file: https://archive.org/download/malware_KUKU.COM Source of the emulator: https://www.dosbox.com/
+    catégories licence : CC-Zero; Self-published work
+    catégories : Computer graphics; Computer viruses; Demoscene; MS-DOS; Malware
+
+[4] File:MS-DOS 6 floppy disks.jpg
+    taille 1374x1832 image/jpeg 990 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Stefan Nagy
+    crédit : Travail personnel
+    description : MS-DOS 6 on four 3½-inch floppy disks
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Floppy disks; MS-DOS
+
+[5] File:PowerPak 286 running AutoCAD on MS-DOS (1987).jpg
+    taille 5770x3082 image/jpeg 12983 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Suspiciouscelery
+    crédit : Travail personnel
+    description : From a 1987 advertisement from Puget Sound ComputerUser for the PowerPak 286 IBM PC compatible, as sold by Evergreen Systems. Original photo taken by Dick Cruver of Star Productions, as stated in the advertisement. Modified from File:Evergreen Systems - PowerPak 286 - May 1987 Puget Sound ComputerUser "Power Users!" advert.jpg: cropped, yellow tint removed, brightness and contrast adjusted, "MADE 
+    catégories licence : CC-Zero; Self-published work
+    catégories : 1980s personal computers; AutoCAD; IBM PC compatibles; MS-DOS; Magazines of the United States, 1987; Puget Sound ComputerUser
+
+[6] File:MS-DOS Deutsch.png
+    taille 640x400 image/png 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Jacob Farnsworth
+    crédit : MS-DOS (Microsoft Corporation)
+    description : MS-DOS (Microsoft Disk Operating System) start-up screen, German version
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Command shells; MS-DOS
+
+[7] File:VirtualBox MS-DOS 5.00 05 12 2024 19 17 45 crop.png
+    taille 558x160 image/png 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 5.00
+    description : Screenshot of MS-DOS 5.00. Here is a warning message in the DOS shell.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Files uploaded by PantheraLeo1359531; MS-DOS 5.00; Screenshots by PantheraLeo1359531 in 2024; Screenshots of warning message boxes
+
+[8] File:VirtualBox MS-DOS 5.00 05 12 2024 19 16 45.png
+    taille 720x400 image/png 6 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 5.00
+    description : Screenshot of MS-DOS 5.00. Here before installation.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Files uploaded by PantheraLeo1359531; MS-DOS 5.00; Screenshots by PantheraLeo1359531 in 2024
+
+[9] File:VirtualBox MS-DOS 5.00 05 12 2024 19 17 30.png
+    taille 720x400 image/png 4 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 5.00
+    description : Screenshot of MS-DOS 5.00. Here after installation.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Files uploaded by PantheraLeo1359531; MS-DOS 5.00; Screenshots by PantheraLeo1359531 in 2024
+
+[10] File:VirtualBox MS-DOS 5.00 05 12 2024 19 17 55crop.png
+    taille 423x144 image/png 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 5.00
+    description : Screenshot of MS-DOS 5.00. Here is an about box of the DOS shell.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : About boxes (isolated); Files uploaded by PantheraLeo1359531; MS-DOS 5.00; Screenshots by PantheraLeo1359531 in 2024
+
+[11] File:VirtualBox MS-DOS 5.00 05 12 2024 19 18 08crop.png
+    taille 252x384 image/png 4 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 5.00
+    description : Screenshot of MS-DOS 5.00. Here is a drop-down list of the DOS shell.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : File menu; Files uploaded by PantheraLeo1359531; MS-DOS 5.00; Screenshots by PantheraLeo1359531 in 2024
+
+[12] File:VirtualBox Windows 1.0 Alpha 30 12 2024 13 46 11 (MS-DOS 7.10).png
+    taille 720x400 image/png 8 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OS: Microsoft Corporation Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : MS-DOS 7.10
+    description : Screenshot of MS-DOS 7.10. DOS versions above 6.22 are actually integrated in Windows 9x.
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Files uploaded by PantheraLeo1359531; MS-DOS 7.10; Screenshots by PantheraLeo1359531 in 2024
+
+[13] File:MS-DOS 6.2V floppy disks.jpg
+    taille 3024x3024 image/jpeg 3476 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Project kei
+    crédit : Travail personnel
+    description : MS-DOS 6.2V floppy disks (JPN)
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 3.5" HD (1.44 MB) floppy disks; 3x2 arrays; CH letter combinations; Groups of 6; MS-DOS
+
+[14] File:MS-DOS 6.22 floppy disks 20110326.jpg
+    taille 2499x2136 image/jpeg 2609 ko
+    licence : CC BY-SA 3.0 es | cc-by-sa-3.0-es | https://creativecommons.org/licenses/by-sa/3.0/es/deed.en -> OK
+    auteur : HombreDHojalata
+    crédit : Travail personnel
+    description : 3 floppy disks of MS-DOS 6.22.
+    catégories licence : CC-BY-SA-3.0-ES
+    catégories : 3.5" HD (1.44 MB) floppy disks; HombreDHojalata; MS-DOS; Taken with Nikon D3000
+
+[15] File:MS-DOS 6.22 floppy disks german.jpg
+    taille 3024x4032 image/jpeg 1781 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Diejohsch
+    crédit : Travail personnel
+    description : MS-DOS 6.22 floppy disks german
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : MS-DOS
+
+[16] File:MS-DOS 6.2 system disk 2025-03-01.jpg
+    taille 1731x1731 image/jpeg 318 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Asanagi
+    crédit : Travail personnel
+    description : NEC PC-9800 シリーズ用 MS-DOS 6.2 システムディスク 1（1994年）
+    catégories licence : CC-Zero; Self-published work
+    catégories : Floppy disks for installing PC-DOS or MS-DOS; NEC PC-98

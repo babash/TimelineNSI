@@ -1,0 +1,146 @@
+# carte 45 requêtes 9ab1e1b38772
+{"titres": ["File:ARPANET 1970 Map.png"], "recherches": ["ARPANET map", "ARPANET first IMP", "ARPANET logical map", "Interface Message Processor"]}
+
+[1] File:ARPANET 1970 Map.png
+    taille 684x463 image/png 107 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : UCLA and BBN
+    crédit : http://digital2.library.ucla.edu/internethistory/
+    description : The map of ARPANET in December 1970, it contains 18 Nodes and 24 Lines.
+    catégories licence : CC-BY-SA-4.0
+    catégories : ARPANET maps; Maps of Internet backbone networks; Old maps of the United States; Telecommunications cable maps
+
+[2] File:Arpanet logical map, march 1977.png
+    taille 1000x716 image/png 38 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ARPANET
+    crédit : The Computer History Museum ([1]), en:File:Arpnet-map-march-1977.png
+    description : ARPANET logical map circa 1977
+    catégories licence : PD US no notice
+    catégories : ARPANET maps; Collections of the Computer History Museum; Internet diagrmams
+
+[3] File:Arpanet map 1973.jpg
+    taille 1177x879 image/jpeg 295 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ARPANET
+    crédit : ARPANET
+    description : map of the ARPANET 1973
+    catégories licence : PD US no notice
+    catégories : ARPANET maps; Internet diagrams
+
+[4] File:Arpanet in the 1970s.png
+    taille 1267x716 image/png 1142 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Semaforo GMS
+    crédit : Travail personnel
+    description : Arpanet Points in the 70s
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 1970s maps of the United States; ARPANET maps
+
+[5] File:A sketch of the ARPANET in December 1969.png
+    taille 2057x3003 image/png 4290 ko
+    licence : Public domain | pd |  -> OK
+    auteur : DARPA
+    crédit : https://www.darpa.mil/attachments/(2O15)%20Global%20Nav%20-%20About%20Us%20-%20History%20-%20Resources%20-%2050th%20-%20Internet%20(Approved).pdf
+    description : A sketch of the ARPANET in December 1969. The nodes at UCLA and the Stanford Research Institute (SRI) are among those depicted.
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : ARPANET maps
+
+[6] File:Arpanet-geographic-map-may-1977-diagram.png
+    taille 1000x700 image/png 160 ko
+    licence : Public domain | pd |  -> OK
+    auteur : DARPA
+    crédit : https://www.darpa.mil/news/features/arpanet
+    description : arpanet geographic map May 1977
+    catégories licence : PD US DARPA
+    catégories : ARPANET maps
+
+[7] File:Arpanet 1972 Map.png
+    taille 1024x629 image/png 731 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : UCLA and BBN
+    crédit : http://digital2.library.ucla.edu/internethistory/
+    description : The map of ARPANET in March 1972.
+    catégories licence : CC-BY-SA-4.0
+    catégories : ARPANET maps; Maps of Internet backbone networks; Old maps of the United States; Telecommunications cable maps
+
+[8] File:First-arpanet-imp-log.jpg
+    taille 504x281 image/jpeg 39 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Charles S. Kline
+    crédit : UCLA Kleinrock Center for Internet Studies ([1])
+    description : First ARPANET IMP log. The initials "CSK" in the log stand for Charles S. Kline. Charley was the first person to ever login to a remote host via the ARPANET. His supervising professor was Leonard Kleinrock. Here is a video of Kleinrock showing the original IMP LOG: "The First Internet Connection".
+    catégories licence : PD US no notice
+    catégories : Handwriting in English; Interface Message Processor; Logbooks
+
+[9] File:ARPANET first router.jpg
+    taille 3542x5400 image/jpeg 4214 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : Steve Jurvetson from Menlo Park, USA
+    crédit : The First Internet Router
+    description : For the APRANET in 1969, the BBN Interface Message Processor (IMP) did the packet routing. (It's another cool artifact of history in the back room, awaiting installation in the new Computer History Museum exhibition hall.) The Honeywell 516 minicomputer inside had only 6,000 words of software (in 12K of core memory) and monitored network status and statistics. Cost: $82,200 The first transmission 
+    catégories licence : CC-BY-2.0
+    catégories : Collections of the Computer History Museum; Flickr images reviewed by File Upload Bot (Magnus Manske); Interface Message Processor; Photographs by Steve Jurvetson; Taken with Canon EOS 5D Mark II
+
+[10] File:A History of the ARPANET, The First Decade, BBN Report 4799, April 1981.pdf
+    taille 1375x1752 application/pdf 7472 ko
+    licence : Public domain | pd |  -> OK
+    auteur : BBN technical staff
+    crédit : https://www.telecomarchive.com/bbn.html
+    description : A History of the ARPANET, The First Decade, BBN Report 4799, April 1981.
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : ARPANET; BBN reports
+
+[11] File:Arpanet Completion Report.pdf
+    taille 1222x1645 application/pdf 5523 ko
+    licence : Public domain | pd |  -> OK
+    auteur : F. Heart, A. McKenzie, J. McQuillan, and D. Walden
+    crédit : https://walden-family.com/bbn/arpanet-completion-report.pdf https://archive.org/details/arpanet-completion-report/
+    description : Completion Report: ARPA Network Development
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : ARPANET
+
+[12] File:Introduction to the ARPANET and MILNET, BBN Report 5635, undated.pdf
+    taille 1239x1754 application/pdf 3873 ko
+    licence : Public domain | pd |  -> OK
+    auteur : BBN technical staff
+    crédit : https://www.telecomarchive.com/bbn.html
+    description : Introduction to the ARPANET and MILNET, BBN Report 5635, undated.
+    catégories licence : PD-US missing SDC copyright status; PD US no notice 1989
+    catégories : ARPANET; BBN reports; MILNET
+
+[13] File:Asynchronous Serial Interface for Connecting a PDP-11 to the ARPANET (BBN 1822), 1976.pdf
+    taille 1206x1631 application/pdf 3219 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Ronald C. Crane
+    crédit : https://apps.dtic.mil/sti/citations/ADA037212
+    description : Asynchronous Serial Interface for Connecting a PDP-11 to the ARPANET (BBN 1822), 1976.
+    catégories licence : PD-US missing SDC copyright status; PD US no notice
+    catégories : ARPANET
+
+[14] File:Arpanet logical map, march 1977 PDP-10.png
+    taille 1000x716 image/png 99 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : The Computer History Museum
+    crédit : File:Arpanet_logical_map,_march_1977.png
+    description : ARPANET logical map circa 1977, with PDP-10 systems highlighted.
+    catégories licence : CC-Zero
+    catégories : ARPANET maps; Internet diagrams
+
+[15] File:Arpanet logical map, march 1977, PDP-10.png
+    taille 1000x716 image/png 90 ko
+    licence : Public domain | pd |  -> OK
+    auteur : The Computer History Museum
+    crédit : http://en.wikipedia.org/wiki/File:Arpanet_logical_map,_march_1977.png
+    description : ARPANET logical map circa 1977, with PDP-10 systems highlighted.
+    catégories licence : PD-author; PDP-10
+    catégories : ARPANET maps; Collections of the Computer History Museum; Files uploaded with For the Common Good; Internet diagrams
+
+[16] File:ARPA Network, Logical Map, September 1973.jpg
+    taille 800x586 image/jpeg 94 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Bolt Beranek and Newman Inc.
+    crédit : Bolt Beranek and Newman Inc.
+    description : ARPA Network, Logical Map, September 1973. Note satellite links to Hawaii and London.
+    catégories licence : PD US no notice
+    catégories : ARPANET maps; Files uploaded by Daderot; SATNET

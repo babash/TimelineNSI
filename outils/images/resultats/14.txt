@@ -1,0 +1,146 @@
+# carte 14 requêtes f8ff672fc9e4
+{"recherches": ["Turing machine model", "Turing machine physical", "Turing machine tape diagram", "Turing machine"]}
+
+[1] File:Example of a Turing machine.svg
+    taille 349x243 image/svg+xml 14 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sn KGS
+    crédit : Travail personnel
+    description : Vector image of a Turing machine, intended to replace
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Turing machines
+
+[2] File:Turing Machine Model Davey 2012.jpg
+    taille 5066x3377 image/jpeg 830 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Rocky Acosta
+    crédit : Travail personnel
+    description : Turing Machine, reconstructed by Mike Davey as seen at Go Ask ALICE at Harvard University
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Taken with Canon EOS 60D; Turing machines
+
+[3] File:Turing Machine Model Davey detail 2012.jpg
+    taille 3456x5184 image/jpeg 977 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Rocky Acosta
+    crédit : Travail personnel
+    description : Turing Machine, reconstructed by Mike Davey as seen at Go Ask ALICE at Harvard University
+    catégories licence : CC-BY-3.0; Self-published work
+    catégories : Taken with Canon EOS 60D; Turing machines
+
+[4] File:Model of a Turing machine.jpg
+    taille 3264x2448 image/jpeg 2005 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : GabrielF
+    crédit : Travail personnel
+    description : As seen at the Go Ask Alice exhibit at the Harvard Collection of Historical Scientific Instruments. The builder's website is: http://aturingmachine.com/
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Scientific instruments in the Harvard University Science Center; Taken with iPhone 4S; Turing machines
+
+[5] File:Turing machine Turing's first machine.JPG
+    taille 1348x820 image/jpeg 288 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : User:Wvbailey
+    crédit : travail personnel de la personne qui a téléchargé à l'origine le document.
+    description : 
+    catégories licence : CC-BY-SA-3.0-migrated-with-disclaimers; GFDL-en; License migration completed; Self-published work
+    catégories : Convert to TXT; English-language diagrams; Files uploaded with For the Common Good; Images with inappropriate JPEG compression; Media lacking a description; Turing machines
+
+[6] File:Turing machine copy example.JPG
+    taille 1348x820 image/jpeg 344 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : 
+    crédit : 
+    description : 
+    catégories licence : CC-BY-SA-3.0-migrated-with-disclaimers; GFDL-en; License migration completed; Self-published work; User-created GFDL images
+    catégories : Convert to TXT; Files with no machine-readable author; Files with no machine-readable source; Images with inappropriate JPEG compression; Media missing infobox template; Turing machines
+
+[7] File:Physical Culture v05n01 1901-04.Physical Culture (D&M-IA).djvu
+    taille 1073x1500 image/vnd.djvu 13484 ko
+    licence : Public domain | pd |  -> OK
+    auteur : 
+    crédit : Internet Archive identifier: physical-culture-v-05n-01-1901-04.-physical-culture-d-m
+    description : Physical Culture v05n10, April 1901, Physical Culture Publishing Co., 52 pages, 5 cents. Note: Incorrect volume number listed above masthead on cover. Editor - Bernarr Macfadden 6 Our First Co-operative Health Home by Bernarr Macfadden8 The Five Cents A Day Experiment by Bernarr Macfadden9 Open Letter to Andrew Carnegie10 Pure Vaccine Virus11 Smallpox by J.D. Jones12 Health Disciples13 Quack Medic
+    catégories licence : CC-PD-Mark; PD-scan (PD-old-70); PD Old
+    catégories : 1901 magazines; Books without Wikidata item; Files with no machine-readable author; Physical Culture (magazine); Scanned English magazines in DjVu; Scans from the Internet Archive; Scans from the Internet Archive/unverified; Uploaded with IA Upload
+
+[8] File:A Turing test for crowds.pdf
+    taille 1085x1575 application/pdf 1235 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Webster, Jamie; Amos, Martyn
+    crédit : https://doi.org/10.1098/rsos.200307 via PubMed Central FTP
+    description : Webster, Jamie; Amos, Martyn (2020). "A Turing test for crowds". Royal Society Open Science. 7 (7): 200307. doi:10.1098/rsos.200307. ISSN 2054-5703. PMC 7428261. PMID 32874628. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 7 Issue 7; Uploaded by DaxBot needing category review
+
+[9] File:Physical culture (IA physicalculture201908macf).pdf
+    taille 879x1400 application/pdf 71232 ko
+    licence : Public domain | pd |  -> OK
+    auteur : MacFadden, Bernarr Aldolphus, 1858-
+    crédit : Internet Archive identifier: physicalculture201908macf https://archive.org/download/physicalculture201908macf/physicalculture201908macf.pdf
+    description : Title from caption Description based on: v. 1, no. 8 [sic. v. 2] (Oct. 1899) Vol. 2, no. 1 (Oct. 1899) called v. 1, no. 8 Editor: 1899- Bernarr Adolphus MacFadden Subjects: Physical education and training
+    catégories licence : Books from the United States PDF files; PD US expired
+    catégories : Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; IA books harmonization; Physical culture (1908); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:The physical properties of soils - a laboratory guide (IA cu31924018734057).pdf
+    taille 693x1079 application/pdf 2012 ko
+    licence : Public domain | pd |  -> OK
+    auteur : McCall, Arthur Gillett, 1874-
+    crédit : Internet Archive identifier: cu31924018734057 https://archive.org/download/cu31924018734057/cu31924018734057.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Part of pages blank for notes Inc
+    catégories licence : PD US expired
+    catégories : Books about soil science; Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; Physical properties of soil; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:Macfadden's Encyclopedia of physical culture; Volume 2 (IA macfaddensencycl02macf).pdf
+    taille 1433x2397 application/pdf 45442 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Macfadden, Bernarr, 1868-1955
+    crédit : Internet Archive identifier: macfaddensencycl02macf https://archive.org/download/macfaddensencycl02macf/macfaddensencycl02macf.pdf
+    description : 5 v. 26 cm Subjects: Hygiene -- Dictionaries; Physical education and training; Diet; Therapeutics, Physiological
+    catégories licence : Books from the United States PDF files; PD US expired
+    catégories : Books in the Library of Congress; Books uploaded by Fæ; Books without Wikidata item; IA books of at least 500 pages; Macfadden's encyclopedia of physical culture; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:The physical properties of soils; a laboratory guide (IA physicalproperti00mccarich).pdf
+    taille 870x1364 application/pdf 4737 ko
+    licence : Public domain | pd |  -> OK
+    auteur : McCall, Arthur Gillett, 1874-
+    crédit : Internet Archive identifier: physicalproperti00mccarich https://archive.org/download/physicalproperti00mccarich/physicalproperti00mccarich.pdf
+    description : Subjects: Soils
+    catégories licence : Books with Wikidata item missing accession number; PD US expired
+    catégories : Artworks digital representation of unclassified work; Books from New York (state); Books uploaded by Fæ; Books with Wikidata item; California Digital Library; Physical properties of soil; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:Turing-machine.svg
+    taille 385x83 image/svg+xml 23 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wdvorak
+    crédit : Travail personnel
+    description : Turing-machine
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : English-language SVG diagrams; Turing machines
+
+[14] File:3tape-turing-machine.svg
+    taille 311x109 image/svg+xml 36 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wdvorak
+    crédit : Travail personnel
+    description : 3 tape-turing-machine
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : English-language SVG diagrams; Turing machines
+
+[15] File:3track-turing-machine.svg
+    taille 250x119 image/svg+xml 33 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Wdvorak
+    crédit : Travail personnel
+    description : 3 track-turing-machine
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : English-language SVG diagrams; Turing machines
+
+[16] File:Universal Turing machine.svg
+    taille 1354x628 image/svg+xml 53 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | http://creativecommons.org/licenses/by-sa/3.0/ -> OK
+    auteur : Cbuckley
+    crédit : Travail personnel
+    description : A Universal Turing machine U. U consists of a set of instructions in the table that can “execute” the correctly-formulated “code number” of any arbitrary Turing machine ℳ on its tape. In some models, the head shuttles back and forth between various regions on the tape. In other models the head shuttles the tape back and forth.
+    catégories licence : CC-BY-SA-3.0-migrated-with-disclaimers; GFDL-en; License migration completed; Self-published work; User-created GFDL images
+    catégories : English-language SVG diagrams; Interpreter (computing); Turing machines

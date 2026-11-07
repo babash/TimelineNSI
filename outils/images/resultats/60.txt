@@ -1,0 +1,146 @@
+# carte 60 requêtes 2e1b00319ce9
+{"recherches": ["ChatGPT", "ChatGPT logo", "ChatGPT screenshot", "large language model diagram"]}
+
+[1] File:ChatGPT-Logo.svg
+    taille 512x512 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI
+    crédit : Travail personnel basé sur : ChatGPT-Logo.png
+    description : This image represents the official branding for ChatGPT.
+    catégories licence : PD shape
+    catégories : Black logos with transparent background; ChatGPT logos; Valid SVG created with Other tools; With trademark
+
+[2] File:ChatGPT availability by country or region.svg
+    taille 2754x1398 image/svg+xml 880 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : M.Bitton
+    crédit : Travail personnel basé sur : ChatGPT Supported Countries. OpenAI Help Center. Retrieved on 25 June 2023. and an optimized version of File:BlankMap-World.svg
+    description : ChatGPT Supported countries and territories
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : ChatGPT; SVG maps of the world; Valid SVG created with Text Editor; World maps of online services availability
+
+[3] File:ChatGPT logo.svg
+    taille 512x512 image/svg+xml 0 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Original : OpenAI Vecteur : Zhing Za
+    crédit : Cette image vectorielle contient des éléments, éventuellement modifiés, qui ont été extraits de :
+    description : Voici le logo de ChatGPT. Je l'ai vectorisé avant de le télécharger.
+    catégories licence : PD shape
+    catégories : ChatGPT logos; Created with Microsoft PowerPoint; SVG green logos; Texteditor SVG substitution; Unknown date; Valid SVG created with Text Editor; Vector images using elements from other vector images; Vectorizations; Vectorized by aerrapc; With trademark
+
+[4] File:ChatGPT essay draft.png
+    taille 1167x811 image/png 126 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ChatGPT
+    crédit : Travail personnel
+    description : Example of asking ChatGPT to generate an essay draft.
+    catégories licence : CC-Zero; PD-algorithm; Self-published work
+    catégories : Screenshots of ChatGPT
+
+[5] File:First time chat with ChatGPT in Sylheti.png
+    taille 658x446 image/png 23 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ꠢꠣꠍꠘ ꠞꠣꠎꠣ
+    crédit : Travail personnel
+    description : First time chat with ChatGPT in Sylheti
+    catégories licence : CC-Zero; Creative Commons CC0 1.0 Universal Public Domain Dedication missing SDC copyright license; PD-algorithm; Self-published work; Self-published work missing SDC copyright license
+    catégories : Screenshots of ChatGPT; Sylheti language
+
+[6] File:ChatGPT Biden and Trump.png
+    taille 668x994 image/png 43 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ChatGPT and User:Red-tailed hawk
+    crédit : ChatGPT
+    description : ChatGPT is a large language model that responds to human speech. In this sample, the user prompts ChatGPT to write a poem in iambic pentameter about two individuals: Joe Biden and Donald Trump. ChatGPT responds to the prompt for Joe Biden by writing a poem, but refuses to do so for Donald Trump, saying that it strives to remain "impartial and neutral".
+    catégories licence : CC-Zero; PD-algorithm
+    catégories : Screenshots of ChatGPT
+
+[7] File:ChatGPT logo Square.svg
+    taille 500x500 image/svg+xml 1 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Yar
+    crédit : https://freepnglogo.com/chatgpt-logo-png
+    description : This is the logo of ChatGPT. I vectorized it before uploading it.
+    catégories licence : PD-shape missing SDC copyright status; PD shape
+    catégories : ChatGPT logos; SVG green logos; Unknown date; With trademark
+
+[8] File:ChatGPT Atlas Logo.png
+    taille 620x622 image/png 235 ko
+    licence : Public domain | pd |  -> OK
+    auteur : ChatGPT
+    crédit : https://cdn.openai.com/chatgpt/ctf-cdn/icon-a6dcee5a.mp4
+    description : Official logo of ChatGPT Atlas
+    catégories licence : PD-shape missing SDC copyright status; PD shape
+    catégories : ChatGPT logos; With trademark
+
+[9] File:ChatGPT Atlas icon.webp
+    taille 1024x1024 image/webp 28 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI
+    crédit : https://chatgpt.com/atlas
+    description : Icon of ChatGPT Atlas
+    catégories licence : PD textlogo
+    catégories : ChatGPT logos; Text logos; With trademark
+
+[10] File:ChatGPT Search logo Black Square - rounded corners.svg
+    taille 500x500 image/svg+xml 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Yar
+    crédit : Travail personnel – Accurately based on the ChatGPT Search website's favicon.ico
+    description : ChatGPT Search logo – black square background with rounded corners – Accurately based on the website's favicon.ico
+    catégories licence : CC-BY-SA-4.0; PD shape; Self-published work
+    catégories : ChatGPT logos; SVG black logos; With trademark
+
+[11] File:ChatGPT response screenshot 1.jpg
+    taille 1080x1150 image/jpeg 148 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Abdallah zeadnh
+    crédit : File:Mazda miata black hole edition.jpg
+    description : ChatGPT response screenshot
+    catégories licence : PD-algorithm; PD text
+    catégories : Screenshots of ChatGPT
+
+[12] File:Screenshot ChatGPT Nederlands (2025).jpg
+    taille 720x1340 image/jpeg 92 ko
+    licence : Public domain | pd |  -> OK
+    auteur : S. Perquin
+    crédit : Travail personnel
+    description : Een screenshot van ChatGPT in het Nederlands.
+    catégories licence : PD-algorithm; PD-shape missing SDC copyright status; PD-text missing SDC copyright status; PD shape; PD text
+    catégories : Screenshots of ChatGPT
+
+[13] File:Anwendungsbeispiel ChatGPT 3.5 bzw. ChatGPT 4o 20240519 212054.png
+    taille 1440x3372 image/png 607 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI für ChatGPT Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : App: ChatGPT
+    description : Application example for ChatGPT 3.5 or ChatGPT 4o. Here you are asked about the whereabouts of Marcell D'Avis. A new feature here is the indication of sources, the absence of which was previously criticized. This means that statements can now be researched and checked.
+    catégories licence : CC-BY-4.0; PD-algorithm; PD shape; PD text; Self-published work
+    catégories : Screenshots by PantheraLeo1359531 in 2024; Screenshots of ChatGPT
+
+[14] File:Anwendungsbeispiel ChatGPT 3.5 bzw. ChatGPT 4o 20240519 213206.png
+    taille 1440x6597 image/png 1154 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI für ChatGPT Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : App: ChatGPT
+    description : Application example for ChatGPT 3.5 or ChatGPT 4o. The principle for determining prime numbers "Sieve of Eratosthenes" is explained here, using the "cat" element in the explanation.
+    catégories licence : CC-BY-4.0; PD-algorithm; PD shape; PD text; Self-published work
+    catégories : Screenshots by PantheraLeo1359531 in 2024; Screenshots of ChatGPT; Sieve of Eratosthenes
+
+[15] File:Anwendungsbeispiel ChatGPT 3.5 bzw. ChatGPT 4o 20240519 212855.png
+    taille 1440x2974 image/png 1125 ko
+    licence : Public domain | pd |  -> OK
+    auteur : OpenAI für ChatGPT Screenshot: PantheraLeo1359531 😺 (d)
+    crédit : App: ChatGPT
+    description : Application example for ChatGPT 3.5 or ChatGPT 4o. Here, the user (me) asks which character is cosplayed by the cosplayers. The statements like this are correct; the last statement of the chatbot can be specified to the effect that the outfit can appear in "Breath of the Wild" and "Tears of the Kingdom".
+    catégories licence : CC-BY-4.0; PD-algorithm; PD shape; PD text; Self-published work
+    catégories : Personality rights warning; Screenshots by PantheraLeo1359531 in 2024; Screenshots of ChatGPT
+
+[16] File:ChatGPT-example-Finnish.png
+    taille 1190x918 image/png 167 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Osmo Lundell
+    crédit : Travail personnel
+    description : Example of a ChatGPT conversation in Finnish.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Finnish-language screenshots; Screenshots of ChatGPT

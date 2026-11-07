@@ -1,0 +1,128 @@
+# carte 52 requêtes 8387bf52079c
+{"recherches": ["VisiCalc", "VisiCalc Apple II", "VisiCalc screenshot"]}
+
+[1] File:Visicalc.png
+    taille 560x384 image/png 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : User:Gortu
+    crédit : apple2history.org
+    description : Screenshot of VisiCalc running on an Apple II computer
+    catégories licence : PD-text missing SDC copyright status; PD text
+    catégories : Apple II screenshots; Black and green; Black display screens; Color reversal; Green on black; Spreadsheets; Text-only screenshots; VisiCalc
+
+[2] File:VisiCalc IBM.jpg
+    taille 408x500 image/jpeg 104 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : CHM
+    crédit : https://computerhistory.org/collections/
+    description : Hộp đựng chương trình cài đặt VisiCalc của hệ máy IBM PC
+    catégories licence : CC-BY-SA-4.0
+    catégories : Images with extracted images; VisiCalc
+
+[3] File:VisiCalc.jpg
+    taille 210x275 image/jpeg 50 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : CHM
+    crédit : https://computerhistory.org/collections/
+    description : 
+    catégories licence : CC-BY-SA-4.0
+    catégories : Extracted images; Media lacking a description; VisiCalc
+
+[4] File:Visicalc logo.svg
+    taille 800x200 image/svg+xml 2 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : selbst vektorisiert, Vorlage heise.de
+    description : Logo for VisiCalc
+    catégories licence : PD textlogo
+    catégories : SVG logos of software; SVG text logos; Template Unknown (author); Unknown date; VisiCalc; With trademark
+
+[5] File:Agat-9 SCHM.png
+    taille 736x552 image/png 11 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Голов Александр Анатольевич
+    crédit : Первичное размещение
+    description : Agat-9 computer. SCHM (VisiCalc clone)
+    catégories licence : PD-self; Self-published work
+    catégories : Agat; Russian-language screenshots; Spreadsheets; Text-only screenshots; VisiCalc
+
+[6] File:Agat-7 SCHM.png
+    taille 736x552 image/png 7 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Голов Александр Анатольевич
+    crédit : Первичное размещение
+    description : Agat-7 computer. SCHM (VisiCalc clone)
+    catégories licence : PD-self; Self-published work
+    catégories : Agat; Russian-language screenshots; Spreadsheets; Text-only screenshots; VisiCalc
+
+[7] File:Home computer con interfaccia a riga di comando - Museo scienza tecnologia Milano 09238 01.jpg
+    taille 1001x1280 image/jpeg 692 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Apple Computer Inc. (produttore)
+    crédit : Catalogo collezioni (italien). Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.
+    description : Computer dal design compatto con chassis unico in alluminio pressofuso contenente il computer vero e proprio (disco integrato con 128K di RAM con microprocessore 6502B della Synertek, circuiti stampati, mini-floppy drive da 5.25" da 140K, trasformatore, altoparlante interno) e la tastiera principale alfanumerica a 61 tasti (con auto-repeat) più tastierino numerico separato (13 tasti). Sono present
+    catégories licence : Artworks with known accession number; CC-BY-SA-4.0
+    catégories : Apple III; Artworks without Wikidata item; Electrical engineering collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Home computers collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Media from Museo Nazionale della Scienza e della Tecnologia (Milan); Pages with non-numeric formatnum arguments
+
+[8] File:Home computer con interfaccia a riga di comando - Museo scienza tecnologia Milano 09238 02.jpg
+    taille 1175x1280 image/jpeg 709 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Apple Computer Inc. (produttore)
+    crédit : Catalogo collezioni (italien). Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.
+    description : Computer dal design compatto con chassis unico in alluminio pressofuso contenente il computer vero e proprio (disco integrato con 128K di RAM con microprocessore 6502B della Synertek, circuiti stampati, mini-floppy drive da 5.25" da 140K, trasformatore, altoparlante interno) e la tastiera principale alfanumerica a 61 tasti (con auto-repeat) più tastierino numerico separato (13 tasti). Sono present
+    catégories licence : Artworks with known accession number; CC-BY-SA-4.0
+    catégories : Apple III; Artworks without Wikidata item; Electrical engineering collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Home computers collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Media from Museo Nazionale della Scienza e della Tecnologia (Milan); Pages with non-numeric formatnum arguments
+
+[9] File:Home computer con interfaccia a riga di comando - Museo scienza tecnologia Milano 09238.jpg
+    taille 985x1280 image/jpeg 627 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Apple Computer Inc. (produttore)
+    crédit : Catalogo collezioni (italien). Museoscienza.org. Museo nazionale della scienza e della tecnologia Leonardo da Vinci, Milano.
+    description : Computer dal design compatto con chassis unico in alluminio pressofuso contenente il computer vero e proprio (disco integrato con 128K di RAM con microprocessore 6502B della Synertek, circuiti stampati, mini-floppy drive da 5.25" da 140K, trasformatore, altoparlante interno) e la tastiera principale alfanumerica a 61 tasti (con auto-repeat) più tastierino numerico separato (13 tasti). Sono present
+    catégories licence : Artworks with known accession number; CC-BY-SA-4.0
+    catégories : Apple III; Artworks without Wikidata item; Electrical engineering collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Home computers collection in the Museo Nazionale della Scienza e della Tecnologia (Milan); Media from Museo Nazionale della Scienza e della Tecnologia (Milan); Pages with non-numeric formatnum arguments
+
+[10] File:Automated school food service system (IA CAT10570518).pdf
+    taille 1458x1991 application/pdf 7720 ko
+    licence : Public domain | pd |  -> OK
+    auteur : United States. Food and Nutrition Service
+    crédit : Internet Archive identifier: CAT10570518 https://archive.org/download/CAT10570518/CAT10570518.pdf
+    description : Cover title At head of title: Food and Nutrition Service Abstract: The results of a survey of school food service administrators on computer hardware, software, and applications currently in use in their operations are compiled in this directory from the Food and Nutrition Service of the U.S. Department of Agriculture. The directory is designed to benefit school food service personnel in developin
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Internet Archive (redundant cover page removed); Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:Characters- or, wit and the world, ... 1663 (IA bim early-english-books-1641-1700 characters-or-wit-and- lenton-francis 1663).pdf
+    taille 620x1139 application/pdf 43832 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Lenton, Francis.
+    crédit : Internet Archive identifier: bim_early-english-books-1641-1700_characters-or-wit-and-_lenton-francis_1663 https://archive.org/download/bim_early-english-books-1641-1700_characters-or-wit-and-_lenton-f
+    description : Characters: or, wit and the world, ... 1663.. Digitized from IA40313704-38. Previous issue: bim_early-english-books-1641-1700_three-diatribes-_leigh-edward_1671. Next issue: bim_early-english-books-1641-1700_pious-instructions-in-m_leo-of-st-mary-magdale_1693. Subjects: Books; microfilm
+    catégories licence : CC-PD-Mark; PD-old-100-1996; PD-old missing SDC copyright status
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Early English Books, 1663; IA uploads needing categories; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:VisiCorp logo.svg
+    taille 1164x938 image/svg+xml 12 ko
+    licence : Public domain | pd |  -> OK
+    auteur : VisiCorp
+    crédit : Own vectorization, adapted from https://www.graphis.com/logos/604dfc8a-4b41-11e2-ae70-f23c91dffdec/ and https://winworldpc.com/res/img/screenshots/VisiCalc%201.1%20-%20Manual.jpg
+    description : Logo of VisiCorp designed by Barry Deutsch of Steinhibler + Deutsch
+    catégories licence : PD textlogo
+    catégories : SVG logos of companies of the United States; SVG text logos; With trademark
+
+[13] File:Computer Entertainer 4-7.pdf
+    taille 1275x1650 application/pdf 16718 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Computer Entertainer (Marylou Badeaux and Celeste Dolan)
+    crédit : https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9?sortField=date&sortDir=asc&page=1
+    description : An issue of Computer Entertainer
+    catégories licence : CC-BY-4.0
+    catégories : Computer Entertainer; De minimis
+
+[14] File:Computer Entertainer 3-5.pdf
+    taille 1275x1650 application/pdf 15382 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Computer Entertainer (Marylou Badeaux and Celeste Dolan)
+    crédit : https://archive.gamehistory.org/folder/519c0dbd-0f5d-45fe-83c2-355a756391a9?sortField=date&sortDir=asc&page=1
+    description : An issue of Computer Entertainer
+    catégories licence : CC-BY-4.0
+    catégories : Computer Entertainer; De minimis

@@ -1,0 +1,119 @@
+# carte 77 requêtes 9edf2803ba38
+{"titres": ["File:National Security Agency, Fort Meade, Maryland (14496972922).jpg", "File:National Security Agency, 2013.jpg", "File:PRISM Collection Details.jpg", "File:Prism slide 5.jpg"], "recherches": ["NSA headquarters Fort Meade", "telephone metadata diagram"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:National Security Agency, Fort Meade, Maryland (14496972922).jpg
+    taille 4000x3000 image/jpeg 3163 ko
+    licence : CC BY-SA 2.0 | cc-by-sa-2.0 | https://creativecommons.org/licenses/by-sa/2.0 -> OK
+    auteur : Ken Lund from Reno, Nevada, USA
+    crédit : National Security Agency, Fort Meade, Maryland
+    description : The National Security Agency (NSA) is a U.S. intelligence agency responsible for global monitoring, collection, decoding, translation and analysis of information and data for foreign intelligence and counterintelligence purposes - a discipline known as Signals intelligence (SIGINT). NSA is also charged with protection of U.S. government communications and information systems against penetration an
+    catégories licence : CC-BY-SA-2.0
+    catégories : Aerial photographs of Maryland; Files uploaded by INeverCry; Files with coordinates missing SDC location of creation; Flickr images reviewed by FlickreviewR; National Security Agency headquarters; Photographs by Ken Lund
+
+[2] File:National Security Agency, 2013.jpg
+    taille 3600x2400 image/jpeg 2170 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Trevor Paglen
+    crédit : Travail personnel / Creative Time Reports https://creativetimereports.org/2014/02/10/overhead-new-photos-of-the-nsa-and-other-top-intelligence-agencies-revealed-trevor-paglen/
+    description : Aerial photograph of the National Security Agency by Trevor Paglen. Commissioned by Creative Time Reports, 2013.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Government buildings in Maryland; National Security Agency headquarters; Office buildings in Maryland; Photographs by Trevor Paglen; Surveillance
+
+[3] File:PRISM Collection Details.jpg
+    taille 700x525 image/jpeg 87 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Security Agency
+    crédit : original image | source
+    description : Slide showing companies participating in the PRISM program and the types of data they provide.
+    catégories licence : PD US NSA
+    catégories : De minimis; PRISM (surveillance program)
+
+[4] File:Prism slide 5.jpg
+    taille 700x525 image/jpeg 85 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Security Agency
+    crédit : original image | source
+    description : PRISM: Dates When PRISM Collection Began For Each Provider
+    catégories licence : PD US NSA
+    catégories : De minimis; PRISM (surveillance program)
+
+[5] File:National Security Agency headquarters, Fort Meade, Maryland.jpg
+    taille 2904x2265 image/jpeg 1215 ko
+    licence : Public domain | pd |  -> OK
+    auteur : National Security Agency
+    crédit : https://www.nsa.gov/resources/everyone/digital-media-center/image-galleries/places/
+    description : Quartier général de la NSA à Fort George G. Meade, Maryland
+    catégories licence : PD US NSA
+    catégories : Government buildings in Maryland; National Security Agency headquarters; Office buildings in Maryland
+
+[6] File:NSA-Fort Meade-1950.png
+    taille 1147x698 image/png 1478 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Photographe inconnu
+    crédit : National Security Agency
+    description : National Security Agency headquarters circa 1950s. Note: NSA gratefully acknowledges Presidential Libraries and Museum entities and their staffs for their contribution of materials for its 60th Anniversary publication.
+    catégories licence : PD US NSA
+    catégories : Government buildings in Maryland; National Security Agency headquarters; Office buildings in Maryland; Template Unknown (artist)
+
+[7] File:Secretary of Defense Chuck Hagel, left, shakes hands with National Security Agency (NSA) Deputy Director Richard Ledgett March 28, 2014, at the NSA headquarters at Fort George G. Meade, Md 140328-D-EV637-030.jpg
+    taille 4928x3280 image/jpeg 4860 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Sgt Aaron Hostutler
+    crédit : http://www.defenseimagery.mil/imageRetrieve.action?guid=a603c958a1a06882f05634909929cdd8ba630624&t=2
+    description : Secretary of Defense Chuck Hagel, left, shakes hands with National Security Agency (NSA) Deputy Director Richard Ledgett March 28, 2014, at the NSA headquarters at Fort George G. Meade, Md. Hagel visited the facility to attend a retirement ceremony for U.S. Army Gen. Keith B. Alexander, who served as the director of the NSA during the last assignment of his 39-year Army career.
+    catégories licence : PD US Military
+    catégories : Chuck Hagel in 2014; Chuck Hagel shaking hands; Files created by the United States Department of Defense with known IDs; Fort George G. Meade; Images from DoD uploaded by Fæ; March 2014 in Maryland; Photographs taken on 2014-03-28; Richard H. Ledgett; Richard H. Ledgett shaking hands; Taken with Nikon D4
+
+[8] File:Hall honor.jpg
+    taille 2670x2136 image/jpeg 3702 ko
+    licence : Public domain | pd |  -> OK
+    auteur : U.S. National Security Agency (Transfered by OS/Original uploaded by Sephiroth storm)
+    crédit : http://www.nsa.gov/about/_images/pg_hi_res/hall_honor.jpg (Original uploaded on en.wikipedia)
+    description : Picture of the pictures on the NSA Hall of Honor wall.
+    catégories licence : CC-PD-Mark; Elizebeth Smith Friedman; PD US Government
+    catégories : Collections of the National Cryptologic Museum; Taken with Nikon D200; William Friedman
+
+[9] File:American telephone practice (IA cu31924097286144).pdf
+    taille 827x1281 application/pdf 39240 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Miller, Kempster Blanchard, 1870-1933
+    crédit : Internet Archive identifier: cu31924097286144 https://archive.org/download/cu31924097286144/cu31924097286144.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Subjects: Telephone
+    catégories licence : Books from the United States PDF files; PD US expired
+    catégories : American telephone practice (1905); Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:TwiddleNet metadata tagging and data dissemination in mobile device networks (IA twiddlenetmetada109453333).pdf
+    taille 1275x1650 application/pdf 3303 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Clotfelter, Christopher T.
+    crédit : Internet Archive identifier: twiddlenetmetada109453333 https://archive.org/download/twiddlenetmetada109453333/twiddlenetmetada109453333.pdf
+    description : y were only a few years ago; instead they offer a range of content capture capabilities, including high resolution photos, videos and sound recordings. Their communication modalities and processing power have also evolved significantly. Modern mobile devices are very capable platforms, many surpassing their desktop cousins only a few years removed. TwiddleNet is a distributed architecture of perso
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:USS LCI(L)-351- Circ. "J.A." List of Telephones and Isometric Wiring Diagram - NARA - 78116741.jpg
+    taille 6645x4197 image/jpeg 2229 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author ou non renseigné
+    crédit : U.S. National Archives and Records Administration
+    description : 
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Artworks without Wikidata item; Images from the National Archives and Records Administration; Landing Craft Infantry plans; Media contributed by the National Archives and Records Administration; Template Unknown (author); US National Archives location: other; US National Archives series: Alphabetical Series of Ship Engineering Drawings
+
+[12] File:Telephone lines and their properties (IA cu31924031185170).pdf
+    taille 683x1050 application/pdf 5580 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hopkins, William John, 1863-1926
+    crédit : Internet Archive identifier: cu31924031185170 https://archive.org/download/cu31924031185170/cu31924031185170.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Subjects: Telephone lines
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books about telephony; Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified; William John Hopkins
+
+[13] File:Telephone lines and their properties (IA cu31924031201787).pdf
+    taille 714x1050 application/pdf 5756 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hopkins, William John, 1863-1926
+    crédit : Internet Archive identifier: cu31924031201787 https://archive.org/download/cu31924031201787/cu31924031201787.pdf
+    description : The metadata below describe the original scanning. Follow the "All Files: HTTP" link in the "View the book" box to the left to find XML files that contain more metadata about the original images and the derived formats (OCR results, PDF etc.). See also the What is the directory structure for the texts? FAQ for information about file content and naming conventions. Subjects: Telephone lines
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD-old-100-expired; PD-old missing SDC copyright status
+    catégories : Books about telephony; Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; Scans from Cornell University Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified; William John Hopkins

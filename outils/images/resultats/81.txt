@@ -1,0 +1,137 @@
+# carte 81 requêtes 06185de27f46
+{"titres": ["File:Dartmouth Hall, Dartmouth College - general view.JPG", "File:Dartmouth College campus 2007-06-23 Dartmouth Hall 02.JPG"], "recherches": ["Dartmouth Hall", "Dartmouth Summer Research Project on Artificial Intelligence", "Dartmouth workshop 1956"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:Dartmouth Hall, Dartmouth College - general view.JPG
+    taille 2560x1920 image/jpeg 1037 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Daderot
+    crédit : Travail personnel
+    description : Dartmouth Hall, Dartmouth College, Hanover, New Hampshire, USA - general view.
+    catégories licence : PD-self; Self-published work
+    catégories : Dartmouth Hall; Files uploaded by Daderot
+
+[2] File:Dartmouth College campus 2007-06-23 Dartmouth Hall 02.JPG
+    taille 2816x2112 image/jpeg 1493 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Kane5187
+    crédit : Travail personnel
+    description : Photograph of Dartmouth Hall at the campus of Dartmouth College in Hanover, New Hampshire.
+    catégories licence : PD-self; Self-published work
+    catégories : Dartmouth Hall; Taken with Pentax Optio S60
+
+[3] File:Wentworth Hall, Dartmouth Hall, Thornton Hall at Dartmouth College.jpg
+    taille 3600x1107 image/jpeg 2221 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Kenneth C. Zirkel
+    crédit : Travail personnel
+    description : Wentworth Hall, Dartmouth Hall, Thornton Hall in 2024, Hanover New Hampshire
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : 2024 in Hanover, New Hampshire; Dartmouth Hall; Files with coordinates missing SDC location of creation; Images by kzirkel; March 2024 in New Hampshire; Taken with Canon EOS 6D and Canon EF 11-24mm F4L USM; Thornton Hall (Dartmouth College); Wentworth Hall (Dartmouth College)
+
+[4] File:Dartmouth Hall at Dartmouth College.jpg
+    taille 3600x1731 image/jpeg 2829 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Kenneth C. Zirkel
+    crédit : Travail personnel
+    description : Dartmouth Hall at Dartmouth College, after 2022 renovations.
+    catégories licence : CC-BY-4.0; Self-published work
+    catégories : 2024 in Hanover, New Hampshire; Dartmouth Hall; Files with coordinates missing SDC location of creation; Images by kzirkel; March 2024 in New Hampshire
+
+[5] File:Construction Dartmouth Hall Dartmouth College campus Hanover NH July 2022.jpg
+    taille 3024x4032 image/jpeg 2710 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Artaxerxes
+    crédit : Travail personnel
+    description : Construction at Dartmouth Hall on Dartmouth College campus in Hanover, New Hampshire.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Dartmouth Hall; Excavators in New Hampshire; Files with coordinates missing SDC location of creation; July 2022 in New Hampshire; United States photographs taken on 2022-07-21; Volvo EC140B; Volvo excavators; Yellow excavators
+
+[6] File:Dartmouth College campus - Dartmouth Hall burning, 1904.jpg
+    taille 1780x1284 image/jpeg 2171 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Auteur inconnuUnknown author
+    crédit : Bradley, David; Shelby Granthan (1990) Dartmouth, Dartmouth College Page 25.
+    description : Scanned photo of Dartmouth Hall burning at Dartmouth College in Hanover, New Hampshire. The caption says "Dartmouth Hall burns for the second time, 1904, Dartmouth College Library."
+    catégories licence : PD US
+    catégories : Dartmouth Hall; Historical images of Dartmouth College; Template Unknown (author)
+
+[7] File:Dartmouth Hall - Dartmouth College - DSC01608.jpg
+    taille 5472x3648 image/jpeg 11813 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Daderot
+    crédit : Travail personnel
+    description : Dartmouth Hall - Dartmouth College, Hanover, New Hampshire, USA.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Dartmouth Hall; Files uploaded by Daderot
+
+[8] File:A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf
+    taille 1275x1650 application/pdf 76 ko
+    licence : Public domain | pd |  -> OK
+    auteur : John McCarthy et al
+    crédit : http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
+    description : A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.
+    catégories licence : John McCarthy (computer scientist); PD-US missing SDC copyright status; PD US no notice
+    catégories : Artificial intelligence; Events at Dartmouth College
+
+[9] File:Artificial Intelligence in the EFL Learning Process for Dominican Higher Educatio1.pdf
+    taille 1275x1650 application/pdf 1002 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Dr. Pedro Tavarez- DaCosta
+    crédit : Travail personnel
+    description : LA INTELIGENCIA ARTIFICIAL EN EL PROCESO DE LA ENSENANZA DEL INGLES COMO LENGUA EXTANJERAEN LA EDUCACION SUPERIOR DOMINICANA
+    catégories licence : CC-Zero; Self-published work
+    catégories : 2023 documents of the Dominican Republic; 2023 in education; Artificial intelligence applications; December 2023 in the Dominican Republic; Documents in English; Language acquisition; Universidad Autónoma de Santo Domingo (UASD), Santo Domingo
+
+[10] File:THE DAWN OF ARTIFICIAL INTELLIGENCE (IA gov.gpo.fdsys.CHRG-114shrg24175).pdf
+    taille 1275x1650 application/pdf 354 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Committee on Commerce, Science, and Transportation
+    crédit : Internet Archive identifier: gov.gpo.fdsys.CHRG-114shrg24175 https://archive.org/download/gov.gpo.fdsys.CHRG-114shrg24175/CHRG-114shrg24175.pdf
+    description : Government Publishing OfficeU.S. Congress Senate Committee on Commerce, Science, and Transportation THE DAWN OF ARTIFICIAL INTELLIGENCEDate(s) Held: 2016-11-30 114th Congress, 2nd SessionGPO Document Source: <a href="https://www.gpo.gov/fdsys/pkg/CHRG-114shrg24175/content-detail.html" rel="nofollow">CHRG-114shrg24175</a> Superintendents of Documents ID: Y 4.C 73/7Witnesses:Eric Horvitz, Technical 
+    catégories licence : Hearing documents of the United States Senate Committee on Commerce, Science, and Transportation; PD US Congress
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:The life, unpublished letters, and Philosophical regimen of Anthony, earl of Shaftesbury (IA lifeunpublishedl00shaf).pdf
+    taille 833x1327 application/pdf 37938 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Shaftesbury, Anthony Ashley Cooper, Earl of, 1671-1713 Shaftesbury, Anthony Ashley Cooper, Earl of, 1671-1713 Rand, Benjamin, 1856-1934 Shaftesbury, Anthony Ashley Cooper, Earl of, 1671-1713. Correspo
+    crédit : Internet Archive identifier: lifeunpublishedl00shaf https://archive.org/download/lifeunpublishedl00shaf/lifeunpublishedl00shaf.pdf
+    description : "The sketch of the life of the third earl, which forms the first division . . . was written by his son, the fourth Earl of Shaftesbury"--Pref "Contents have been essentially printed by Thomas Birch in the General dictionary (1734-41) of Bayle, without any due acknowledgement of their source, although apparently by permission (British museum, Birch mss. no. 4318)"--Pref Subjects: Shaftesbury, Antho
+    catégories licence : Books from the United States PDF files; PD US expired
+    catégories : Anthony Ashley-Cooper, 3rd Earl of Shaftesbury; Benjamin Rand; Books from New York (state); Books published in London; Books uploaded by Fæ; Books without Wikidata item; Images from the Getty Research Institute; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:On the importance of cultivating habits of observation; being the introductory lecture to the course on mechanical science, Session 1851-1852 (IA Onimportancecul00Hunt).pdf
+    taille 937x1472 application/pdf 1008 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Hunt, Robert,1807-1887 Museum of Practical Geology (Great Britain)
+    crédit : https://archive.org/details/Onimportancecul00Hunt https://archive.org/download/Onimportancecul00Hunt/Onimportancecul00Hunt.pdf
+    description : statement of responsibility: by Robert Hunt, Keeper of mining records. Subjects:
+    catégories licence : PD US expired
+    catégories : Books from the Biodiversity Heritage Library; Books uploaded by Fæ; Books without Wikidata item; Files from the Biodiversity Heritage Library
+
+[13] File:The Crowsnest, Vol.08 No.07, May 1956.pdf
+    taille 1197x1643 application/pdf 7756 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Royal Canadian Navy. Published by King's Printer (Ottawa)
+    crédit : Government of Canada Publications Publication catalogue record: https://publications.gc.ca/pub?id=9.880827&sl=0 Publication catalogue number: D12-19/1E-PDF Issue direct link (pdf): https://publication
+    description : The Crowsnest, volume 8, issue 7, Royal Canadian Navy, May 1956
+    catégories licence : PD Canada
+    catégories : The Crowsnest Magazine, 1956; Uploaded with pattypan
+
+[14] File:Astronomia ex machina - a history, primer and outlook on neural networks in astronomy.pdf
+    taille 1085x1575 application/pdf 4966 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Smith, Michael J.; Geach, James E.
+    crédit : via PubMed Central FTP
+    description : Smith, Michael J.; Geach, James E. (2023). "Astronomia ex machina: a history, primer and outlook on neural networks in astronomy". Royal Society Open Science. 10 (5). doi:10.1098/rsos.221454. ISSN 2054-5703. PMC 10230190. PMID 37266039. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Review articles; Royal Society Open Science Journal Volume 10 Issue 5; Uploaded by DaxBot needing category review
+
+[15] File:John McCarthy (computer scientist) Stanford 2006 (272020300).jpg
+    taille 3504x2332 image/jpeg 6020 ko
+    licence : CC BY 2.0 | cc-by-2.0 | https://creativecommons.org/licenses/by/2.0 -> OK
+    auteur : null0 from Singapore, Singapore
+    crédit : Flickr
+    description : Professor "Uncle John" McCarthy discusses LISP.
+    catégories licence : CC-BY-2.0; John McCarthy (computer scientist)
+    catégories : Flickr images missing SDC published in; Flickr images reviewed by FlickreviewR 2

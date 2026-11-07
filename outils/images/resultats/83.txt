@@ -1,0 +1,119 @@
+# carte 83 requêtes db08e9a366c3
+{"titres": ["File:Packet Switching.gif", "File:CPT-internet-packetswitching-reroute.svg", "File:ARPA Network, Logical Map, September 1973.jpg"], "recherches": ["CYCLADES network Pouzin", "Mitra 15 CII", "datagram packet switching diagram"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:Packet Switching.gif
+    taille 1111x625 image/gif 7651 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Oddbodz
+    crédit : Travail personnel
+    description : A simplified animation demonstrating data packet switching.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Animated GIF files; Animated GIF files between 50 MP and 100 MP; Animations of science; Computer science diagrams; Data packet diagrams; Images that should use animated vector graphics
+
+[2] File:CPT-internet-packetswitching-reroute.svg
+    taille 766x515 image/svg+xml 206 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Pluke
+    crédit : Travail personnel
+    description : Demonstration of how re-routing is handled in a packet switching network.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Networking; Packet switching; Unspec New SVG created with Inkscape; Unspec SVG created with Inkscape
+
+[3] File:ARPA Network, Logical Map, September 1973.jpg
+    taille 800x586 image/jpeg 94 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Bolt Beranek and Newman Inc.
+    crédit : Bolt Beranek and Newman Inc.
+    description : ARPA Network, Logical Map, September 1973. Note satellite links to Hawaii and London.
+    catégories licence : PD US no notice
+    catégories : ARPANET maps; Files uploaded by Daderot; SATNET
+
+[4] File:Mitra-15-ACONIT.jpg
+    taille 4032x3024 image/jpeg 3179 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Damien.b
+    crédit : Travail personnel
+    description : Panneau avant du CII Mitra 15 (collection de l'ACONIT, Grenoble)
+    catégories licence : CC-BY-SA-4.0; Mitra 15; Self-published work
+    catégories : ACONIT; CII; Minicomputers
+
+[5] File:Mitra 125 front panel.jpg
+    taille 3947x2960 image/jpeg 2823 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Damien Boureille
+    crédit : Travail personnel
+    description : Front panel of the CII Mitra 125 16 bits minicomputer, successor to the Mitra 15.
+    catégories licence : CC-BY-SA-4.0; Mitra 15; Self-published work
+    catégories : Alice Recoque; Minicomputers
+
+[6] File:Mitra 15 rear view.jpg
+    taille 3934x2950 image/jpeg 2495 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Damien Boureille
+    crédit : Travail personnel
+    description : Back view of the Mitra 15 minicomputer, showing boards in the foreground and the backplane in the background. Core memory boards can be seen on the left side.
+    catégories licence : CC-BY-SA-4.0; Mitra 15; Self-published work
+    catégories : Minicomputers
+
+[7] File:Mitra 15 board.jpg
+    taille 3024x3700 image/jpeg 3817 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Damien Boureille
+    crédit : Travail personnel
+    description : Close up on one of the processor board of the Mitra 15 minicomputer.
+    catégories licence : CC-BY-SA-4.0; Mitra 15; Self-published work
+    catégories : Minicomputers
+
+[8] File:Mitra 15 (I197510).jpg
+    taille 384x538 image/jpeg 124 ko
+    licence : Public domain | pd |  -> OK
+    auteur : nn
+    crédit : Informatyka, rok 1975
+    description : Mitra 15
+    catégories licence : Mitra 15; PD-Poland
+    catégories : Alice Recoque; Illustrations from "Informatyka"
+
+[9] File:Ship-shore packet switched communications system. (IA shipshorepackets00budd).pdf
+    taille 1193x1568 application/pdf 10547 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Buddenberg, Rex A.
+    crédit : Internet Archive identifier: shipshorepackets00budd https://archive.org/download/shipshorepackets00budd/shipshorepackets00budd.pdf
+    description : Available from National Technical Information Service, Springfield, Va ADA174638 Thesis (M.S. in Telecommunications Sys. Mgt.) Naval Postgraduate School, 1986 Bibliography: p. 224-226 c.1 - 219662, c.2 - 219663 Subjects: Management
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:Requirements analysis for the operation of a real-time warfare simulation over a packet switched computer network. (IA requirementsanal00paig).pdf
+    taille 1200x1554 application/pdf 5629 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Paige, Jeffrey L.
+    crédit : Internet Archive identifier: requirementsanal00paig https://archive.org/download/requirementsanal00paig/requirementsanal00paig.pdf
+    description : ADA176891 Available from National Technical Information Service, Springfield, Va Thesis (M.S. in E.E.) Naval Postgraduate School, December 1986 Bibliography: p. 109 c.1 - 221150, c.2 - 221151 Subjects: Electrical and computer engineering
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : ARPANET; Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:FEDLINK - United States Federal Collection (IA astudyofieeemacl109451977).pdf
+    taille 1275x1650 application/pdf 1007 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Pryor, Jameau R. Johnson, Ballard V.
+    crédit : Internet Archive identifier: astudyofieeemacl109451977 https://archive.org/download/astudyofieeemacl109451977/astudyofieeemacl109451977.pdf
+    description : This research evaluates the Medium Access Control Layer (MAC) of the IEEE 802.16 Wireless standard and its utility in augmenting the IP (Internet Protocol) router based Automated Digital Network System (ADNS). This research explores the need for a high throughput, high speed network for use in a network centric wartime environment and how commercial off-the-shelf (COTS) technologies that take adva
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; SINCGARS; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Validating network security policies via static analysis of router ACL configuration (IA validatingnetwor109452426).pdf
+    taille 1275x1650 application/pdf 778 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Wong, Eric Gregory Wen Wie
+    crédit : Internet Archive identifier: validatingnetwor109452426 https://archive.org/download/validatingnetwor109452426/validatingnetwor109452426.pdf
+    description : The security of a network depends on how its design fulfills the organization's security policy. One aspect of security is reachability: whether two hosts can communicate. Network designers and operators face a very difficult problem in verifying the reachability of a network, because of the lack of automated tools, and calculations by hand are impractical because of the often sheer size of networ
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[13] File:Design and evaluation for the end-to-end detection of TCP-IP header manipulation (IA designndevaluati1094542602).pdf
+    taille 1275x1650 application/pdf 5787 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Craven, Ryan M.
+    crédit : Internet Archive identifier: designndevaluati1094542602 https://archive.org/download/designndevaluati1094542602/designndevaluati1094542602.pdf [lien cassé]
+    description : Understanding, measuring, and debugging IP networks, particularly across administrative domains, is challenging. One aspect of the challenge are transparent middleboxes, which are now common in today’s Internet. In-path middleboxes that modify packet headers are typically transparent to a TCP, yet can impact the end-to-end performance of its connections. Of equal importance, middleboxes cause arch
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Navy
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Doctoral theses of the Naval Postgraduate School; Documents from the US Naval Postgraduate School Library/reviewed; Scans from the Internet Archive; Scans from the Internet Archive/unverified

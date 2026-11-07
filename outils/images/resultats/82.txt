@@ -1,0 +1,119 @@
+# carte 82 requêtes 2569d9a7b3b5
+{"titres": ["File:Transformer, one encoder-decoder block.png", "File:Transformer, attention block diagram.png", "File:Transformer, full architecture.png"], "recherches": ["transformer neural network architecture diagram", "self-attention diagram"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:Transformer, one encoder-decoder block.png
+    taille 701x791 image/png 34 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file
+    description : Illustrations for the Transformer, and attention mechanism. Transformer, one encoder-decoder block
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Diagram images that should use vector graphics; Language modeling; Neural networks; PNG that should use vector graphics
+
+[2] File:Transformer, attention block diagram.png
+    taille 342x911 image/png 41 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/PyTorchStepByStep
+    description : Transformer, attention block diagram
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Diagram images that should use vector graphics; Neural networks; PNG that should use vector graphics
+
+[3] File:Transformer, full architecture.png
+    taille 1426x1500 image/png 54 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file
+    description : Illustrations for the Transformer, and attention mechanism. Transformer, full architecture.
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Language modeling; Neural networks
+
+[4] File:Transformer-based neural network architecture applied to genomic Hi-C data.jpg
+    taille 1300x900 image/jpeg 217 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Xuemin Zhao, Ran Duan, Shaowen Yao
+    crédit : https://dl.acm.org/doi/abs/10.1145/3637732.3637780
+    description : Transformer-based neural network architecture applied to genomic Hi-C data
+    catégories licence : CC-BY-4.0
+    catégories : Diagrams
+
+[5] File:Fault diagnosis for wind turbines with graph neural network model based on one-shot learning.pdf
+    taille 1085x1575 application/pdf 1548 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Yang, Shuai; Zhou, Yifei; Chen, Xu; Li, Chuan; Song, Heng
+    crédit : via PubMed Central FTP
+    description : Yang, Shuai; Zhou, Yifei; Chen, Xu; Li, Chuan; Song, Heng (2023). "Fault diagnosis for wind turbines with graph neural network model based on one-shot learning". Royal Society Open Science. 10 (7). doi:10.1098/rsos.230706. ISSN 2054-5703. PMC 10320330. PMID 37416824. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Research articles; Royal Society Open Science Journal Volume 10 Issue 7; Uploaded by DaxBot needing category review
+
+[6] File:Astronomia ex machina - a history, primer and outlook on neural networks in astronomy.pdf
+    taille 1085x1575 application/pdf 4966 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Smith, Michael J.; Geach, James E.
+    crédit : via PubMed Central FTP
+    description : Smith, Michael J.; Geach, James E. (2023). "Astronomia ex machina: a history, primer and outlook on neural networks in astronomy". Royal Society Open Science. 10 (5). doi:10.1098/rsos.221454. ISSN 2054-5703. PMC 10230190. PMID 37266039. (Check for updates)
+    catégories licence : CC-BY-4.0; English-language PDF files; PDF files from the United Kingdom
+    catégories : Files from PubMed Central uploaded by DaxBot; Files from Royal Society Open Science uploaded by DaxBot; Review articles; Royal Society Open Science Journal Volume 10 Issue 5; Uploaded by DaxBot needing category review
+
+[7] File:Open architecture as an enabler for FORCEnet Cruise Missile Defense (IA openrchitectures109456930).pdf
+    taille 1275x1650 application/pdf 11330 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Camacho, Juan G. Guest, Lawrence F. Hernandez, Belen M. Johnson, Thomas M. Kang, Alan H. Le, Giang T. MacGillivray, Brian J. Ngo, Tu K. Norman, Kyle B. Tomei, Franklin
+    crédit : Internet Archive identifier: openrchitectures109456930 https://archive.org/download/openrchitectures109456930/openrchitectures109456930.pdf
+    description : Advancements in missile technology have made cruise missile capability available worldwide. Current US naval weapon systems lack full interoperability across multiple platforms and full integration of detection, control, and engagement processes against incoming targets. The key to defeating future threats to our military assets is in gaining additional reaction time. This can be accomplished by l
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[8] File:Artificial Intelligence Concept Hypermap.pdf
+    taille 1752x1239 application/pdf 245 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Trebol6
+    crédit : Travail personnel
+    description : This file is didactical material for teachers to develop learning situations. It help to understand the different aspects of this new tool.
+    catégories licence : CC-BY-SA-4.0; PDF that should be converted to SVG; Self-published work
+    catégories : Artificial intelligence; Computer science; Concept maps; Concept maps in English; Diagram images that should use vector graphics; Learning materials; Teaching illustrations
+
+[9] File:Decoder self-attention with causal masking, detailed diagram.png
+    taille 1426x1000 image/png 39 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file
+    description : Illustrations for the Transformer, and attention mechanism. Decoder self-attention with causal masking, detailed diagram.
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Attention (machine learning); Language modeling; Neural networks
+
+[10] File:Encoder self-attention, detailed diagram.png
+    taille 1426x958 image/png 39 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file
+    description : Illustrations for the Transformer, and attention mechanism. Encoder self-attention, detailed diagram.
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Language modeling; Neural networks
+
+[11] File:Encoder self-attention, block diagram.png
+    taille 1426x520 image/png 18 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : dvgodoy
+    crédit : https://github.com/dvgodoy/dl-visuals/?tab=readme-ov-file
+    description : Illustrations for the Transformer, and attention mechanism. Encoder self-attention, block diagram.
+    catégories licence : CC-BY-4.0
+    catégories : Artificial intelligence; Language modeling; Neural networks
+
+[12] File:Attention-1-sn.png
+    taille 1835x1311 image/png 83 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Numiri
+    crédit : Travail personnel
+    description : Left (black) part is the autoencoder. Middle (red) part is the Attention unit. Right (grey & colored) is the data calculated. Subscript shows examples of vector sizes, except for i-1 which shows time step.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Attention (machine learning); Machine learning; PNG diagrams
+
+[13] File:Attention deficit hyperactivity disorder - Attention deficit hyperactivity disorder - Reduced brain volume on the left side from ADHD.jpg
+    taille 1200x1080 image/jpeg 805 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : https://www.scientificanimations.com/
+    crédit : http://www.scientificanimations.com/wiki-images/
+    description : ADHD has a major effect on the prefrontal cortex of the brain.
+    catégories licence : CC-BY-SA-4.0; Files from external sources with reviewed licenses; Self-published work
+    catégories : 2018 illustrations; Attention deficit hyperactivity disorder; Brain; Diagrams about diseases and disorders from Scientific Animations; Prefrontal cortex

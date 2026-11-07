@@ -1,0 +1,110 @@
+# carte 85 requêtes edef18df2414
+{"titres": ["File:Dijkstra Animation.gif", "File:Dijkstras progress animation.gif"], "recherches": ["Dijkstra algorithm graph", "shortest path weighted graph"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:Dijkstra Animation.gif
+    taille 283x222 image/gif 8 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Ibmua
+    crédit : Work by uploader.
+    description : Animation montrant une exécution de l'algorithme de Dijkstra.
+    catégories licence : PD-self; Self-published work
+    catégories : Animated GIF files; Animations of pathfinding algorithms; Dijkstra's algorithm
+
+[2] File:Dijkstras progress animation.gif
+    taille 210x210 image/gif 127 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Subh83
+    crédit : Travail personnel
+    description : Illustration of Dijkstra's algorithm. The graph is created by uniform square discretization of a 2-dimensional planar region, placing a node in each discretized cell, and connecting each node with its 8 neighbors using bidirectional edges. Cost of edges are same as their Euclidean lengths. The gray shape represents an obstacle. The filled circles in red & green represent expanded nodes (nodes in c
+    catégories licence : CC-BY-3.0
+    catégories : Animated GIF files; Animations of pathfinding algorithms; Graph algorithms; Heuristic
+
+[3] File:Dijkstra s algorithm explained.webm
+    taille 1920x1080 video/webm 4986 ko
+    licence : CC BY 3.0 | cc-by-3.0 | https://creativecommons.org/licenses/by/3.0 -> OK
+    auteur : Jaakko
+    crédit : YouTube : Dijkstra's algorithm explained – Voir/enregistrer des versions archivées sur archive.org
+    description : Tutorial of the Dijkstra's algorithm for finding the shortest path between nodes in a network.
+    catégories licence : CC-BY-3.0; License reviewed by YouTubeReviewBot
+    catégories : Dijkstra's algorithm; Media of the day; Uploaded with video2commons; Videos from YouTube; Videos of 2016
+
+[4] File:Apsp dijkstra graph.png
+    taille 394x397 image/png 13 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Sanoj68
+    crédit : Travail personnel
+    description : Example Graph for the illustration of the parallel Dijkstra algorithm for the All-Pair-Shortests-Paths problem.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : Dijkstra's algorithm; Graphs with 4 vertices
+
+[5] File:Graphs- Dijkstra's Algorithm.webm
+    taille 576x360 video/webm 7597 ko
+    licence : CC BY-SA 2.5 ca | cc-by-sa-2.5-ca | https://creativecommons.org/licenses/by-sa/2.5/ca/deed.en -> OK
+    auteur : distanceedjohn
+    crédit : Graphs: Dijkstra's Algorithm
+    description : How to find least-cost paths in a graph using Dijkstra's Algorithm.
+    catégories licence : CC-BY-SA-2.5-CA
+    catégories : Dijkstra's algorithm
+
+[6] File:Dijkstra algorithm example 5.svg
+    taille 470x370 image/svg+xml 22 ko
+    licence : Public domain | pd |  -> OK
+    auteur : en:User:Webaware
+    crédit : own work based on en::Image:Pic5.jpg
+    description : Illustrate how distance vector algorithms use the information passed to them to make informed routing decisions, for en:Computer Networks/Routing Conditions d’utilisation en:/Images
+    catégories licence : PD-user
+    catégories : Files moved from en.wikibooks to Commons requiring review; Files moved to Commons requiring review as of 19 August 2017; Graph algorithms
+
+[7] File:Dijkstra algorithm example 2.svg
+    taille 750x500 image/svg+xml 39 ko
+    licence : Public domain | pd |  -> OK
+    auteur : en:User:Webaware
+    crédit : own work based on en::Image:Pic 2.jpg
+    description : An exercise diagram for en:Computer Networks/Routing Conditions d’utilisation en:/Images
+    catégories licence : PD-user
+    catégories : Files moved from en.wikibooks to Commons requiring review; Files moved to Commons requiring review as of 19 August 2017; Graph algorithms
+
+[8] File:Shortest path example graph.png
+    taille 1600x1200 image/png 87 ko
+    licence : CC0 | cc0 | http://creativecommons.org/publicdomain/zero/1.0/deed.en -> OK
+    auteur : Shirisha Gongati
+    crédit : Travail personnel
+    description : The image shows a weighted graph with five nodes (A, B, C, D, E) and edges with specified weights. It demonstrates Dijkstra's algorithm for finding the shortest path from node A to node E. The shortest path, A → C → D → E, has a total weight of 12.
+    catégories licence : CC-Zero; Self-published work
+    catégories : Diagrams
+
+[9] File:Shortest path with direct weights.svg
+    taille 512x280 image/svg+xml 16 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Artyom Kalinin
+    crédit : Travail personnel
+    description : Shortest path (A, C, E, D, F) between vertices A and F in the weighted directed graph.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Images from Petrozavodsk State University; SVG directed graphs
+
+[10] File:Ma trận G4.png
+    taille 340x238 image/png 5 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Nndung179
+    crédit : Travail personnel
+    description : Ma trận G4
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Dijkstra's algorithm; Shortest paths algorithms; Weighted graphs
+
+[11] File:A stochastic approach to path planning in the Weighted-Region Problem. (IA stochasticapproa00kind).pdf
+    taille 1191x1577 application/pdf 13697 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Kindl, Mark Richard.;Shing, Man-Tak.
+    crédit : Internet Archive identifier: stochasticapproa00kind https://archive.org/download/stochasticapproa00kind/stochasticapproa00kind.pdf
+    description : Dissertation supervisor, Man-Tak Shing Dissertation (Ph. D. in Computer Science) Naval Postgraduate School, March 1991 Bibliography: p. 256-260 Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Solving the weighted region least cost path problem using transputers. (IA solvingweightedr00garc).pdf
+    taille 645x833 application/pdf 3669 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Garcia, Ivan.;Shing, Man-Tak.
+    crédit : Internet Archive identifier: solvingweightedr00garc https://archive.org/download/solvingweightedr00garc/solvingweightedr00garc.pdf
+    description : Thesis advisor, Man Tak Shing ADA225399 Thesis (M.S. in Comp. Sci.) Naval Postgraduate School, Dec. 1989 Includes bibliographical references Subjects:
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified

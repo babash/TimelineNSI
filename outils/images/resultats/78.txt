@@ -1,0 +1,128 @@
+# carte 78 requêtes 14e10dae9e43
+{"titres": ["File:Gale-Shapley.gif"], "recherches": ["stable marriage problem", "Gale-Shapley algorithm", "stable matching bipartite"], "tuile": 320, "colonnes": 4, "limite": 5}
+
+[1] File:Gale-Shapley.gif
+    taille 861x706 image/gif 254 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : L’auteur n’a pas pu être identifié automatiquement. Il est supposé qu'il s'agit de : User A1 (étant donné la revendication de droit d’auteur).
+    crédit : La source n’a pas pu être reconnue automatiquement. « Travail personnel » supposé (étant donné la revendication de droit d’auteur).
+    description : Gale-Shapley "stable marriage" algorithm animation.
+    catégories licence : CC-BY-SA-3.0; GFDL; License migration redundant; Self-published work
+    catégories : Animated GIF files; Animations of algorithms; Assumed own work; David Gale; Files with no machine-readable source; Graph theory; Lloyd Shapley; Mathematical problems; Payoff matrices
+
+[2] File:SMP May 2008-9a.jpg
+    taille 2592x3705 image/jpeg 5066 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Alvesgaspar
+    crédit : Travail personnel
+    description : Runners in tunnel. São Martinho do Porto, Portugal.
+    catégories licence : CC-BY-SA-3.0; Self-published work
+    catégories : Derivative versions; Featured pictures by Alvesgaspar; Featured pictures of Portugal; Featured pictures on Wikimedia Commons; Light at the end of the tunnel; People running on structures; Photographic silhouettes of people in tunnels against lit outsides; Photographs by Alvesgaspar; Pictures of the day (2025); Taken with Nikon D80; Túnel pedonal de São Martinho do Porto
+
+[3] File:Marriage and the sex-problem (IA marriagesexprobl00foerrich).pdf
+    taille 681x1081 application/pdf 12234 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Foerster, Friedrich Wilhelm, 1869-1966
+    crédit : Internet Archive identifier: marriagesexprobl00foerrich https://archive.org/download/marriagesexprobl00foerrich/marriagesexprobl00foerrich.pdf
+    description : Translation of 3d ed. of Sexualethik und Sexualpädagogik Subjects: Sexual ethics; Sex instruction; Marriage
+    catégories licence : PD US expired
+    catégories : Books about marriage; Books from New York (state); Books uploaded by Fæ; Books without Wikidata item; California Digital Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[4] File:SMP May 2008-12.jpg
+    taille 3736x2496 image/jpeg 4188 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Alvesgaspar
+    crédit : Travail personnel
+    description : Chappel of St. Anthnoy (Capela de S. António), São Martinho do Porto, Portugal
+    catégories licence : CC-BY-SA-4.0,3.0,2.5,2.0,1.0; GFDL; License migration redundant; Self-published work
+    catégories : Capela de Santo António (São Martinho do Porto, Alcobaça); Files with coordinates missing SDC location of creation; Photographs by Alvesgaspar; Taken with Nikon D80; Valued images by Alvesgaspar; Valued images missing SDC depicts; Valued images promoted 2013-12; Valued images sorted by promotion date
+
+[5] File:SMP Racing Dallara.jpg
+    taille 3168x1868 image/jpeg 1366 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Poppo154
+    crédit : Travail personnel
+    description : The front end of the SMP Racing Dallara P217.
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : 2017 4 Hours of Spa-Francorchamps; Dallara P217; Images with annotations; SMP Racing; SMP Racing-colored racing automobiles; Taken with Asus Pegasus 3
+
+[6] File:Smp 1 kunduran.jpg
+    taille 800x600 image/jpeg 59 ko
+    licence : CC BY-SA 4.0 | cc-by-sa-4.0 | https://creativecommons.org/licenses/by-sa/4.0 -> OK
+    auteur : Legawa reto
+    crédit : Travail personnel
+    description : smpsiji
+    catégories licence : CC-BY-SA-4.0; Self-published work
+    catégories : SMP Negeri 1 Kunduran
+
+[7] File:Algorithms - Jeff Erickson.pdf
+    taille 1002x1439 application/pdf 24468 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Jeff Erickson
+    crédit : [1]
+    description : Algorithms, by Jeff Erickson
+    catégories licence : CC-BY-4.0
+    catégories : Algorithms
+
+[8] File:Algorithms - Jeff Erickson (double pages).pdf
+    taille 1650x1275 application/pdf 24490 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Jeff Erickson
+    crédit : [1]
+    description : Algorithms, by Jeff Erickson
+    catégories licence : CC-BY-4.0
+    catégories : Algorithms
+
+[9] File:Applying two-sided matching processes to the United States Navy Enlisted assignment process (IA applyingtwosided1094510845).pdf
+    taille 1275x1650 application/pdf 3583 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Robards, Paul A.
+    crédit : Internet Archive identifier: applyingtwosided1094510845 https://archive.org/download/applyingtwosided1094510845/applyingtwosided1094510845.pdf
+    description : The existing Navy detailing process is characterized by bilateral negotiations between detailers and sailors. In this process, detailers match sailors with billets while attempting to satisfy, to the maximum extent possible, the needs and preferences of each group. The current process requires the effort of approximately 240 detailers and results in assignments that do not always satisfy the compe
+    catégories licence : Books from the United States PDF files; CC-PD-Mark; PD US Government
+    catégories : Academic theses and dissertations of the Naval Postgraduate School; Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[10] File:Two-sided matching in hierarchical organizations- an application for the assignment of military personnel (IA twosidedmatching1094510775).pdf
+    taille 1275x1650 application/pdf 2782 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Robards, Paul Anthony
+    crédit : Internet Archive identifier: twosidedmatching1094510775 https://archive.org/download/twosidedmatching1094510775/twosidedmatching1094510775.pdf
+    description : Many large organizations rely on manual assignment processes, despite the theory of bounded rationality indicating that time and cognitive constraints would limit the quality of assignments. This research used participant experiments to explore the effect of information load on assignment quality: participants, motivated by induced value theory, performed the role of decision makers and informatio
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; FEDLINK - United States Federal Collection; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[11] File:On computing accurate singular values and eigenvalues of acyclic matrices (IA oncomputingaccur00demm).pdf
+    taille 1212x1631 application/pdf 970 ko
+    licence : Public domain | pd |  -> OK
+    auteur : Demmel, J. W.;Gragg, William B.
+    crédit : Internet Archive identifier: oncomputingaccur00demm https://archive.org/download/oncomputingaccur00demm/oncomputingaccur00demm.pdf
+    description : Title from cover "NPS-MA-92-010." "August 1992." AD A255 892 Includes bibliographical references (p. 11-12) It is known that small relative perturbations in the entries of a bidiagonal matrix only cause small relative perturbations in its singular values, independent of the values of the matrix entries. In this paper we show that a matrix has this property if and only if its associated bipartite g
+    catégories licence : CC-PD-Mark; PD US Government
+    catégories : Books uploaded by Fæ; Books without Wikidata item; Documents from the US Naval Postgraduate School Library; Reports from the Naval Postgraduate School; Scans from the Internet Archive; Scans from the Internet Archive/unverified
+
+[12] File:Mathematics for Computer Science 2018-06-06.pdf
+    taille 1275x1650 application/pdf 12958 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Eric Lehman, F. Thomson Leighton, and Albert R. Meyer
+    crédit : https://courses.csail.mit.edu/6.042/spring18/mcs.pdf
+    description : Mathematics for Computer Science 2018-06-06, from MIT OpenCourseware
+    catégories licence : CC-BY-SA-3.0; English-language PDF files
+    catégories : 2018-06-06; Books about computers; Books about mathematics; English-language books about science; OpenCourseWare
+
+[13] File:Mathematics for Computer Science by Eric Lehman, F. Thomson Leighton, and Albert R. Meyer.pdf
+    taille 1275x1650 application/pdf 13140 ko
+    licence : CC BY-SA 3.0 | cc-by-sa-3.0 | https://creativecommons.org/licenses/by-sa/3.0 -> OK
+    auteur : Eric Lehman, F. Thomson Leighton, and Albert R. Meyer
+    crédit : https://courses.csail.mit.edu/6.042/spring17/mcs.pdf
+    description : 2017 textbook for the MIT course Mathematics for Computer Science
+    catégories licence : CC-BY-SA-3.0; Computer science PDF files; Mathematics PDF files; Media from MIT OpenCourseWare
+    catégories : 2017 books; 2017 in mathematics; Albert R. Meyer; F. Thomson Leighton; Massachusetts Institute of Technology
+
+[14] File:S41467-018-04698-4.pdf
+    taille 1239x1629 application/pdf 1245 ko
+    licence : CC BY 4.0 | cc-by-4.0 | https://creativecommons.org/licenses/by/4.0 -> OK
+    auteur : Matthieu Legendre, Elisabeth Fabre, Olivier Poirot, Sandra Jeudy, Audrey Lartigue, Jean-Marie Alempic, Laure Beucher, Nadège Philippe, Lionel Bertaux, Eugène Christo-Foroux, Karine Labadie, Yohann Cou
+    crédit : https://www.nature.com/articles/s41467-018-04698-4 https://doi.org/10.1038/s41467-018-04698-4
+    description : Diversity and evolution of the emerging Pandoraviridae family
+    catégories licence : CC-BY-4.0
+    catégories : 2018-06-11; Media from Nature Communications; Pandoraviridae

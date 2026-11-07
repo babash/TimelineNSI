@@ -1284,7 +1284,8 @@
             const credit = imageCredits.get(event.num);
             if (!credit) return '';
             const file = credit.fichier.includes('/') ? credit.fichier : `images/${credit.fichier}`;
-            // « Image : auteur, licence, Wikimedia Commons »
+            // Image de Commons : « Image : auteur, licence, Wikimedia Commons ».
+            // Sans page Commons, c’est un schéma original : « Schéma : auteur, licence ».
             const parts = [];
             if (credit.auteur) parts.push(escapeHtml(unifyApostrophes(credit.auteur)));
             if (credit.licence) {
@@ -1296,7 +1297,7 @@
             return `
                 <figure class="event-image">
                     <img src="${escapeHtml(file)}" alt="${escapeHtml(unifyApostrophes(credit.description || ''))}" loading="lazy" decoding="async">
-                    ${parts.length ? `<figcaption>Image : ${parts.join(', ')}</figcaption>` : ''}
+                    ${parts.length ? `<figcaption>${credit.page_commons ? 'Image' : 'Schéma'}${NBSP}: ${parts.join(', ')}</figcaption>` : ''}
                 </figure>`;
         }
 

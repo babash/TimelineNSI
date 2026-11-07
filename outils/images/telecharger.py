@@ -8,6 +8,8 @@ choix.csv : carte,fichier,format,recadrage,auteur,description
   auteur     vide (pris dans l'API), sinon la forme courte à citer, tirée du champ Artist ;
   description  texte alternatif, en français.
 L'auteur, la licence, son adresse et la page Commons viennent de l'API.
+Les schémas originaux (outils/schemas/, lignes de data/images.csv sans page Commons)
+sont gardés tels quels, avec leurs fichiers, sauf si choix.csv donne une image pour la carte.
 """
 import csv
 import io
@@ -28,8 +30,18 @@ IMAGES = DEPOT / "images"
 CSV_SORTIE = DEPOT / "data" / "images.csv"
 MANIFESTE = ICI / "manifeste.json"
 RAPPORT = ICI / "resultats" / "telechargement.txt"
-COTE = 1200
-POIDS_MAX = 400_000
+# Cadre des images : la zone d'image d'une carte A5 mesure au plus environ 119 x 64 mm.
+# 1000 px de large donnent au moins 213 ppp sur toute la largeur, 750 px de haut au moins 298 ppp :
+# aucune perte visible à l’impression, pour des fichiers (et des PDF) plus légers.
+LARGEUR_MAX = 1000
+HAUTEUR_MAX = 750
+POIDS_MAX = 250_000
+COLONNES = ["carte", "fichier", "page_commons", "auteur", "licence", "url_licence", "description"]
+
+
+def apostrophes(texte):
+    """Une seule forme d'apostrophe : l'apostrophe typographique."""
+    return re.sub(r"['`´]", "’", texte or "")
 
 
 def licence_courte(m, cats):
@@ -58,15 +70,28 @@ def licence_courte(m, cats):
 
 
 def auteur_api(m):
+    """Auteur du champ Artist de l'API. Auteur non nommé : « Photographe inconnu » ou « Auteur inconnu »,
+    comme sur Commons (le champ peut contenir les deux langues collées : « Auteur inconnuUnknown author »)."""
     a = C.texte(m.get("Artist"))
     a = re.sub(r"(?i)^(photo(graph)?( taken)? by|photographed by|by|author:)\s*", "", a).strip(" .")
-    if re.search(r"(?i)auteur inconnu|unknown author|^unknown$|^anonym|photographe inconnu", a):
-        return ""
+    if re.search(r"(?i)photographe inconnu|unknown photographer", a):
+        return "Photographe inconnu"
+    if not a or re.search(r"(?i)auteur inconnu|unknown author|^unknown$|^anonym", a):
+        return "Auteur inconnu"
     return a
 
 
-def largeur_vignette(w, h, mime):
-    besoin = math.ceil(COTE * w / max(w, h))
+def recadrage_fractions(recadrage):
+    if not recadrage:
+        return 0.0, 0.0, 1.0, 1.0
+    return tuple(float(x) for x in recadrage.split(","))
+
+
+def largeur_vignette(w, h, recadrage):
+    """Largeur de vignette Commons qui suffit pour remplir le cadre après recadrage."""
+    g, hh, d, b = recadrage_fractions(recadrage)
+    fw, fh = d - g, b - hh
+    besoin = math.ceil(min(LARGEUR_MAX / fw, HAUTEUR_MAX * w / (h * fh)))
     for L in C.LARGEURS:
         if L >= besoin:
             return L
@@ -83,11 +108,11 @@ def enregistrer(donnees, fmt, recadrage, chemin):
         im = fond
     im = im.convert("RGB")
     if recadrage:
-        g, hh, d, b = [float(x) for x in recadrage.split(",")]
+        g, hh, d, b = recadrage_fractions(recadrage)
         W, H = im.size
         im = im.crop((round(g * W), round(hh * H), round(d * W), round(b * H)))
-    if max(im.size) > COTE:
-        im.thumbnail((COTE, COTE), Image.LANCZOS)
+    if im.width > LARGEUR_MAX or im.height > HAUTEUR_MAX:
+        im.thumbnail((LARGEUR_MAX, HAUTEUR_MAX), Image.LANCZOS)
     if fmt == "png":
         buf = io.BytesIO()
         im.save(buf, "PNG", optimize=True)
@@ -115,6 +140,16 @@ def main():
     IMAGES.mkdir(exist_ok=True)
     RAPPORT.parent.mkdir(exist_ok=True)
     sortie, rapport, gardes = [], [], set()
+    # Schémas originaux : lignes sans page Commons, gardées avec leur fichier.
+    cartes_choix = {r["carte"].strip() for r in choix}
+    if CSV_SORTIE.exists():
+        with CSV_SORTIE.open(encoding="utf-8", newline="") as f:
+            for r in csv.DictReader(f):
+                if r.get("page_commons", "").strip() or r["carte"].strip() in cartes_choix:
+                    continue
+                sortie.append({k: r.get(k, "") for k in COLONNES})
+                gardes.add(Path(r["fichier"]).name)
+                rapport += [f"[{r['carte']}] schéma original gardé : {r['fichier']}", ""]
     for r in sorted(choix, key=lambda r: int(r["carte"])):
         n = r["carte"].strip()
         fichier = r["fichier"].strip()
@@ -129,9 +164,10 @@ def main():
         ii, m, cats = C.meta(pg)
         verdict = C.verdict_licence(m, cats)
         w, h, mime = ii["width"], ii["height"], ii["mime"]
-        L = largeur_vignette(w, h, mime)
+        L = largeur_vignette(w, h, recad)
         nom = f"{n}.{fmt}"
-        cle = {"fichier": fichier, "sha1": ii.get("sha1"), "format": fmt, "recadrage": recad}
+        cle = {"fichier": fichier, "sha1": ii.get("sha1"), "format": fmt, "recadrage": recad,
+               "cadre": f"{LARGEUR_MAX}x{HAUTEUR_MAX}"}
         cible = IMAGES / nom
         if manifeste.get(n) == cle and cible.exists():
             taille = Image.open(cible).size
@@ -146,11 +182,11 @@ def main():
             manifeste[n] = cle
         gardes.add(nom)
         lic, url_lic = licence_courte(m, cats)
-        auteur = (r.get("auteur") or "").strip() or auteur_api(m) or "domaine public"
+        auteur = apostrophes((r.get("auteur") or "").strip() or auteur_api(m))
         sortie.append({
             "carte": n, "fichier": f"images/{nom}", "page_commons": ii["descriptionurl"],
             "auteur": auteur, "licence": lic, "url_licence": url_lic,
-            "description": (r.get("description") or "").strip(),
+            "description": apostrophes((r.get("description") or "").strip()),
         })
         rapport += [
             f"[{n}] {fichier}",
@@ -172,8 +208,9 @@ def main():
         if not any(nm.split(".")[0] == k for nm in gardes):
             del manifeste[k]
     MANIFESTE.write_text(json.dumps(manifeste, ensure_ascii=False, indent=1, sort_keys=True), encoding="utf-8")
+    sortie.sort(key=lambda r: int(r["carte"]))
     with CSV_SORTIE.open("w", encoding="utf-8", newline="") as f:
-        w = csv.DictWriter(f, fieldnames=["carte", "fichier", "page_commons", "auteur", "licence", "url_licence", "description"])
+        w = csv.DictWriter(f, fieldnames=COLONNES)
         w.writeheader()
         w.writerows(sortie)
     total = sum(p.stat().st_size for p in IMAGES.glob("*") if p.is_file())

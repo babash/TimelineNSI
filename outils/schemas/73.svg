@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" lang="fr">
+  <title>Une pile : l’interface devant l’implémentation cachée</title>
+  <desc>À gauche, un programme utilise une pile : empiler(p, 3), empiler(p, 5), sommet(p) qui renvoie 5, est_vide(p) qui renvoie False. Au centre, l’interface de la pile : empiler, depiler, sommet, est_vide. Derrière, grisée, l’implémentation cachée : une liste Python [3, 5], ou un tableau et l’indice du sommet. On utilise l’interface sans connaître l’implémentation.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 73 (Barbara Liskov, CLU, 1974).
+       Export PNG : node outils/schemas/exporter.js 73 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 400; src: url('../../assets/fonts/fira-code-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 500; src: url('../../assets/fonts/fira-code-latin-500-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 25px; }
+    .titre { font-size: 35px; font-weight: 700; fill: #17602a; }
+    .etiquette { font-size: 25px; font-weight: 700; }
+    .commentaire { fill: #555; }
+    .bouton { fill: #fff; stroke: #17602a; stroke-width: 3; }
+    .bouton-texte { font-family: 'Fira Code', monospace; font-variant-ligatures: none; font-size: 26px; font-weight: 500; }
+    .texte { font-size: 26px; }
+    .cache { fill: #5f5f5f; }
+  </style>
+  <defs>
+    <pattern id="hachures" width="14" height="14" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="14" height="14" fill="#f2f2f2"/>
+      <line x1="0" y1="0" x2="0" y2="14" stroke="#d6d6d6" stroke-width="5"/>
+    </pattern>
+    <marker id="fleche" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto">
+      <path d="M0 0 L10 5 L0 10 Z" fill="#1a1a1a"/>
+    </marker>
+  </defs>
+  <rect width="1200" height="350" fill="#fff"/>
+
+  <text class="titre" x="600" y="42" text-anchor="middle">On utilise l’interface sans connaître l’implémentation</text>
+
+  <!-- Le programme : il n'appelle que les opérations de l'interface -->
+  <rect x="14" y="72" width="356" height="252" rx="10" fill="#fff" stroke="#1a1a1a" stroke-width="3"/>
+  <text class="etiquette" x="32" y="110">Le programme</text>
+  <text class="code" x="32" y="160">empiler(p, 3)</text>
+  <text class="code" x="32" y="200">empiler(p, 5)</text>
+  <text class="code" x="32" y="240">sommet(p) <tspan class="commentaire"># 5</tspan></text>
+  <text class="code" x="32" y="280">est_vide(p) <tspan class="commentaire"># False</tspan></text>
+
+  <line x1="376" y1="198" x2="420" y2="198" stroke="#1a1a1a" stroke-width="4" marker-end="url(#fleche)"/>
+
+  <!-- L'implémentation, derrière et grisée -->
+  <rect x="742" y="92" width="442" height="214" rx="10" fill="url(#hachures)" stroke="#6b6b6b" stroke-width="3" stroke-dasharray="12 8"/>
+  <rect x="840" y="104" width="334" height="42" fill="#f2f2f2"/>
+  <text class="etiquette cache" x="852" y="134">Implémentation cachée</text>
+  <rect x="840" y="160" width="334" height="136" fill="#f2f2f2"/>
+  <text class="texte cache" x="852" y="194">une liste Python : <tspan class="code">[3, 5]</tspan></text>
+  <text class="texte cache" x="852" y="242">ou un tableau et</text>
+  <text class="texte cache" x="852" y="278">l’indice du sommet</text>
+
+  <!-- L'interface, devant -->
+  <rect x="428" y="66" width="390" height="264" rx="12" fill="#fff" stroke="#17602a" stroke-width="5"/>
+  <text class="etiquette" x="623" y="104" text-anchor="middle">Interface de la pile</text>
+  <rect class="bouton" x="452" y="122" width="342" height="44" rx="8"/>
+  <text class="bouton-texte" x="623" y="153" text-anchor="middle">empiler(p, x)</text>
+  <rect class="bouton" x="452" y="174" width="342" height="44" rx="8"/>
+  <text class="bouton-texte" x="623" y="205" text-anchor="middle">depiler(p)</text>
+  <rect class="bouton" x="452" y="226" width="342" height="44" rx="8"/>
+  <text class="bouton-texte" x="623" y="257" text-anchor="middle">sommet(p)</text>
+  <rect class="bouton" x="452" y="278" width="342" height="44" rx="8"/>
+  <text class="bouton-texte" x="623" y="309" text-anchor="middle">est_vide(p)</text>
+</svg>

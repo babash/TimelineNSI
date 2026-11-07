@@ -1,11 +1,12 @@
 name: Images Commons (T10a)
 
-# Pont vers l'API de Wikimedia Commons, seulement sur la branche atelier/t10-images.
+# Pont vers l'API de Wikimedia Commons, seulement sur les branches d'atelier des images.
 # Les commits du workflow (GITHUB_TOKEN) ne relancent pas de workflow ;
 # les dossiers qu'il écrit sont en plus exclus des chemins surveillés.
+# Le cadre des images (1000 x 750 px au plus) est réglé dans outils/images/telecharger.py.
 on:
   push:
-    branches: ["atelier/t10-images"]
+    branches: ["atelier/t10-images", "atelier/t10g-schemas"]
     paths:
       - "outils/images/**"
       - "!outils/images/resultats/**"

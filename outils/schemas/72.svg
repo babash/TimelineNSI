@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" lang="fr">
+  <title>La pondération IDF sur trois documents</title>
+  <desc>Trois documents : « le robot trie », « le robot code », « le chat dort ». Le mot « le » est dans les 3 documents : poids 0. « robot » est dans 2 documents : poids 0,58. « chat » est dans 1 seul document : poids 1,58. Formule : idf = log2(N / n), N nombre de documents, n nombre de documents qui contiennent le mot. Un mot rare dit plus qu’un mot fréquent.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 72 (Karen Spärck Jones, 1972).
+       Export PNG : node outils/schemas/exporter.js 72 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 400; src: url('../../assets/fonts/fira-code-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Fira Code'; font-weight: 500; src: url('../../assets/fonts/fira-code-latin-500-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .code { font-family: 'Fira Code', monospace; font-variant-ligatures: none; }
+    .titre { font-size: 38px; font-weight: 700; fill: #00507a; }
+    .doc-nom { font-size: 22px; fill: #555; }
+    .mot { font-size: 31px; }
+    .entete { font-size: 24px; fill: #555; }
+    .ligne { font-size: 29px; }
+    .gras { font-weight: 700; }
+    .valeur { font-size: 29px; font-weight: 700; }
+    .petit { font-size: 24px; fill: #333; }
+    .doc { fill: #fff; stroke: #1a1a1a; stroke-width: 3; stroke-linejoin: round; }
+    .coin { fill: #d9d9d9; stroke: #1a1a1a; stroke-width: 3; stroke-linejoin: round; }
+    .barre { fill: #00507a; }
+  </style>
+  <rect width="1200" height="400" fill="#fff"/>
+
+  <text class="titre" x="600" y="44" text-anchor="middle">Un mot rare dit plus qu’un mot fréquent</text>
+
+  <!-- Les trois documents -->
+  <g>
+    <path class="doc" d="M30 72 H140 L172 104 V262 H30 Z"/><path class="coin" d="M140 72 V104 H172 Z"/>
+    <text class="doc-nom" x="46" y="102">doc 1</text>
+    <text class="mot" x="46" y="150">le</text><text class="mot" x="46" y="192">robot</text><text class="mot" x="46" y="234">trie</text>
+
+    <path class="doc" d="M200 72 H310 L342 104 V262 H200 Z"/><path class="coin" d="M310 72 V104 H342 Z"/>
+    <text class="doc-nom" x="216" y="102">doc 2</text>
+    <text class="mot" x="216" y="150">le</text><text class="mot" x="216" y="192">robot</text><text class="mot" x="216" y="234">code</text>
+
+    <path class="doc" d="M370 72 H480 L512 104 V262 H370 Z"/><path class="coin" d="M480 72 V104 H512 Z"/>
+    <text class="doc-nom" x="386" y="102">doc 3</text>
+    <text class="mot" x="386" y="150">le</text><text class="mot" x="386" y="192">chat</text><text class="mot" x="386" y="234">dort</text>
+  </g>
+  <text class="ligne" x="271" y="306" text-anchor="middle"><tspan class="gras">N = 3</tspan> documents</text>
+  <text class="petit" x="30" y="350">le : log<tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(3 / 3) = log</tspan><tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(1) = 0</tspan></text>
+  <text class="petit" x="30" y="384">chat : log<tspan font-size="16" dy="6">2</tspan><tspan dy="-6">(3 / 1) = 1,58…</tspan></text>
+
+  <!-- Le tableau des poids -->
+  <text class="entete" x="572" y="96">mot</text>
+  <text class="entete" x="700" y="96">présent dans</text>
+  <text class="entete" x="975" y="96" text-anchor="end">poids idf</text>
+  <line x1="568" y1="108" x2="1188" y2="108" stroke="#1a1a1a" stroke-width="2"/>
+
+  <text class="ligne gras" x="572" y="150">le</text>
+  <text class="ligne" x="700" y="150">3 documents</text>
+  <text class="valeur" x="975" y="150" text-anchor="end">0</text>
+  <line x1="991" y1="124" x2="991" y2="154" stroke="#1a1a1a" stroke-width="3"/>
+
+  <text class="ligne gras" x="572" y="198">robot</text>
+  <text class="ligne" x="700" y="198">2 documents</text>
+  <text class="valeur" x="975" y="198" text-anchor="end">0,58…</text>
+  <rect class="barre" x="990" y="172" width="73" height="30"/>
+
+  <text class="ligne gras" x="572" y="246">chat</text>
+  <text class="ligne" x="700" y="246">1 document</text>
+  <text class="valeur" x="975" y="246" text-anchor="end">1,58…</text>
+  <rect class="barre" x="990" y="220" width="198" height="30"/>
+  <line x1="568" y1="266" x2="1188" y2="266" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- La formule -->
+  <text class="code" x="572" y="312" font-size="32" font-weight="500">idf = log<tspan font-size="21" dy="8">2</tspan><tspan dy="-8">(N / n)</tspan></text>
+  <text class="petit" x="572" y="350"><tspan class="gras">n</tspan> : nombre de documents qui contiennent le mot</text>
+  <text class="petit" x="572" y="384"><tspan class="gras">log<tspan font-size="16" dy="6">2</tspan></tspan><tspan dy="-6"> : logarithme de base 2, comme en 1972</tspan></text>
+</svg>

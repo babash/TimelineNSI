@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" lang="fr">
+  <title>Gender Shades : taux d’erreur sur le genre selon le groupe</title>
+  <desc>Diagramme en barres. Taux d’erreur le plus élevé des 3 logiciels testés (IBM, Microsoft, Face++) pour deviner le genre d’un visage : femmes à la peau foncée 34,7 %, hommes à la peau foncée 12,0 %, femmes à la peau claire 7,1 %, hommes à la peau claire 0,8 %. Source : J. Buolamwini et T. Gebru, « Gender Shades », PMLR 81, 2018, tableau 4.</desc>
+  <!-- Schéma original : Babash - NSI Tani Malandi, CC BY-SA 4.0. Carte 75 (Gender Shades, 2018).
+       Données : tableau 4 de l’article (taux d’erreur 1 - PPV, en %), maximum des trois logiciels pour chaque groupe :
+         femmes peau foncée : Microsoft 20,8 ; Face++ 34,5 ; IBM 34,7
+         hommes peau foncée : Microsoft 6,0 ; Face++ 0,7 ; IBM 12,0
+         femmes peau claire : Microsoft 1,7 ; Face++ 6,0 ; IBM 7,1
+         hommes peau claire : Microsoft 0,0 ; Face++ 0,8 ; IBM 0,3
+       Le résumé de l’article donne « up to 34.7% » et « 0.8% » au plus : https://proceedings.mlr.press/v81/buolamwini18a.html
+       Échelle : 19 unités par point de pourcentage.
+       Export PNG : node outils/schemas/exporter.js 75 -->
+  <style>
+    @font-face { font-family: 'Lato'; font-weight: 400; src: url('../../assets/fonts/lato-latin-400-normal.woff2') format('woff2'); }
+    @font-face { font-family: 'Lato'; font-weight: 700; src: url('../../assets/fonts/lato-latin-700-normal.woff2') format('woff2'); }
+    text { font-family: 'Lato', sans-serif; fill: #1a1a1a; }
+    .titre { font-size: 35px; font-weight: 700; fill: #5b2c6f; }
+    .sous-titre { font-size: 25px; fill: #404040; }
+    .groupe { font-size: 28px; }
+    .valeur { font-size: 28px; }
+    .source { font-size: 22px; fill: #404040; }
+  </style>
+  <rect width="1200" height="340" fill="#fff"/>
+  <text class="titre" x="20" y="40">Erreurs des logiciels qui devinent le genre d’un visage</text>
+  <text class="sous-titre" x="20" y="74">Taux d’erreur le plus élevé des 3 logiciels testés (IBM, Microsoft, Face++)</text>
+  <text class="groupe" x="334" y="129" text-anchor="end" font-weight="700">Femmes, peau foncée</text>
+  <path d="M350 103.0 H1004.3 Q1009.3 103.0 1009.3 108.0 V132.0 Q1009.3 137.0 1004.3 137.0 H350 Z" fill="#6c3483"/>
+  <text class="valeur" x="1021.3" y="130" font-weight="700">34,7 %</text>
+  <text class="groupe" x="334" y="179" text-anchor="end">Hommes, peau foncée</text>
+  <path d="M350 153.0 H573.0 Q578.0 153.0 578.0 158.0 V182.0 Q578.0 187.0 573.0 187.0 H350 Z" fill="#a3a3a3"/>
+  <text class="valeur" x="590.0" y="180">12,0 %</text>
+  <text class="groupe" x="334" y="229" text-anchor="end">Femmes, peau claire</text>
+  <path d="M350 203.0 H479.9 Q484.9 203.0 484.9 208.0 V232.0 Q484.9 237.0 479.9 237.0 H350 Z" fill="#a3a3a3"/>
+  <text class="valeur" x="496.9" y="230">7,1 %</text>
+  <text class="groupe" x="334" y="279" text-anchor="end">Hommes, peau claire</text>
+  <path d="M350 253.0 H360.2 Q365.2 253.0 365.2 258.0 V282.0 Q365.2 287.0 360.2 287.0 H350 Z" fill="#a3a3a3"/>
+  <text class="valeur" x="377.2" y="280">0,8 %</text>
+  <line x1="350" y1="96" x2="350" y2="294" stroke="#1a1a1a" stroke-width="2"/>
+  <text class="source" x="20" y="328">Source : J. Buolamwini et T. Gebru, « Gender Shades », PMLR 81, 2018 (tableau 4).</text>
+</svg>

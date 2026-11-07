@@ -1,78 +1,744 @@
 {
  "_aide": "Par carte : titres exacts (File:...) et recherches Commons (espace Fichier). limite = résultats par recherche.",
- "1": {"titres": ["File:Word Aamu in two Egyptian scripts circa 1900 BCE.jpg"], "recherches": ["Khnumhotep II tomb inscription hieroglyphs", "Beni Hasan tomb 3 inscription", "hieroglyphs inscription Middle Kingdom stela"]},
- "2": {"titres": ["File:Skytale.png"], "recherches": ["scytale", "skytale cipher", "scytale cryptography"]},
- "3": {"titres": ["File:NAMA Machine d'Anticythère 1.jpg"], "recherches": ["Antikythera mechanism fragment", "Antikythera mechanism National Archaeological Museum"]},
- "4": {"titres": ["File:Caesar3.svg"], "recherches": ["Caesar cipher", "Caesar cipher wheel", "chiffre de César"]},
- "5": {"recherches": ["Bakhshali manuscript", "Gwalior zero inscription", "Chaturbhuj temple Gwalior zero", "Brahmagupta zero"]},
- "6": {"titres": ["File:Image-Al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala.jpg", "File:Al-Kitab al-mukhtasar fi hisab al-jabr wa-l-muqabala.jpg"], "recherches": ["al-Khwarizmi algebra manuscript", "Kitab al-jabr wa-l-muqabala", "Khwarizmi Bodleian"]},
- "7": {"recherches": ["Al-Kindi cryptanalysis manuscript", "Al-Kindi deciphering cryptographic messages", "frequency analysis letters", "English letter frequency"]},
- "8": {"titres": ["File:Pascaline calculator.jpg", "File:Arts et Metiers Pascaline dsc03869.jpg"], "recherches": ["Pascaline Arts et Métiers", "Pascaline machine arithmétique", "Pascal calculator"]},
- "9": {"titres": ["File:Leibniz Stepped Reckoner.png"], "recherches": ["Leibniz stepped reckoner", "Leibniz Rechenmaschine", "Staffelwalze Leibniz"]},
- "10": {"recherches": ["Jacquard loom punched cards", "métier Jacquard cartes perforées", "Jacquard loom museum"]},
- "11": {"recherches": ["Euclid algorithm flowchart", "Euclidean algorithm", "Euclid Elements Book VII manuscript"]},
- "12": {"recherches": ["Laws of Thought Boole 1854", "logic gates AND OR NOT", "Boolean algebra truth table", "Boole Investigation of the Laws of Thought"]},
- "13": {"titres": ["File:Diagram for the computation of Bernoulli numbers.jpg"], "recherches": ["Lovelace note G Bernoulli", "Sketch of the Analytical Engine Menabrea"]},
- "14": {"recherches": ["Turing machine model", "Turing machine physical", "Turing machine tape diagram", "Turing machine"]},
- "15": {"recherches": ["Apollo DSKY", "Apollo Guidance Computer DSKY", "Apollo guidance computer source code", "Apollo guidance computer"]},
- "16": {"recherches": ["relational database table", "relational model diagram", "Relational database terms", "relational database keys"]},
- "17": {"recherches": ["FORTRAN punched card", "Fortran programmer's reference manual 1956", "FORTRAN card", "IBM 704 FORTRAN"]},
- "18": {"recherches": ["COBOL report 1960", "COBOL punched card", "COBOL source code", "COBOL"]},
- "19": {"titres": ["File:First Computer Bug, 1947.jpg"], "recherches": ["first computer bug Harvard Mark II log", "UNIVAC A-0 compiler", "Harvard Mark I"]},
- "20": {"recherches": ["C programming language hello world", "Hello World Brian Kernighan", "PDP-11/20", "C programming language"]},
- "21": {"recherches": ["Java virtual machine diagram", "Java bytecode compilation", "Duke Java mascot", "Java programming language"]},
- "22": {"recherches": ["Python logo", "Python programming language code", "Python IDLE screenshot", "Python 3 code"]},
- "23": {"recherches": ["public key encryption diagram", "RSA encryption", "asymmetric cryptography diagram", "public key cryptography"]},
- "24": {"recherches": ["Bitcoin blockchain diagram", "Bitcoin block data", "Bitcoin logo", "Bitcoin coin"]},
- "25": {"recherches": ["AES SubBytes", "AES ShiftRows MixColumns", "AES encryption diagram", "Rijndael"]},
- "26": {"recherches": ["Analytical Engine Babbage Science Museum", "Babbage analytical engine mill", "Babbage Analytical Engine trial model", "analytical engine"]},
- "27": {"recherches": ["Manchester Baby replica", "Small-Scale Experimental Machine", "Manchester Mark 1 computer", "Williams tube"]},
- "28": {"recherches": ["EDVAC computer", "First Draft of a Report on the EDVAC", "EDVAC"]},
- "29": {"recherches": ["UNIVAC I computer", "UNIVAC I console", "UNIVAC I museum", "UNIVAC"]},
- "30": {"titres": ["File:Intel C4004.jpg"], "recherches": ["Intel 4004", "Intel 4004 die", "Intel 4004 microprocessor"]},
- "31": {"titres": ["File:Altair Computer Ad May 1975.jpg"], "recherches": ["Altair 8800", "Altair 8800 computer", "MITS Altair 8800 front panel"]},
- "32": {"titres": ["File:IBM PC 5150.jpg"], "recherches": ["IBM 5150 personal computer", "IBM PC 5150", "IBM Personal Computer 1981"]},
- "33": {"titres": ["File:Macintosh 128k transparency.png"], "recherches": ["Macintosh 128K", "Apple Macintosh 1984", "Macintosh 128k computer"]},
- "34": {"recherches": ["Zuse Z1 replica", "Z1 Konrad Zuse Deutsches Technikmuseum", "Zuse Z1"]},
- "35": {"titres": ["File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg"], "recherches": ["Colossus computer Bletchley", "Colossus rebuild National Museum of Computing", "Colossus Mark 2"]},
- "36": {"titres": ["File:Replica-of-first-transistor.jpg"], "recherches": ["point-contact transistor replica", "first transistor Bell Labs", "point contact transistor", "transistors"]},
- "37": {"recherches": ["Kilby integrated circuit", "first integrated circuit", "Fairchild integrated circuit planar", "integrated circuit chip"]},
- "38": {"recherches": ["first computer mouse Engelbart SRI", "SRI computer mouse", "Engelbart mouse prototype", "first mouse wooden"]},
- "39": {"recherches": ["Moore's law transistor count", "Moore's Law", "transistor count chart"]},
- "40": {"titres": ["File:Atari-2600-Woody-BR.jpg", "File:Atari-2600-Wood-4Sw-Set.jpg"], "recherches": ["Atari 2600 console", "Atari VCS 2600"]},
- "41": {"recherches": ["CD-ROM disc", "CD-ROM", "compact disc data", "CD-ROM drive"]},
- "42": {"titres": ["File:Usbkey internals.jpg"], "recherches": ["USB flash drive", "clé USB", "USB flash drive internals"]},
- "43": {"recherches": ["iPhone first generation", "iPhone 2G 2007", "original iPhone", "iPhone 2007"]},
- "44": {"titres": ["File:Communication shannon-weaver2.svg", "File:Shannon communication system.svg"], "recherches": ["Shannon communication diagram", "Mathematical Theory of Communication Shannon", "Shannon Weaver model"]},
- "45": {"titres": ["File:ARPANET 1970 Map.png"], "recherches": ["ARPANET map", "ARPANET first IMP", "ARPANET logical map", "Interface Message Processor"]},
- "46": {"recherches": ["Ray Tomlinson email", "at sign symbol", "PDP-10 KA10", "BBN TENEX"]},
- "47": {"titres": ["File:Ethernet RJ45 connector p1160054.jpg"], "recherches": ["Ethernet Metcalfe sketch", "10BASE5 thick Ethernet transceiver", "Ethernet cable RJ45", "Ethernet"]},
- "48": {"titres": ["File:First Web Server.jpg"], "recherches": ["first web server NeXT CERN", "Information Management: A Proposal Berners-Lee", "WorldWideWeb browser screenshot"]},
- "49": {"recherches": ["NCSA Mosaic", "Mosaic web browser screenshot", "Mosaic browser 1993"]},
- "50": {"recherches": ["Internet of things", "Internet of things diagram", "Internet of things illustration"]},
- "51": {"recherches": ["PDP-7 computer", "Unix history", "Unix terminal screenshot", "Version 7 Unix"]},
- "52": {"recherches": ["VisiCalc", "VisiCalc Apple II", "VisiCalc screenshot"]},
- "53": {"recherches": ["MS-DOS", "MS-DOS screenshot", "MS-DOS floppy disk", "MS-DOS command prompt"]},
- "54": {"titres": ["File:Heckert GNU white.png"], "recherches": ["GNU Manifesto", "GNU project", "Free Software Foundation", "GNU head"]},
- "55": {"titres": ["File:Tux.svg"], "recherches": ["Linux kernel 0.01", "Tux Linux penguin", "Linux kernel boot screenshot"]},
- "56": {"recherches": ["Windows 1.0", "Windows 1.0 logo", "Microsoft Windows 1985"]},
- "57": {"recherches": ["Firefox 1.0", "Firefox crop circle", "Mozilla Firefox logo", "Firefox 1.0 screenshot"]},
- "58": {"titres": ["File:Deep Blue.jpg"], "recherches": ["Deep Blue IBM chess computer", "Deep Blue Kasparov 1997 game", "Deep Blue computer"]},
- "59": {"recherches": ["AlphaGo Lee Sedol game", "Lee Sedol AlphaGo game 4", "AlphaGo", "Go board game"]},
- "60": {"recherches": ["ChatGPT", "ChatGPT logo", "ChatGPT screenshot", "large language model diagram"]},
- "61": {"recherches": ["Creeper virus", "PDP-10 computer", "TENEX operating system", "Creeper worm"]},
- "62": {"recherches": ["WannaCry", "Wana Decrypt0r screenshot", "WannaCry ransomware"]},
- "63": {"recherches": ["General Data Protection Regulation", "GDPR", "RGPD", "règlement général sur la protection des données"]},
- "64": {"recherches": ["Google first production server", "Google corkboard server", "Google logo", "Google server rack 1999"]},
- "65": {"recherches": ["Wikipedia 2001 home page", "Wikipedia screenshot 2001", "Wikipedia logo", "Nupedia"]},
- "66": {"recherches": ["Facebook logo", "Facebook headquarters sign", "Facebook 2004 thefacebook", "Facebook"]},
- "67": {"recherches": ["YouTube logo", "YouTube headquarters", "YouTube 2005", "YouTube"]},
- "68": {"recherches": ["Hedy Lamarr patent 2292387", "Secret Communication System patent", "frequency hopping spread spectrum", "Lamarr Antheil patent"]},
- "69": {"recherches": ["Enigma machine", "Enigma M4 naval", "Hut 8 Bletchley Park", "Enigma machine rotors"]},
- "70": {"titres": ["File:ENIAC Penn1.jpg", "File:ENIAC Penn2.jpg"], "recherches": ["ENIAC function table", "ENIAC panel", "ENIAC"]},
- "71": {"titres": ["File:Capsule, Mercury, MA-6.jpg"], "recherches": ["Friendship 7 capsule", "Friendship 7 Mercury", "IBM 7090"]},
- "72": {"recherches": ["tf-idf", "inverse document frequency", "Karen Spärck Jones", "search engine index"]},
- "73": {"recherches": ["CLU programming language", "Barbara Liskov CLU", "abstract data type", "CLU Liskov"]},
- "74": {"recherches": ["spanning tree protocol", "Spanning Tree Protocol diagram", "Algorhyme Perlman", "spanning tree network bridges"]},
- "75": {"recherches": ["Gender Shades", "facial recognition bias", "algorithmic bias", "facial recognition system"]}
+ "1": {
+  "titres": [
+   "File:Word Aamu in two Egyptian scripts circa 1900 BCE.jpg"
+  ],
+  "recherches": [
+   "Khnumhotep II",
+   "Tomb of Khnumhotep II inscription",
+   "Beni Hasan BH3 hieroglyphs",
+   "Egyptian hieroglyphic inscription text"
+  ]
+ },
+ "2": {
+  "titres": [
+   "File:Skytale.png"
+  ],
+  "recherches": [
+   "scytale",
+   "skytale cipher",
+   "scytale cryptography"
+  ]
+ },
+ "3": {
+  "titres": [
+   "File:NAMA Machine d'Anticythère 1.jpg"
+  ],
+  "recherches": [
+   "Antikythera mechanism fragment",
+   "Antikythera mechanism National Archaeological Museum"
+  ]
+ },
+ "4": {
+  "titres": [
+   "File:Caesar3.svg"
+  ],
+  "recherches": [
+   "Caesar cipher",
+   "Caesar cipher wheel",
+   "chiffre de César"
+  ]
+ },
+ "5": {
+  "recherches": [
+   "Bakhshali manuscript",
+   "Gwalior zero inscription",
+   "Chaturbhuj temple Gwalior zero",
+   "Brahmagupta zero"
+  ]
+ },
+ "6": {
+  "titres": [
+   "File:Image-Al-Kitāb al-muḫtaṣar fī ḥisāb al-ğabr wa-l-muqābala.jpg",
+   "File:Al-Kitab al-mukhtasar fi hisab al-jabr wa-l-muqabala.jpg"
+  ],
+  "recherches": [
+   "al-Khwarizmi algebra manuscript",
+   "Kitab al-jabr wa-l-muqabala",
+   "Khwarizmi Bodleian"
+  ]
+ },
+ "7": {
+  "recherches": [
+   "Al-Kindi cryptanalysis manuscript",
+   "Al-Kindi deciphering cryptographic messages",
+   "frequency analysis letters",
+   "English letter frequency"
+  ]
+ },
+ "8": {
+  "titres": [
+   "File:Pascaline calculator.jpg",
+   "File:Arts et Metiers Pascaline dsc03869.jpg"
+  ],
+  "recherches": [
+   "Pascaline Arts et Métiers",
+   "Pascaline machine arithmétique",
+   "Pascal calculator"
+  ]
+ },
+ "9": {
+  "titres": [
+   "File:Leibniz Stepped Reckoner.png"
+  ],
+  "recherches": [
+   "Leibniz stepped reckoner",
+   "Leibniz Rechenmaschine",
+   "Staffelwalze Leibniz"
+  ]
+ },
+ "10": {
+  "recherches": [
+   "Jacquard loom punched cards",
+   "métier Jacquard cartes perforées",
+   "Jacquard loom museum"
+  ]
+ },
+ "11": {
+  "titres": [
+   "File:Euclidean algorithm 1071 462.gif",
+   "File:Euclid flowchart.svg"
+  ],
+  "recherches": [
+   "Euclid Elements papyrus Oxyrhynchus",
+   "Euclid Elements manuscript",
+   "algorithme d'Euclide",
+   "greatest common divisor Euclid"
+  ]
+ },
+ "12": {
+  "titres": [
+   "File:Boole Laws of Thought 1854.png"
+  ],
+  "recherches": [
+   "logic gates symbols",
+   "AND gate truth table",
+   "porte logique",
+   "Boolean algebra logic gates diagram"
+  ]
+ },
+ "13": {
+  "titres": [
+   "File:Diagram for the computation of Bernoulli numbers.jpg"
+  ],
+  "recherches": [
+   "Lovelace note G Bernoulli",
+   "Sketch of the Analytical Engine Menabrea"
+  ]
+ },
+ "14": {
+  "recherches": [
+   "Turing machine model",
+   "Turing machine physical",
+   "Turing machine tape diagram",
+   "Turing machine"
+  ]
+ },
+ "15": {
+  "recherches": [
+   "Apollo DSKY",
+   "Apollo Guidance Computer DSKY",
+   "Apollo guidance computer source code",
+   "Apollo guidance computer"
+  ]
+ },
+ "16": {
+  "recherches": [
+   "relational database table",
+   "relational model diagram",
+   "Relational database terms",
+   "relational database keys"
+  ]
+ },
+ "17": {
+  "recherches": [
+   "FORTRAN punched card",
+   "Fortran programmer's reference manual 1956",
+   "FORTRAN card",
+   "IBM 704 FORTRAN"
+  ]
+ },
+ "18": {
+  "recherches": [
+   "COBOL report 1960",
+   "COBOL punched card",
+   "COBOL source code",
+   "COBOL"
+  ]
+ },
+ "19": {
+  "titres": [
+   "File:First Computer Bug, 1947.jpg",
+   "File:Cobol Compiler for Univac on a magnetic tape.jpg"
+  ],
+  "recherches": [
+   "A-0 System compiler",
+   "FLOW-MATIC",
+   "UNIVAC compiler Hopper",
+   "UNIVAC I programming manual"
+  ]
+ },
+ "20": {
+  "recherches": [
+   "C programming language hello world",
+   "Hello World Brian Kernighan",
+   "PDP-11/20",
+   "C programming language"
+  ]
+ },
+ "21": {
+  "titres": [
+   "File:Java-jvm.png"
+  ],
+  "recherches": [
+   "Java bytecode JVM",
+   "write once run anywhere Java",
+   "Java Hello World code",
+   "Java program source code"
+  ]
+ },
+ "22": {
+  "titres": [
+   "File:Python-logo-notext.svg"
+  ],
+  "recherches": [
+   "Hello world Python",
+   "Python syntax example",
+   "Python source code example svg",
+   "Python program code"
+  ]
+ },
+ "23": {
+  "titres": [
+   "File:Public key encryption.svg"
+  ],
+  "recherches": [
+   "chiffrement asymétrique",
+   "Public key encryption",
+   "clé publique chiffrement schéma",
+   "RSA algorithm diagram"
+  ]
+ },
+ "24": {
+  "recherches": [
+   "Bitcoin blockchain diagram",
+   "Bitcoin block data",
+   "Bitcoin logo",
+   "Bitcoin coin"
+  ]
+ },
+ "25": {
+  "recherches": [
+   "AES SubBytes",
+   "AES ShiftRows MixColumns",
+   "AES encryption diagram",
+   "Rijndael"
+  ]
+ },
+ "26": {
+  "recherches": [
+   "Analytical Engine Babbage Science Museum",
+   "Babbage analytical engine mill",
+   "Babbage Analytical Engine trial model",
+   "analytical engine"
+  ]
+ },
+ "27": {
+  "recherches": [
+   "Manchester Baby replica",
+   "Small-Scale Experimental Machine",
+   "Manchester Mark 1 computer",
+   "Williams tube"
+  ]
+ },
+ "28": {
+  "recherches": [
+   "EDVAC computer",
+   "First Draft of a Report on the EDVAC",
+   "EDVAC"
+  ]
+ },
+ "29": {
+  "recherches": [
+   "UNIVAC I computer",
+   "UNIVAC I console",
+   "UNIVAC I museum",
+   "UNIVAC"
+  ]
+ },
+ "30": {
+  "titres": [
+   "File:Intel C4004.jpg"
+  ],
+  "recherches": [
+   "Intel 4004",
+   "Intel 4004 die",
+   "Intel 4004 microprocessor"
+  ]
+ },
+ "31": {
+  "titres": [
+   "File:Altair Computer Ad May 1975.jpg"
+  ],
+  "recherches": [
+   "Altair 8800",
+   "Altair 8800 computer",
+   "MITS Altair 8800 front panel"
+  ]
+ },
+ "32": {
+  "titres": [
+   "File:IBM PC 5150.jpg"
+  ],
+  "recherches": [
+   "IBM 5150 personal computer",
+   "IBM PC 5150",
+   "IBM Personal Computer 1981"
+  ]
+ },
+ "33": {
+  "titres": [
+   "File:Macintosh 128k transparency.png"
+  ],
+  "recherches": [
+   "Macintosh 128K",
+   "Apple Macintosh 1984",
+   "Macintosh 128k computer"
+  ]
+ },
+ "34": {
+  "recherches": [
+   "Zuse Z1 replica",
+   "Z1 Konrad Zuse Deutsches Technikmuseum",
+   "Zuse Z1"
+  ]
+ },
+ "35": {
+  "titres": [
+   "File:Colossus Computer, Bletchley Park - geograph.org.uk - 1590854.jpg"
+  ],
+  "recherches": [
+   "Colossus computer replica",
+   "Colossus Mark II rebuild",
+   "Colossus computer TNMOC",
+   "Colossus code breaking computer"
+  ]
+ },
+ "36": {
+  "titres": [
+   "File:Replica-of-first-transistor.jpg"
+  ],
+  "recherches": [
+   "point-contact transistor replica",
+   "first transistor Bell Labs",
+   "point contact transistor",
+   "transistors"
+  ]
+ },
+ "37": {
+  "titres": [
+   "File:Replica IC.png"
+  ],
+  "recherches": [
+   "Jack Kilby integrated circuit",
+   "Kilby first integrated circuit Texas Instruments",
+   "Fairchild planar integrated circuit 1960",
+   "first integrated circuit replica"
+  ]
+ },
+ "38": {
+  "recherches": [
+   "first computer mouse Engelbart SRI",
+   "SRI computer mouse",
+   "Engelbart mouse prototype",
+   "first mouse wooden"
+  ]
+ },
+ "39": {
+  "recherches": [
+   "Moore's law transistor count",
+   "Moore's Law",
+   "transistor count chart"
+  ]
+ },
+ "40": {
+  "titres": [
+   "File:Atari-2600-Woody-BR.jpg",
+   "File:Atari-2600-Wood-4Sw-Set.jpg"
+  ],
+  "recherches": [
+   "Atari 2600 console",
+   "Atari VCS 2600"
+  ]
+ },
+ "41": {
+  "recherches": [
+   "CD-ROM disc",
+   "CD-ROM",
+   "compact disc data",
+   "CD-ROM drive"
+  ]
+ },
+ "42": {
+  "titres": [
+   "File:Usbkey internals.jpg"
+  ],
+  "recherches": [
+   "USB flash drive",
+   "clé USB",
+   "USB flash drive internals"
+  ]
+ },
+ "43": {
+  "recherches": [
+   "iPhone first generation",
+   "iPhone 2G 2007",
+   "original iPhone",
+   "iPhone 2007"
+  ]
+ },
+ "44": {
+  "titres": [
+   "File:Communication shannon-weaver2.svg",
+   "File:Shannon communication system.svg"
+  ],
+  "recherches": [
+   "Shannon communication diagram",
+   "Mathematical Theory of Communication Shannon",
+   "Shannon Weaver model"
+  ]
+ },
+ "45": {
+  "titres": [
+   "File:ARPANET 1970 Map.png"
+  ],
+  "recherches": [
+   "ARPANET map",
+   "ARPANET first IMP",
+   "ARPANET logical map",
+   "Interface Message Processor"
+  ]
+ },
+ "46": {
+  "recherches": [
+   "Ray Tomlinson email",
+   "at sign symbol",
+   "PDP-10 KA10",
+   "BBN TENEX"
+  ]
+ },
+ "47": {
+  "titres": [
+   "File:Ethernet RJ45 connector p1160054.jpg"
+  ],
+  "recherches": [
+   "Ethernet Metcalfe sketch",
+   "10BASE5 thick Ethernet transceiver",
+   "Ethernet cable RJ45",
+   "Ethernet"
+  ]
+ },
+ "48": {
+  "titres": [
+   "File:First Web Server.jpg"
+  ],
+  "recherches": [
+   "first web server NeXT CERN",
+   "Information Management: A Proposal Berners-Lee",
+   "WorldWideWeb browser screenshot"
+  ]
+ },
+ "49": {
+  "recherches": [
+   "NCSA Mosaic",
+   "Mosaic web browser screenshot",
+   "Mosaic browser 1993"
+  ]
+ },
+ "50": {
+  "recherches": [
+   "Internet of things",
+   "Internet of things diagram",
+   "Internet of things illustration"
+  ]
+ },
+ "51": {
+  "titres": [
+   "File:Pdp-7-oslo-2004.jpeg"
+  ],
+  "recherches": [
+   "Version 7 Unix",
+   "Research Unix",
+   "PDP-7 Unix",
+   "Unix Bell Labs",
+   "Unix V6 source code"
+  ]
+ },
+ "52": {
+  "recherches": [
+   "VisiCalc",
+   "VisiCalc Apple II",
+   "VisiCalc screenshot"
+  ]
+ },
+ "53": {
+  "recherches": [
+   "MS-DOS",
+   "MS-DOS screenshot",
+   "MS-DOS floppy disk",
+   "MS-DOS command prompt"
+  ]
+ },
+ "54": {
+  "recherches": [
+   "GNU Manifesto Dr. Dobb's",
+   "Free Software Foundation office",
+   "GNU Emacs 1985",
+   "GNU project"
+  ]
+ },
+ "55": {
+  "titres": [
+   "File:Tux.svg"
+  ],
+  "recherches": [
+   "Linux kernel 0.01",
+   "Tux Linux penguin",
+   "Linux kernel boot screenshot"
+  ]
+ },
+ "56": {
+  "recherches": [
+   "Windows 1.01 screenshot",
+   "Windows 1.0 box",
+   "Windows 1.0 desktop",
+   "MS-DOS Executive Windows 1.0"
+  ]
+ },
+ "57": {
+  "recherches": [
+   "Firefox 1.0",
+   "Firefox crop circle",
+   "Mozilla Firefox logo",
+   "Firefox 1.0 screenshot"
+  ]
+ },
+ "58": {
+  "titres": [
+   "File:Deep Blue.jpg"
+  ],
+  "recherches": [
+   "Deep Blue IBM chess computer",
+   "Deep Blue Kasparov 1997 game",
+   "Deep Blue computer"
+  ]
+ },
+ "59": {
+  "recherches": [
+   "AlphaGo Lee Sedol game",
+   "Lee Sedol AlphaGo game 4",
+   "AlphaGo",
+   "Go board game"
+  ]
+ },
+ "60": {
+  "recherches": [
+   "ChatGPT capture d'écran",
+   "ChatGPT conversation screenshot",
+   "ChatGPT interface 2022",
+   "ChatGPT screenshot English"
+  ]
+ },
+ "61": {
+  "recherches": [
+   "Creeper virus",
+   "PDP-10 computer",
+   "TENEX operating system",
+   "Creeper worm"
+  ]
+ },
+ "62": {
+  "titres": [
+   "File:Wana Decrypt0r screenshot.png"
+  ],
+  "recherches": [
+   "Wana Decrypt0r",
+   "WannaCry ransom note",
+   "WannaCry screenshot",
+   "ransomware screen"
+  ]
+ },
+ "63": {
+  "titres": [
+   "File:GDPR p1.svg"
+  ],
+  "recherches": [
+   "RGPD règlement 2016/679",
+   "Journal officiel de l'Union européenne règlement 2016/679",
+   "GDPR regulation document",
+   "protection des données personnelles"
+  ]
+ },
+ "64": {
+  "recherches": [
+   "Google first production server",
+   "Google corkboard server",
+   "Google logo",
+   "Google server rack 1999"
+  ]
+ },
+ "65": {
+  "recherches": [
+   "Wikipedia 2001 home page",
+   "Wikipedia screenshot 2001",
+   "Wikipedia logo",
+   "Nupedia"
+  ]
+ },
+ "66": {
+  "recherches": [
+   "thefacebook 2004",
+   "Facebook 2004 screenshot",
+   "Facebook like button",
+   "Facebook headquarters Menlo Park sign"
+  ]
+ },
+ "67": {
+  "recherches": [
+   "YouTube logo 2005",
+   "Logo of YouTube (2005-2011)",
+   "YouTube 2005 screenshot",
+   "YouTube logo"
+  ]
+ },
+ "68": {
+  "recherches": [
+   "US Patent 2292387",
+   "Secret Communication System Markey Antheil patent drawing",
+   "Hedy Lamarr patent drawing",
+   "patent 2,292,387"
+  ]
+ },
+ "69": {
+  "recherches": [
+   "Enigma machine",
+   "Enigma M4 naval",
+   "Hut 8 Bletchley Park",
+   "Enigma machine rotors"
+  ]
+ },
+ "70": {
+  "titres": [
+   "File:ENIAC Penn1.jpg",
+   "File:ENIAC Penn2.jpg"
+  ],
+  "recherches": [
+   "ENIAC function table",
+   "ENIAC panel",
+   "ENIAC"
+  ]
+ },
+ "71": {
+  "titres": [
+   "File:Capsule, Mercury, MA-6.jpg"
+  ],
+  "recherches": [
+   "Friendship 7 capsule",
+   "Friendship 7 Mercury",
+   "IBM 7090"
+  ]
+ },
+ "72": {
+  "recherches": [
+   "tf-idf formula",
+   "inverted index",
+   "information retrieval search engine diagram",
+   "term frequency inverse document frequency"
+  ]
+ },
+ "73": {
+  "recherches": [
+   "CLU programming language source",
+   "CLU Liskov cluster",
+   "stack abstract data type diagram",
+   "abstract data type"
+  ]
+ },
+ "74": {
+  "recherches": [
+   "spanning tree protocol",
+   "Spanning Tree Protocol diagram",
+   "Algorhyme Perlman",
+   "spanning tree network bridges"
+  ]
+ },
+ "75": {
+  "recherches": [
+   "Gender Shades Buolamwini",
+   "facial recognition accuracy gender skin type",
+   "facial analysis bias chart",
+   "facial recognition system diagram"
+  ]
+ },
+ "v27": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:Manchester Baby Replica (Alt).webp",
+   "File:Manchester baby head on.JPG",
+   "File:Manchester Baby Replica.webp",
+   "File:SSEM Replica.jpg"
+  ]
+ },
+ "v59": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:AlphaGo computer rack.jpg",
+   "File:Lee Sedol (W) vs AlphaGo (B) - Game 2.svg",
+   "File:Lee Sedol (B) vs AlphaGo (W) - Game 1.svg",
+   "File:Go game board.jpg"
+  ]
+ },
+ "v42": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:Intuix USB flash drive, 256 MB.jpg",
+   "File:UsbFlashDrive-0145.jpg",
+   "File:Clé USB 1.jpg",
+   "File:Supertalent USB-Stick.jpg"
+  ]
+ },
+ "v29": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:UNIVAC I console, 1951, Computer History Museum.jpg",
+   "File:Univac I Supervisory Control Console at CHM.jpg",
+   "File:Univac I at CHM.agr.jpg",
+   "File:UNIVAC I Factronic.jpg"
+  ]
+ },
+ "v61": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:CreeperWorm.jpg",
+   "File:O primeiro vírus de computador; Creeper.png",
+   "File:Virus Creeper.jpg",
+   "File:MS-DOS 6.22.jpg"
+  ]
+ },
+ "v65": {
+  "tuile": 400,
+  "colonnes": 2,
+  "titres": [
+   "File:Wikipedia Screenshot 2001-12-17.png",
+   "File:English Wikipedia HomePage 2001-02-19.png",
+   "File:MS-DOS 6 floppy disks.jpg",
+   "File:Gdpr Europe.jpg"
+  ]
+ }
 }

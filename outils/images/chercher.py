@@ -35,12 +35,14 @@ def police(taille):
 
 
 def candidates(req):
+    largeur = 500 if req.get("tuile", TUILE) > 300 else 330
     vues = {}
     ordre = []
     titres = req.get("titres", [])
     if titres:
-        pages, _ = C.api(dict(C.props(330), titles="|".join(titres), redirects="1"))
-        for t, pg in pages.items():
+        pages, _ = C.api(dict(C.props(largeur), titles="|".join(titres), redirects="1"))
+        rang = {t: i for i, t in enumerate(titres)}
+        for t, pg in sorted(pages.items(), key=lambda kv: rang.get(kv[0], 999)):
             if pg.get("missing") or "imageinfo" not in pg:
                 ordre.append((t, None))
                 continue
@@ -48,7 +50,7 @@ def candidates(req):
             ordre.append((t, pg))
     for s in req.get("recherches", []):
         lim = req.get("limite", 6)
-        pages, _ = C.api(dict(C.props(330), generator="search", gsrsearch=s,
+        pages, _ = C.api(dict(C.props(largeur), generator="search", gsrsearch=s,
                               gsrnamespace="6", gsrlimit=str(lim)))
         for t, pg in sorted(pages.items(), key=lambda kv: kv[1].get("index", 0)):
             if t in vues or "imageinfo" not in pg:
@@ -59,7 +61,8 @@ def candidates(req):
     return ordre
 
 
-def planche(liste, chemin):
+def planche(liste, chemin, tuile=TUILE, cols=COLS):
+    TUILE, COLS = tuile, cols
     n = len(liste)
     lignes = max(1, (n + COLS - 1) // COLS)
     img = Image.new("RGB", (COLS * TUILE, lignes * TUILE), "white")
@@ -84,10 +87,11 @@ def planche(liste, chemin):
         d.text((x + 4, y + 2), str(num), fill="yellow", font=f)
         d.rectangle([x, y, x + TUILE - 1, y + TUILE - 1], outline="#888")
         time.sleep(0.15)
-    for q in (55, 45, 38, 30, 25):
+    limite = 50_000 if TUILE <= 300 else 120_000
+    for q in (60, 50, 42, 35, 28):
         buf = io.BytesIO()
         img.save(buf, "JPEG", quality=q, optimize=True)
-        if buf.tell() < 50_000:
+        if buf.tell() < limite:
             break
     chemin.write_bytes(buf.getvalue())
 
@@ -133,7 +137,7 @@ def main():
             ]
             apercus.append((num, ii.get("thumburl") or ii.get("url")))
         txt.write_text("\n".join(lignes), encoding="utf-8")
-        planche(apercus, RES / f"{carte}.jpg")
+        planche(apercus, RES / f"{carte}.jpg", req.get("tuile", TUILE), req.get("colonnes", COLS))
 
 
 if __name__ == "__main__":

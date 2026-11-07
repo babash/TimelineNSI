@@ -60,7 +60,8 @@ def licence_courte(m, cats):
 def auteur_api(m):
     a = C.texte(m.get("Artist"))
     a = re.sub(r"(?i)^(photo(graph)?( taken)? by|photographed by|by|author:)\s*", "", a).strip(" .")
-    a = re.sub(r"(?i)^unknown( author)?$|^anonym(e|ous)$|^unknown authorunknown author$", "", a)
+    if re.search(r"(?i)auteur inconnu|unknown author|^unknown$|^anonym|photographe inconnu", a):
+        return ""
     return a
 
 

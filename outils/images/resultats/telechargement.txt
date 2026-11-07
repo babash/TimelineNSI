@@ -755,7 +755,7 @@
     catégories licence : CC-Zero; Self-published work
 
 [81] A Proposal for the Dartmouth Summer Research Project on Artificial Intelligence, by John McCarthy et al, 1955.pdf
-    original 1275x1650 application/pdf ; sortie 580x750 37 ko
+    original 1275x1650 application/pdf ; sortie 451x106 30 ko
     licence API : Public domain | pd |  -> OK ; retenue : Domaine public 
     Artist : John McCarthy et al
     Credit : http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf
@@ -794,4 +794,4 @@
     description API : Morceau de la structure du satellite récupéré de Ariane 501
     catégories licence : PD-self; Self-published work
 
-TOTAL : 82 images, 8171 ko
+TOTAL : 82 images, 8165 ko

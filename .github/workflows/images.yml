@@ -1,0 +1,67 @@
+name: Images Commons (T10a)
+
+# Pont vers l'API de Wikimedia Commons, seulement sur la branche atelier/t10-images.
+# Les commits du workflow (GITHUB_TOKEN) ne relancent pas de workflow ;
+# les dossiers qu'il écrit sont en plus exclus des chemins surveillés.
+on:
+  push:
+    branches: ["atelier/t10-images"]
+    paths:
+      - "outils/images/**"
+      - "!outils/images/resultats/**"
+      - "!outils/images/manifeste.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: images-commons
+  cancel-in-progress: false
+
+jobs:
+  commons:
+    runs-on: ubuntu-latest
+    env:
+      PYTHONDONTWRITEBYTECODE: "1"
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.ref }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pillow
+        run: pip install pillow
+
+      - name: Recherche des candidates
+        run: python3 outils/images/chercher.py
+
+      - name: Téléchargement des images retenues
+        run: python3 outils/images/telecharger.py
+
+      - name: Commit des résultats
+        run: |
+          git config user.name Claude
+          git config user.email noreply@anthropic.com
+          git add -A -- outils/images
+          for p in images data/images.csv; do
+            if [ -e "$p" ]; then git add -A -- "$p"; fi
+          done
+          if git diff --cached --quiet; then
+            echo "Rien à enregistrer"
+            exit 0
+          fi
+          git commit -q -F - <<EOF
+          [T10a][atelier] Résultats de l'API Commons (run ${GITHUB_RUN_NUMBER})
+
+          Co-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>
+          Claude-Session: https://claude.ai/code/session_019Pv5zTB2kgpC2pDL7b7Up4
+          EOF
+          for i in 1 2 3 4; do
+            git pull -q --rebase origin "${GITHUB_REF_NAME}" && git push -q origin "HEAD:${GITHUB_REF_NAME}" && exit 0
+            sleep 5
+          done
+          exit 1

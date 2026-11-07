@@ -7,8 +7,7 @@
 //   output/fresque_temporelle.pdf toutes les cartes, une par page
 //   output/cards/<n>.html, output/fresque_temporelle_full.html : pages intermédiaires
 //
-// Hors ligne (variable CARTES_HORS_LIGNE=1, ou réseau indisponible), seules les ressources
-// locales sont chargées : les bandeaux en ligne manquent, ce qui est normal.
+// La génération n'utilise que des fichiers locaux : elle marche sans accès à Internet.
 
 const fs = require('fs/promises');
 const path = require('path');
@@ -34,18 +33,6 @@ const paths = {
 function rootHrefFrom(dir) {
     const rel = path.relative(dir, ROOT).split(path.sep).join('/');
     return rel ? `${rel}/` : './';
-}
-
-/** Le réseau est-il accessible ? (sinon, génération hors ligne) */
-async function networkAvailable() {
-    if (process.env.CARTES_HORS_LIGNE === '1') return false;
-    if (process.env.CARTES_HORS_LIGNE === '0') return true;
-    try {
-        const response = await fetch('https://images.pexels.com/', { method: 'HEAD', signal: AbortSignal.timeout(5000) });
-        return response.status < 500;
-    } catch (error) {
-        return false;
-    }
 }
 
 async function main() {
@@ -81,14 +68,11 @@ async function main() {
     });
     if (problems.length) throw new Error(`Données incorrectes :\n  ${problems.join('\n  ')}`);
 
-    const online = await networkAvailable();
-    console.log(online ? 'Réseau disponible : les bandeaux en ligne sont chargés.' : 'Génération hors ligne : bandeaux en ligne absents (normal).');
-
     const allCardsHtml = allEvents.map(event =>
         htmlGenerator.createCardHtml(event, allEvents, periodsList, { ...config, categories, images })
     );
 
-    const browser = await openBrowser({ horsLigne: !online });
+    const browser = await openBrowser();
     const overflows = [];
     try {
         for (let i = 0; i < allEvents.length; i++) {
@@ -102,13 +86,14 @@ async function main() {
 
         console.log('PDF complet en cours…');
         await fs.writeFile(paths.htmlOutputPath, htmlGenerator.generateFullHtmlDocument(allCardsHtml, rootHrefFrom(paths.outputDir)));
-        await browser.render(paths.htmlOutputPath, paths.pdfOutputPath);
+        overflows.push(...await browser.render(paths.htmlOutputPath, paths.pdfOutputPath));
     } finally {
         await browser.close();
     }
 
     if (overflows.length) {
-        throw new Error(`Texte qui déborde :\n  ${overflows.map(o => `carte ${o.num} : ${o.problem}`).join('\n  ')}`);
+        const uniques = [...new Set(overflows.map(o => `carte ${o.num} : ${o.problem}`))];
+        throw new Error(`Cartes à corriger :\n  ${uniques.join('\n  ')}`);
     }
     console.log(`\n${allEvents.length} cartes dans output/cards/, PDF complet : output/${config.PDF_OUTPUT_FILENAME}`);
 }

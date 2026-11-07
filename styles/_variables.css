@@ -1,16 +1,35 @@
 /* styles/_variables.css */
 :root {
+    /* Couleur de chaque catégorie (bandeau latéral, points de la frise) */
     --color-algorithmique: #0077b6; --color-hardware: #d00000; --color-cryptographie: #6a00f4;
     --color-theorie-de-linformation: #fca311; --color-reseau: #2a9d8f; --color-logiciel-libre: #e76f51;
     --color-internet: #176ee1; --color-intelligence-artificielle: #8e44ad;
     --color-cybersecurite: #c0392b;
     --color-langage-de-programmation: #28a745;
     --color-systemes-et-logiciels: #6d4c41;
+    /* Fond de la zone d'image : la couleur de la catégorie à 12 % sur blanc (teinte pâle,
+       économe en encre ; en niveaux de gris, de 231 à 245 sur 255). Rapports dans le README. */
+    --color-algorithmique-pale: #e0eff6; --color-hardware-pale: #f9e0e0; --color-cryptographie-pale: #ede0fe;
+    --color-theorie-de-linformation-pale: #fff4e2; --color-reseau-pale: #e5f3f2; --color-logiciel-libre-pale: #fceeea;
+    --color-internet-pale: #e3eefb; --color-intelligence-artificielle-pale: #f1e9f5;
+    --color-cybersecurite-pale: #f7e7e6;
+    --color-langage-de-programmation-pale: #e5f4e9;
+    --color-systemes-et-logiciels-pale: #edeae8;
+    /* Mots-clés (**mot**) : la couleur de la catégorie, assombrie si besoin pour un contraste
+       d'au moins 4,5:1 sur le blanc et sur les cinq fonds de note. Rapports dans le README. */
+    --color-algorithmique-texte: #0073b1; --color-hardware-texte: #d00000; --color-cryptographie-texte: #6a00f4;
+    --color-theorie-de-linformation-texte: #97620a; --color-reseau-texte: #217a70; --color-logiciel-libre-texte: #ad533d;
+    --color-internet-texte: #166ad8; --color-intelligence-artificielle-texte: #8e44ad;
+    --color-cybersecurite-texte: #c0392b;
+    --color-langage-de-programmation-texte: #1e7d34;
+    --color-systemes-et-logiciels-texte: #6d4c41;
     /* Couleurs des notes */
     --color-note-le-saviez-vous: #e6f7ff; --color-note-la-stat: #fff0f6;
     --color-note-fun-fact: #fffbe6; --color-note-la-star: #f9f0ff;
     --color-note-concept-cle: #e6fffa;
     --font-body: 'Lato', sans-serif;
     --color-text: #212529; --color-text-on-light: #1a1a1a; --color-text-light: #6c757d; --color-bg-card: #ffffff;
+    /* Crédit des images, sur le fond pâle de la zone d'image : au moins 6,5:1 */
+    --color-text-credit: #495057;
     --color-bg-page: #f8f9fa; --color-border: #dee2e6;
 }

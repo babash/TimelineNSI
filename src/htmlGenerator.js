@@ -55,7 +55,8 @@ function imageHtml(currentEvent, images) {
     const alt = unifyApostrophes(credit?.description || currentEvent.Titre);
     let creditHtml = '';
     if (credit && (credit.auteur || credit.licence)) {
-        // « Image : auteur, licence, Wikimedia Commons » (liens vers la licence et vers la page Commons)
+        // Image de Commons : « Image : auteur, licence, Wikimedia Commons » (liens vers la licence et la page Commons).
+        // Sans page Commons, c'est un schéma original : « Schéma : auteur, licence ».
         const parts = [];
         if (credit.auteur) parts.push(escapeHtml(unifyApostrophes(credit.auteur)));
         if (credit.licence) {
@@ -64,7 +65,7 @@ function imageHtml(currentEvent, images) {
                 : escapeHtml(credit.licence));
         }
         if (credit.page_commons) parts.push(`<a href="${escapeHtml(credit.page_commons)}">Wikimedia Commons</a>`);
-        creditHtml = `<p class="image-credit">Image : ${parts.join(', ')}</p>`;
+        creditHtml = `<p class="image-credit">${credit.page_commons ? 'Image' : 'Schéma'}&nbsp;: ${parts.join(', ')}</p>`;
     }
     // Chemin relatif à la racine du dépôt (voir la balise <base> du document).
     const src = file.relative.split('/').map(encodeURIComponent).join('/');
@@ -131,9 +132,6 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
         `;
     }
 
-    const bannerUrl = config.categoryBanners[categoryName] || '';
-    const bannerHtml = bannerUrl ? `<div class="banner-bg" style="background-image: url('${escapeHtml(bannerUrl)}')"></div>` : '';
-
     const shortDescriptionHtml = convertKeywords(currentEvent['Description courte'] || '');
     const longDescriptionHtml = convertKeywords(currentEvent.Description || '');
 
@@ -167,7 +165,7 @@ function createCardHtml(currentEvent, allEvents, periodsList, config) {
                 <p class="date">${formatYear(currentEvent.Date)}</p>
             </header>
             <main class="card-content">
-                <div class="card-image-container">${bannerHtml}${imageHtml(currentEvent, images)}</div>
+                <div class="card-image-container">${imageHtml(currentEvent, images)}</div>
                 <div class="description-and-note">
                     <p class="description-text">
                         <span class="short-description">${shortDescriptionHtml}</span>

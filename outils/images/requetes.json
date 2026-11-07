@@ -681,64 +681,63 @@
    "facial recognition system diagram"
   ]
  },
- "v27": {
+ "w51": {
   "tuile": 400,
   "colonnes": 2,
   "titres": [
-   "File:Manchester Baby Replica (Alt).webp",
-   "File:Manchester baby head on.JPG",
-   "File:Manchester Baby Replica.webp",
-   "File:SSEM Replica.jpg"
+   "File:Version 7 Unix SIMH PDP11 Emulation DMR.png",
+   "File:Version 7 UNIX SIMH PDP11 Kernels Shell.png",
+   "File:Actual DEC UNIX License Plate DSC 0317.jpg",
+   "File:Pdp-7-oslo-2004.jpeg"
   ]
  },
- "v59": {
+ "w54": {
   "tuile": 400,
   "colonnes": 2,
   "titres": [
-   "File:AlphaGo computer rack.jpg",
-   "File:Lee Sedol (W) vs AlphaGo (B) - Game 2.svg",
-   "File:Lee Sedol (B) vs AlphaGo (W) - Game 1.svg",
-   "File:Go game board.jpg"
+   "File:Free Software Foundation office (2346065159).jpg",
+   "File:GNU.png"
   ]
  },
- "v42": {
+ "w55": {
   "tuile": 400,
   "colonnes": 2,
   "titres": [
-   "File:Intuix USB flash drive, 256 MB.jpg",
-   "File:UsbFlashDrive-0145.jpg",
-   "File:Clé USB 1.jpg",
-   "File:Supertalent USB-Stick.jpg"
+   "File:Tux, the Linux penguin I.jpg",
+   "File:Linux tux circle logo.svg",
+   "File:Linux 0.01 releasenotes.pdf",
+   "File:Tux.svg"
   ]
  },
- "v29": {
+ "w60": {
   "tuile": 400,
   "colonnes": 2,
   "titres": [
-   "File:UNIVAC I console, 1951, Computer History Museum.jpg",
-   "File:Univac I Supervisory Control Console at CHM.jpg",
-   "File:Univac I at CHM.agr.jpg",
-   "File:UNIVAC I Factronic.jpg"
+   "File:Exemple de conversation ChatGPT.png",
+   "File:ChatGPT-Logo.svg",
+   "File:ChatGPT essay draft.png"
   ]
  },
- "v61": {
+ "w63": {
   "tuile": 400,
   "colonnes": 2,
   "titres": [
-   "File:CreeperWorm.jpg",
-   "File:O primeiro vírus de computador; Creeper.png",
-   "File:Virus Creeper.jpg",
-   "File:MS-DOS 6.22.jpg"
-  ]
- },
- "v65": {
-  "tuile": 400,
-  "colonnes": 2,
-  "titres": [
-   "File:Wikipedia Screenshot 2001-12-17.png",
-   "File:English Wikipedia HomePage 2001-02-19.png",
-   "File:MS-DOS 6 floppy disks.jpg",
+   "File:OJ L 119 of 2016 - FR French.pdf",
+   "File:GDPR p1.svg",
    "File:Gdpr Europe.jpg"
+  ]
+ },
+ "w68": {
+  "tuile": 400,
+  "colonnes": 2,
+  "limite": 3,
+  "titres": [
+   "File:Hedy Lamarr and George Antheil's patent.webp",
+   "File:Frequency hopping Spread Spectrum.jpg"
+  ],
+  "recherches": [
+   "2292387",
+   "Antheil Markey patent drawing"
   ]
  }
 }

@@ -69,7 +69,7 @@ Les cartes sont dans `output/cards/<n>.pdf` et le PDF complet dans `output/fresq
 
 - La génération n’utilise que des fichiers locaux (polices, icônes, images) : elle marche sans accès à Internet. Elle bloque toute autre requête et s’arrête si une carte en fait une.
 - Elle s’arrête aussi si un texte déborde ou si un texte coloré (bandeau latéral, crédit de l’image, mot-clé) a un contraste inférieur à 4,5:1.
-- Poids (novembre 2026, 75 cartes) : environ 9 Mo pour le PDF complet, de 60 à 370 ko par carte.
+- Poids (novembre 2026, 86 cartes) : environ 10,5 Mo pour le PDF complet, de 60 à 370 ko par carte.
 - Si Puppeteer ne peut pas télécharger Chrome, installez les dépendances avec `PUPPETEER_SKIP_DOWNLOAD=1 npm ci`, puis indiquez un Chrome déjà installé : `PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome npm run generate`.
 
 Pour voir le site complet en local :
@@ -104,7 +104,7 @@ gh api repos/babash/TimelineNSI/actions/jobs/<id>/logs
 - **Contenu** (textes, cartes, frise) : « Timeline – Histoire de l’informatique » par **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 - **Code** : licence MIT (fichier [`LICENSE`](LICENSE)).
 - **Images** : des images libres de Wikimedia Commons. Chacune a sa propre licence (domaine public, CC0, CC BY ou CC BY-SA), indiquée sur la carte, sur le site et dans `data/images.csv`.
-- **Schémas originaux** (cartes 72, 73 et 75) : **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; sources SVG dans `outils/schemas/`.
+- **Schémas originaux** (cartes 72, 73, 75, 76, 78, 81, 82 et 84) : **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; sources SVG dans `outils/schemas/`.
 - **Polices** : Lato, Orbitron et Fira Code, sous licence SIL OFL 1.1 (fichiers `assets/fonts/OFL-*.txt`), installées par les paquets npm `@fontsource`.
 - **Icônes** : Font Awesome Free (icônes sous licence CC BY 4.0).
 

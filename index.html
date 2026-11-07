@@ -571,6 +571,36 @@
             border-radius: var(--radius-md);
         }
 
+        /* L’image ouvre le fichier en taille réelle (utile sur téléphone pour lire un schéma) */
+        .event-image-lien {
+            position: relative;
+            display: block;
+            border-radius: var(--radius-md);
+            text-decoration: none;
+        }
+
+        .event-image-agrandir {
+            position: absolute;
+            right: 0.375rem;
+            bottom: 0.375rem;
+            display: inline-flex;
+            align-items: center;
+            gap: 0.25rem;
+            padding: 0.125rem 0.5rem;
+            font-size: 0.75rem;
+            font-weight: 700;
+            line-height: 1.4;
+            color: var(--python-blue-dark);
+            background: rgba(255, 255, 255, 0.94);
+            border: 1px solid var(--python-blue-dark);
+            border-radius: var(--radius-sm);
+        }
+
+        .event-image-lien:hover .event-image-agrandir {
+            color: #fff;
+            background: var(--python-blue-dark);
+        }
+
         .event-image figcaption {
             font-size: 0.75rem;
             color: var(--text-secondary);
@@ -1294,9 +1324,21 @@
                     : escapeHtml(credit.licence));
             }
             if (credit.page_commons) parts.push(`<a href="${escapeHtml(credit.page_commons)}">Wikimedia Commons</a>`);
+            // L’image est un lien vers le fichier en taille réelle, dans un nouvel onglet.
+            // Le libellé du lien remplace le texte alternatif : la description reste lue grâce à aria-describedby.
+            const description = escapeHtml(unifyApostrophes(credit.description || ''));
+            const descId = `image-description-${event.num}`;
             return `
                 <figure class="event-image">
-                    <img src="${escapeHtml(file)}" alt="${escapeHtml(unifyApostrophes(credit.description || ''))}" loading="lazy" decoding="async">
+                    <a class="event-image-lien" href="${escapeHtml(file)}" target="_blank" rel="noopener"
+                       aria-label="Agrandir l’image${NBSP}: ${escapeHtml(event.Titre)} (nouvel onglet)"${description ? ` aria-describedby="${descId}"` : ''}>
+                        <img src="${escapeHtml(file)}" alt="${description}" loading="lazy" decoding="async">
+                        <span class="event-image-agrandir" aria-hidden="true">
+                            <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" focusable="false"><path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7"/></svg>
+                            agrandir
+                        </span>
+                    </a>
+                    ${description ? `<span id="${descId}" class="visually-hidden">${description}</span>` : ''}
                     ${parts.length ? `<figcaption>${credit.page_commons ? 'Image' : 'Schéma'}${NBSP}: ${parts.join(', ')}</figcaption>` : ''}
                 </figure>`;
         }

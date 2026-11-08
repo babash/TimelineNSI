@@ -1,130 +1,82 @@
-# Timeline – Histoire de l’informatique
+# 🕰️ Timeline de l’histoire de l’informatique
 
-Une frise interactive de l’histoire de l’informatique, de l’Antiquité à nos jours, pour les cours de NSI et de SNT. Chaque événement existe aussi en **carte A5 à imprimer**, pour construire une fresque en classe.
+**L’histoire de l’informatique, de l’Antiquité à nos jours : une frise à explorer à l’écran, et une carte A5 par événement pour construire une fresque.** Pour la 1re et la terminale NSI, et la seconde, en SNT.
 
-- **Le site** : https://babash.github.io/TimelineNSI/
-- **Les Ressources NSI et SNT**, dont il fait partie : https://babash.github.io/Babash-NSI-SNT/
+> Les élèves explorent la frise : ils et elles cherchent un événement, filtrent par catégorie ou par période, et agrandissent les images, toutes libres et créditées. Puis la classe construit une fresque avec les cartes imprimées. Chaque carte situe son événement sur une mini-frise de sa période, raconte ce qui s’est passé et ajoute une note : une anecdote, un chiffre, une personne marquante ou une notion clé.
 
-Sur le site, on peut :
+## 👉 [Essayer maintenant : babash.github.io/TimelineNSI](https://babash.github.io/TimelineNSI/)
+
+**Gratuit · sans compte · rien à installer · aussi sur téléphone · rien n’est enregistré**
+
+La Timeline de l’histoire de l’informatique fait partie des [Ressources NSI et SNT](https://babash.github.io/Babash-NSI-SNT/), rubriques [NSI Première](https://babash.github.io/Babash-NSI-SNT/nsi-premiere/) et [NSI Terminale](https://babash.github.io/Babash-NSI-SNT/nsi-terminale/).
+
+---
+
+## Une séance en trois étapes
+
+1. **Tu** prépares les cartes : sur [la frise](https://babash.github.io/TimelineNSI/), filtre par catégorie, par période ou par plage de dates, puis télécharge la carte de chaque événement retenu (bouton **Télécharger**), ou toutes les cartes avec **Télécharger le PDF complet**. Chaque carte s’imprime sur une page A5.
+2. **Les élèves** lisent leurs cartes : le titre et la date, la mini-frise qui situe l’événement dans sa période, le récit, la note et l’image avec son crédit.
+3. **La classe construit la fresque** : les cartes rangées par date, au mur ou sur les tables. La frise en ligne, projetée, permet ensuite de vérifier l’ordre et de compléter.
+
+## Ce que font les élèves
+
+Sur la frise, les élèves peuvent :
 - chercher un événement (la recherche ignore les accents et les majuscules) ;
 - filtrer par catégorie, période, sous-période et plage de dates ;
 - télécharger la carte PDF de chaque événement, ou le PDF complet (une carte par page) ;
-- agrandir l’image d’un événement (clic sur l’image, ou bouton « Agrandir » à côté du crédit) : elle s’ouvre en taille réelle dans un nouvel onglet (utile sur téléphone pour lire un schéma).
+- agrandir l’image d’un événement (clic sur l’image, ou bouton **Agrandir** à côté du crédit) : elle s’ouvre en taille réelle dans un nouvel onglet (utile sur téléphone pour lire un schéma).
 
-## Ce que contient le dépôt
+Chaque carte A5 porte une mini-frise de la période de l’événement (avec les périodes voisines et les autres événements), le titre et la date, une image et son crédit, une phrase d’accroche en gras puis le contexte, une note, la licence et la source. La note est « Le saviez-vous », « La stat » (un chiffre vérifié), « Fun fact » (une anecdote), « La star » (une personne marquante) ou « Concept clé » (une notion).
 
-```
-index.html            la page du site
-404.html              la page « introuvable »
-manifest.json, robots.txt, sitemap.xml
-assets/               polices, icônes et favicon, hébergés sur le site
-data/                 les données (fichiers CSV) : c’est là qu’on modifie le contenu
-images/               les images des cartes, nommées <numéro de carte>.jpg ou .png
-outils/images/        les outils qui ont cherché ces images sur Wikimedia Commons (et leur rapport)
-outils/schemas/       les schémas originaux (sources SVG) et leur export en PNG
-generate-cards.js     le générateur des cartes PDF
-src/                  le code du générateur
-styles/               la mise en forme des cartes
-scripts/              assemblage, contrôle et vérification du site publié
-.github/workflows/publier.yml   la publication automatique
-.github/workflows/images.yml    le pont vers l’API de Wikimedia Commons (branches d’atelier)
-```
+| Période | Dates |
+|---|---|
+| Prémices de l’informatique | 3000 av. J.-C. – 1800 |
+| Révolution mécanique | 1800 – 1930 |
+| Théorisation de l’informatique | 1930 – 1950 |
+| Ère des premiers ordinateurs | 1950 – 1970 |
+| Informatique personnelle & réseaux | 1970 – 1990 |
+| Avènement d’Internet | 1990 – 2010 |
+| Informatique ubiquitaire & IA | 2010 – 2025 |
 
-Le dossier `output/` (les cartes générées) et le dossier `_site/` (le site assemblé) ne sont pas suivis par Git : ils sont recréés à chaque publication.
+Les catégories : algorithmique, cryptographie, hardware, théorie de l’information, réseau, logiciel libre, systèmes et logiciels, Internet, intelligence artificielle, cybersécurité, langage de programmation.
 
-## Modifier les données
+## Pour quels usages
 
-Tout le contenu est dans `data/`. Les colonnes sont décrites dans [`data/README.md`](data/README.md).
+| Usage | Comment |
+|---|---|
+| **Une séance en classe** | La fresque : des cartes imprimées, à ranger par date (voir plus haut). |
+| **Sur papier** | Une carte A5 par événement, ou le PDF complet, une carte par page. Les fonds pâles économisent l’encre, et les schémas restent lisibles imprimés en noir et blanc. |
+| **En équipes** | Les filtres découpent la frise : une catégorie ou une période par équipe. |
+| **Sur téléphone** | La frise s’affiche dès 320 px de large ; **Agrandir** ouvre une image en taille réelle, pour lire un schéma. |
+| **Pour s’entraîner seul·e** | La recherche retrouve un événement, et chaque carte donne sa source pour aller plus loin. |
 
-- `histoire_informatique_evenements.csv` : un événement par ligne.
-- `periodes.csv` : les périodes et sous-périodes, avec leurs dates.
-- `categories.csv` : les catégories et leurs abréviations.
-- `images.csv` : le crédit de chaque image (auteur, licence, page Wikimedia Commons, texte alternatif), ou de chaque schéma original.
+## Pourquoi ça marche
 
-Règles à respecter :
-- **Le numéro d’une carte est le rang de sa ligne** dans `histoire_informatique_evenements.csv` (la première ligne après l’en-tête est la carte 1). L’ordre des lignes ne compte pas pour la frise, qui trie par date. Pour ne pas changer l’adresse des cartes déjà distribuées (`output/cards/<n>.pdf`), **ajoutez les nouveaux événements à la fin** et ne déplacez pas les lignes.
-- La période, la sous-période et la catégorie doivent exister dans `periodes.csv` et `categories.csv`, écrites à l’identique.
-- Une seule forme d’apostrophe : l’apostrophe typographique (’).
-- Une espace insécable (U+00A0) avant les signes : ; ? ! % et le guillemet fermant », après le guillemet ouvrant «, et dans les nombres (2 300) : un signe ne se retrouve jamais seul en début ou en fin de ligne.
-- Des textes courts : la carte doit tenir sur une page A5. Le générateur s’arrête si un texte déborde.
-- Le type de note correspond à son contenu : « La stat » contient un chiffre vérifié, « Fun fact » une anecdote.
-- La colonne « Source » donne l’adresse de l’article (Wikipédia en français si possible).
+- **Chaque événement est situé** : sur la carte, une mini-frise montre sa période, les périodes voisines et les autres événements.
+- **Des faits vérifiés** : chaque carte cite sa source, et « La stat » contient un chiffre vérifié.
+- **Des pionnières et des pionniers** : Ada Lovelace, Grace Hopper, Hedy Lamarr, Joan Clarke, les programmeuses de l’ENIAC, Katherine Johnson, Karen Spärck Jones, Barbara Liskov, Radia Perlman, Joy Buolamwini et Timnit Gebru, aux côtés de Babbage, Turing et Dijkstra.
+- **Des images libres et créditées** : des images de Wikimedia Commons, avec le nom de l’autrice ou de l’auteur et la licence sur chaque carte, et des schémas originaux quand Commons n’en avait pas.
+- **Lisible, à l’écran comme sur papier** : tous les textes colorés ont un contraste d’au moins 4,5:1, et une carte tient toujours sur une page A5 (le générateur s’arrête si un texte déborde).
 
-Une nouvelle catégorie demande aussi une couleur et une icône : `src/config.js` (icône), `styles/_variables.css` (couleur, fond pâle, couleur des mots-clés) et les trois feuilles `_card.css`, `_timeline.css`, `_content.css`, et `categoryColors` dans `index.html` (contraste d’au moins 4,5:1, voir « Couleurs et contrastes »).
+## Pour aller plus loin
 
-Pour ajouter une image : déposez `images/<n>.jpg` (ou `.png`) et ajoutez sa ligne dans `data/images.csv`. Sans fichier, la carte n’a pas d’image ; sans ligne, pas de crédit. L’image est toujours affichée entière, sur un fond pâle de la couleur de la catégorie, et son crédit apparaît sous la forme « Image : auteur, licence, Wikimedia Commons ». La génération et la publication s’arrêtent si une image citée dans `data/images.csv` est introuvable.
+| Document | Contenu |
+|---|---|
+| [Architecture](docs/ARCHITECTURE.md) | Le contenu du dépôt, modifier les données, ajouter une image ou un schéma, générer les cartes, la publication, les couleurs et les contrastes |
+| [Les données de la frise](data/README.md) | Les colonnes des fichiers CSV de `data/` |
 
-- **Taille des images** : la zone d’image d’une carte mesure au plus 119 × 64 mm environ. Une image de 1000 × 750 px au plus suffit (au moins 213 ppp sur toute la largeur) : au-delà, le PDF s’alourdit sans gain visible à l’impression. L’outil `outils/images/telecharger.py` réduit les images de Commons à ce cadre.
-- **Schéma original** : la source SVG va dans `outils/schemas/<n>.svg`, avec les polices de `assets/fonts/`, et `node outils/schemas/exporter.js <n>` l’exporte en `images/<n>.png`. Dans `data/images.csv`, sa ligne a une colonne `page_commons` vide : le crédit devient « Schéma : auteur, licence ». Le schéma doit rester lisible imprimé en noir et blanc, à la taille de la zone d’image (environ 12 × 3,5 cm sur les cartes au texte long) : 1200 px de large, un format large (environ 3 pour 1) et aucun texte de moins de 26 px, soit 7 pt imprimés. L’export signale un texte plus petit.
+## Contact
 
-## Générer les cartes
+Conçu par Babash - NSI Tani Malandi pour les classes de SNT et de NSI de l’académie de Mayotte, développé avec l’aide de l’IA ([Claude Code](https://claude.com/claude-code) et [Cursor](https://cursor.com)).
+Une question, une idée, un bug ? Les [issues GitHub](https://github.com/babash/TimelineNSI/issues) du dépôt. Toutes les ressources sont sur le site [Ressources NSI et SNT](https://babash.github.io/Babash-NSI-SNT/).
 
-Il faut Node.js 22 ou plus récent.
+## Licence
 
-```bash
-npm ci              # installe les dépendances (Puppeteer télécharge Chrome)
-npm run generate    # une carte PDF par événement, et le PDF complet
-```
+- **Le code** (le site `index.html` et `404.html`, le générateur `generate-cards.js` et `src/`, les feuilles de style de `styles/`, les scripts de `scripts/` et d’`outils/`, les workflows de `.github/`) est sous licence [MIT](LICENSE).
+- **Les documents** (les textes des événements de `data/`, les cartes et la frise : « Timeline – Histoire de l’informatique ») sont sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
+- **Les schémas originaux** (cartes 72, 73, 75, 76, 78, 81, 82 et 84) : Babash - NSI Tani Malandi, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; sources SVG dans `outils/schemas/`.
+- **Les images** : des images libres de Wikimedia Commons. Chacune a sa propre licence (domaine public, CC0, CC BY ou CC BY-SA), indiquée sur la carte, sur le site et dans `data/images.csv`.
+- **Les polices** Lato, Orbitron et Fira Code : licence SIL OFL 1.1 (fichiers `assets/fonts/OFL-*.txt`), installées par les paquets npm `@fontsource`.
+- **Les icônes** : Font Awesome Free (icônes sous licence CC BY 4.0).
 
-Les cartes sont dans `output/cards/<n>.pdf` et le PDF complet dans `output/fresque_temporelle.pdf`.
-
-- La génération n’utilise que des fichiers locaux (polices, icônes, images) : elle marche sans accès à Internet. Elle bloque toute autre requête et s’arrête si une carte en fait une.
-- Elle s’arrête aussi si un texte déborde ou si un texte coloré (bandeau latéral, crédit de l’image, mot-clé) a un contraste inférieur à 4,5:1.
-- Poids (novembre 2026, 86 cartes) : environ 10,5 Mo pour le PDF complet, de 50 à 365 ko par carte.
-- Si Puppeteer ne peut pas télécharger Chrome, installez les dépendances avec `PUPPETEER_SKIP_DOWNLOAD=1 npm ci`, puis indiquez un Chrome déjà installé : `PUPPETEER_EXECUTABLE_PATH=/usr/bin/google-chrome npm run generate`.
-
-Pour voir le site complet en local :
-
-```bash
-npm run build                    # génère les cartes et assemble le site dans _site/
-npm run check                    # contrôle le site assemblé (il faut pdfinfo et pdftotext)
-cd _site && python3 -m http.server 8000
-```
-
-Puis ouvrez http://localhost:8000/.
-
-## La publication
-
-Le site est publié par GitHub Actions (réglage du dépôt : *Settings › Pages › Source : GitHub Actions*), avec le workflow `.github/workflows/publier.yml` :
-
-1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés, avec `version.txt`, écrit à l’assemblage : le commit publié ; la copie publiée de `data/images.csv` reçoit aussi la largeur et la hauteur de chaque image, lues dans les fichiers, pour que le site réserve leur place avant le chargement), puis contrôle : chaque image citée dans `data/images.csv` existe, avec sa taille, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
-2. **Sur `main` seulement** : publication sur GitHub Pages, puis **vérification du site en ligne**. Le script attend que la page en ligne corresponde au commit publié, l’ouvre dans Chrome (aucune erreur JavaScript, un événement par ligne du CSV, aucun débordement à 320 px), puis vérifie que chaque bouton « Télécharger » renvoie la carte de son événement.
-
-Le second workflow, `.github/workflows/images.yml`, ne publie rien : sur les branches d’atelier des images, quand `outils/images/` change, il interroge l’API de Wikimedia Commons (inaccessible depuis certains postes), télécharge les images retenues dans `outils/images/choix.csv` et enregistre le résultat dans la branche (`images/`, `data/images.csv`, `outils/images/manifeste.json` et le rapport `outils/images/resultats/telechargement.txt`). Les aperçus de la recherche (planches de vignettes, parfois avec des personnes) ne vont pas dans le dépôt : ils sont dans l’artefact « apercus-recherche » du run (onglet Actions), effacé au bout de 7 jours.
-
-Pour lire les résultats :
-
-```bash
-gh api repos/babash/TimelineNSI/actions/runs --jq '.workflow_runs[0] | {name, head_branch, conclusion}'
-gh api repos/babash/TimelineNSI/actions/runs/<id>/jobs
-gh api repos/babash/TimelineNSI/actions/jobs/<id>/logs
-```
-
-## Licences
-
-- **Contenu** (textes, cartes, frise) : « Timeline – Histoire de l’informatique » par **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
-- **Code** : licence MIT (fichier [`LICENSE`](LICENSE)).
-- **Images** : des images libres de Wikimedia Commons. Chacune a sa propre licence (domaine public, CC0, CC BY ou CC BY-SA), indiquée sur la carte, sur le site et dans `data/images.csv`.
-- **Schémas originaux** (cartes 72, 73, 75, 76, 78, 81, 82 et 84) : **Babash - NSI Tani Malandi**, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; sources SVG dans `outils/schemas/`.
-- **Polices** : Lato, Orbitron et Fira Code, sous licence SIL OFL 1.1 (fichiers `assets/fonts/OFL-*.txt`), installées par les paquets npm `@fontsource`.
-- **Icônes** : Font Awesome Free (icônes sous licence CC BY 4.0).
-
-## Couleurs et contrastes
-
-Chaque catégorie a une couleur (`styles/_variables.css`), déclinée en un fond pâle pour la zone d’image (la couleur à 12 % sur blanc, économe en encre) et, si besoin, en une teinte plus sombre pour les mots-clés (`**mot**`). Tous les textes colorés ont un contraste d’au moins 4,5:1, et la génération le vérifie.
-
-| Catégorie | Bandeau latéral | Mot-clé (pire fond) | Fond de l’image | Crédit sur ce fond |
-|---|---|---|---|---|
-| Algorithmique | 4,87:1 (texte blanc) | `#0073b1` 4,63:1 | `#e0eff6` | 6,95:1 |
-| Hardware | 5,70:1 (texte blanc) | `#d00000` 5,14:1 | `#f9e0e0` | 6,53:1 |
-| Cryptographie | 7,19:1 (texte blanc) | `#6a00f4` 6,49:1 | `#ede0fe` | 6,50:1 |
-| Théorie de l’information | 8,61:1 (texte foncé) | `#97620a` 4,66:1 | `#fff4e2` | 7,51:1 |
-| Réseau | 5,24:1 (texte foncé) | `#217a70` 4,64:1 | `#e5f3f2` | 7,18:1 |
-| Logiciel libre | 5,63:1 (texte foncé) | `#ad533d` 4,64:1 | `#fceeea` | 7,23:1 |
-| Internet | 4,82:1 (texte blanc) | `#166ad8` 4,63:1 | `#e3eefb` | 6,97:1 |
-| Intelligence Artificielle | 5,87:1 (texte blanc) | `#8e44ad` 5,29:1 | `#f1e9f5` | 6,90:1 |
-| Cybersécurité | 5,44:1 (texte blanc) | `#c0392b` 4,90:1 | `#f7e7e6` | 6,82:1 |
-| Langage de programmation | 5,56:1 (texte foncé) | `#1e7d34` 4,69:1 | `#e5f4e9` | 7,18:1 |
-| Systèmes et logiciels | 7,61:1 (texte blanc) | `#6d4c41` 6,86:1 | `#edeae8` | 6,83:1 |
-
-« Pire fond » : le plus défavorable du blanc et des cinq fonds de note. Le crédit des images est écrit en `#495057`. Sur les quatre fonds clairs (Théorie de l’information, Réseau, Logiciel libre, Langage de programmation), le nom de la catégorie est écrit en foncé (`#1a1a1a`), en blanc sur les autres.
+Tu peux les réutiliser et les modifier, y compris pour tes classes, en mentionnant Babash - NSI Tani Malandi et la licence ; un document modifié se partage sous la même licence. Si tu utilises l’IA pour les modifier, merci de le préciser.

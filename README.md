@@ -55,7 +55,7 @@ Les catégories : algorithmique, cryptographie, hardware, théorie de l’inform
 - **Chaque événement est situé** : sur la carte, une mini-frise montre sa période, les périodes voisines et les autres événements.
 - **Des faits vérifiés** : chaque carte cite sa source, et « La stat » contient un chiffre vérifié.
 - **Des pionnières et des pionniers** : Ada Lovelace, Grace Hopper, Hedy Lamarr, Joan Clarke, les programmeuses de l’ENIAC, Katherine Johnson, Karen Spärck Jones, Barbara Liskov, Radia Perlman, Joy Buolamwini et Timnit Gebru, aux côtés de Babbage, Turing et Dijkstra.
-- **Des images libres et créditées** : des images de Wikimedia Commons, avec l’auteur et la licence sur chaque carte, et des schémas originaux quand Commons n’en avait pas.
+- **Des images libres et créditées** : des images de Wikimedia Commons, avec le nom de l’autrice ou de l’auteur et la licence sur chaque carte, et des schémas originaux quand Commons n’en avait pas.
 - **Lisible, à l’écran comme sur papier** : tous les textes colorés ont un contraste d’au moins 4,5:1, et une carte tient toujours sur une page A5 (le générateur s’arrête si un texte déborde).
 
 ## Pour aller plus loin

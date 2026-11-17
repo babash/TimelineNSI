@@ -7,8 +7,11 @@ cd "$(dirname "$0")/.."
 rm -rf _site
 mkdir -p _site/data _site/output/cards
 
-cp index.html 404.html manifest.json robots.txt _site/
+cp index.html 404.html jeu.html manifest.json robots.txt _site/
 cp -r assets _site/
+# Le jeu : son script, son moteur et sa feuille de style (pas les tests)
+mkdir -p _site/jeu
+cp jeu/*.js jeu/*.css _site/jeu/
 cp data/*.csv _site/data/
 
 # Images des cartes et leurs crédits (facultatifs)

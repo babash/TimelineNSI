@@ -125,6 +125,34 @@
             margin-bottom: 2rem;
         }
 
+        /* Onglets : la frise et le jeu */
+        .onglets {
+            display: flex;
+            justify-content: center;
+            gap: 0.25rem;
+            margin: 0 auto 1.5rem;
+            border-bottom: 2px solid var(--border-color);
+            max-width: 20rem;
+        }
+
+        .onglets a {
+            padding: 0.5rem 1.5rem;
+            font-weight: 700;
+            text-decoration: none;
+            color: var(--text-primary);
+            border-bottom: 4px solid transparent;
+            margin-bottom: -2px;
+        }
+
+        .onglets a:hover {
+            color: var(--python-blue);
+        }
+
+        .onglets a[aria-current="page"] {
+            color: var(--python-blue);
+            border-bottom-color: var(--python-blue);
+        }
+
         /* Section de filtres */
         .filters-section {
             background: var(--accent-bg);
@@ -854,6 +882,10 @@
             <h1><span aria-hidden="true">🕰️ </span>Timeline – Histoire de l’informatique</h1>
             <p class="subtitle">L’histoire de l’informatique, de l’Antiquité à nos jours</p>
             <p class="last-update" id="last-update" hidden>Dernière mise à jour : <time id="last-update-date"></time></p>
+            <nav class="onglets" aria-label="Pages de la Timeline">
+                <a href="./" aria-current="page">Frise</a>
+                <a href="jeu.html">Jeu</a>
+            </nav>
         </header>
 
         <main>

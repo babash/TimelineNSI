@@ -45,6 +45,12 @@ jobs:
       - name: Contrôler le site assemblé
         run: node scripts/controler-site.js _site
 
+      - name: Tester le moteur du jeu (tests unitaires)
+        run: npm test
+
+      - name: Parcours du jeu dans Chrome (clavier, solo, rendus)
+        run: node tests/parcours-jeu.js _site
+
       - name: Préparer le site pour GitHub Pages
         uses: actions/upload-pages-artifact@v4
         with:

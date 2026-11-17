@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jeu – Timeline de l’histoire de l’informatique</title>
+    <meta name="description" content="Le jeu de la Timeline : placer les événements de l’histoire de l’informatique sur la frise, de 1 à 6 joueur·ses sur un seul ordinateur, ou en solo.">
+    <meta name="author" content="Babash - NSI Tani Malandi">
+    <meta property="og:title" content="Jeu – Timeline de l’histoire de l’informatique">
+    <meta property="og:description" content="Placer les événements de l’histoire de l’informatique sur la frise : de 1 à 6 joueur·ses, sur un seul ordinateur.">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="fr_FR">
+    <meta property="og:url" content="https://babash.github.io/TimelineNSI/jeu.html">
+    <link rel="canonical" href="https://babash.github.io/TimelineNSI/jeu.html">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#306998">
+    <meta name="color-scheme" content="light dark">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <link rel="icon" href="assets/favicon-32.png" type="image/png" sizes="32x32">
+    <link rel="apple-touch-icon" href="assets/icon-192.png">
+    <link rel="stylesheet" href="assets/fonts/polices.css">
+    <link rel="stylesheet" href="jeu/jeu.css">
+</head>
+<body>
+    <a class="evitement" href="#contenu">Aller au jeu</a>
+    <div class="page">
+        <header class="entete">
+            <p class="nom-site"><span aria-hidden="true">🕰️ </span>Timeline – Histoire de l’informatique</p>
+            <nav class="onglets" aria-label="Pages de la Timeline">
+                <a href="./">Frise</a>
+                <a href="jeu.html" aria-current="page">Jeu</a>
+            </nav>
+        </header>
+
+        <main id="contenu" tabindex="-1">
+            <h1>Le jeu de la frise</h1>
+            <p class="chapo">Placer chaque carte au bon endroit de la frise, sans voir sa date. Sur un seul ordinateur, à tour de rôle : de 1 à 6 joueur·ses ou équipes.</p>
+
+            <div id="chargement" class="chargement" role="status">Chargement des cartes…</div>
+            <noscript><p class="chargement">Le jeu a besoin de JavaScript. La <a href="./">frise</a> et ses cartes à imprimer restent disponibles.</p></noscript>
+
+            <!-- Écran 1 : les réglages -->
+            <section id="ecran-reglages" class="ecran" aria-labelledby="titre-reglages" hidden>
+                <div id="reprise" class="encart reprise" hidden>
+                    <h2 id="titre-reprise">Une partie est en cours</h2>
+                    <p id="reprise-texte"></p>
+                    <div class="actions">
+                        <button type="button" class="btn btn-principal" id="bouton-reprendre">Reprendre la partie</button>
+                        <button type="button" class="btn btn-secondaire" id="bouton-abandonner">L’abandonner</button>
+                    </div>
+                </div>
+
+                <details class="regles" id="regles">
+                    <summary>Les règles en une minute</summary>
+                    <ol>
+                        <li>Une carte est posée sur la frise, avec sa date.</li>
+                        <li>À son tour, on choisit une carte de sa main : on voit son titre et son image, <strong>jamais sa date</strong>.</li>
+                        <li>On la place sur la frise : on la fait glisser, ou on choisit <strong>« Placer ici »</strong>.</li>
+                        <li><strong>Bien placée</strong> : elle reste, et sa date apparaît. <strong>Mal placée</strong> : elle va à sa vraie place, et on pioche une carte.</li>
+                        <li>La première personne qui n’a plus de carte gagne. La manche se termine pour tout le monde : à égalité, le moins d’erreurs l’emporte.</li>
+                        <li><strong>Défi bonus</strong>, facultatif : deviner l’année exacte, ou qui est à l’origine de l’événement. Carte bien placée et défi réussi : un <strong>joker</strong> (2 en main au plus).</li>
+                        <li>Un joker par tour : <strong>Indice</strong> (la décennie de la carte), <strong>Filet</strong> (une erreur ne fait pas piocher) ou <strong>Échange</strong> (changer de carte).</li>
+                    </ol>
+                    <p>Deux événements de la même année : les deux ordres sont justes.</p>
+                </details>
+
+                <h2 id="titre-reglages">Préparer la partie</h2>
+                <form id="form-reglages" class="reglages" novalidate>
+                    <fieldset class="groupe">
+                        <legend>Qui joue ?</legend>
+                        <label class="etiquette" for="nb-joueurs">Nombre de joueur·ses ou d’équipes</label>
+                        <select id="nb-joueurs" class="champ champ-court">
+                            <option value="1">1 (solo)</option>
+                            <option value="2" selected>2</option>
+                            <option value="3">3</option>
+                            <option value="4">4</option>
+                            <option value="5">5</option>
+                            <option value="6">6</option>
+                        </select>
+                        <p class="aide" id="aide-noms">Un prénom, un pseudo ou un nom d’équipe : jamais de nom de famille.</p>
+                        <div id="noms" class="noms"></div>
+                    </fieldset>
+
+                    <fieldset class="groupe" id="bloc-solo" hidden>
+                        <legend>Mode solo</legend>
+                        <div class="choix">
+                            <input type="radio" name="mode" id="mode-serie" value="serie" checked>
+                            <label for="mode-serie"><strong>Série</strong> : poser le plus de cartes d’affilée. La première erreur arrête la série.</label>
+                        </div>
+                        <div class="choix">
+                            <input type="radio" name="mode" id="mode-main" value="main">
+                            <label for="mode-main"><strong>Main</strong> : vider sa main avec le moins d’erreurs possible.</label>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="groupe">
+                        <legend>Difficulté</legend>
+                        <div class="choix">
+                            <input type="radio" name="difficulte" id="diff-facile" value="facile">
+                            <label for="diff-facile"><strong>Facile</strong> : des dates éloignées, la période de la carte est donnée ; défi « année » à quelques années près.</label>
+                        </div>
+                        <div class="choix">
+                            <input type="radio" name="difficulte" id="diff-normal" value="normal" checked>
+                            <label for="diff-normal"><strong>Normal</strong> : des cartes au hasard ; défi « année » sans marge.</label>
+                        </div>
+                        <div class="choix">
+                            <input type="radio" name="difficulte" id="diff-expert" value="expert">
+                            <label for="diff-expert"><strong>Expert</strong> : des cartes proches dans le temps, une frise serrée ; défi « année » sans marge.</label>
+                        </div>
+                        <div id="bloc-marge" class="sous-choix" hidden>
+                            <p class="etiquette" id="titre-marge">Marge du défi « année » (facile)</p>
+                            <div class="choix-ligne" role="radiogroup" aria-labelledby="titre-marge">
+                                <span class="choix"><input type="radio" name="marge" id="marge-5" value="5" checked><label for="marge-5">± 5 ans</label></span>
+                                <span class="choix"><input type="radio" name="marge" id="marge-1" value="1"><label for="marge-1">± 1 an</label></span>
+                            </div>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="groupe">
+                        <legend>Durée et cartes</legend>
+                        <div class="champs-ligne">
+                            <div id="bloc-main">
+                                <label class="etiquette" for="nb-main">Cartes en main</label>
+                                <input type="number" id="nb-main" class="champ champ-court" min="2" max="8" value="4" inputmode="numeric">
+                            </div>
+                            <div id="bloc-duree">
+                                <label class="etiquette" for="duree">Durée visée</label>
+                                <select id="duree" class="champ">
+                                    <option value="0">Sans limite</option>
+                                    <option value="10">10 minutes</option>
+                                    <option value="20" selected>20 minutes</option>
+                                    <option value="30">30 minutes</option>
+                                    <option value="40">40 minutes</option>
+                                </select>
+                            </div>
+                        </div>
+                        <p class="aide" id="aide-duree">Quand la durée est passée, la manche en cours se termine, puis la partie.</p>
+                        <div class="choix">
+                            <input type="checkbox" id="pari">
+                            <label for="pari"><strong>Défis risqués</strong> : un défi raté fait piocher une carte.</label>
+                        </div>
+                    </fieldset>
+
+                    <fieldset class="groupe">
+                        <legend>Catégories de cartes</legend>
+                        <div class="actions actions-petites">
+                            <button type="button" class="btn btn-secondaire btn-petit" id="toutes-categories">Toutes</button>
+                            <button type="button" class="btn btn-secondaire btn-petit" id="aucune-categorie">Aucune</button>
+                        </div>
+                        <div id="categories" class="puces"></div>
+                        <p class="aide" id="compte-cartes" role="status"></p>
+                    </fieldset>
+
+                    <p class="erreur" id="erreur-reglages" role="alert"></p>
+                    <div class="actions">
+                        <button type="submit" class="btn btn-principal btn-grand">Commencer la partie</button>
+                    </div>
+                    <p class="aide">La partie en cours et le meilleur score solo sont gardés dans ce navigateur, sur cet appareil. Rien n’est envoyé.</p>
+                </form>
+            </section>
+
+            <!-- Écran 2 : le jeu -->
+            <section id="ecran-jeu" class="ecran" aria-labelledby="titre-tour" hidden>
+                <div class="barre-partie">
+                    <ul id="tableau" class="tableau" aria-label="Les joueur·ses"></ul>
+                    <p id="temps" class="temps" hidden></p>
+                </div>
+
+                <h2 id="titre-tour" class="titre-tour" tabindex="-1"></h2>
+                <p class="consigne" id="consigne"></p>
+
+                <div class="plateau">
+                <div class="zone-carte">
+                    <div id="main" class="main-cartes" role="group" aria-label="Cartes en main"></div>
+                    <article id="carte-active" class="carte-active" aria-labelledby="titre-carte"></article>
+                    <div id="jokers" class="jokers"></div>
+                </div>
+
+                <section class="zone-frise" aria-labelledby="titre-frise">
+                    <h3 id="titre-frise" class="titre-frise"></h3>
+                    <ol id="frise" class="frise"></ol>
+                </section>
+                </div>
+
+                <section id="panneau" class="panneau" aria-labelledby="titre-panneau" hidden></section>
+
+                <p class="fin-anticipee">
+                    <button type="button" class="btn-lien" id="bouton-arreter">Arrêter la partie et voir le bilan</button>
+                </p>
+            </section>
+
+            <!-- Écran 3 : le bilan -->
+            <section id="ecran-fin" class="ecran" aria-labelledby="titre-fin" hidden></section>
+
+            <div id="annonces" class="visually-hidden" aria-live="polite" aria-atomic="true"></div>
+        </main>
+
+        <footer class="pied">
+            <p>
+                « Timeline – Histoire de l’informatique » par Babash - NSI Tani Malandi,
+                sous licence <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.fr" rel="license">CC BY-SA 4.0</a><img src="assets/icons/creative-commons.svg" class="icone-licence" alt=""><img src="assets/icons/creative-commons-by.svg" class="icone-licence" alt=""><img src="assets/icons/creative-commons-sa.svg" class="icone-licence" alt="">.
+                <br>Le code source est sous licence MIT. Les images ont chacune leur licence, indiquée sous l’image.
+            </p>
+            <ul class="liens-pied">
+                <li><a href="https://babash.github.io/Babash-NSI-SNT/">Ressources NSI et SNT</a></li>
+                <li>
+                    <a href="https://github.com/babash/TimelineNSI">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="icone" aria-hidden="true" focusable="false">
+                            <path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z"/>
+                        </svg>
+                        Code source sur GitHub
+                    </a>
+                </li>
+            </ul>
+        </footer>
+    </div>
+
+    <script src="jeu/moteur.js"></script>
+    <script src="jeu/interface.js"></script>
+</body>
+</html>

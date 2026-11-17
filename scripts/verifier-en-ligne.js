@@ -8,6 +8,7 @@
 // 3. Pour chaque bouton « Télécharger » : la carte répond (code 200, PDF) et son texte
 //    contient le titre de l'événement (pdftotext).
 // 4. Le PDF complet compte une page par événement.
+// 5. Le jeu (jeu.html) s’ouvre à 1440 et 320 px sans erreur ni débordement, et une partie démarre.
 
 const fs = require('fs');
 const os = require('os');
@@ -82,6 +83,29 @@ async function checkPage(browser, width, expectedCount) {
     return info.links;
 }
 
+async function checkJeu(browser, width) {
+    const page = await browser.newPage();
+    const jsErrors = [];
+    page.on('pageerror', error => jsErrors.push(error.message));
+    page.on('console', message => { if (message.type() === 'error') jsErrors.push(message.text()); });
+    page.on('requestfailed', request => jsErrors.push(`requête échouée : ${request.url()}`));
+    page.on('response', response => { if (response.status() >= 400) jsErrors.push(`HTTP ${response.status()} : ${response.url()}`); });
+    await page.setViewport({ width, height: 900 });
+    await page.goto(noCache(`${base}jeu.html`), { waitUntil: 'networkidle0', timeout: 60000 });
+    const pret = await page.waitForSelector('#ecran-reglages:not([hidden])', { timeout: 30000 }).then(() => true).catch(() => false);
+    if (!pret) fail(`jeu, ${width} px : l’écran des réglages ne s’affiche pas`);
+    else {
+        await page.click('#form-reglages button[type="submit"]');
+        const emplacements = await page.waitForSelector('.emplacement button', { timeout: 10000 }).then(() => page.$$eval('.emplacement button', b => b.length)).catch(() => 0);
+        if (emplacements !== 2) fail(`jeu, ${width} px : ${emplacements} emplacements au départ, 2 attendus`);
+    }
+    const largeur = await page.evaluate(() => [document.documentElement.scrollWidth, window.innerWidth]);
+    await page.close();
+    console.log(`Jeu, ${width} px : largeur ${largeur[0]}/${largeur[1]} px.`);
+    if (largeur[0] > largeur[1]) fail(`jeu, ${width} px : débordement horizontal de ${largeur[0] - largeur[1]} px`);
+    jsErrors.forEach(message => fail(`jeu, ${width} px : ${message}`));
+}
+
 (async () => {
     await waitForVersion();
 
@@ -96,6 +120,8 @@ async function checkPage(browser, width, expectedCount) {
     try {
         links = await checkPage(browser, 1440, n);
         await checkPage(browser, 320, n);
+        await checkJeu(browser, 1440);
+        await checkJeu(browser, 320);
     } finally {
         await browser.close();
     }

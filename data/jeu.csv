@@ -12,20 +12,20 @@ carte,qui,forme,genre,mots,titre_jeu,image,pas_avec
 14,Alan Turing,personne,h,Turing,Une machine théorique qui définit ce qui est calculable,,
 15,Margaret Hamilton,personne,f,Hamilton,,,71
 16,Edgar F. Codd,personne,h,Codd,,,32;58
-17,L’équipe de John Backus,groupe,h,Backus,,,32;58
+17,L’équipe de John Backus,groupe,,Backus,,,32;58
 18,Grace Hopper,personne,f,Hopper,Le langage COBOL,date,
 19,Grace Hopper,personne,f,Hopper,,,
 20,Dennis Ritchie,personne,h,Ritchie,,,
 21,James Gosling,personne,h,Gosling,,,
 22,Guido van Rossum,personne,h,Rossum,,,
 23,"Ron Rivest, Adi Shamir et Leonard Adleman",groupe,h,Rivest;Shamir;Adleman,,,
-24,Satoshi Nakamoto,personne,h,Nakamoto,,,
+24,Satoshi Nakamoto,personne,,Nakamoto,,,
 25,Joan Daemen et Vincent Rijmen,groupe,h,Daemen;Rijmen,,,
 26,Charles Babbage,personne,h,Babbage,La machine analytique,,13
 32,IBM,organisation,,IBM,,,
 33,Apple,organisation,,Apple,,,
 34,Konrad Zuse,personne,h,Zuse,La machine Z1,,
-35,L’équipe de Tommy Flowers,groupe,h,Flowers,,,14;69;80
+35,L’équipe de Tommy Flowers,groupe,,Flowers,,,14;69;80
 36,"John Bardeen, Walter Brattain et William Shockley",groupe,h,Bardeen;Brattain;Shockley,,,
 37,Jack Kilby,personne,h,Kilby,,,
 38,Douglas Engelbart,personne,h,Engelbart,,,
@@ -37,7 +37,7 @@ carte,qui,forme,genre,mots,titre_jeu,image,pas_avec
 46,Ray Tomlinson,personne,h,Tomlinson,,,61
 47,Bob Metcalfe,personne,h,Metcalfe,,,
 48,Tim Berners-Lee,personne,h,Berners-Lee,,,
-49,L’équipe de Marc Andreessen,groupe,h,Andreessen,,,57
+49,L’équipe de Marc Andreessen,groupe,,Andreessen,,,57
 50,Kevin Ashton,personne,h,Ashton,,date,
 51,Ken Thompson et Dennis Ritchie,groupe,h,Thompson;Ritchie,,date,
 52,Dan Bricklin et Bob Frankston,groupe,h,Bricklin;Frankston,,,
@@ -60,7 +60,7 @@ carte,qui,forme,genre,mots,titre_jeu,image,pas_avec
 71,Katherine Johnson,personne,f,Johnson,Les calculs d’orbite du vol de John Glenn,,
 72,Karen Spärck Jones,personne,f,Spärck,La pondération IDF,date,
 73,Barbara Liskov et Stephen Zilles,groupe,mixte,Liskov;Zilles,Les types abstraits de données,,
-74,Radia Perlman,personne,h,Perlman,Le protocole Spanning Tree,,
+74,Radia Perlman,personne,f,Perlman,Le protocole Spanning Tree,,
 75,Joy Buolamwini et Timnit Gebru,groupe,f,Buolamwini;Gebru,,date,
 77,Edward Snowden,personne,h,Snowden,La révélation d’une surveillance de masse,,
 78,David Gale et Lloyd Shapley,groupe,h,Gale;Shapley,,,

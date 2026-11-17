@@ -39,7 +39,7 @@ Un **schéma original** (source dans `outils/schemas/`) a une colonne `page_comm
 
 ## `jeu.csv`
 
-Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne`, `groupe` pour plusieurs personnes nommées, `organisation` ou `collectif`), `genre` (`f`, `h` ou `mixte` pour une réponse de personnes ; vide pour une organisation ou un peuple), `mots` (les noms qui donnent la réponse, séparés par `;`), `titre_jeu`, `image` et `pas_avec`.
+Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne`, `groupe` pour plusieurs personnes nommées, `organisation` ou `collectif`), `genre` (`f`, `h` ou `mixte` pour une réponse de personnes ; vide pour une organisation, un peuple, une équipe ou un pseudonyme), `mots` (les noms qui donnent la réponse, séparés par `;`), `titre_jeu`, `image` et `pas_avec`.
 
 - La réponse `qui` est toujours **écrite dans le texte de la carte** (description ou note) : le défi fait retenir ce que dit la carte.
 - `titre_jeu` (facultatif) : le titre affiché **pendant le tour seulement**, quand le vrai titre donne le nom (« Hedy Lamarr et le saut de fréquence » devient « Le saut de fréquence »). Il décrit l’événement avec les faits de la carte, sans date ni nom. Le vrai titre apparaît dès la pose.

@@ -150,6 +150,8 @@
             const infos = parJeu.get(num) || {};
             const mots = (infos.mots || '').split(';').map(s => s.trim()).filter(Boolean);
             const qui = (infos.qui || '').trim();
+            // Le titre affiché pendant le tour : le « titre de jeu » s’il existe (il décrit l’événement sans nommer la personne)
+            const titreJeu = (infos.titre_jeu || '').trim() || titre;
             const img = parImage.get(num);
             let image = null;
             if (img) {
@@ -165,18 +167,19 @@
                     hauteur: parseInt(img.hauteur, 10) || 0,
                     alt,
                     // Pendant le tour : pas de texte alternatif qui donne la date ou le nom
-                    altJeu: alt && !trahitLaDate(alt) && !contientUnMot(alt, mots) ? alt : `Illustration de la carte « ${titre} »`,
+                    altJeu: alt && !trahitLaDate(alt) && !contientUnMot(alt, mots) ? alt : `Illustration de la carte « ${titreJeu} »`,
                     // L’image elle-même montre une date : elle n’apparaît qu’après la pose
                     cacheeEnJeu: infos.image === 'date'
                 };
             }
             // Le défi « Qui ? » : seulement si la réponse ne se lit ni dans le titre ni sur l’image
-            const defiQui = Boolean(qui) && infos.image !== 'qui' && !contientUnMot(titre, mots);
+            const defiQui = Boolean(qui) && infos.image !== 'qui' && !contientUnMot(titreJeu, mots);
             // Pendant le tour, l’accroche ne doit donner ni la date ni (pour le défi « Qui ? ») le nom
             const accrocheJeu = trahitLaDate(accroche) ? null : (defiQui ? masquerNoms(accroche, mots) : accroche);
             return {
                 num,
                 titre,
+                titreJeu: defiQui ? titreJeu : titre,
                 annee: parseInt(e.Date, 10),
                 categorie: String(e.Catégorie ?? '').replace(/['`´]/g, '’'),
                 periode: String(e.Période ?? '').replace(/['`´]/g, '’'),
@@ -187,6 +190,7 @@
                 image,
                 qui,
                 forme: infos.forme || '',
+                genre: infos.genre || '',
                 mots,
                 pasAvec: (infos.pas_avec || '').split(';').map(s => parseInt(s, 10)).filter(Number.isFinite),
                 defiQui
@@ -334,8 +338,13 @@
 
     // ---------- Les défis ----------
 
+    function estFeminin(genre) {
+        return genre === 'f' || genre === 'mixte';
+    }
+
     function groupeForme(forme) {
-        return forme === 'organisation' || forme === 'collectif' ? 'groupe' : 'personne';
+        // Une organisation (IBM, Microsoft…) d’un côté ; des personnes, nommées ou non (« Les Spartiates »), de l’autre
+        return forme === 'organisation' ? 'organisation' : 'personnes';
     }
 
     // Quatre réponses pour « Qui ? » : la bonne, et trois autres personnes ou organismes d’autres cartes,
@@ -343,7 +352,7 @@
     function propositionsQui(carte, toutes, hasard) {
         if (!carte || !carte.defiQui) return null;
         const vues = new Set([sansAccents(carte.qui)]);
-        const candidats = [];
+        let candidats = [];
         toutes.forEach(c => {
             if (!c.qui || c.num === carte.num) return;
             const cle = sansAccents(c.qui);
@@ -352,12 +361,17 @@
             // Aucune personne en commun avec la bonne réponse (« Claude Shannon » et « … et Claude Shannon »)
             if (contientUnMot(c.qui, carte.mots) || contientUnMot(carte.qui, c.mots)) return;
             vues.add(cle);
-            let ecart = Math.abs(c.annee - carte.annee);
-            if (carte.annee >= 1800) ecart = Math.min(ecart, 300); else ecart = Math.min(ecart / 10, 300);
+            let ecart = Math.min(Math.abs(c.annee - carte.annee), 300);
             if (c.categorie === carte.categorie) ecart -= 25;
             if (groupeForme(c.forme) !== groupeForme(carte.forme)) ecart += 40;
-            candidats.push({ qui: c.qui, ecart });
+            candidats.push({ qui: c.qui, ecart, genre: c.genre });
         });
+        // L’accroche dit souvent « une mathématicienne », « une informaticienne » : pour une réponse de femme
+        // (ou mixte), les autres propositions sont aussi des femmes ou mixtes, sinon le genre suffirait à répondre.
+        if (estFeminin(carte.genre)) {
+            const feminins = candidats.filter(c => estFeminin(c.genre));
+            if (feminins.length >= 3) candidats = feminins;
+        }
         if (candidats.length < 3) return null;
         candidats.sort((a, b) => a.ecart - b.ecart);
         const proches = candidats.slice(0, 7);

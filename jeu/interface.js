@@ -337,14 +337,14 @@
         if (t.resultat || j.main.length < 2) { zone.innerHTML = ''; return; }
         zone.innerHTML = `<p class="titre-main" id="titre-main">Main (${j.main.length})</p>` + j.main.map(num => {
             const c = parNum.get(num);
-            return `<button type="button" class="carte-main" data-num="${num}" aria-pressed="${num === t.carte}"${t.verrou && num !== t.carte ? ' disabled' : ''}>${esc(c.titre)}</button>`;
+            return `<button type="button" class="carte-main" data-num="${num}" aria-pressed="${num === t.carte}"${t.verrou && num !== t.carte ? ' disabled' : ''}>${esc(c.titreJeu)}</button>`;
         }).join('');
         zone.querySelectorAll('.carte-main').forEach(b => b.addEventListener('click', () => {
             M.choisirCarte(partie, parseInt(b.dataset.num, 10));
             emplacement = null;
             sauver();
             dessinerTour(false);
-            annoncer(`Carte choisie : ${parNum.get(partie.tour.carte).titre}.`);
+            annoncer(`Carte choisie : ${parNum.get(partie.tour.carte).titreJeu}.`);
             const bouton = $('main').querySelector(`[data-num="${partie.tour.carte}"]`);
             if (bouton) bouton.focus();
         }));
@@ -368,7 +368,7 @@
             <div class="carte-corps">
                 <p class="visually-hidden">Carte à placer :</p>
                 ${image}
-                <h3 id="titre-carte">${esc(c.titre)}</h3>
+                <h3 id="titre-carte">${esc(c.titreJeu)}</h3>
                 ${c.accrocheJeu ? `<p class="accroche">${esc(c.accrocheJeu)}</p>` : ''}
                 <p class="etiquettes"><span class="etiquette-carte">${esc(c.categorie)}</span>${partie.reglages.difficulte === 'facile' && c.periode ? `<span class="etiquette-carte">Période : ${esc(c.periode)}</span>` : ''}</p>
                 ${t.indice ? `<p class="indice">Indice : ${esc(t.indice)}</p>` : ''}
@@ -404,7 +404,7 @@
             const c = parNum.get(partie.tour.carte);
             if (type === 'indice') annoncer(`Indice : ${partie.tour.indice}.`);
             if (type === 'filet') annoncer('Filet en place : une erreur ne fera pas piocher.');
-            if (type === 'echange') annoncer(`Nouvelle carte : ${c.titre}.`);
+            if (type === 'echange') annoncer(`Nouvelle carte : ${c.titreJeu}.`);
             $('titre-carte')?.setAttribute('tabindex', '-1');
             $('titre-carte')?.focus();
         }));
@@ -502,7 +502,7 @@
         sauver();
         const marge = r.marge ? ` (à ${r.marge}${NBSP}an${r.marge > 1 ? 's' : ''} près)` : ' (sans marge)';
         panneau.innerHTML = `
-            <h3 id="titre-panneau" tabindex="-1">Placer « ${esc(c.titre)} » ${esc(decrireEmplacement(emplacement))} ?</h3>
+            <h3 id="titre-panneau" tabindex="-1">Placer « ${esc(c.titreJeu)} » ${esc(decrireEmplacement(emplacement))} ?</h3>
             <form id="form-pose" novalidate>
                 <fieldset class="defis">
                     <legend>Défi bonus, facultatif : carte bien placée + défi réussi = 1 joker</legend>
@@ -774,7 +774,7 @@
                 depart.actif = true;
                 fantome = document.createElement('div');
                 fantome.className = 'fantome';
-                fantome.textContent = parNum.get(partie.tour.carte).titre;
+                fantome.textContent = parNum.get(partie.tour.carte).titreJeu;
                 document.body.appendChild(fantome);
             }
             e.preventDefault();

@@ -39,13 +39,14 @@ Un **schéma original** (source dans `outils/schemas/`) a une colonne `page_comm
 
 ## `jeu.csv`
 
-Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne`, `groupe` pour plusieurs personnes nommées, `organisation` ou `collectif`), `mots` (les noms qui donnent la réponse, séparés par `;`), `image` et `pas_avec`.
+Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne`, `groupe` pour plusieurs personnes nommées, `organisation` ou `collectif`), `genre` (`f`, `h` ou `mixte` pour une réponse de personnes ; vide pour une organisation ou un peuple), `mots` (les noms qui donnent la réponse, séparés par `;`), `titre_jeu`, `image` et `pas_avec`.
 
 - La réponse `qui` est toujours **écrite dans le texte de la carte** (description ou note) : le défi fait retenir ce que dit la carte.
-- Le défi n’est proposé que si aucun des `mots` n’est dans le titre, et si l’image ne montre pas la réponse (`image` = `qui`). Pendant le tour, ces noms sont masqués (« … ») dans l’accroche. Une carte dont le titre donne la réponse garde sa ligne : sa réponse sert de proposition pour les autres cartes.
+- `titre_jeu` (facultatif) : le titre affiché **pendant le tour seulement**, quand le vrai titre donne le nom (« Hedy Lamarr et le saut de fréquence » devient « Le saut de fréquence »). Il décrit l’événement avec les faits de la carte, sans date ni nom. Le vrai titre apparaît dès la pose.
+- Le défi n’est proposé que si aucun des `mots` n’est dans le titre affiché pendant le tour, et si l’image ne montre pas la réponse (`image` = `qui`). Pendant le tour, ces noms sont masqués (« … ») dans l’accroche. Une carte dont le titre donne la réponse, sans titre de jeu, garde sa ligne : sa réponse sert de proposition pour les autres cartes.
 - `image` = `date` : l’image montre une date (ou un nombre qui ressemble à une année) ; pendant le tour, elle est remplacée par « L’image montre une date : elle apparaîtra après la pose ».
 - `pas_avec` : les cartes (numéros séparés par `;`) dont la réponse ne doit pas être proposée, parce qu’elle serait discutable (par exemple, IBM pour le FORTRAN de l’équipe de John Backus, chez IBM).
-- Les propositions sont tirées des cartes les plus proches (même catégorie, même époque, même forme), sans personne en commun avec la bonne réponse.
+- Les propositions sont tirées des cartes les plus proches (même catégorie, même époque ; des personnes pour une personne, des organisations pour une organisation), sans personne en commun avec la bonne réponse. Pour une réponse de femme (ou mixte), les autres propositions sont aussi des femmes ou mixtes : l’accroche dit souvent « une mathématicienne », « une informaticienne », et le genre ne doit pas suffire à répondre.
 
 Le jeu vérifie aussi les textes : une accroche qui contient une année, un siècle ou une époque (« années 1980 », « Seconde Guerre mondiale », « antique ») n’est pas affichée pendant le tour, et un texte alternatif d’image qui donne la date est remplacé.
 

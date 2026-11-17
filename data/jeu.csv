@@ -1,72 +1,72 @@
-carte,qui,forme,mots,image,pas_avec
-2,Les Spartiates,collectif,Spartiate,,
-4,Jules César,personne,César,,
-6,Al-Khwarizmi,personne,Khwarizmi,,
-7,Al-Kindi,personne,Kindi,,
-8,Blaise Pascal,personne,Pascal,,
-9,Gottfried Wilhelm Leibniz,personne,Leibniz,,
-10,Joseph Marie Jacquard,personne,Jacquard,,
-11,Euclide,personne,Euclide,,
-12,George Boole,personne,Boole,date,
-13,Ada Lovelace,personne,Lovelace,,
-14,Alan Turing,personne,Turing,,
-15,Margaret Hamilton,personne,Hamilton,,71
-16,Edgar F. Codd,personne,Codd,,32;58
-17,L’équipe de John Backus,groupe,Backus,,32;58
-18,Grace Hopper,personne,Hopper,date,
-19,Grace Hopper,personne,Hopper,,
-20,Dennis Ritchie,personne,Ritchie,,
-21,James Gosling,personne,Gosling,,
-22,Guido van Rossum,personne,Rossum,,
-23,"Ron Rivest, Adi Shamir et Leonard Adleman",groupe,Rivest;Shamir;Adleman,,
-24,Satoshi Nakamoto,personne,Nakamoto,,
-25,Joan Daemen et Vincent Rijmen,groupe,Daemen;Rijmen,,
-26,Charles Babbage,personne,Babbage,,
-32,IBM,organisation,IBM,,
-33,Apple,organisation,Apple,,
-34,Konrad Zuse,personne,Zuse,,
-35,L’équipe de Tommy Flowers,groupe,Flowers,,14;69;80
-36,"John Bardeen, Walter Brattain et William Shockley",groupe,Bardeen;Brattain;Shockley,,
-37,Jack Kilby,personne,Kilby,,
-38,Douglas Engelbart,personne,Engelbart,,
-39,Gordon Moore,personne,Moore,date,
-40,Atari,organisation,Atari,,
-41,Sony et Philips,organisation,Sony;Philips,,
-44,Claude Shannon,personne,Shannon,,
-45,L’ARPA,organisation,ARPA,date,
-46,Ray Tomlinson,personne,Tomlinson,,61
-47,Bob Metcalfe,personne,Metcalfe,,
-48,Tim Berners-Lee,personne,Berners-Lee,,
-49,L’équipe de Marc Andreessen,groupe,Andreessen,,57
-50,Kevin Ashton,personne,Ashton,date,
-51,Ken Thompson et Dennis Ritchie,groupe,Thompson;Ritchie,date,
-52,Dan Bricklin et Bob Frankston,groupe,Bricklin;Frankston,,
-53,Microsoft,organisation,Microsoft,date,
-54,Richard Stallman,personne,Stallman,,55
-55,Linus Torvalds,personne,Torvalds;Linus,,54
-56,Microsoft,organisation,Microsoft,date,
-57,La fondation Mozilla,organisation,Mozilla,qui,49
-58,IBM,organisation,IBM,qui,
-59,DeepMind,organisation,DeepMind,,82
-60,OpenAI,organisation,OpenAI,,82
-61,Bob Thomas,personne,Thomas,,46
-63,,,,date,
-64,Larry Page et Sergey Brin,groupe,Page;Brin,,82
-65,,,,date,
-66,Mark Zuckerberg et des camarades d’université,groupe,Zuckerberg,date,
-68,Hedy Lamarr et George Antheil,groupe,Lamarr;Antheil,date,
-69,Joan Clarke,personne,Clarke,,
-70,Les six programmeuses de l’ENIAC,collectif,programmeuses,,
-71,Katherine Johnson,personne,Johnson,,
-72,Karen Spärck Jones,personne,Spärck,date,
-73,Barbara Liskov et Stephen Zilles,groupe,Liskov;Zilles,,
-74,Radia Perlman,personne,Perlman,,
-75,Joy Buolamwini et Timnit Gebru,groupe,Buolamwini;Gebru,date,
-77,Edward Snowden,personne,Snowden,,
-78,David Gale et Lloyd Shapley,groupe,Gale;Shapley,,
-80,Alan Turing,personne,Turing,,
-81,"John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon",groupe,McCarthy;Minsky;Rochester;Shannon,date,
-82,Huit scientifiques de Google,collectif,Google,,59;60;64
-83,Vinton Cerf et Robert Kahn,groupe,Cerf;Kahn,,45
-84,Whitfield Diffie et Martin Hellman,groupe,Diffie;Hellman,,
-85,Edsger Dijkstra,personne,Dijkstra,,
+carte,qui,forme,genre,mots,titre_jeu,image,pas_avec
+2,Les Spartiates,collectif,,Spartiate,La scytale,,
+4,Jules César,personne,h,César,Le chiffrement par décalage,,
+6,Al-Khwarizmi,personne,h,Khwarizmi,,,
+7,Al-Kindi,personne,h,Kindi,L’analyse des fréquences,,
+8,Blaise Pascal,personne,h,Pascal,Une des premières machines à calculer mécaniques,,
+9,Gottfried Wilhelm Leibniz,personne,h,Leibniz,Une machine à calculer à tambour denté,,
+10,Joseph Marie Jacquard,personne,h,Jacquard,Le métier à tisser à cartes perforées,,
+11,Euclide,personne,h,Euclide,Un algorithme pour calculer le PGCD,,
+12,George Boole,personne,h,Boole,L’algèbre du vrai et du faux,date,
+13,Ada Lovelace,personne,f,Lovelace,Un programme pour la machine analytique,,26
+14,Alan Turing,personne,h,Turing,Une machine théorique qui définit ce qui est calculable,,
+15,Margaret Hamilton,personne,f,Hamilton,,,71
+16,Edgar F. Codd,personne,h,Codd,,,32;58
+17,L’équipe de John Backus,groupe,h,Backus,,,32;58
+18,Grace Hopper,personne,f,Hopper,Le langage COBOL,date,
+19,Grace Hopper,personne,f,Hopper,,,
+20,Dennis Ritchie,personne,h,Ritchie,,,
+21,James Gosling,personne,h,Gosling,,,
+22,Guido van Rossum,personne,h,Rossum,,,
+23,"Ron Rivest, Adi Shamir et Leonard Adleman",groupe,h,Rivest;Shamir;Adleman,,,
+24,Satoshi Nakamoto,personne,h,Nakamoto,,,
+25,Joan Daemen et Vincent Rijmen,groupe,h,Daemen;Rijmen,,,
+26,Charles Babbage,personne,h,Babbage,La machine analytique,,13
+32,IBM,organisation,,IBM,,,
+33,Apple,organisation,,Apple,,,
+34,Konrad Zuse,personne,h,Zuse,La machine Z1,,
+35,L’équipe de Tommy Flowers,groupe,h,Flowers,,,14;69;80
+36,"John Bardeen, Walter Brattain et William Shockley",groupe,h,Bardeen;Brattain;Shockley,,,
+37,Jack Kilby,personne,h,Kilby,,,
+38,Douglas Engelbart,personne,h,Engelbart,,,
+39,Gordon Moore,personne,h,Moore,Le doublement des transistors sur une puce,date,
+40,Atari,organisation,,Atari,,,
+41,Sony et Philips,organisation,,Sony;Philips,,,
+44,Claude Shannon,personne,h,Shannon,,,
+45,L’ARPA,organisation,,ARPA,,date,
+46,Ray Tomlinson,personne,h,Tomlinson,,,61
+47,Bob Metcalfe,personne,h,Metcalfe,,,
+48,Tim Berners-Lee,personne,h,Berners-Lee,,,
+49,L’équipe de Marc Andreessen,groupe,h,Andreessen,,,57
+50,Kevin Ashton,personne,h,Ashton,,date,
+51,Ken Thompson et Dennis Ritchie,groupe,h,Thompson;Ritchie,,date,
+52,Dan Bricklin et Bob Frankston,groupe,h,Bricklin;Frankston,,,
+53,Microsoft,organisation,,Microsoft,,date,
+54,Richard Stallman,personne,h,Stallman,,,55
+55,Linus Torvalds,personne,h,Torvalds;Linus,,,54
+56,Microsoft,organisation,,Microsoft,,date,
+57,La fondation Mozilla,organisation,,Mozilla,,qui,49
+58,IBM,organisation,,IBM,,qui,
+59,DeepMind,organisation,,DeepMind,,,82
+60,OpenAI,organisation,,OpenAI,,,82
+61,Bob Thomas,personne,h,Thomas,,,46
+63,,,,,,date,
+64,Larry Page et Sergey Brin,groupe,h,Page;Brin,,,82
+65,,,,,,date,
+66,Mark Zuckerberg et des camarades d’université,groupe,h,Zuckerberg,,date,
+68,Hedy Lamarr et George Antheil,groupe,mixte,Lamarr;Antheil,Le saut de fréquence,date,
+69,Joan Clarke,personne,f,Clarke,La cryptanalyse à Bletchley Park,,14;35;80
+70,"Kathleen McNulty, Jean Jennings, Betty Snyder et leurs collègues",collectif,f,McNulty;Jennings;Snyder,Programmer l’ENIAC,,
+71,Katherine Johnson,personne,f,Johnson,Les calculs d’orbite du vol de John Glenn,,
+72,Karen Spärck Jones,personne,f,Spärck,La pondération IDF,date,
+73,Barbara Liskov et Stephen Zilles,groupe,mixte,Liskov;Zilles,Les types abstraits de données,,
+74,Radia Perlman,personne,h,Perlman,Le protocole Spanning Tree,,
+75,Joy Buolamwini et Timnit Gebru,groupe,f,Buolamwini;Gebru,,date,
+77,Edward Snowden,personne,h,Snowden,La révélation d’une surveillance de masse,,
+78,David Gale et Lloyd Shapley,groupe,h,Gale;Shapley,,,
+80,Alan Turing,personne,h,Turing,Une machine peut-elle passer pour un humain ?,,
+81,"John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon",groupe,h,McCarthy;Minsky;Rochester;Shannon,,date,
+82,Huit scientifiques de Google,collectif,,Google,,,59;60;64
+83,Vinton Cerf et Robert Kahn,groupe,h,Cerf;Kahn,,,45
+84,Whitfield Diffie et Martin Hellman,groupe,h,Diffie;Hellman,Se mettre d’accord sur une clé secrète en public,,
+85,Edsger Dijkstra,personne,h,Dijkstra,L’algorithme du plus court chemin,,

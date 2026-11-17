@@ -82,16 +82,29 @@ test('preparerCartes : les données réelles de la frise, sans indice de date pe
         if (c.accrocheJeu) assert.ok(!M.trahitLaDate(c.accrocheJeu), `accroche de la carte ${c.num}`);
         if (c.image && c.image.altJeu === c.image.alt) assert.ok(!M.trahitLaDate(c.image.altJeu), `texte alternatif de la carte ${c.num}`);
         if (c.defiQui) {
-            // La réponse n’apparaît ni dans le titre ni dans l’accroche affichée
-            assert.ok(!c.mots.some(m => M.sansAccents(c.titre).includes(M.sansAccents(m))), `titre de la carte ${c.num}`);
+            // La réponse n’apparaît ni dans le titre affiché pendant le tour ni dans l’accroche affichée
+            assert.ok(!c.mots.some(m => M.sansAccents(c.titreJeu).includes(M.sansAccents(m))), `titre de la carte ${c.num}`);
+            assert.ok(!M.trahitLaDate(c.titreJeu), `titre de jeu de la carte ${c.num}`);
+            // La réponse est écrite dans le texte de la carte (description ou note)
+            const e = evenements[c.num - 1];
+            const texte = M.sansAccents(`${e.Titre} ${e['Description courte']} ${e.Description} ${e.Note}`);
+            assert.ok(c.mots.every(m => texte.includes(M.sansAccents(m))), `réponse de la carte ${c.num} absente du texte`);
             if (c.accrocheJeu) assert.ok(!c.mots.some(m => M.sansAccents(c.accrocheJeu).includes(M.sansAccents(m))), `accroche de la carte ${c.num}`);
             if (c.image) assert.ok(!c.mots.some(m => M.sansAccents(c.image.altJeu).includes(M.sansAccents(m))), `image de la carte ${c.num}`);
             assert.equal(M.propositionsQui(c, cartes, Math.random).length, 4, `propositions de la carte ${c.num}`);
         }
     });
-    // Les cartes dont le titre donne la réponse n’ont pas de défi « Qui ? »
-    assert.equal(cartes.find(c => c.titre.startsWith('Machine de Turing')).defiQui, false);
-    assert.ok(cartes.filter(c => c.defiQui).length >= 30);
+    // Un titre de jeu ouvre le défi aux cartes dont le titre donne le nom (13 : Ada Lovelace)
+    const ada = cartes.find(c => c.num === 13);
+    assert.equal(ada.defiQui, true);
+    assert.ok(!/Lovelace/.test(ada.titreJeu));
+    assert.equal(ada.titre, 'Algorithme d’Ada Lovelace', 'le vrai titre reste celui de la carte');
+    // Sans titre de jeu, une carte dont le titre donne la réponse n’a pas de défi (32 : IBM PC)
+    assert.equal(cartes.find(c => c.num === 32).defiQui, false);
+    assert.equal(cartes.find(c => c.num === 32).titreJeu, cartes.find(c => c.num === 32).titre);
+    const defis = cartes.filter(c => c.defiQui);
+    assert.ok(defis.length >= 60);
+    assert.ok(defis.filter(c => c.genre === 'f' || c.genre === 'mixte').length >= 10, 'des réponses de femmes');
 });
 
 // ---------- Mise en place ----------
@@ -302,6 +315,22 @@ test('défi « Qui ? » : quatre réponses, la bonne parmi elles, jamais la mêm
         assert.ok(!options.includes('L’équipe de John Backus'), 'exclusion pas_avec');
     }
     assert.equal(M.propositionsQui(cartes[2], cartes, Math.random), null, 'pas de défi pour cette carte');
+});
+
+test('défi « Qui ? » : pour une réponse de femme, les autres propositions sont aussi des femmes ou mixtes', () => {
+    const cartes = [
+        carte(1, 1962, { qui: 'Katherine Johnson', mots: ['Johnson'], forme: 'personne', genre: 'f', defiQui: true }),
+        carte(2, 1952, { qui: 'Grace Hopper', mots: ['Hopper'], forme: 'personne', genre: 'f' }),
+        carte(3, 1972, { qui: 'Karen Spärck Jones', mots: ['Spärck'], forme: 'personne', genre: 'f' }),
+        carte(4, 1974, { qui: 'Barbara Liskov et Stephen Zilles', mots: ['Liskov'], forme: 'groupe', genre: 'mixte' }),
+        carte(5, 1960, { qui: 'Alan Turing', mots: ['Turing'], forme: 'personne', genre: 'h' }),
+        carte(6, 1961, { qui: 'Claude Shannon', mots: ['Shannon'], forme: 'personne', genre: 'h' }),
+        carte(7, 1963, { qui: 'Douglas Engelbart', mots: ['Engelbart'], forme: 'personne', genre: 'h' })
+    ];
+    for (let k = 0; k < 30; k++) {
+        const options = M.propositionsQui(cartes[0], cartes, Math.random);
+        assert.ok(!options.some(o => ['Alan Turing', 'Claude Shannon', 'Douglas Engelbart'].includes(o)), options.join(' | '));
+    }
 });
 
 test('défi « Qui ? » dans une partie : les propositions sont gardées pour le tour', () => {

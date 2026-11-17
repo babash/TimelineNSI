@@ -37,6 +37,18 @@ La taille des images n’est pas à saisir : à l’assemblage du site, `scripts
 
 Un **schéma original** (source dans `outils/schemas/`) a une colonne `page_commons` vide : son crédit devient « Schéma : auteur, licence ». Si l’auteur d’une image de Commons n’est pas nommé, on écrit ce que donne Commons : « Auteur inconnu » ou « Photographe inconnu ».
 
+## `jeu.csv`
+
+Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne`, `groupe` pour plusieurs personnes nommées, `organisation` ou `collectif`), `mots` (les noms qui donnent la réponse, séparés par `;`), `image` et `pas_avec`.
+
+- La réponse `qui` est toujours **écrite dans le texte de la carte** (description ou note) : le défi fait retenir ce que dit la carte.
+- Le défi n’est proposé que si aucun des `mots` n’est dans le titre, et si l’image ne montre pas la réponse (`image` = `qui`). Pendant le tour, ces noms sont masqués (« … ») dans l’accroche. Une carte dont le titre donne la réponse garde sa ligne : sa réponse sert de proposition pour les autres cartes.
+- `image` = `date` : l’image montre une date (ou un nombre qui ressemble à une année) ; pendant le tour, elle est remplacée par « L’image montre une date : elle apparaîtra après la pose ».
+- `pas_avec` : les cartes (numéros séparés par `;`) dont la réponse ne doit pas être proposée, parce qu’elle serait discutable (par exemple, IBM pour le FORTRAN de l’équipe de John Backus, chez IBM).
+- Les propositions sont tirées des cartes les plus proches (même catégorie, même époque, même forme), sans personne en commun avec la bonne réponse.
+
+Le jeu vérifie aussi les textes : une accroche qui contient une année, un siècle ou une époque (« années 1980 », « Seconde Guerre mondiale », « antique ») n’est pas affichée pendant le tour, et un texte alternatif d’image qui donne la date est remplacé.
+
 ## `Note Type.csv`
 
 La liste des types de note (pour mémoire : le générateur ne le lit pas).

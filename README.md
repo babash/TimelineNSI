@@ -1,6 +1,6 @@
 # 🕰️ Timeline de l’histoire de l’informatique
 
-**L’histoire de l’informatique, de l’Antiquité à nos jours : une frise à explorer à l’écran, et une carte A5 par événement pour construire une fresque.** Pour la 1re et la terminale NSI, et la seconde, en SNT.
+**L’histoire de l’informatique, de l’Antiquité à nos jours : une frise à explorer à l’écran, une carte A5 par événement pour construire une fresque, et un jeu pour placer les événements sur la frise.** Pour la 1re et la terminale NSI, et la seconde, en SNT.
 
 > Les élèves explorent la frise : ils et elles cherchent un événement, filtrent par catégorie ou par période, et agrandissent les images, toutes libres et créditées. Puis la classe construit une fresque avec les cartes imprimées. Chaque carte situe son événement sur une mini-frise de sa période, raconte ce qui s’est passé et ajoute une note : une anecdote, un chiffre, une personne marquante ou une notion clé.
 
@@ -17,6 +17,19 @@ La Timeline de l’histoire de l’informatique fait partie des [Ressources NSI 
 1. **Tu** prépares les cartes : sur [la frise](https://babash.github.io/TimelineNSI/), filtre par catégorie, par période ou par plage de dates, puis télécharge la carte de chaque événement retenu (bouton **Télécharger**), ou toutes les cartes avec **Télécharger le PDF complet**. Chaque carte s’imprime sur une page A5.
 2. **Les élèves** lisent leurs cartes : le titre et la date, la mini-frise qui situe l’événement dans sa période, le récit, la note et l’image avec son crédit.
 3. **La classe construit la fresque** : les cartes rangées par date, au mur ou sur les tables. La frise en ligne, projetée, permet ensuite de vérifier l’ordre et de compléter.
+
+## Le jeu : placer les cartes sur la frise
+
+L’onglet **[Jeu](https://babash.github.io/TimelineNSI/jeu.html)** reprend les cartes de la frise : il faut placer chaque événement au bon endroit, **sans voir sa date**.
+
+- **Sur un seul ordinateur, à tour de rôle** : de 1 à 6 joueur·ses ou équipes, avec un prénom, un pseudo ou un nom d’équipe. Aucun compte, rien n’est envoyé ; la partie en cours est gardée dans le navigateur (elle survit à un rechargement de la page).
+- **Les règles en une minute** : une carte est posée sur la frise, avec sa date. À son tour, on choisit une carte de sa main (titre et image, sans date) et on la place : en la faisant glisser, ou avec le bouton **Placer ici**. Bien placée, elle reste et sa date apparaît ; mal placée, elle va à sa vraie place et on pioche une carte. La première personne sans carte gagne ; la manche se termine pour tout le monde (à égalité, le moins d’erreurs l’emporte). Deux événements de la même année : les deux ordres sont justes.
+- **Après chaque pose** : la date, une phrase « À retenir » et le lien vers la carte complète. **En fin de partie** : la frise de la partie, avec images et crédits, et les cartes à revoir.
+- **Défis bonus, facultatifs** : l’année exacte, ou « Qui est à l’origine de cet événement ? » (4 réponses au choix, quand la carte le permet). Carte bien placée et défi réussi : un **joker** (2 en main au plus, 1 par tour) : **Indice** (la décennie de la carte), **Filet** (une erreur ne fait pas piocher) ou **Échange** (changer de carte). En option, **défis risqués** : un défi raté fait piocher une carte.
+- **Réglages** : le nombre de cartes en main (4 par défaut), les catégories, la durée visée (la manche en cours se termine, puis la partie) et la difficulté : **facile** (dates éloignées, période donnée, année à 5 ou 1 an près), **normal**, **expert** (des cartes proches dans le temps, une frise serrée).
+- **En solo** : **Série** (le plus de cartes d’affilée ; score = cartes bien placées + défis réussis) ou **Main** (vider sa main avec le moins d’erreurs). Le meilleur score est gardé sur l’appareil.
+
+**En classe, sur un seul PC** : le jeu projeté au tableau, chaque îlot est une équipe (jusqu’à 6) ; un·e élève de l’îlot vient au clavier, l’îlot discute de la place avant de valider. La durée visée (de 10 à 40 minutes) arrête la partie à la fin d’une manche : elle tient dans une séance. Tout se joue à la souris, au clavier seul (Tab, Entrée, flèches) ou au doigt, sur ordinateur comme sur téléphone, en clair ou en obscur.
 
 ## Ce que font les élèves
 
@@ -48,7 +61,8 @@ Les catégories : algorithmique, cryptographie, hardware, théorie de l’inform
 | **Sur papier** | Une carte A5 par événement, ou le PDF complet, une carte par page. Les fonds pâles économisent l’encre, et les schémas restent lisibles imprimés en noir et blanc. |
 | **En équipes** | Les filtres découpent la frise : une catégorie ou une période par équipe. |
 | **Sur téléphone** | La frise s’affiche dès 320 px de large ; **Agrandir** ouvre une image en taille réelle, pour lire un schéma. |
-| **Pour s’entraîner seul·e** | La recherche retrouve un événement, et chaque carte donne sa source pour aller plus loin. |
+| **Pour s’entraîner seul·e** | La recherche retrouve un événement, et chaque carte donne sa source pour aller plus loin. Le jeu en solo (série ou main) garde le meilleur score. |
+| **En jeu, au tableau** | L’onglet Jeu, projeté : chaque îlot est une équipe, sur un seul ordinateur. |
 
 ## Pourquoi ça marche
 
@@ -72,7 +86,7 @@ Une question, une idée, un bug ? Les [issues GitHub](https://github.com/babash/
 
 ## Licence
 
-- **Le code** (le site `index.html` et `404.html`, le générateur `generate-cards.js` et `src/`, les feuilles de style de `styles/`, les scripts de `scripts/` et d’`outils/`, les workflows de `.github/`) est sous licence [MIT](LICENSE).
+- **Le code** (le site `index.html`, `jeu.html` et `404.html`, le jeu `jeu/`, les tests `tests/`, le générateur `generate-cards.js` et `src/`, les feuilles de style de `styles/`, les scripts de `scripts/` et d’`outils/`, les workflows de `.github/`) est sous licence [MIT](LICENSE).
 - **Les documents** (les textes des événements de `data/`, les cartes et la frise : « Timeline – Histoire de l’informatique ») sont sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr).
 - **Les schémas originaux** (cartes 72, 73, 75, 76, 78, 81, 82 et 84) : Babash - NSI Tani Malandi, sous licence [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.fr) ; sources SVG dans `outils/schemas/`.
 - **Les images** : des images libres de Wikimedia Commons. Chacune a sa propre licence (domaine public, CC0, CC BY ou CC BY-SA), indiquée sur la carte, sur le site et dans `data/images.csv`.

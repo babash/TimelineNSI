@@ -91,6 +91,8 @@ test('preparerCartes : les données réelles de la frise, sans indice de date pe
             assert.ok(c.mots.every(m => texte.includes(M.sansAccents(m))), `réponse de la carte ${c.num} absente du texte`);
             if (c.accrocheJeu) assert.ok(!c.mots.some(m => M.sansAccents(c.accrocheJeu).includes(M.sansAccents(m))), `accroche de la carte ${c.num}`);
             if (c.image) assert.ok(!c.mots.some(m => M.sansAccents(c.image.altJeu).includes(M.sansAccents(m))), `image de la carte ${c.num}`);
+            // L’accroche affichée ne dit plus le genre ni le nombre des personnes à trouver
+            assert.deepEqual(M.marquesAccroche(`${c.titreJeu} ${c.accrocheJeu || ''}`), { genre: null, nombre: null }, `accroche de la carte ${c.num}`);
             assert.equal(M.propositionsQui(c, cartes, Math.random).length, 4, `propositions de la carte ${c.num}`);
         }
     });
@@ -317,20 +319,66 @@ test('défi « Qui ? » : quatre réponses, la bonne parmi elles, jamais la mêm
     assert.equal(M.propositionsQui(cartes[2], cartes, Math.random), null, 'pas de défi pour cette carte');
 });
 
-test('défi « Qui ? » : pour une réponse de femme, les autres propositions sont aussi des femmes ou mixtes', () => {
+test('marquesAccroche : le genre et le nombre que dit la grammaire', () => {
+    assert.deepEqual(M.marquesAccroche('Une mathématicienne de la NASA vérifie à la main les calculs.'), { genre: 'f', nombre: 1 });
+    assert.deepEqual(M.marquesAccroche('Le philosophe … a introduit l’analyse des fréquences.'), { genre: 'h', nombre: 1 });
+    assert.deepEqual(M.marquesAccroche('Deux chercheurs montrent comment faire.'), { genre: 'h', nombre: 2 });
+    assert.deepEqual(M.marquesAccroche('Six mathématiciennes programment l’ENIAC.'), { genre: 'f', nombre: 3 });
+    assert.deepEqual(M.marquesAccroche('Une actrice et un compositeur brevètent une technique.'), { genre: 'mixte', nombre: 2 });
+    assert.equal(M.marquesAccroche('… est une pionnière qui a inventé le premier compilateur.').genre, 'f');
+    assert.deepEqual(M.marquesAccroche('Un protocole qui évite les boucles dans les réseaux.'), { genre: null, nombre: null });
+    assert.deepEqual(M.marquesAccroche('Les premiers programmes de l’ENIAC.'), { genre: null, nombre: null });
+});
+
+test('défi « Qui ? » : propositions de même forme, et de même genre si l’accroche affichée le dit', () => {
+    const p = (num, qui, forme, genre, extra = {}) => carte(num, 1960 + num, Object.assign({ qui, mots: [qui.split(' ').pop()], forme, genre }, extra));
     const cartes = [
-        carte(1, 1962, { qui: 'Katherine Johnson', mots: ['Johnson'], forme: 'personne', genre: 'f', defiQui: true }),
-        carte(2, 1952, { qui: 'Grace Hopper', mots: ['Hopper'], forme: 'personne', genre: 'f' }),
-        carte(3, 1972, { qui: 'Karen Spärck Jones', mots: ['Spärck'], forme: 'personne', genre: 'f' }),
-        carte(4, 1974, { qui: 'Barbara Liskov et Stephen Zilles', mots: ['Liskov'], forme: 'groupe', genre: 'mixte' }),
-        carte(5, 1960, { qui: 'Alan Turing', mots: ['Turing'], forme: 'personne', genre: 'h' }),
-        carte(6, 1961, { qui: 'Claude Shannon', mots: ['Shannon'], forme: 'personne', genre: 'h' }),
-        carte(7, 1963, { qui: 'Douglas Engelbart', mots: ['Engelbart'], forme: 'personne', genre: 'h' })
+        p(1, 'Katherine Johnson', 'personne', 'f', { defiQui: true, titreJeu: 'Des calculs', accrocheJeu: 'Une mathématicienne vérifie des calculs.' }),
+        p(2, 'Grace Hopper', 'personne', 'f'),
+        p(3, 'Karen Jones', 'personne', 'f'),
+        p(4, 'Radia Perlman', 'personne', 'f'),
+        p(5, 'Alan Turing', 'personne', 'h'),
+        p(6, 'Claude Shannon', 'personne', 'h'),
+        p(7, 'Gale et Shapley', 'duo', 'h'),
+        p(8, 'Une équipe', 'groupe', '')
     ];
-    for (let k = 0; k < 30; k++) {
+    for (let k = 0; k < 50; k++) {
         const options = M.propositionsQui(cartes[0], cartes, Math.random);
-        assert.ok(!options.some(o => ['Alan Turing', 'Claude Shannon', 'Douglas Engelbart'].includes(o)), options.join(' | '));
+        assert.deepEqual(options.slice().sort(), ['Grace Hopper', 'Karen Jones', 'Katherine Johnson', 'Radia Perlman']);
     }
+    // Accroche neutre : le genre ne compte plus, la forme toujours
+    cartes[0].accrocheJeu = 'Des calculs d’orbite sont vérifiés à la main.';
+    const vus = new Set();
+    for (let k = 0; k < 200; k++) M.propositionsQui(cartes[0], cartes, Math.random).forEach(o => vus.add(o));
+    assert.ok(vus.has('Alan Turing') && !vus.has('Gale et Shapley') && !vus.has('Une équipe'));
+    // Pas assez de propositions de la même forme : pas de défi plutôt qu’un défi évident
+    const duo = [p(1, 'Gale et Shapley', 'duo', 'h', { defiQui: true, titreJeu: 'X', accrocheJeu: 'Y' }), ...cartes.slice(1, 6)];
+    assert.equal(M.propositionsQui(duo[0], duo, Math.random), null);
+});
+
+test('données réelles : aucune proposition du défi « Qui ? » ne s’élimine par la forme ou le genre (200 tirages par carte)', () => {
+    const lire = f => M.lireCSV(fs.readFileSync(path.join(__dirname, '..', 'data', f), 'utf8'));
+    const cartes = M.preparerCartes(lire('histoire_informatique_evenements.csv'), lire('images.csv'), lire('jeu.csv'));
+    const parQui = new Map(cartes.filter(c => c.qui).map(c => [c.qui, c]));
+    const defis = cartes.filter(c => c.defiQui);
+    let tirages = 0;
+    defis.forEach(c => {
+        const affiche = M.marquesAccroche(`${c.titreJeu} ${c.accrocheJeu || ''}`);
+        for (let k = 0; k < 200; k++) {
+            const options = M.propositionsQui(c, cartes, Math.random);
+            assert.ok(options, `carte ${c.num} : pas de propositions`);
+            assert.ok(options.includes(c.qui));
+            options.forEach(o => {
+                const autre = parQui.get(o);
+                assert.equal(M.formeReponse(autre.forme), M.formeReponse(c.forme), `carte ${c.num} : « ${o} » n’a pas la forme de la réponse`);
+                if (affiche.genre) assert.equal(autre.genre, c.genre, `carte ${c.num} : « ${o} » n’a pas le genre que dit l’accroche`);
+            });
+            tirages += 1;
+        }
+    });
+    assert.equal(tirages, defis.length * 200);
+    // Équité : les réponses de femmes (ou mixtes) restent nombreuses
+    assert.ok(defis.filter(c => c.genre === 'f' || c.genre === 'mixte').length >= 12);
 });
 
 test('défi « Qui ? » dans une partie : les propositions sont gardées pour le tour', () => {

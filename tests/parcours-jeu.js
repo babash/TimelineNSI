@@ -219,8 +219,11 @@ async function rendus(navigateur, base) {
             await page.waitForSelector('#ecran-reglages:not([hidden])');
             await debordement(page, `${nom}, réglages`);
             await page.select('#nb-joueurs', '4');
+            await page.type('#nom-0', 'Équipe 1');
             await page.click('#form-reglages button[type="submit"]');
             await page.waitForSelector('#ecran-jeu:not([hidden])');
+            const tour = await page.$eval('#titre-tour', e => e.textContent);
+            if (tour !== 'Au tour d’Équipe 1') echec(`${nom} : titre « ${tour} » (élision attendue)`);
             await debordement(page, `${nom}, tour de jeu`);
             // Au doigt (tap) sur « Placer ici », puis le défi « Qui ? » s’il existe
             const bouton = await page.$('.emplacement button');

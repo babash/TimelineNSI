@@ -51,6 +51,11 @@
         return `${n}${NBSP}${n > 1 ? (motPluriel || mot + 's') : mot}`;
     }
 
+    // « Au tour d’Équipe 1 », « Au tour de Léa » : élision devant une voyelle
+    function auTourDe(nom) {
+        return /^[aeiouyàâäéèêëîïôöùûü]/i.test(nom) ? `Au tour d’${nom}` : `Au tour de ${nom}`;
+    }
+
     function annee(num) {
         return M.formaterAnnee(parNum.get(num).annee);
     }
@@ -314,7 +319,7 @@
         const j = M.joueurCourant(partie);
         const r = partie.reglages;
         dessinerTableau();
-        const titre = r.mode === 'multi' ? `Au tour de ${j.nom}` : (r.mode === 'serie' ? `Série : carte ${j.poses + j.erreurs + 1}` : `${j.nom} : ${pluriel(j.main.length, 'carte')} en main`);
+        const titre = r.mode === 'multi' ? auTourDe(j.nom) : (r.mode === 'serie' ? `Série : carte ${j.poses + j.erreurs + 1}` : `${j.nom} : ${pluriel(j.main.length, 'carte')} en main`);
         $('titre-tour').textContent = r.mode === 'multi' && partie.manche > 1 ? `${titre} · manche ${partie.manche}` : titre;
         $('consigne').textContent = t.resultat
             ? 'La date est révélée. Lire « À retenir », puis passer à la suite.'
@@ -623,7 +628,7 @@
         else if (r.mode === 'multi') {
             const copie = JSON.parse(JSON.stringify(partie));
             M.suivant(copie, Date.now());
-            suite = copie.finie ? 'Voir le bilan de la partie' : `Au tour de ${esc(copie.joueurs[copie.courant].nom)}`;
+            suite = copie.finie ? 'Voir le bilan de la partie' : esc(auTourDe(copie.joueurs[copie.courant].nom));
         } else suite = 'Carte suivante';
         const titre = res.juste ? 'Bien placée !' : (r.mode === 'serie' && res.finSerie ? 'Fin de la série' : 'Pas tout à fait.');
         panneau.innerHTML = `

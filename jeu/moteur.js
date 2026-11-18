@@ -174,8 +174,11 @@
             }
             // Le défi « Qui ? » : seulement si la réponse ne se lit ni dans le titre ni sur l’image
             const defiQui = Boolean(qui) && infos.image !== 'qui' && !contientUnMot(titreJeu, mots);
-            // Pendant le tour, l’accroche ne doit donner ni la date ni (pour le défi « Qui ? ») le nom
-            const accrocheJeu = trahitLaDate(accroche) ? null : (defiQui ? masquerNoms(accroche, mots) : accroche);
+            // Pendant le tour, l’accroche ne doit donner ni la date ni (pour le défi « Qui ? ») le nom.
+            // Pour le défi, une « accroche de jeu » neutre remplace l’accroche qui dirait le genre, le nombre ou le métier.
+            const accrocheNeutre = (infos.accroche_jeu || '').trim();
+            let accrocheJeu = trahitLaDate(accroche) ? null : (defiQui ? masquerNoms(accroche, mots) : accroche);
+            if (defiQui && accrocheNeutre) accrocheJeu = accrocheNeutre;
             return {
                 num,
                 titre,
@@ -338,21 +341,47 @@
 
     // ---------- Les défis ----------
 
-    function estFeminin(genre) {
-        return genre === 'f' || genre === 'mixte';
+    // Ce que la grammaire d’une accroche dit de la réponse : le genre et le nombre des personnes nommées
+    // par un métier (« Une mathématicienne », « Le philosophe », « Deux chercheurs », « Six mathématiciennes »).
+    const METIERS = 'math[ée]maticien|informaticien|ing[ée]nieur|acteur|actrice|compositeur|compositrice|chercheur|chercheuse|'
+        + 'pionni[eè]r|programmeur|programmeuse|philosophe|savant|scientifique|inventeur|inventrice|auteur|autrice';
+    const MOTIF_METIER = new RegExp(`(^|[\\s«(])(le|la|l’|un|une|deux|trois|quatre|cinq|six|sept|huit|des|les)\\s*(${METIERS})(e|ne)?(s)?\\b`, 'giu');
+    const FEMININS = /^(math[ée]maticienne|informaticienne|ing[ée]nieure|actrice|compositrice|chercheuse|pionni[eè]re|programmeuse|inventrice|autrice|savante)s?$/i;
+    const EPICENES = /^(philosophe|scientifique)s?$/i;
+
+    function marquesAccroche(texte) {
+        const genres = new Set();
+        let nombre = null;
+        const t = String(texte ?? '');
+        for (const m of t.matchAll(MOTIF_METIER)) {
+            const article = m[2].toLowerCase();
+            const mot = (m[3] + (m[4] || '') + (m[5] || '')).toLowerCase();
+            if (FEMININS.test(mot)) genres.add('f');
+            else if (EPICENES.test(mot)) { if (article === 'le' || article === 'un') genres.add('h'); if (article === 'la' || article === 'une') genres.add('f'); }
+            else genres.add('h');
+            // 1 personne, 2 (« deux », ou « une actrice et un compositeur »), 3 ou plus
+            const n = { le: 1, la: 1, 'l’': 1, un: 1, une: 1, deux: 2 }[article] || 3;
+            nombre = Math.min(3, (nombre || 0) + n);
+        }
+        // « … est une pionnière » : un nom masqué suivi d’un attribut au féminin ou au masculin
+        if (/…\s+est\s+une\s/i.test(t)) genres.add('f');
+        if (/…\s+est\s+un\s/i.test(t)) genres.add('h');
+        const genre = genres.size === 0 ? null : (genres.size > 1 ? 'mixte' : [...genres][0]);
+        return { genre, nombre };
     }
 
-    function groupeForme(forme) {
-        // Une organisation (IBM, Microsoft…) d’un côté ; des personnes, nommées ou non (« Les Spartiates »), de l’autre
-        return forme === 'organisation' ? 'organisation' : 'personnes';
+    // La forme d’une réponse : une personne seule, un duo, un groupe (équipe, peuple, collectif) ou une organisation.
+    function formeReponse(forme) {
+        return ['personne', 'duo', 'groupe', 'organisation'].includes(forme) ? forme : 'personne';
     }
 
     // Quatre réponses pour « Qui ? » : la bonne, et trois autres personnes ou organismes d’autres cartes,
     // choisis parmi les plus proches (même catégorie, même époque, même forme), jamais la même personne.
     function propositionsQui(carte, toutes, hasard) {
         if (!carte || !carte.defiQui) return null;
+        const genreAffiche = marquesAccroche(`${carte.titreJeu} ${carte.accrocheJeu || ''}`).genre;
         const vues = new Set([sansAccents(carte.qui)]);
-        let candidats = [];
+        const candidats = [];
         toutes.forEach(c => {
             if (!c.qui || c.num === carte.num) return;
             const cle = sansAccents(c.qui);
@@ -362,16 +391,13 @@
             if (contientUnMot(c.qui, carte.mots) || contientUnMot(carte.qui, c.mots)) return;
             vues.add(cle);
             let ecart = Math.min(Math.abs(c.annee - carte.annee), 300);
+            // Même forme que la réponse : sinon « un duo parmi des personnes seules » se devine sans rien savoir
+            if (formeReponse(c.forme) !== formeReponse(carte.forme)) return;
+            // Même genre, si l’accroche affichée le dit encore
+            if (genreAffiche && c.genre !== carte.genre) return;
             if (c.categorie === carte.categorie) ecart -= 25;
-            if (groupeForme(c.forme) !== groupeForme(carte.forme)) ecart += 40;
-            candidats.push({ qui: c.qui, ecart, genre: c.genre });
+            candidats.push({ qui: c.qui, ecart });
         });
-        // L’accroche dit souvent « une mathématicienne », « une informaticienne » : pour une réponse de femme
-        // (ou mixte), les autres propositions sont aussi des femmes ou mixtes, sinon le genre suffirait à répondre.
-        if (estFeminin(carte.genre)) {
-            const feminins = candidats.filter(c => estFeminin(c.genre));
-            if (feminins.length >= 3) candidats = feminins;
-        }
         if (candidats.length < 3) return null;
         candidats.sort((a, b) => a.ecart - b.ecart);
         const proches = candidats.slice(0, 7);
@@ -606,7 +632,7 @@
 
     return {
         JOKERS_MAX, JOKERS, DIFFICULTES, MODES, JOUEURS_MAX, VERSION,
-        lireCSV, formaterAnnee, texteIndice, trahitLaDate, masquerNoms, phraseARetenir, sansAccents,
+        lireCSV, formaterAnnee, marquesAccroche, formeReponse, texteIndice, trahitLaDate, masquerNoms, phraseARetenir, sansAccents,
         preparerCartes, reglagesValides, creerPartie, joueurCourant, choisirCarte,
         positionsJustes, estJuste, propositionsQui, preparerDefiQui,
         utiliserJoker, poser, suivant, tempsEcoule, classement, scoreSolo, enregistrerRecord, cleRecord

@@ -328,6 +328,34 @@ test('marquesAccroche : le genre et le nombre que dit la grammaire', () => {
     assert.equal(M.marquesAccroche('… est une pionnière qui a inventé le premier compilateur.').genre, 'f');
     assert.deepEqual(M.marquesAccroche('Un protocole qui évite les boucles dans les réseaux.'), { genre: null, nombre: null });
     assert.deepEqual(M.marquesAccroche('Les premiers programmes de l’ENIAC.'), { genre: null, nombre: null });
+    // Les pronoms sujets
+    assert.deepEqual(M.marquesAccroche('Elle invente une façon de mesurer l’importance d’un mot.'), { genre: 'f', nombre: 1 });
+    assert.deepEqual(M.marquesAccroche('Un protocole qu’il invente pour les réseaux.'), { genre: 'h', nombre: 1 });
+    assert.deepEqual(M.marquesAccroche('Ils montrent comment partager une clé.'), { genre: 'h', nombre: 3 });
+    assert.deepEqual(M.marquesAccroche('Sans langage, elles règlent les câbles.'), { genre: 'f', nombre: 3 });
+    assert.deepEqual(M.marquesAccroche('Une ville, des îles et des idées.'), { genre: null, nombre: null });
+});
+
+test('auTourDe : élision devant une voyelle, pas devant un « y » consonne', () => {
+    assert.equal(M.auTourDe('Léa'), 'Au tour de Léa');
+    assert.equal(M.auTourDe('Équipe 1'), 'Au tour d’Équipe 1');
+    assert.equal(M.auTourDe('Ana'), 'Au tour d’Ana');
+    assert.equal(M.auTourDe('Yves'), 'Au tour d’Yves');
+    assert.equal(M.auTourDe('Yéti'), 'Au tour de Yéti');
+    assert.equal(M.auTourDe('Yann'), 'Au tour de Yann');
+    assert.equal(M.auTourDe('Hugo'), 'Au tour de Hugo');
+});
+
+test('jeu.csv : chaque ligne a ses colonnes bien séparées', () => {
+    const lignes = M.lireCSV(fs.readFileSync(path.join(__dirname, '..', 'data', 'jeu.csv'), 'utf8'));
+    lignes.forEach(l => {
+        assert.match(l.carte, /^\d+$/);
+        assert.ok(['', 'personne', 'duo', 'groupe', 'organisation'].includes(l.forme), `forme de la carte ${l.carte}`);
+        assert.ok(['', 'f', 'h', 'mixte'].includes(l.genre), `genre de la carte ${l.carte}`);
+        assert.ok(['', 'date', 'qui'].includes(l.image), `image de la carte ${l.carte}`);
+        assert.match(l.pas_avec, /^(\d+(;\d+)*)?$/, `pas_avec de la carte ${l.carte}`);
+        if (l.accroche_jeu) assert.match(l.accroche_jeu, /[.!?»]$/, `point final de l’accroche de jeu de la carte ${l.carte}`);
+    });
 });
 
 test('défi « Qui ? » : propositions de même forme, et de même genre si l’accroche affichée le dit', () => {

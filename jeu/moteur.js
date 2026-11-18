@@ -363,11 +363,25 @@
             const n = { le: 1, la: 1, 'l’': 1, un: 1, une: 1, deux: 2 }[article] || 3;
             nombre = Math.min(3, (nombre || 0) + n);
         }
+        // Les pronoms sujets : « il », « elle » (une personne), « ils », « elles » (plusieurs)
+        for (const m of t.matchAll(/(^|[\s’'(«])(il|elle|ils|elles)(?=[\s,.;:!?»)]|$)/giu)) {
+            const p = m[2].toLowerCase();
+            genres.add(p.startsWith('elle') ? 'f' : 'h');
+            nombre = Math.max(nombre || 0, p.endsWith('s') ? 3 : 1);
+        }
         // « … est une pionnière » : un nom masqué suivi d’un attribut au féminin ou au masculin
         if (/…\s+est\s+une\s/i.test(t)) genres.add('f');
         if (/…\s+est\s+un\s/i.test(t)) genres.add('h');
         const genre = genres.size === 0 ? null : (genres.size > 1 ? 'mixte' : [...genres][0]);
         return { genre, nombre };
+    }
+
+    // « Au tour de Léa », « Au tour d’Ana », « Au tour d’Yves », mais « Au tour de Yéti » :
+    // élision devant une voyelle, et devant un « y » seulement s’il se prononce comme une voyelle (suivi d’une consonne).
+    function auTourDe(nom) {
+        const n = String(nom ?? '');
+        const voyelle = /^[aeiouàâäéèêëîïôöùûü]/i.test(n) || /^y[^aeiouyàâäéèêëîïôöùûü]/i.test(n);
+        return voyelle ? `Au tour d’${n}` : `Au tour de ${n}`;
     }
 
     // La forme d’une réponse : une personne seule, un duo, un groupe (équipe, peuple, collectif) ou une organisation.
@@ -632,7 +646,7 @@
 
     return {
         JOKERS_MAX, JOKERS, DIFFICULTES, MODES, JOUEURS_MAX, VERSION,
-        lireCSV, formaterAnnee, marquesAccroche, formeReponse, texteIndice, trahitLaDate, masquerNoms, phraseARetenir, sansAccents,
+        lireCSV, formaterAnnee, marquesAccroche, formeReponse, auTourDe, texteIndice, trahitLaDate, masquerNoms, phraseARetenir, sansAccents,
         preparerCartes, reglagesValides, creerPartie, joueurCourant, choisirCarte,
         positionsJustes, estJuste, propositionsQui, preparerDefiQui,
         utiliserJoker, poser, suivant, tempsEcoule, classement, scoreSolo, enregistrerRecord, cleRecord

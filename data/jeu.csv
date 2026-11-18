@@ -43,7 +43,7 @@ carte,qui,forme,genre,mots,titre_jeu,accroche_jeu,image,pas_avec
 52,Dan Bricklin et Bob Frankston,duo,h,Bricklin;Frankston,,,,
 53,Microsoft,organisation,,Microsoft,,,date,
 54,Richard Stallman,personne,h,Stallman,,,,55
-55,Linus Torvalds,personne,h,Torvalds;Linus,,,,54
+55,Linus Torvalds,personne,h,Torvalds;Linus,Un noyau de système d’exploitation libre,,,54
 56,Microsoft,organisation,,Microsoft,,,date,
 57,La fondation Mozilla,organisation,,Mozilla,,,qui,49
 58,IBM,organisation,,IBM,,,qui,
@@ -68,5 +68,5 @@ carte,qui,forme,genre,mots,titre_jeu,accroche_jeu,image,pas_avec
 81,"John McCarthy, Marvin Minsky, Nathaniel Rochester et Claude Shannon",groupe,h,McCarthy;Minsky;Rochester;Shannon,,,date,
 82,Huit scientifiques de Google,groupe,,Google,,"Un nouveau type de réseau de neurones, qui sera à la base de ChatGPT.",,59;60;64
 83,Vinton Cerf et Robert Kahn,duo,h,Cerf;Kahn,,,,45
-84,Whitfield Diffie et Martin Hellman,duo,h,Diffie;Hellman,Se mettre d’accord sur une clé secrète en public,Une méthode pour obtenir la même clé secrète des deux côtés, en communiquant en public.,,
+84,Whitfield Diffie et Martin Hellman,duo,h,Diffie;Hellman,Se mettre d’accord sur une clé secrète en public,"Une méthode pour obtenir la même clé secrète des deux côtés, en communiquant en public.",,
 85,Edsger Dijkstra,personne,h,Dijkstra,L’algorithme du plus court chemin,,,

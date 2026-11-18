@@ -37,6 +37,20 @@ La taille des images n’est pas à saisir : à l’assemblage du site, `scripts
 
 Un **schéma original** (source dans `outils/schemas/`) a une colonne `page_commons` vide : son crédit devient « Schéma : auteur, licence ». Si l’auteur d’une image de Commons n’est pas nommé, on écrit ce que donne Commons : « Auteur inconnu » ou « Photographe inconnu ».
 
+## `jeu.csv`
+
+Les compléments du jeu (onglet « Jeu »), une ligne par carte concernée : `carte` (numéro), `qui` (la réponse du défi « Qui est à l’origine de cet événement ? »), `forme` (`personne` seule, `duo`, `groupe` pour trois personnes ou plus, une équipe, un peuple ou un collectif, `organisation`), `genre` (`f`, `h` ou `mixte` pour une réponse de personnes ; vide pour une organisation, un peuple, une équipe ou un pseudonyme), `mots` (les noms qui donnent la réponse, séparés par `;`), `titre_jeu`, `accroche_jeu`, `image` et `pas_avec`.
+
+- La réponse `qui` est toujours **écrite dans le texte de la carte** (description ou note) : le défi fait retenir ce que dit la carte.
+- `titre_jeu` (facultatif) : le titre affiché **pendant le tour seulement**, quand le vrai titre donne le nom (« Hedy Lamarr et le saut de fréquence » devient « Le saut de fréquence »). Il décrit l’événement avec les faits de la carte, sans date ni nom. Le vrai titre apparaît dès la pose.
+- `accroche_jeu` (facultatif) : l’accroche affichée **pendant le tour seulement**, quand celle de la carte dirait le genre, le nombre ou le métier des personnes à trouver (« Une actrice et un compositeur brevètent… », « Deux chercheurs… », « Le philosophe… »). Elle est épicène : une tournure sans sujet (« Un brevet pour une technique radio difficile à brouiller »), jamais de masculin générique. La vraie accroche apparaît dès la pose.
+- Le défi n’est proposé que si aucun des `mots` n’est dans le titre affiché pendant le tour, et si l’image ne montre pas la réponse (`image` = `qui`). Pendant le tour, ces noms sont masqués (« … ») dans l’accroche. Une carte dont le titre donne la réponse, sans titre de jeu, garde sa ligne : sa réponse sert de proposition pour les autres cartes.
+- `image` = `date` : l’image montre une date (ou un nombre qui ressemble à une année) ; pendant le tour, elle est remplacée par « L’image montre une date : elle apparaîtra après la pose ».
+- `pas_avec` : les cartes (numéros séparés par `;`) dont la réponse ne doit pas être proposée, parce qu’elle serait discutable (par exemple, IBM pour le FORTRAN de l’équipe de John Backus, chez IBM).
+- Les propositions ont **la même forme** que la réponse (une personne seule, un duo, un groupe ou une organisation) et, si le titre ou l’accroche affichés disent encore un genre, **le même genre** : la grammaire ne doit pas suffire à répondre. Parmi elles, les plus proches (même catégorie, même époque), sans personne en commun avec la bonne réponse. Sans trois propositions possibles, la carte n’a pas de défi. Un test vérifie tout cela pour chaque carte, sur 200 tirages.
+
+Le jeu vérifie aussi les textes : une accroche qui contient une année, un siècle ou une époque (« années 1980 », « Seconde Guerre mondiale », « antique ») n’est pas affichée pendant le tour, et un texte alternatif d’image qui donne la date est remplacé.
+
 ## `Note Type.csv`
 
 La liste des types de note (pour mémoire : le générateur ne le lit pas).

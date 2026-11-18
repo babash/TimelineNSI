@@ -5,7 +5,10 @@ Ce document reprend la partie technique du README : le contenu du dépôt, la mo
 ## Ce que contient le dépôt
 
 ```
-index.html            la page du site
+index.html            la page du site (la frise)
+jeu.html              la page du jeu (onglet « Jeu »)
+jeu/                  le jeu : moteur.js (les règles, sans affichage), interface.js (l’affichage), jeu.css
+tests/                les tests du jeu : moteur.test.js (unitaires) et parcours-jeu.js (dans Chrome)
 404.html              la page « introuvable »
 manifest.json, robots.txt, sitemap.xml
 assets/               polices, icônes et favicon, hébergés sur le site
@@ -79,8 +82,8 @@ Puis ouvre http://localhost:8000/.
 
 Le site est publié par GitHub Actions (réglage du dépôt : *Settings › Pages › Source : GitHub Actions*), avec le workflow `.github/workflows/publier.yml` :
 
-1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `404.html`, `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés, avec `version.txt`, écrit à l’assemblage : le commit publié ; la copie publiée de `data/images.csv` reçoit aussi la largeur et la hauteur de chaque image, lues dans les fichiers, pour que le site réserve leur place avant le chargement), puis contrôle : chaque image citée dans `data/images.csv` existe, avec sa taille, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet.
-2. **Sur `main` seulement** : publication sur GitHub Pages, puis **vérification du site en ligne**. Le script attend que la page en ligne corresponde au commit publié, l’ouvre dans Chrome (aucune erreur JavaScript, un événement par ligne du CSV, aucun débordement à 320 px), puis vérifie que chaque bouton « Télécharger » renvoie la carte de son événement.
+1. **Sur toute branche** : installation (`npm ci`), génération des cartes, assemblage du site dans `_site/` par **liste blanche** (seuls `index.html`, `jeu.html`, `404.html`, `jeu/` (sans les tests), `data/`, `output/`, `images/`, `assets/`, `manifest.json`, `robots.txt` et `sitemap.xml` sont publiés, avec `version.txt`, écrit à l’assemblage : le commit publié ; la copie publiée de `data/images.csv` reçoit aussi la largeur et la hauteur de chaque image, lues dans les fichiers, pour que le site réserve leur place avant le chargement), puis contrôle : chaque image citée dans `data/images.csv` existe, avec sa taille, une carte PDF d’une page A5 par événement, avec le bon titre, et le PDF complet. Puis les tests du jeu : `npm test` (le moteur) et `node tests/parcours-jeu.js _site` (une partie à 2 au clavier, une partie solo, les rendus à 320, 768 et 1440 px en clair et en obscur, sans erreur JavaScript ni requête vers un autre site).
+2. **Sur `main` seulement** : publication sur GitHub Pages, puis **vérification du site en ligne**. Le script attend que la page en ligne corresponde au commit publié, l’ouvre dans Chrome (aucune erreur JavaScript, un événement par ligne du CSV, aucun débordement à 320 px), vérifie que chaque bouton « Télécharger » renvoie la carte de son événement, et que le jeu s’ouvre et démarre une partie à 1440 et 320 px.
 
 Le second workflow, `.github/workflows/images.yml`, ne publie rien : sur les branches d’atelier des images, quand `outils/images/` change, il interroge l’API de Wikimedia Commons (inaccessible depuis certains postes), télécharge les images retenues dans `outils/images/choix.csv` et enregistre le résultat dans la branche (`images/`, `data/images.csv`, `outils/images/manifeste.json` et le rapport `outils/images/resultats/telechargement.txt`). Les aperçus de la recherche (planches de vignettes, parfois avec des personnes) ne vont pas dans le dépôt : ils sont dans l’artefact « apercus-recherche » du run (onglet Actions), effacé au bout de 7 jours.
 
@@ -91,6 +94,12 @@ gh api repos/babash/TimelineNSI/actions/runs --jq '.workflow_runs[0] | {name, he
 gh api repos/babash/TimelineNSI/actions/runs/<id>/jobs
 gh api repos/babash/TimelineNSI/actions/jobs/<id>/logs
 ```
+
+## Le jeu
+
+- **Les mêmes données** : le jeu lit `data/histoire_informatique_evenements.csv`, `data/images.csv` et `data/jeu.csv` (voir [`data/README.md`](../data/README.md)). Une carte ajoutée à la frise entre aussi dans le jeu.
+- **Le moteur** (`jeu/moteur.js`) ne fait aucun affichage : il crée la partie, vérifie les poses, les défis et les jokers, et tient le classement. Une partie est un objet JSON, gardé dans le navigateur (`localStorage`, clé `timelinensi-jeu-partie-v1`) ; le meilleur score solo est sous `timelinensi-jeu-records-v1`. Le hasard a une graine : une partie se rejoue à l’identique, ce qui sert aux tests.
+- **Les tests** : `npm test` (sans dépendance, `node --test`) et, après `npm run build`, `node tests/parcours-jeu.js _site captures/` (Puppeteer ; le dossier des captures est facultatif).
 
 ## Couleurs et contrastes
 

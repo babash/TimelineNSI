@@ -22,8 +22,9 @@ const n = events.length;
 console.log(`${n} événements dans le CSV publié.`);
 
 // Fichiers attendus
-['index.html', '404.html', 'manifest.json', 'robots.txt', 'sitemap.xml', 'version.txt',
-    'data/periodes.csv', 'data/categories.csv', 'data/images.csv',
+['index.html', '404.html', 'jeu.html', 'manifest.json', 'robots.txt', 'sitemap.xml', 'version.txt',
+    'data/periodes.csv', 'data/categories.csv', 'data/images.csv', 'data/jeu.csv',
+    'jeu/moteur.js', 'jeu/interface.js', 'jeu/jeu.css',
     'assets/favicon.svg', 'assets/fonts/polices.css', 'assets/icon-192.png', 'assets/icon-512.png',
     'output/fresque_temporelle.pdf'
 ].forEach(rel => { if (!exists(rel)) fail(`fichier manquant : ${rel}`); });
@@ -37,17 +38,17 @@ try {
 }
 
 // Rien d'autre que la liste blanche
-const allowedTop = new Set(['index.html', '404.html', 'manifest.json', 'robots.txt', 'sitemap.xml', 'version.txt', 'data', 'output', 'assets', 'images']);
+const allowedTop = new Set(['index.html', '404.html', 'jeu.html', 'manifest.json', 'robots.txt', 'sitemap.xml', 'version.txt', 'data', 'output', 'assets', 'images', 'jeu']);
 fs.readdirSync(site).forEach(name => { if (!allowedTop.has(name)) fail(`fichier non prévu publié : ${name}`); });
 const walk = dir => fs.readdirSync(dir, { withFileTypes: true }).flatMap(d => (d.isDirectory() ? walk(path.join(dir, d.name)) : [path.join(dir, d.name)]));
 walk(site).forEach(file => {
-    if (/\.(md|sh|html?)$/i.test(file) && !/^(index|404)\.html$/.test(path.relative(site, file))) {
+    if (/\.(md|sh|html?)$/i.test(file) && !/^(index|404|jeu)\.html$/.test(path.relative(site, file))) {
         fail(`fichier de travail publié : ${path.relative(site, file)}`);
     }
 });
 
 // Aucune ressource tierce dans les pages
-['index.html', '404.html'].forEach(page => {
+['index.html', '404.html', 'jeu.html', 'jeu/interface.js', 'jeu/moteur.js', 'jeu/jeu.css'].forEach(page => {
     const html = fs.readFileSync(path.join(site, page), 'utf8');
     ['fonts.googleapis.com', 'fonts.gstatic.com', 'mirrors.creativecommons.org', 'cdnjs.cloudflare.com'].forEach(host => {
         if (html.includes(host)) fail(`${page} appelle ${host}`);

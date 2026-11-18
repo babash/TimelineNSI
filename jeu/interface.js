@@ -51,10 +51,7 @@
         return `${n}${NBSP}${n > 1 ? (motPluriel || mot + 's') : mot}`;
     }
 
-    // « Au tour d’Équipe 1 », « Au tour de Léa » : élision devant une voyelle
-    function auTourDe(nom) {
-        return /^[aeiouyàâäéèêëîïôöùûü]/i.test(nom) ? `Au tour d’${nom}` : `Au tour de ${nom}`;
-    }
+    const auTourDe = M.auTourDe;
 
     function annee(num) {
         return M.formaterAnnee(parNum.get(num).annee);

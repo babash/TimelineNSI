@@ -4,7 +4,7 @@
 
 > Les élèves explorent la frise : ils et elles cherchent un événement, filtrent par catégorie ou par période, et agrandissent les images, toutes libres et créditées. Puis la classe construit une fresque avec les cartes imprimées. Chaque carte situe son événement sur une mini-frise de sa période, raconte ce qui s’est passé et ajoute une note : une anecdote, un chiffre, une personne marquante ou une notion clé.
 
-## 👉 [Essayer maintenant : babash.github.io/TimelineNSI](https://babash.github.io/TimelineNSI/)
+## 👉 [Essayer maintenant : babash.github.io/timeline-nsi](https://babash.github.io/timeline-nsi/)
 
 **Gratuit · sans compte · rien à installer · aussi sur téléphone · rien n’est enregistré**
 
@@ -14,13 +14,13 @@ La Timeline de l’histoire de l’informatique fait partie des [Ressources NSI 
 
 ## Une séance en trois étapes
 
-1. **Tu** prépares les cartes : sur [la frise](https://babash.github.io/TimelineNSI/), filtre par catégorie, par période ou par plage de dates, puis télécharge la carte de chaque événement retenu (bouton **Télécharger**), ou toutes les cartes avec **Télécharger le PDF complet**. Chaque carte s’imprime sur une page A5.
+1. **Tu** prépares les cartes : sur [la frise](https://babash.github.io/timeline-nsi/), filtre par catégorie, par période ou par plage de dates, puis télécharge la carte de chaque événement retenu (bouton **Télécharger**), ou toutes les cartes avec **Télécharger le PDF complet**. Chaque carte s’imprime sur une page A5.
 2. **Les élèves** lisent leurs cartes : le titre et la date, la mini-frise qui situe l’événement dans sa période, le récit, la note et l’image avec son crédit.
 3. **La classe construit la fresque** : les cartes rangées par date, au mur ou sur les tables. La frise en ligne, projetée, permet ensuite de vérifier l’ordre et de compléter.
 
 ## Le jeu : placer les cartes sur la frise
 
-L’onglet **[Jeu](https://babash.github.io/TimelineNSI/jeu.html)** reprend les cartes de la frise : il faut placer chaque événement au bon endroit, **sans voir sa date**.
+L’onglet **[Jeu](https://babash.github.io/timeline-nsi/jeu.html)** reprend les cartes de la frise : il faut placer chaque événement au bon endroit, **sans voir sa date**.
 
 - **Sur un seul ordinateur, à tour de rôle** : de 1 à 6 joueur·ses ou équipes, avec un prénom, un pseudo ou un nom d’équipe. Aucun compte, rien n’est envoyé ; la partie en cours est gardée dans le navigateur (elle survit à un rechargement de la page).
 - **Les règles en une minute** : une carte est posée sur la frise, avec sa date. À son tour, on choisit une carte de sa main (titre et image, sans date) et on la place : en la faisant glisser, ou avec le bouton **Placer ici**. Bien placée, elle reste et sa date apparaît ; mal placée, elle va à sa vraie place et on pioche une carte. La première personne sans carte gagne ; la manche se termine pour tout le monde (à égalité, le moins d’erreurs l’emporte). Deux événements de la même année : les deux ordres sont justes.
@@ -82,7 +82,7 @@ Les catégories : algorithmique, cryptographie, hardware, théorie de l’inform
 ## Contact
 
 Conçu par Babash - NSI Tani Malandi pour les classes de SNT et de NSI de l’académie de Mayotte, développé avec l’aide de l’IA ([Claude Code](https://claude.com/claude-code) et [Cursor](https://cursor.com)).
-Une question, une idée, un bug ? Les [issues GitHub](https://github.com/babash/TimelineNSI/issues) du dépôt. Toutes les ressources sont sur le site [Ressources NSI et SNT](https://babash.github.io/Babash-NSI-SNT/).
+Une question, une idée, un bug ? Les [issues GitHub](https://github.com/babash/timeline-nsi/issues) du dépôt. Toutes les ressources sont sur le site [Ressources NSI et SNT](https://babash.github.io/Babash-NSI-SNT/).
 
 ## Licence
 

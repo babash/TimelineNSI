@@ -1,6 +1,6 @@
 // scripts/verifier-en-ligne.js : vérifie le site publié, tel que le voit un navigateur.
 //
-//   VERSION_ATTENDUE=<commit> node scripts/verifier-en-ligne.js https://babash.github.io/TimelineNSI/
+//   VERSION_ATTENDUE=<commit> node scripts/verifier-en-ligne.js https://babash.github.io/timeline-nsi/
 //
 // 1. Attend que la version en ligne (version.txt) corresponde au commit publié.
 // 2. Ouvre la page dans Chrome (Puppeteer) à 1440 et 320 px : aucune erreur JavaScript,
@@ -16,7 +16,7 @@ const path = require('path');
 const puppeteer = require('puppeteer');
 const { parseCsv, comparable, pdfInfo, pdfText } = require('./outils');
 
-const base = (process.argv[2] || 'https://babash.github.io/TimelineNSI/').replace(/\/?$/, '/');
+const base = (process.argv[2] || 'https://babash.github.io/timeline-nsi/').replace(/\/?$/, '/');
 const expectedVersion = process.env.VERSION_ATTENDUE || '';
 const waitMinutes = parseInt(process.env.ATTENTE_MINUTES || '15', 10);
 const errors = [];

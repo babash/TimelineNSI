@@ -4,7 +4,7 @@
   "private": true,
   "description": "Timeline de l’histoire de l’informatique : site et générateur de cartes A5 à imprimer",
   "main": "generate-cards.js",
-  "homepage": "https://babash.github.io/TimelineNSI/",
+  "homepage": "https://babash.github.io/timeline-nsi/",
   "scripts": {
     "generate": "node generate-cards.js",
     "build": "npm run generate && bash scripts/assembler-site.sh",
@@ -33,6 +33,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/babash/TimelineNSI.git"
+    "url": "https://github.com/babash/timeline-nsi.git"
   }
 }

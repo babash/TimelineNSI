@@ -31,7 +31,7 @@ console.log(`${n} événements dans le CSV publié.`);
 
 try {
     const manifest = JSON.parse(fs.readFileSync(path.join(site, 'manifest.json'), 'utf8'));
-    if (manifest.start_url !== '/TimelineNSI/') fail(`manifest.json : start_url = ${manifest.start_url}`);
+    if (manifest.start_url !== '/timeline-nsi/') fail(`manifest.json : start_url = ${manifest.start_url}`);
     (manifest.icons || []).forEach(icon => { if (!exists(icon.src)) fail(`manifest.json : icône absente ${icon.src}`); });
 } catch (error) {
     fail(`manifest.json illisible : ${error.message}`);

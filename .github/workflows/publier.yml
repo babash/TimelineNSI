@@ -1,7 +1,7 @@
 # Un seul workflow pour le site TimelineNSI.
 # - Sur toute branche : génération des cartes, assemblage du site (liste blanche) et contrôle.
 # - Sur main seulement : publication sur GitHub Pages, puis vérification du site en ligne.
-# Résultats : gh api repos/babash/TimelineNSI/actions/runs, puis les jobs et leurs journaux.
+# Résultats : gh api repos/babash/timeline-nsi/actions/runs, puis les jobs et leurs journaux.
 name: Construire, publier et vérifier
 
 on:
@@ -94,7 +94,7 @@ jobs:
       - name: Installer les dépendances
         run: npm ci
 
-      - name: Vérifier https://babash.github.io/TimelineNSI/
+      - name: Vérifier https://babash.github.io/timeline-nsi/
         env:
           VERSION_ATTENDUE: ${{ github.sha }}
-        run: node scripts/verifier-en-ligne.js https://babash.github.io/TimelineNSI/
+        run: node scripts/verifier-en-ligne.js https://babash.github.io/timeline-nsi/

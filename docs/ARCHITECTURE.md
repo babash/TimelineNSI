@@ -90,9 +90,9 @@ Le second workflow, `.github/workflows/images.yml`, ne publie rien : sur les bra
 Pour lire les résultats :
 
 ```bash
-gh api repos/babash/TimelineNSI/actions/runs --jq '.workflow_runs[0] | {name, head_branch, conclusion}'
-gh api repos/babash/TimelineNSI/actions/runs/<id>/jobs
-gh api repos/babash/TimelineNSI/actions/jobs/<id>/logs
+gh api repos/babash/timeline-nsi/actions/runs --jq '.workflow_runs[0] | {name, head_branch, conclusion}'
+gh api repos/babash/timeline-nsi/actions/runs/<id>/jobs
+gh api repos/babash/timeline-nsi/actions/jobs/<id>/logs
 ```
 
 ## Le jeu

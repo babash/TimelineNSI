@@ -7,7 +7,7 @@ import urllib.error
 import urllib.parse
 import urllib.request
 
-UA = "TimelineNSI-images/1.0 (https://github.com/babash/TimelineNSI)"
+UA = "TimelineNSI-images/1.0 (https://github.com/babash/timeline-nsi)"
 API = "https://commons.wikimedia.org/w/api.php"
 
 # Largeurs de vignettes standard de Wikimedia (les autres peuvent être refusées).

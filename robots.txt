@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://babash.github.io/TimelineNSI/sitemap.xml
+Sitemap: https://babash.github.io/timeline-nsi/sitemap.xml
